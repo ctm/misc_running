@@ -951,3 +951,29 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Desktop/Move_2019
 3.489615    1:15  7:41.1 0.00000 1.54647 2019-08-19 13:28:24 UTC 2019-08-19 13:29:39 UTC
 3.423080    1:15  7:50.1 0.00000 2.01599 2019-08-19 13:30:07 UTC 2019-08-19 13:31:22 UTC
 Average: 7:43.6
+
+========================================================================
+
+Decided to do intervals on a Wednesday, two days after previous
+intervals.  I'm going to try this next week, too.  I would normally be
+doing pack runs on Wednesday but I haven't even sent my Rucker 20L
+back yet, and I'm still recovering (I think) from some hip issues.
+Anyway, today was a small step up from two days ago, which is pretty
+good since I didn't sleep well last night (repeated SAR calls, but I
+can't attend the mission due to my truck being in the shop) and my
+late start and the consequent heat.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Desktop/Move_2019_08_21_07_25_07_Running.gpx 
+3.764393    1:15  7:07.5 1.17917 6.85643 2019-08-21 14:17:08 UTC 2019-08-21 14:18:23 UTC
+3.279264    1:15  8:10.7 0.39850 4.63075 2019-08-21 14:18:54 UTC 2019-08-21 14:20:09 UTC
+3.178165    1:15  8:26.3 6.48833 0.10995 2019-08-21 14:20:43 UTC 2019-08-21 14:21:58 UTC
+3.697692    1:15  7:15.2 0.15845 1.69310 2019-08-21 14:22:27 UTC 2019-08-21 14:23:42 UTC
+3.407902    1:15  7:52.2 0.00000 12.13788 2019-08-21 14:24:13 UTC 2019-08-21 14:25:28 UTC
+4.035272    1:15  6:38.8 7.03557 0.91114 2019-08-21 14:25:56 UTC 2019-08-21 14:27:11 UTC
+3.839740    1:15  6:59.1 8.77870 0.96412 2019-08-21 14:27:42 UTC 2019-08-21 14:28:57 UTC
+3.460511    1:15  7:45.0 8.00687 2.42580 2019-08-21 14:29:30 UTC 2019-08-21 14:30:45 UTC
+3.808518    1:15  7:02.5 6.53458 3.08905 2019-08-21 14:31:12 UTC 2019-08-21 14:32:27 UTC
+3.447385    1:15  7:46.8 10.74145 0.00000 2019-08-21 14:32:56 UTC 2019-08-21 14:34:11 UTC
+3.339992    1:15  8:01.8 7.99704 0.13011 2019-08-21 14:34:43 UTC 2019-08-21 14:35:58 UTC
+3.480337    1:15  7:42.4 6.24665 0.00000 2019-08-21 14:36:23 UTC 2019-08-21 14:37:38 UTC
+Average: 7:34
