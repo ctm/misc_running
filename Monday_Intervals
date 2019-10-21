@@ -1083,3 +1083,34 @@ possible going into BMDM training in mid November.
 Average: 7:42
 bash-3.2[remove_gain_and_loss_fudge]$
 
+These 10/21 stats aren't that good, but I did run the Duke City
+Marathon as the five hour pace group leader (in 5:00:19) yesterday and
+did "run" the Sandia Crossing Marathon (5,600 ft. gain, dodgy footing,
+higher altitude and I stopped to chat with people and to drink a pint
+of beer) the day before in 7:24:30.  Last year my average was 7:10.5
+the day after DCM, which was the day after the White Mesa Fat Ass 50k
+(which I ran in 6:45:54, but only had 4,600 ft. gain, fairly good
+footing and no distractions).
+
+I'm definitely not as fit as I was a year ago. I should, however, be
+able to run JJ100 sub-24 w/o any distress.  I think going sub-20 is
+exceedingly unlikely, although it does look like it might be a
+relatively cool year.  I don't think sub-20 is sufficiently doable to
+merit trying to scare up a crew and one or more pacers, especially
+with me being on a tight budget, so I'll have to leave that for next
+year.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Desktop/Move_2019_10_21_07_55_15_Running.gpx 
+3.396755    1:15  7:53.7 5.33612 0.00000 2019-10-21 14:45:46 UTC 2019-10-21 14:47:01 UTC
+2.989601    1:15  8:58.3 5.30787 0.00000 2019-10-21 14:47:34 UTC 2019-10-21 14:48:49 UTC
+2.943040    1:15  9:06.8 7.01641 0.00000 2019-10-21 14:49:18 UTC 2019-10-21 14:50:33 UTC
+3.320804    1:15  8:04.6 2.46840 0.08298 2019-10-21 14:51:07 UTC 2019-10-21 14:52:22 UTC
+3.211559    1:15  8:21.1 0.03372 2.21914 2019-10-21 14:52:22 UTC 2019-10-21 14:53:37 UTC
+3.868916    1:15  6:55.9 0.11911 3.97910 2019-10-21 14:54:35 UTC 2019-10-21 14:55:50 UTC
+3.863547    1:15  6:56.5 0.00000 6.62850 2019-10-21 14:56:18 UTC 2019-10-21 14:57:33 UTC
+3.778553    1:15  7:05.9 0.00000 7.13090 2019-10-21 14:58:07 UTC 2019-10-21 14:59:22 UTC
+3.787586    1:15  7:04.8 0.00000 6.55816 2019-10-21 14:59:52 UTC 2019-10-21 15:01:07 UTC
+3.486998    1:15  7:41.5 0.00000 5.20663 2019-10-21 15:01:32 UTC 2019-10-21 15:02:47 UTC
+3.273424    1:15  8:11.6 0.02118 1.70454 2019-10-21 15:03:20 UTC 2019-10-21 15:04:35 UTC
+3.376258    1:15  7:56.6 0.00000 2.07969 2019-10-21 15:05:03 UTC 2019-10-21 15:06:18 UTC
+Average: 7:51.4
