@@ -1114,3 +1114,50 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Desktop/Move_2019
 3.273424    1:15  8:11.6 0.02118 1.70454 2019-10-21 15:03:20 UTC 2019-10-21 15:04:35 UTC
 3.376258    1:15  7:56.6 0.00000 2.07969 2019-10-21 15:05:03 UTC 2019-10-21 15:06:18 UTC
 Average: 7:51.4
+
+========================================================================
+Today I chose to run my intervals within only one AA lap, so all told I
+ran 5.56 miles instead of 13.1.  Last year on the Wednesday between DCM
+and JJ100 I didn't run at all, because of a combination of the weather and
+my catching a flight to PHX.  I wanted to do more speed work today, but
+decided 13.1 miles was perhaps a bit too much this close to JJ100.
+
+Unfortunately, I forgot when I was supposed to stop running on my 
+eleventh interval, so I in between a 7:51 and a 7:40 I posted an 8:20.
+To make up for it, I ran 13 intervals total (deliberately this time).
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Desktop/Move_2019_10_23_08_57_29_Running.gpx 
+3.649999    1:15  7:20.9 4.85751 0.00000 2019-10-23 15:11:31 UTC 2019-10-23 15:12:46 UTC
+3.261653    1:15  8:13.4 5.94449 0.00000 2019-10-23 15:13:17 UTC 2019-10-23 15:14:32 UTC
+3.274338    1:15  8:11.5 4.96902 0.00000 2019-10-23 15:15:03 UTC 2019-10-23 15:16:18 UTC
+3.653429    1:15  7:20.5 0.71401 1.06560 2019-10-23 15:16:50 UTC 2019-10-23 15:18:05 UTC
+3.552403    1:15  7:33.0 3.86991 0.01752 2019-10-23 15:18:34 UTC 2019-10-23 15:19:49 UTC
+4.181123    1:15  6:24.9 0.00000 7.37139 2019-10-23 15:20:17 UTC 2019-10-23 15:21:32 UTC
+3.924207    1:15  6:50.1 0.00000 6.73772 2019-10-23 15:22:03 UTC 2019-10-23 15:23:18 UTC
+3.877312    1:15  6:55.0 0.00000 5.63069 2019-10-23 15:23:48 UTC 2019-10-23 15:25:03 UTC
+3.828602    1:15  7:00.3 0.00000 6.47005 2019-10-23 15:25:33 UTC 2019-10-23 15:26:48 UTC
+3.411409    1:15  7:51.7 0.00000 3.96117 2019-10-23 15:27:06 UTC 2019-10-23 15:28:21 UTC
+3.218197    1:15  8:20.0 0.48402 1.01802 2019-10-23 15:28:47 UTC 2019-10-23 15:30:02 UTC
+3.492853    1:15  7:40.7 0.00000 1.35070 2019-10-23 15:30:46 UTC 2019-10-23 15:32:01 UTC
+Average: 7:28.5
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 13 ~/Desktop/Move_2019_10_23_08_57_29_Running.gpx 
+3.649999    1:15  7:20.9 4.85751 0.00000 2019-10-23 15:11:31 UTC 2019-10-23 15:12:46 UTC
+3.261653    1:15  8:13.4 5.94449 0.00000 2019-10-23 15:13:17 UTC 2019-10-23 15:14:32 UTC
+3.274338    1:15  8:11.5 4.96902 0.00000 2019-10-23 15:15:03 UTC 2019-10-23 15:16:18 UTC
+3.653429    1:15  7:20.5 0.71401 1.06560 2019-10-23 15:16:50 UTC 2019-10-23 15:18:05 UTC
+3.552403    1:15  7:33.0 3.86991 0.01752 2019-10-23 15:18:34 UTC 2019-10-23 15:19:49 UTC
+4.181123    1:15  6:24.9 0.00000 7.37139 2019-10-23 15:20:17 UTC 2019-10-23 15:21:32 UTC
+3.924207    1:15  6:50.1 0.00000 6.73772 2019-10-23 15:22:03 UTC 2019-10-23 15:23:18 UTC
+3.877312    1:15  6:55.0 0.00000 5.63069 2019-10-23 15:23:48 UTC 2019-10-23 15:25:03 UTC
+3.828602    1:15  7:00.3 0.00000 6.47005 2019-10-23 15:25:33 UTC 2019-10-23 15:26:48 UTC
+3.411409    1:15  7:51.7 0.00000 3.96117 2019-10-23 15:27:06 UTC 2019-10-23 15:28:21 UTC
+3.218197    1:15  8:20.0 0.48402 1.01802 2019-10-23 15:28:47 UTC 2019-10-23 15:30:02 UTC
+3.492853    1:15  7:40.7 0.00000 1.35070 2019-10-23 15:30:46 UTC 2019-10-23 15:32:01 UTC
+3.534099    1:15  7:35.3 0.00000 0.64866 2019-10-23 15:32:31 UTC 2019-10-23 15:33:46 UTC
+Average: 7:29
+
+So, even w/o the extra 3.3 miles before, I'm still not particularly
+fast when doing my intervals, but I believe at this point it's
+basically due to the fitness that I lost when I was injured rather the
+injury itself holding me back.
