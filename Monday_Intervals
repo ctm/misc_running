@@ -1179,3 +1179,35 @@ Last year, my average was 6:54.2 on the Monday after Deadman Peaks 53
 miler, so I'm 28.6 seconds slower than last year, which isn't
 suprising but is a little annoying.  Oh well, at least I have plenty
 of room for improvement.
+
+========================================================================
+Was 8 seconds past the top of the minute when I crossed the earliest
+spot I start my intervals.  Decided to jog for 52 seconds uphill
+instead of only 7, so I started at :00 instead of :15.  That helped me
+remember when to start, rest and stop, but it did give me less uphill
+which surely helped my stats.
+
+FWIW, my interval stats are better than a year ago, but in addition to
+the shorter uphill, last year I ran the Ghost Town 50k the day before
+my intervals, rather than the WMFA 50 two days before.
+
+The big experiment is coming up in that I'm going to alternate pack
+and non-pack intervals starting my first pack intervals of the
+training season a week from today.  Last year I switched to pack
+intervals every Monday while in the serious portion of my BMDM
+training and I think that was too much.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Desktop/Move_2019_11_11_06_28_49_Running.gpx 
+3.583114    1:15  7:29.1 5.63495 0.00000 2019-11-11 13:14:48 UTC 2019-11-11 13:16:03 UTC
+3.268074    1:15  8:12.4 6.91056 0.00000 2019-11-11 13:16:30 UTC 2019-11-11 13:17:45 UTC
+3.437672    1:15  7:48.1 3.21291 0.00000 2019-11-11 13:18:23 UTC 2019-11-11 13:19:38 UTC
+3.798654    1:15  7:03.6 0.78379 2.00378 2019-11-11 13:20:08 UTC 2019-11-11 13:21:23 UTC
+3.595466    1:15  7:27.6 2.26517 1.92644 2019-11-11 13:21:56 UTC 2019-11-11 13:23:11 UTC
+4.186995    1:15  6:24.3 0.00000 7.68112 2019-11-11 13:23:40 UTC 2019-11-11 13:24:55 UTC
+4.121576    1:15  6:30.4 0.00000 7.85373 2019-11-11 13:25:22 UTC 2019-11-11 13:26:37 UTC
+3.904484    1:15  6:52.1 0.00000 6.93918 2019-11-11 13:27:11 UTC 2019-11-11 13:28:26 UTC
+3.838260    1:15  6:59.2 0.00000 5.21273 2019-11-11 13:28:52 UTC 2019-11-11 13:30:07 UTC
+3.587419    1:15  7:28.6 0.00000 2.15378 2019-11-11 13:30:39 UTC 2019-11-11 13:31:54 UTC
+3.725316    1:15  7:12.0 0.00000 1.78797 2019-11-11 13:32:22 UTC 2019-11-11 13:33:37 UTC
+3.780336    1:15  7:05.7 0.63089 0.29198 2019-11-11 13:34:08 UTC 2019-11-11 13:35:23 UTC
+Average: 7:12.8
