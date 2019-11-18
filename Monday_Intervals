@@ -1211,3 +1211,45 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Desktop/Move_2019
 3.725316    1:15  7:12.0 0.00000 1.78797 2019-11-11 13:32:22 UTC 2019-11-11 13:33:37 UTC
 3.780336    1:15  7:05.7 0.63089 0.29198 2019-11-11 13:34:08 UTC 2019-11-11 13:35:23 UTC
 Average: 7:12.8
+
+========================================================================
+
+Today was my first 40# 13.1 mile interval training since February
+25th.  I experimented with having three slices of bread instead of
+oatmeal pre-run, but then I spilled some cous-cous in our bread
+cabinet and while cleaning it I found a few old stale small tortillas,
+both corn and flour, so ... I ate them.  Then, right before leaving I
+decided to have two gels.  I don't think I gained any power or stamina
+by all of that.  I suspect I lost some speed, however, the valve on my
+bladder didn't work, so after I went through my first two 20
+oz. bottles of water, I couldn't get more water, so I was parched at
+the end, especially with the temperature getting up to 55.8F at the
+end.
+
+So, last year, 2018_11_19: Average: 8:14.7
+               2019_02_25: Average: 7:54.4
+
+Being down 21.2 seconds/mile from last year at this time isn't
+horrible, considering how much fitness I lost due to injury in my
+off-season, especially considering the temperature difference (last
+year the average by my Ambit3 was 51.6F, this year 61.9F, although
+that could be skewed by my lack of water slowdown at the end).
+
+It will be interesting to see if the various tweaks I make during this
+year's training will allow me to catch up to where I was last year by
+race day.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Desktop/Move_2019_11_18_07_10_33_Running.gpx 
+3.174191    1:15  8:27.0 21.68478 0.00000 2019-11-18 14:09:36 UTC 2019-11-18 14:10:51 UTC
+2.801022    1:15  9:34.5 16.23986 0.00000 2019-11-18 14:11:22 UTC 2019-11-18 14:12:37 UTC
+2.621596    1:15 10:13.8 12.96787 0.00000 2019-11-18 14:13:11 UTC 2019-11-18 14:14:26 UTC
+2.882376    1:15  9:18.3 9.46248 0.17279 2019-11-18 14:14:54 UTC 2019-11-18 14:16:09 UTC
+3.238360    1:15  8:16.9 0.13009 6.25854 2019-11-18 14:16:35 UTC 2019-11-18 14:17:50 UTC
+3.070049    1:15  8:44.2 0.00000 21.74852 2019-11-18 14:18:33 UTC 2019-11-18 14:19:48 UTC
+3.558855    1:15  7:32.2 0.00000 10.78826 2019-11-18 14:20:06 UTC 2019-11-18 14:21:21 UTC
+3.344535    1:15  8:01.1 6.21253 6.55649 2019-11-18 14:21:54 UTC 2019-11-18 14:23:09 UTC
+3.407582    1:15  7:52.2 9.64412 0.48935 2019-11-18 14:23:36 UTC 2019-11-18 14:24:51 UTC
+3.308191    1:15  8:06.4 4.07572 2.60278 2019-11-18 14:25:22 UTC 2019-11-18 14:26:37 UTC
+3.225129    1:15  8:19.0 26.10782 0.00000 2019-11-18 14:27:07 UTC 2019-11-18 14:28:22 UTC
+3.061002    1:15  8:45.7 15.93233 0.00000 2019-11-18 14:28:53 UTC 2019-11-18 14:30:08 UTC
+Average: 8:35.9
