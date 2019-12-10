@@ -1317,3 +1317,51 @@ frozen shoes in my pack.  So ...
 ... I got back home, brought everything in from the Sienna, had
 breakfast and a very strong beer and decided to count my SAR mission
 as my exercise, even though it was only vaguely comparable.
+========================================================================
+Without a pack and on a Tuesday after core exercises, but with only
+one bottle of water and only a half a brick of tempeh and a green
+drink as calories since 5pm yesterday evening.
+
+Tuesdays are supposed to be rest days, where I only run 8.9 miles at a 130bpm
+HR, but due to the SAR mission I missed doing intervals yesterday which made
+two weeks in a row, so I decided to compromise and run 8.9 miles but add my
+intervals to it.  Since it was only going to be 8.9, I chose not to run with
+calories in my water, but once I had done my second lap I decide that if I
+felt good after doing my intervals I'd run the third lap and the loop around
+the block that brings it up to 13.1, which is what I did.  My average HR was
+135 after doing intervals so rather than run super slowly to try to bring my
+total average HR to 130, I chose to run faster than normal to see if I could
+finish my 13.1 with an average pace faster than 8:00 min/mi, which I did:
+
+13.12 miles, 1:57:12.5, 8:56 min/mi, 137bpm average HR
+
+At this point I think I'll do all my 13.1 mile or less non-pack runs w/o
+calories, but I'll still use calories on my pack runs.
+
+Since today was not a pack run interval training session, I'll use my
+pack a this coming Monday.  Normally I don't do that after a Bosque
+Bike Path Saturday pack run, but due to a Cibola SAR evaluation, I'm
+doing my Bosque Bike Path pack run this Friday anyway.
+
+Although these are my best numbers since 10/15/2018, I did start
+further up the hill than most times.  I crossed the driveway across
+Albuquerque Academy at about 8 seconds after the top of the minute.
+There was too much sun and traffic for me to have tried to hurry
+across fast enough to start a minute earlier, so I ran *very* slowly
+those 52 seconds to the top of the minute, but that still put me
+further up the hill.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Desktop/Move_2019_12_10_06_52_38_Running.gpx 
+3.570958    1:15  7:30.6 5.70488 0.00000 2019-12-10 13:37:41 UTC 2019-12-10 13:38:56 UTC
+3.368660    1:15  7:57.7 7.86869 0.00000 2019-12-10 13:39:26 UTC 2019-12-10 13:40:41 UTC
+3.516105    1:15  7:37.7 2.58329 0.00000 2019-12-10 13:41:11 UTC 2019-12-10 13:42:26 UTC
+4.047325    1:15  6:37.6 0.50454 2.97889 2019-12-10 13:42:56 UTC 2019-12-10 13:44:11 UTC
+3.939165    1:15  6:48.5 0.72567 4.55535 2019-12-10 13:44:43 UTC 2019-12-10 13:45:58 UTC
+4.054113    1:15  6:36.9 0.00000 7.01607 2019-12-10 13:46:29 UTC 2019-12-10 13:47:44 UTC
+4.096339    1:15  6:32.8 0.00000 7.78723 2019-12-10 13:48:12 UTC 2019-12-10 13:49:27 UTC
+4.008964    1:15  6:41.4 0.00000 8.29636 2019-12-10 13:50:00 UTC 2019-12-10 13:51:15 UTC
+4.078572    1:15  6:34.5 0.00000 4.09827 2019-12-10 13:51:42 UTC 2019-12-10 13:52:57 UTC
+3.812127    1:15  7:02.1 0.01966 0.85273 2019-12-10 13:53:30 UTC 2019-12-10 13:54:45 UTC
+3.797266    1:15  7:03.8 0.14900 1.12753 2019-12-10 13:55:26 UTC 2019-12-10 13:56:41 UTC
+3.855965    1:15  6:57.3 0.02271 0.59282 2019-12-10 13:56:58 UTC 2019-12-10 13:58:13 UTC
+Average: 7:00.1
