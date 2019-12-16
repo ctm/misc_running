@@ -1351,6 +1351,10 @@ across fast enough to start a minute earlier, so I ran *very* slowly
 those 52 seconds to the top of the minute, but that still put me
 further up the hill.
 
+Oh, my rest between intervals 10 and 11 was 45 seconds instead of 30
+due to a stoplight at the western entrance to AA.  I made up for it by
+taking only a 15 second rest between intervals 11 and 12.
+
 bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Desktop/Move_2019_12_10_06_52_38_Running.gpx 
 3.570958    1:15  7:30.6 5.70488 0.00000 2019-12-10 13:37:41 UTC 2019-12-10 13:38:56 UTC
 3.368660    1:15  7:57.7 7.86869 0.00000 2019-12-10 13:39:26 UTC 2019-12-10 13:40:41 UTC
@@ -1365,3 +1369,40 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Desktop/Move_2019
 3.797266    1:15  7:03.8 0.14900 1.12753 2019-12-10 13:55:26 UTC 2019-12-10 13:56:41 UTC
 3.855965    1:15  6:57.3 0.02271 0.59282 2019-12-10 13:56:58 UTC 2019-12-10 13:58:13 UTC
 Average: 7:00.1
+
+========================================================================
+
+With 40# pack.  Was supposed to be 13.1 miles, but I had to cut it
+short *after* I did my intervals, due to potentially explosive GI
+distress.  Nice improvement over 11/18, especially since I'm getting
+over a bad cold or mild flu.  My suspicion is that my GI distress was
+due to the residual effects of my sickness, although the way I
+staggered my caffeine may have contributed, too.
+
+Last year on 12/17, my average 8:03.4, but I had a chest cold.  Today
+I had very little in my lungs and basically felt great, but as
+recently as Thursday evening I skipped two social activities due to
+sickness and my Friday 18 mile 40# pack run was definitely slower due
+to sickness, so ... I'm happy with the progress I'm making and hope I
+can sustain my momentum.
+
+Oh, and I started further down the hill than usual, *before* the AA
+driveway.  I normally don't start my intervals that early, but there
+was no traffic and I didn't want to travel up hill for almost a minute
+before starting.  So that makes my stats a little better than they
+appear.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Desktop/Move_2019_12_16_07_17_39_Running.gpx 
+3.094504    1:15  8:40.0 5.47950 0.00000 2019-12-16 14:07:42 UTC 2019-12-16 14:08:57 UTC
+2.920416    1:15  9:11.0 5.63510 0.00000 2019-12-16 14:09:28 UTC 2019-12-16 14:10:43 UTC
+2.876504    1:15  9:19.4 6.90899 0.00000 2019-12-16 14:11:14 UTC 2019-12-16 14:12:29 UTC
+2.881156    1:15  9:18.5 3.17393 0.00000 2019-12-16 14:12:59 UTC 2019-12-16 14:14:14 UTC
+3.409055    1:15  7:52.0 0.00000 1.78822 2019-12-16 14:14:43 UTC 2019-12-16 14:15:58 UTC
+3.229415    1:15  8:18.3 0.96153 1.58693 2019-12-16 14:16:39 UTC 2019-12-16 14:17:54 UTC
+3.594213    1:15  7:27.7 0.00000 5.74048 2019-12-16 14:18:13 UTC 2019-12-16 14:19:28 UTC
+3.670956    1:15  7:18.3 0.00000 6.64836 2019-12-16 14:19:58 UTC 2019-12-16 14:21:13 UTC
+3.476379    1:15  7:42.9 0.00000 5.77268 2019-12-16 14:21:44 UTC 2019-12-16 14:22:59 UTC
+3.512692    1:15  7:38.1 0.00000 5.46677 2019-12-16 14:23:28 UTC 2019-12-16 14:24:43 UTC
+3.571661    1:15  7:30.5 0.00000 3.52694 2019-12-16 14:25:11 UTC 2019-12-16 14:26:26 UTC
+3.338191    1:15  8:02.1 0.58533 0.72176 2019-12-16 14:26:58 UTC 2019-12-16 14:28:13 UTC
+Average: 8:11.6
