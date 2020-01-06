@@ -1406,3 +1406,36 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Desktop/Move_2019
 3.571661    1:15  7:30.5 0.00000 3.52694 2019-12-16 14:25:11 UTC 2019-12-16 14:26:26 UTC
 3.338191    1:15  8:02.1 0.58533 0.72176 2019-12-16 14:26:58 UTC 2019-12-16 14:28:13 UTC
 Average: 8:11.6
+
+========================================================================
+
+With 40# pack.  Was supposed to be 13.1 miles, but I stayed up late
+last night bug chasing, then did some more bug chasing in the morning
+and decided to see what would happen if I skipped breakfast and only
+had espresso until I started drinking my Tailwind (at 9:45, 17 hours
+and fifteen minutes after my previous calories (4:30pm)).  Well ...
+by the time I had done my first AA lap and had to turn around to start
+doing my intervals I was considering just going home, because I was
+definitely out of gas.  And after I did my intervals, I did go
+straight home, so I only did 8.9 miles (at least so far today).
+
+I started further up the hill than last time, so my .6 seconds/mile
+improvement is really a decrease, but I do think that not eating
+slowed me down considerably.  I still coughed up small amounts of junk
+from my lungs, but nothing at all like on Wednesday (during the
+Foothills Fat Ass 50k without a pack).
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Desktop/Move_2020_01_06_09_47_28_Running.gpx 
+3.233519    1:15  8:17.7 6.25258 0.00000 2020-01-06 16:41:31 UTC 2020-01-06 16:42:46 UTC
+2.939962    1:15  9:07.4 5.09568 0.00000 2020-01-06 16:43:16 UTC 2020-01-06 16:44:31 UTC
+2.900464    1:15  9:14.8 6.33689 0.00000 2020-01-06 16:45:02 UTC 2020-01-06 16:46:17 UTC
+3.152298    1:15  8:30.5 3.22349 0.04630 2020-01-06 16:46:47 UTC 2020-01-06 16:48:02 UTC
+3.155969    1:15  8:29.9 1.97487 2.05026 2020-01-06 16:48:29 UTC 2020-01-06 16:49:44 UTC
+3.459148    1:15  7:45.2 0.31233 2.17823 2020-01-06 16:50:18 UTC 2020-01-06 16:51:33 UTC
+3.614790    1:15  7:25.2 0.00000 6.56988 2020-01-06 16:52:02 UTC 2020-01-06 16:53:17 UTC
+3.554881    1:15  7:32.7 0.00000 6.88547 2020-01-06 16:53:46 UTC 2020-01-06 16:55:01 UTC
+3.585376    1:15  7:28.8 0.00000 5.03657 2020-01-06 16:55:32 UTC 2020-01-06 16:56:47 UTC
+3.353150    1:15  7:59.9 0.00000 5.11315 2020-01-06 16:57:17 UTC 2020-01-06 16:58:32 UTC
+3.244212    1:15  8:16.0 0.14854 2.12196 2020-01-06 16:59:00 UTC 2020-01-06 17:00:15 UTC
+3.326089    1:15  8:03.8 0.14743 0.00000 2020-01-06 17:00:46 UTC 2020-01-06 17:02:01 UTC
+Average: 8:11
