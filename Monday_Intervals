@@ -1439,3 +1439,40 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Desktop/Move_2020
 3.244212    1:15  8:16.0 0.14854 2.12196 2020-01-06 16:59:00 UTC 2020-01-06 17:00:15 UTC
 3.326089    1:15  8:03.8 0.14743 0.00000 2020-01-06 17:00:46 UTC 2020-01-06 17:02:01 UTC
 Average: 8:11
+
+========================================================================
+
+With 40# pack.  I did do 13.1 miles, although I walked a lot after
+doing my intervals and even went inside my home for a potty break at
+12.2 miles.  I had my green drink before running and too much liquid
+in me made things uncomfortable, albeit *after* my intervals.
+
+Considering how much I had to eat yesterday and this morning and that
+I once again wound up starting fairly far up the hill, I'm
+disappointed that I only made a 7.7 secs/mile improvement.  *However*,
+my first interval was a sub-8 minute mile up hill, and I think that
+really cooked my legs.  I did a 7:54.4 on 2/25/2019 and I *think*
+that's my best.  Last year, my interval average on 1/14/2019 was
+7:46.3, *but* I only did 11 intervals, probably because I hadn't
+learned to count back then.
+
+FWIW, counting is hard when I'm doing intervals, so now I *always*
+start on 0 seconds past the hour and I also shift my bottles back and
+forth so that on odd numbered (starting at 1) intervals my "good
+bottle" is on my right hand and on the evens it's on my left.  That
+helps me remember when to start and when to stop.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_01_13_06_54_49_Running.gpx 
+3.369641    1:15  7:57.6 8.27056 0.00000 2020-01-13 13:45:51 UTC 2020-01-13 13:47:06 UTC
+2.926138    1:15  9:09.9 7.27133 0.00000 2020-01-13 13:47:38 UTC 2020-01-13 13:48:53 UTC
+2.839679    1:15  9:26.7 1.94518 0.00000 2020-01-13 13:49:25 UTC 2020-01-13 13:50:40 UTC
+3.336731    1:15  8:02.3 1.03038 0.86495 2020-01-13 13:51:14 UTC 2020-01-13 13:52:29 UTC
+3.007966    1:15  8:55.0 3.74926 0.19851 2020-01-13 13:52:53 UTC 2020-01-13 13:54:08 UTC
+3.587430    1:15  7:28.6 0.00000 6.09928 2020-01-13 13:54:39 UTC 2020-01-13 13:55:54 UTC
+3.581393    1:15  7:29.3 0.00000 4.95012 2020-01-13 13:56:22 UTC 2020-01-13 13:57:37 UTC
+3.606355    1:15  7:26.2 0.00000 6.94683 2020-01-13 13:58:07 UTC 2020-01-13 13:59:22 UTC
+3.757255    1:15  7:08.3 0.00000 6.89729 2020-01-13 13:59:53 UTC 2020-01-13 14:01:08 UTC
+3.479482    1:15  7:42.5 0.00000 3.66599 2020-01-13 14:01:38 UTC 2020-01-13 14:02:53 UTC
+3.384639    1:15  7:55.4 0.14670 1.66770 2020-01-13 14:03:21 UTC 2020-01-13 14:04:36 UTC
+3.364346    1:15  7:58.3 0.11860 1.64853 2020-01-13 14:05:08 UTC 2020-01-13 14:06:23 UTC
+Average: 8:03.3
