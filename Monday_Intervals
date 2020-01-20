@@ -1476,3 +1476,36 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running
 3.384639    1:15  7:55.4 0.14670 1.66770 2020-01-13 14:03:21 UTC 2020-01-13 14:04:36 UTC
 3.364346    1:15  7:58.3 0.11860 1.64853 2020-01-13 14:05:08 UTC 2020-01-13 14:06:23 UTC
 Average: 8:03.3
+
+========================================================================
+No pack today after all.  An important clip broke on my descent down
+La Luz on Saturday.  I have a new Tioga coming on Wednesday, so I
+decided to do a non-pack interval training today.  I'll then defer my
+Wednesday speed pack run to Thursday, which may slightly interfere
+with my performance at Saturday's snowshoe race, but oh well...
+
+This time I actually ran back slightly before starting my intervals,
+because my watch hit zero seconds after the minute before I got to my
+earliest starting spot.  In the past I've jogged very slowly up from
+there, but a minute is a long time and that puts me further up the
+hill, so this time I doubled back and got almost back to the AA
+driveway before turning uphill and starting again.  I will do that
+from now on so that I'll essentially be starting from close to the
+driveway every time.  It's embarrassing that I didn't start doing that
+earlier, although I used to pay more attention to my total 13.1 mile
+time than I do now.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_01_20_07_27_22_Running.gpx 
+3.800070    1:15  7:03.5 5.75283 0.10937 2020-01-20 14:13:25 UTC 2020-01-20 14:14:40 UTC
+3.505602    1:15  7:39.0 6.86248 0.00000 2020-01-20 14:15:09 UTC 2020-01-20 14:16:24 UTC
+3.440928    1:15  7:47.7 5.75501 0.00000 2020-01-20 14:16:57 UTC 2020-01-20 14:18:12 UTC
+3.872092    1:15  6:55.6 1.35122 2.35537 2020-01-20 14:18:41 UTC 2020-01-20 14:19:56 UTC
+3.773619    1:15  7:06.4 3.65542 1.89339 2020-01-20 14:20:27 UTC 2020-01-20 14:21:42 UTC
+4.024757    1:15  6:39.8 0.00000 6.93370 2020-01-20 14:22:11 UTC 2020-01-20 14:23:26 UTC
+4.113925    1:15  6:31.1 0.00000 7.31756 2020-01-20 14:23:55 UTC 2020-01-20 14:25:10 UTC
+4.022047    1:15  6:40.1 0.00000 6.56590 2020-01-20 14:25:42 UTC 2020-01-20 14:26:57 UTC
+3.898788    1:15  6:52.7 0.00000 5.48033 2020-01-20 14:27:24 UTC 2020-01-20 14:28:39 UTC
+3.706741    1:15  7:14.1 0.00000 2.39580 2020-01-20 14:29:09 UTC 2020-01-20 14:30:24 UTC
+3.731761    1:15  7:11.2 0.00000 0.77912 2020-01-20 14:30:55 UTC 2020-01-20 14:32:10 UTC
+3.836033    1:15  6:59.5 0.10460 1.38952 2020-01-20 14:32:42 UTC 2020-01-20 14:33:57 UTC
+Average: 7:03.4
