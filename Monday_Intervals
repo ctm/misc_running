@@ -1509,3 +1509,44 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running
 3.731761    1:15  7:11.2 0.00000 0.77912 2020-01-20 14:30:55 UTC 2020-01-20 14:32:10 UTC
 3.836033    1:15  6:59.5 0.10460 1.38952 2020-01-20 14:32:42 UTC 2020-01-20 14:33:57 UTC
 Average: 7:03.4
+
+========================================================================
+With 40#, started just before crossing the driveway into the north end
+of AA, which is *slightly* earlier than I'm supposed to start, but
+there were no cars and I really didn't want to run in place for a
+minute waiting to get to 00 seconds past the minute again.
+
+Although I started at 00 and was switching water bottles, I still
+screwed up.  Looking at my pace graph on Movescount it appears I
+started my sixth interval late.  I *think* I then ended it when it
+should have ended and that I did 30 second rests in between each of
+my remaining 75 second all-outs, but the damage had been done and I
+knew I had lost count, so I did what I *thought* was an extra
+interval, just to be sure, but it turns out I had done two extra
+intervals.
+
+Considering that I got behind on sleep (due to the SAR mission) and
+that all the caffeine both Saturday (Snowshoe Race) and Sunday (Bombs
+Away ARR Burque Brew Tour race) and that this was my first interval
+pack run with my new Tioga, I'm not too unhappy with my numbers.
+
+My hope is I actually got better training and am a little more fit
+than the numbers suggest.  I'll know more after my Wednesday speed run.
+
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 14 ~/Documents/Running/Movescount/Move_2020_01_27_07_14_27_Running.gpx 
+3.120967    1:15  8:35.6 5.71126 0.00000 2020-01-27 14:06:30 UTC 2020-01-27 14:07:45 UTC
+2.807321    1:15  9:33.2 3.24789 0.00000 2020-01-27 14:08:15 UTC 2020-01-27 14:09:30 UTC
+2.788014    1:15  9:37.2 6.64706 0.00000 2020-01-27 14:10:02 UTC 2020-01-27 14:11:17 UTC
+2.972446    1:15  9:01.4 2.87007 0.00000 2020-01-27 14:11:52 UTC 2020-01-27 14:13:07 UTC
+3.085776    1:15  8:41.5 0.09601 1.72235 2020-01-27 14:13:32 UTC 2020-01-27 14:14:47 UTC
+3.035893    1:15  8:50.1 1.15201 1.73011 2020-01-27 14:15:30 UTC 2020-01-27 14:16:45 UTC
+3.352874    1:15  7:59.9 0.00000 5.46266 2020-01-27 14:16:48 UTC 2020-01-27 14:18:03 UTC
+3.439731    1:15  7:47.8 0.00000 5.06808 2020-01-27 14:18:23 UTC 2020-01-27 14:19:38 UTC
+3.306778    1:15  8:06.6 0.00000 7.12646 2020-01-27 14:20:04 UTC 2020-01-27 14:21:19 UTC
+3.309617    1:15  8:06.2 0.00000 5.64579 2020-01-27 14:21:46 UTC 2020-01-27 14:23:01 UTC
+3.511680    1:15  7:38.2 0.00000 4.27568 2020-01-27 14:23:31 UTC 2020-01-27 14:24:46 UTC
+3.351516    1:15  8:00.1 0.00000 1.21604 2020-01-27 14:25:15 UTC 2020-01-27 14:26:30 UTC
+3.211984    1:15  8:21.0 0.34082 0.97421 2020-01-27 14:27:00 UTC 2020-01-27 14:28:15 UTC
+3.208855    1:15  8:21.5 1.03786 0.59032 2020-01-27 14:28:46 UTC 2020-01-27 14:30:01 UTC
+Average: 8:28.6
