@@ -1550,3 +1550,27 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 14 ~/Documents/R
 3.211984    1:15  8:21.0 0.34082 0.97421 2020-01-27 14:27:00 UTC 2020-01-27 14:28:15 UTC
 3.208855    1:15  8:21.5 1.03786 0.59032 2020-01-27 14:28:46 UTC 2020-01-27 14:30:01 UTC
 Average: 8:28.6
+
+========================================================================
+Much hotter today than a week ago.  I also was carrying around extra
+food in my gut due to a combination of having done a low fiber
+protocol on Friday and eating like a piggy yesterday evening (after
+having gotten myself amped up over a SAR mission that was over well
+before I got to IB).
+
+I did, however, successfully count to 12.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_02_03_06_44_01_Running.gpx 
+3.131488    1:15  8:33.9 4.12934 0.00000 2020-02-03 13:38:00 UTC 2020-02-03 13:39:15 UTC
+2.763478    1:15  9:42.3 4.18123 0.00000 2020-02-03 13:39:50 UTC 2020-02-03 13:41:05 UTC
+2.778459    1:15  9:39.2 5.80275 0.00000 2020-02-03 13:41:37 UTC 2020-02-03 13:42:52 UTC
+2.993634    1:15  8:57.5 2.55699 0.00000 2020-02-03 13:43:21 UTC 2020-02-03 13:44:36 UTC
+3.150517    1:15  8:30.8 0.36766 2.09179 2020-02-03 13:45:03 UTC 2020-02-03 13:46:18 UTC
+3.194906    1:15  8:23.7 1.94542 2.13381 2020-02-03 13:46:55 UTC 2020-02-03 13:48:10 UTC
+3.429431    1:15  7:49.2 0.00000 7.00289 2020-02-03 13:48:35 UTC 2020-02-03 13:49:50 UTC
+3.379599    1:15  7:56.1 0.00000 5.35092 2020-02-03 13:50:22 UTC 2020-02-03 13:51:37 UTC
+3.340348    1:15  8:01.7 0.00000 5.64141 2020-02-03 13:52:07 UTC 2020-02-03 13:53:22 UTC
+3.409225    1:15  7:52.0 0.00000 6.17069 2020-02-03 13:53:51 UTC 2020-02-03 13:55:06 UTC
+3.302294    1:15  8:07.3 0.01291 3.76455 2020-02-03 13:55:37 UTC 2020-02-03 13:56:52 UTC
+3.286907    1:15  8:09.6 0.16778 0.74068 2020-02-03 13:57:22 UTC 2020-02-03 13:58:37 UTC
+Average: 8:28.6
