@@ -1574,3 +1574,31 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running
 3.302294    1:15  8:07.3 0.01291 3.76455 2020-02-03 13:55:37 UTC 2020-02-03 13:56:52 UTC
 3.286907    1:15  8:09.6 0.16778 0.74068 2020-02-03 13:57:22 UTC 2020-02-03 13:58:37 UTC
 Average: 8:28.6
+
+========================================================================
+Once more I successfully counted to 12.  Yay.
+
+Today there was light rain, so although I did my normal lap around AA
+before doing my intervals, I went straight home afterward, for a total
+of 8.88 miles instead of my typical Monday 13.1.  FTR, rain doesn't
+hurt me, but it does potentially hurt a Tioga 5500.  I've worn through
+clevis pins in the past.  Since I'm down to one functional pack that
+I'm using both for SAR and BMDM training, I really didn't want any
+additional strain on it.  As it is, I didn't go to a SAR mission in
+Santa Fe last night due to my pack being too poorly organized for me
+to count on it in the dark in a storm on the mountain :-(
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_02_10_06_52_31_Running.gpx 
+3.123465    1:15  8:35.2 6.04038 0.00000 2020-02-10 13:46:35 UTC 2020-02-10 13:47:50 UTC
+2.965880    1:15  9:02.6 5.03442 0.00000 2020-02-10 13:48:18 UTC 2020-02-10 13:49:33 UTC
+2.832581    1:15  9:28.1 6.67692 0.00000 2020-02-10 13:50:04 UTC 2020-02-10 13:51:19 UTC
+2.947960    1:15  9:05.9 2.62261 0.00000 2020-02-10 13:51:51 UTC 2020-02-10 13:53:06 UTC
+3.308439    1:15  8:06.4 1.47988 2.57941 2020-02-10 13:53:33 UTC 2020-02-10 13:54:48 UTC
+3.399728    1:15  7:53.3 0.34736 2.61940 2020-02-10 13:55:21 UTC 2020-02-10 13:56:36 UTC
+3.446328    1:15  7:46.9 0.00000 5.93886 2020-02-10 13:57:05 UTC 2020-02-10 13:58:20 UTC
+3.549603    1:15  7:33.3 0.00000 6.49019 2020-02-10 13:58:51 UTC 2020-02-10 14:00:06 UTC
+3.459769    1:15  7:45.1 0.00000 4.83583 2020-02-10 14:00:36 UTC 2020-02-10 14:01:51 UTC
+3.443507    1:15  7:47.3 0.00000 5.99213 2020-02-10 14:02:18 UTC 2020-02-10 14:03:33 UTC
+3.282437    1:15  8:10.2 0.00000 3.07861 2020-02-10 14:04:04 UTC 2020-02-10 14:05:19 UTC
+3.355791    1:15  7:59.5 0.38556 0.74872 2020-02-10 14:05:51 UTC 2020-02-10 14:07:06 UTC
+Average: 8:16.2
