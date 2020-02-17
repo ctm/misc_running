@@ -1552,6 +1552,8 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 14 ~/Documents/R
 Average: 8:28.6
 
 ========================================================================
+With 40# pack
+
 Much hotter today than a week ago.  I also was carrying around extra
 food in my gut due to a combination of having done a low fiber
 protocol on Friday and eating like a piggy yesterday evening (after
@@ -1576,6 +1578,8 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running
 Average: 8:28.6
 
 ========================================================================
+With 40# pack
+
 Once more I successfully counted to 12.  Yay.
 
 Today there was light rain, so although I did my normal lap around AA
@@ -1602,3 +1606,28 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running
 3.282437    1:15  8:10.2 0.00000 3.07861 2020-02-10 14:04:04 UTC 2020-02-10 14:05:19 UTC
 3.355791    1:15  7:59.5 0.38556 0.74872 2020-02-10 14:05:51 UTC 2020-02-10 14:07:06 UTC
 Average: 8:16.2
+
+=========================================================================
+With 40# pack
+
+As per last year (2019_02_18), I ran to AA and did 6 intervals w/o
+doing my normal one lap prior or one lap after, for a total distance
+of 5.56 miles.  However, last year I did an additonal mile after I got
+home so that I did one quarter marathon distance.  This year I had
+glanced at what I did last year and wanted to do the same, but I
+didn't pay close enough attention to see that extra mile, so I didn't
+do it because I didn't think I had done it last year.
+
+It was about 10F warmer today than last year.  My average interval
+pace was 23 seconds / mile slower than last year.  Some of that was
+the heat, but most of it is simply me being less fit.  The portion of
+my back that chafes is now tough enough that it didn't slow me down.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 6 ~/Documents/Running/Movescount/Move_2020_02_17_06_47_14_Running.gpx 
+3.239855    1:15  8:16.7 6.47855 0.00000 2020-02-17 13:02:16 UTC 2020-02-17 13:03:31 UTC
+2.809314    1:15  9:32.8 5.37069 0.00000 2020-02-17 13:04:03 UTC 2020-02-17 13:05:18 UTC
+2.801367    1:15  9:34.4 6.00882 0.00000 2020-02-17 13:05:48 UTC 2020-02-17 13:07:03 UTC
+3.124003    1:15  8:35.1 2.48192 0.00000 2020-02-17 13:07:35 UTC 2020-02-17 13:08:50 UTC
+3.220376    1:15  8:19.7 0.57935 2.64389 2020-02-17 13:09:14 UTC 2020-02-17 13:10:29 UTC
+3.316118    1:15  8:05.3 0.99598 2.71464 2020-02-17 13:11:06 UTC 2020-02-17 13:12:21 UTC
+Average: 8:44
