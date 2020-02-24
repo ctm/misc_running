@@ -1631,3 +1631,29 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 6 ~/Documents/Ru
 3.220376    1:15  8:19.7 0.57935 2.64389 2020-02-17 13:09:14 UTC 2020-02-17 13:10:29 UTC
 3.316118    1:15  8:05.3 0.99598 2.71464 2020-02-17 13:11:06 UTC 2020-02-17 13:12:21 UTC
 Average: 8:44
+
+========================================================================
+
+Nice improvement from last week.  Still, 24.9 seconds/mile slower than
+last year, although it was about 11F hotter this year than last.  My
+overall pace for the 13.1 miles this year was 10:19 @ 142bpm,
+vs. 10:06 @ 142bpm last year.  However, I was wearing my ice hat this
+year, so that may have been a contributing factor.  Also, last week
+since I only did 6 intervals, the percentage that were uphill was much
+greater, although I also did them w/o the first loop around AA and I
+was still recovering from the quad.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_02_24_06_55_16_Running.gpx 
+3.286130    1:15  8:09.7 5.12679 0.00000 2020-02-24 13:44:18 UTC 2020-02-24 13:45:33 UTC
+2.876107    1:15  9:19.5 6.03696 0.00000 2020-02-24 13:46:04 UTC 2020-02-24 13:47:19 UTC
+2.772548    1:15  9:40.4 5.04145 0.00000 2020-02-24 13:47:51 UTC 2020-02-24 13:49:06 UTC
+3.143816    1:15  8:31.9 2.23501 0.01990 2020-02-24 13:49:36 UTC 2020-02-24 13:50:51 UTC
+3.079402    1:15  8:42.6 1.09881 0.84492 2020-02-24 13:51:18 UTC 2020-02-24 13:52:33 UTC
+3.328878    1:15  8:03.4 0.72656 3.32319 2020-02-24 13:53:06 UTC 2020-02-24 13:54:21 UTC
+3.426158    1:15  7:49.7 0.00000 5.30847 2020-02-24 13:54:49 UTC 2020-02-24 13:56:04 UTC
+3.494698    1:15  7:40.5 0.00000 6.60177 2020-02-24 13:56:36 UTC 2020-02-24 13:57:51 UTC
+3.436008    1:15  7:48.3 0.00000 5.16776 2020-02-24 13:58:21 UTC 2020-02-24 13:59:36 UTC
+3.509551    1:15  7:38.5 0.00000 5.89320 2020-02-24 14:00:05 UTC 2020-02-24 14:01:20 UTC
+3.272940    1:15  8:11.7 0.43961 3.27015 2020-02-24 14:01:53 UTC 2020-02-24 14:03:08 UTC
+3.261358    1:15  8:13.4 0.00739 0.55858 2020-02-24 14:03:35 UTC 2020-02-24 14:04:50 UTC
+Average: 8:19.1
