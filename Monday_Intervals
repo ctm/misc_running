@@ -1657,3 +1657,34 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running
 3.272940    1:15  8:11.7 0.43961 3.27015 2020-02-24 14:01:53 UTC 2020-02-24 14:03:08 UTC
 3.261358    1:15  8:13.4 0.00739 0.55858 2020-02-24 14:03:35 UTC 2020-02-24 14:04:50 UTC
 Average: 8:19.1
+
+========================================================================
+This is 14.5 seconds slower than last year, but it was about 10F
+warmer.  I also had to start from a dead stop, on my first interval
+(although I started slightly before the top of the minute, in theory
+to make up for that).  The graph that I get from Movescount does not
+look right.  The troughs are not deep enough.  It is quite possible
+that my Ambit3's battery is so old that it's really doing
+significantly more approximation than it did a year ago.  If so, that
+makes a lot of my interval analysis a bit dodgy, but it doesn't really
+greatly affect my other trainings since approximations get more
+accurate at all the other distance / pace combinations I do.
+Furthermore, the battery for my HRM is replaceable and now I'm
+replacing it once a month, so my HR shouldn't be too much of an
+approximation.
+
+My guess is I'm less than 15 seconds per mile less fit than last year,
+but probably not much less.  Assuming I can avoid a potty break (4
+minutes last year!) and assuming my snail's pace at the end of BMDM
+last year was due to my pack breaking, I should be around 10 minutes
+faster (all else equal, and it probably won't be, because it should be
+hotter) than last year, but probably not fifteen minutes faster.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 6 ~/Documents/Running/Movescount/Move_2020_03_02_07_00_03_Running.gpx 
+3.422670    1:15  7:50.2 4.68589 0.10725 2020-03-02 13:16:02 UTC 2020-03-02 13:17:17 UTC
+2.976077    1:15  9:00.7 6.24094 0.00000 2020-03-02 13:17:52 UTC 2020-03-02 13:19:07 UTC
+2.789770    1:15  9:36.8 5.65164 0.00000 2020-03-02 13:19:36 UTC 2020-03-02 13:20:51 UTC
+3.089615    1:15  8:40.8 2.25225 0.16705 2020-03-02 13:21:38 UTC 2020-03-02 13:22:53 UTC
+3.213737    1:15  8:20.7 2.18443 1.49675 2020-03-02 13:23:04 UTC 2020-03-02 13:24:19 UTC
+3.659167    1:15  7:19.8 0.69128 4.35807 2020-03-02 13:24:51 UTC 2020-03-02 13:26:06 UTC
+Average: 8:28.2
