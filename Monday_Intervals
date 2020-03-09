@@ -1688,3 +1688,25 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 6 ~/Documents/Ru
 3.213737    1:15  8:20.7 2.18443 1.49675 2020-03-02 13:23:04 UTC 2020-03-02 13:24:19 UTC
 3.659167    1:15  7:19.8 0.69128 4.35807 2020-03-02 13:24:51 UTC 2020-03-02 13:26:06 UTC
 Average: 8:28.2
+
+========================================================================
+
+Ugh.  First interval 5.7 seconds per mile slower than a week ago,
+second 1.7 secondds slower.  It was warmer this week, I started
+further down the road and my pack may have been a pound higher.  I had
+put a little extra weight in my pack for King of The Hill, which I
+didn't take out before adding a 5 pound bag of rice to my pack today.
+My scale has so much variance that I am not 100% confident that my
+pack was a pound higher than last week, but that's both what the scale
+read and it also makes sense.
+
+Overall, considering the swelling and discomfort in my right foot, I'm
+happy I didn't go backward further, but considering I'm on my taper, I
+expected to show improvement over last week.  Last year my first two
+intervals were 8.9 and 2.9 seconds faster.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 3 ~/Documents/Running/Movescount/Move_2020_03_09_07_00_02_Running.gpx 
+3.381223    1:15  7:55.9 6.72733 0.00000 2020-03-09 13:16:05 UTC 2020-03-09 13:17:20 UTC
+2.966707    1:15  9:02.4 5.00834 0.00000 2020-03-09 13:17:49 UTC 2020-03-09 13:19:04 UTC
+3.598737    1:15  7:27.1 0.00000 7.84603 2020-03-09 13:19:34 UTC 2020-03-09 13:20:49 UTC
+Average: 8:08.5
