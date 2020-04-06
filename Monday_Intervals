@@ -716,11 +716,11 @@ Average: 7:13
 
 ------------------------------------------------------------------------
 
-Without pack, and the first time I've done my intervals at the end of
-a 15.5 mile run, even though that has been my *intent* for the last few
-weeks (pooping has gotten in the way).  Today was my fastest 15.5 miles
-@ *approximately* 130bpm so far.  The whole thing averaged 9:21 min/mi,
-132bpm.
+Without pack, and only the second time I've done my intervals at the
+end of a 15.5 mile run, even though that has been my *intent* for the
+last few weeks (pooping has gotten in the way).  Today was my fastest
+15.5 miles @ *approximately* 130bpm so far.  The whole thing averaged
+9:21 min/mi, 132bpm.
 
 So, although I only improved by .7 seconds a mile, my legs had more
 immediate mileage on them before starting the intervals than ever
@@ -1710,3 +1710,34 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 3 ~/Documents/Ru
 2.966707    1:15  9:02.4 5.00834 0.00000 2020-03-09 13:17:49 UTC 2020-03-09 13:19:04 UTC
 3.598737    1:15  7:27.1 0.00000 7.84603 2020-03-09 13:19:34 UTC 2020-03-09 13:20:49 UTC
 Average: 8:08.5
+
+========================================================================
+This was after 3 AA loops (i.e., I jogged 11.5 miles before starting
+my intervals).  I haven't done that in a while.  It was also w/o any
+calories other than the small amount in the espressos I had.
+
+I had some sort of respiratory sickness that kept me from training
+March 27th - 30th.  The symptoms were suspiciously like a mild case of
+Covid-19, but I couldn't be tested and there are so few confirmed
+instances of Covid-19 in Bernalillo County that my guess is it was
+something else.  Anyway, my lungs are not back to normal, but I'm
+doing OK, considering.
+
+My right foot is still in distress, which is why I chose to do my
+interval training today without a pack.  I'll do a pack half marathon
+at a 130bpm HR on Wednesday.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_04_06_05_57_55_Running.gpx 
+3.723866    1:15  7:12.1 6.01359 0.00000 2020-04-06 13:57:02 UTC 2020-04-06 13:58:17 UTC
+3.353993    1:15  7:59.8 6.95150 0.00000 2020-04-06 13:58:41 UTC 2020-04-06 13:59:56 UTC
+3.404114    1:15  7:52.7 4.63286 0.00000 2020-04-06 14:00:29 UTC 2020-04-06 14:01:44 UTC
+3.773206    1:15  7:06.5 1.08748 2.29777 2020-04-06 14:02:14 UTC 2020-04-06 14:03:29 UTC
+3.456723    1:15  7:45.5 3.34063 0.39030 2020-04-06 14:03:59 UTC 2020-04-06 14:05:14 UTC
+4.236722    1:15  6:19.8 0.00000 7.04891 2020-04-06 14:05:45 UTC 2020-04-06 14:07:00 UTC
+3.977362    1:15  6:44.6 0.00000 7.51599 2020-04-06 14:07:31 UTC 2020-04-06 14:08:46 UTC
+3.739003    1:15  7:10.4 1.51974 4.44254 2020-04-06 14:09:16 UTC 2020-04-06 14:10:31 UTC
+3.888106    1:15  6:53.9 7.69027 3.50816 2020-04-06 14:10:57 UTC 2020-04-06 14:12:12 UTC
+3.750563    1:15  7:09.0 6.06337 1.89463 2020-04-06 14:12:44 UTC 2020-04-06 14:13:59 UTC
+3.586744    1:15  7:28.6 5.82943 1.84309 2020-04-06 14:14:29 UTC 2020-04-06 14:15:44 UTC
+3.729648    1:15  7:11.5 0.00000 13.63421 2020-04-06 14:16:14 UTC 2020-04-06 14:17:29 UTC
+Average: 7:14.5
