@@ -1741,3 +1741,36 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running
 3.586744    1:15  7:28.6 5.82943 1.84309 2020-04-06 14:14:29 UTC 2020-04-06 14:15:44 UTC
 3.729648    1:15  7:11.5 0.00000 13.63421 2020-04-06 14:16:14 UTC 2020-04-06 14:17:29 UTC
 Average: 7:14.5
+
+========================================================================
+
+I'm on my 1/4 distance taper, since I have the Tough Ruck/Boston
+Marathon substitute coming up.  Today I should have done 3 intervals
+with my pack, but it was raining and I didn't want to get the contents
+of my pack wet, so I ran w/o a pack.  Then it snowed and I could have
+run with the pack, but I didn't know it would snow,
+
+I screwed up when I ran and only did 15 seconds of rest after my first
+interval.  I didn't realize I had only rested 15 seconds when I did my
+second interval and consequently I went 15 seconds longer than I
+should have *and* I was slowing down tremendously as I went.
+
+My timing was off enough that my app that extracts my interval info
+can't even find 3 intervals.  I could change the constraints it uses
+to find them, but there's no point.  I don't have anything to compare
+them to.  As it is, I rarely run 3 intervals (2 up, 1 down) and when I
+do, it's often with a pack.
+
+So, I probably got some acceptable training in today, considering that
+I'm on my taper.  I also put less stress on my right foot by running
+without my pack.  The substitute runs that are coming up are pretty
+much one-offs anyway, so the exact details of what I'm doing now don't
+really matter anyway.
+
+By now JMTR50M has been canceled.  In theory SJS50M and HR100M still
+might go, but my guess is they'll both be canceled.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 3 ~/Documents/Running/Movescount/Move_2020_04_13_09_23_59_Running.gpx 
+4.219873    1:15  6:21.3 0.00000 11.42988 2020-04-13 15:42:31 UTC 2020-04-13 15:43:46 UTC
+Average: 6:21.3
+thread 'main' panicked at 'Was told to find 3 intervals, but found 1', src/gpx.rs:356:13
