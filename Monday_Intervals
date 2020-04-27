@@ -1633,6 +1633,7 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 6 ~/Documents/Ru
 Average: 8:44
 
 ========================================================================
+With 40# pack
 
 Nice improvement from last week.  Still, 24.9 seconds/mile slower than
 last year, although it was about 11F hotter this year than last.  My
@@ -1659,6 +1660,8 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running
 Average: 8:19.1
 
 ========================================================================
+With 40# pack
+
 This is 14.5 seconds slower than last year, but it was about 10F
 warmer.  I also had to start from a dead stop, on my first interval
 (although I started slightly before the top of the minute, in theory
@@ -1690,6 +1693,7 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 6 ~/Documents/Ru
 Average: 8:28.2
 
 ========================================================================
+With 40# pack
 
 Ugh.  First interval 5.7 seconds per mile slower than a week ago,
 second 1.7 secondds slower.  It was warmer this week, I started
@@ -1712,6 +1716,8 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 3 ~/Documents/Ru
 Average: 8:08.5
 
 ========================================================================
+Without a pack
+
 This was after 3 AA loops (i.e., I jogged 11.5 miles before starting
 my intervals).  I haven't done that in a while.  It was also w/o any
 calories other than the small amount in the espressos I had.
@@ -1743,6 +1749,7 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running
 Average: 7:14.5
 
 ========================================================================
+Without a pack
 
 I'm on my 1/4 distance taper, since I have the Tough Ruck/Boston
 Marathon substitute coming up.  Today I should have done 3 intervals
@@ -1774,3 +1781,27 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 3 ~/Documents/Ru
 4.219873    1:15  6:21.3 0.00000 11.42988 2020-04-13 15:42:31 UTC 2020-04-13 15:43:46 UTC
 Average: 6:21.3
 thread 'main' panicked at 'Was told to find 3 intervals, but found 1', src/gpx.rs:356:13
+
+========================================================================
+Without a pack
+
+Lungs still pretty fried.  I half-assed it today.  I don't think I
+could have even started running if I thought I had to really go all
+out.  At least I should be able to do better next week w/o much
+effort, although I'll be taking my truck into Affordable Automotive
+and may not do my normal Monday exercise.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_04_27_07_32_52_Running.gpx 
+3.597961    1:15  7:27.2 6.97973 0.00000 2020-04-27 14:25:53 UTC 2020-04-27 14:27:08 UTC
+3.315804    1:15  8:05.3 6.56928 0.00000 2020-04-27 14:27:37 UTC 2020-04-27 14:28:52 UTC
+3.176936    1:15  8:26.5 4.37506 0.00000 2020-04-27 14:29:26 UTC 2020-04-27 14:30:41 UTC
+3.615453    1:15  7:25.1 1.15108 1.38074 2020-04-27 14:31:11 UTC 2020-04-27 14:32:26 UTC
+3.291236    1:15  8:08.9 3.85336 0.00000 2020-04-27 14:32:56 UTC 2020-04-27 14:34:11 UTC
+3.807829    1:15  7:02.6 0.00000 6.43672 2020-04-27 14:34:43 UTC 2020-04-27 14:35:58 UTC
+3.593215    1:15  7:27.8 0.00000 5.83577 2020-04-27 14:36:27 UTC 2020-04-27 14:37:42 UTC
+4.065759    1:15  6:35.8 0.00000 7.08662 2020-04-27 14:38:10 UTC 2020-04-27 14:39:25 UTC
+3.986075    1:15  6:43.7 0.00000 6.76744 2020-04-27 14:39:56 UTC 2020-04-27 14:41:11 UTC
+3.661491    1:15  7:19.5 0.00000 2.58911 2020-04-27 14:41:41 UTC 2020-04-27 14:42:56 UTC
+3.528807    1:15  7:36.0 0.15000 1.35416 2020-04-27 14:43:26 UTC 2020-04-27 14:44:41 UTC
+3.446151    1:15  7:46.9 0.10728 0.35310 2020-04-27 14:45:12 UTC 2020-04-27 14:46:27 UTC
+Average: 7:30.5
