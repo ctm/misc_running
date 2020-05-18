@@ -1805,3 +1805,36 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running
 3.528807    1:15  7:36.0 0.15000 1.35416 2020-04-27 14:43:26 UTC 2020-04-27 14:44:41 UTC
 3.446151    1:15  7:46.9 0.10728 0.35310 2020-04-27 14:45:12 UTC 2020-04-27 14:46:27 UTC
 Average: 7:30.5
+
+========================================================================
+Without a pack
+
+Pretty poor, however, better than the end of last month, and I did
+ride my bike 100 miles yesterday.  Furthermore, I ran 11.6 miles
+before doing my intervals (i.e. from my house and 3 and a fraction
+laps around Albuquerque Academy).
+
+However, last year I rode the Santa Fe Century the day before and also
+ran 3 and a fraction laps, and I was 16 seconds per mile faster.  Of
+course I hadn't had a nasty lung infection a month prior (and it
+appears to have been slightly cooler).
+
+So, it's no surprise that I was more fit last year, but considering
+how bad I was previously, I'm pretty happy.  I also tanked hard
+starting in about June, so if I can avoid that, I'll go into my
+Hardrock taper in better shape than I would have last year.
+
+bash-3.2[remove_gain_and_loss_fudge]$ time target/release/int_ave ~/Documents/Running/Movescount/Move_2020_05_18_05_45_29_Running.gpx 
+3.740633    1:15  7:10.2 4.79639 0.00000 2020-05-18 13:48:31 UTC 2020-05-18 13:49:46 UTC
+3.353965    1:15  7:59.8 6.44372 0.00000 2020-05-18 13:50:15 UTC 2020-05-18 13:51:30 UTC
+3.401823    1:15  7:53.0 5.57553 0.00000 2020-05-18 13:52:02 UTC 2020-05-18 13:53:17 UTC
+3.645300    1:15  7:21.4 0.43889 1.70924 2020-05-18 13:53:50 UTC 2020-05-18 13:55:05 UTC
+3.285411    1:15  8:09.8 3.61358 0.20142 2020-05-18 13:55:34 UTC 2020-05-18 13:56:49 UTC
+4.165424    1:15  6:26.3 0.00000 6.54799 2020-05-18 13:57:18 UTC 2020-05-18 13:58:33 UTC
+3.933530    1:15  6:49.1 0.00000 6.46363 2020-05-18 13:59:05 UTC 2020-05-18 14:00:20 UTC
+3.981529    1:15  6:44.2 0.00000 6.15736 2020-05-18 14:00:48 UTC 2020-05-18 14:02:03 UTC
+4.009303    1:15  6:41.4 0.00000 6.72630 2020-05-18 14:02:31 UTC 2020-05-18 14:03:46 UTC
+3.520017    1:15  7:37.1 0.06992 1.99215 2020-05-18 14:04:17 UTC 2020-05-18 14:05:32 UTC
+3.438009    1:15  7:48.1 0.10799 1.04665 2020-05-18 14:06:02 UTC 2020-05-18 14:07:17 UTC
+3.668994    1:15  7:18.6 0.15144 0.44018 2020-05-18 14:07:48 UTC 2020-05-18 14:09:03 UTC
+Average: 7:19.9
