@@ -1838,3 +1838,37 @@ bash-3.2[remove_gain_and_loss_fudge]$ time target/release/int_ave ~/Documents/Ru
 3.438009    1:15  7:48.1 0.10799 1.04665 2020-05-18 14:06:02 UTC 2020-05-18 14:07:17 UTC
 3.668994    1:15  7:18.6 0.15144 0.44018 2020-05-18 14:07:48 UTC 2020-05-18 14:09:03 UTC
 Average: 7:19.9
+
+========================================================================
+Without a pack
+
+About a second faster per mile than two weeks ago, but the remarkable
+thing about a dancing pig is not that he dances well, it's that he
+dances at all.  I doubt many of the other RG2C finishers did interval
+training today.
+
+FWIW, I did screw up my stats by misremembering when my 3rd interval
+was to end.  I wound up jogging 15 seconds before the end, then
+noticed my mistake and briefly sped up again.  Still, that mistake was
+a fraction of 1/12th of my workout, so it didn't really screw things
+up that much.
+
+My pace for the entire 15.66 miles was 10:30, but my average HR was
+125.  Two weeks ago my pace for 15.66 miles was 10:22, but my average
+HR was 131.  It was also slightly hotter this week, so overall I'd say
+I'm *slightly* more fit than I was then.
+
+bash-3.2[remove_gain_and_loss_fudge]$ time target/release/int_ave ~/Documents/Running/Movescount/Move_2020_06_01_06_07_26_Running.gpx 
+3.563942    1:15  7:31.5 5.82186 2.22327 2020-06-01 14:13:29 UTC 2020-06-01 14:14:44 UTC
+3.318334    1:15  8:04.9 4.58710 6.65065 2020-06-01 14:15:13 UTC 2020-06-01 14:16:28 UTC
+3.293205    1:15  8:08.6 0.00000 11.21507 2020-06-01 14:16:58 UTC 2020-06-01 14:18:13 UTC
+3.877643    1:15  6:55.0 80.06769 8.00826 2020-06-01 14:18:45 UTC 2020-06-01 14:20:00 UTC
+3.461090    1:15  7:44.9 0.00000 21.38192 2020-06-01 14:20:30 UTC 2020-06-01 14:21:45 UTC
+3.991506    1:15  6:43.1 3.53604 4.26971 2020-06-01 14:22:15 UTC 2020-06-01 14:23:30 UTC
+4.035916    1:15  6:38.7 3.52650 1.72551 2020-06-01 14:24:02 UTC 2020-06-01 14:25:17 UTC
+3.714148    1:15  7:13.3 1.97295 4.42279 2020-06-01 14:25:45 UTC 2020-06-01 14:27:00 UTC
+3.970291    1:15  6:45.3 0.00000 4.13560 2020-06-01 14:27:31 UTC 2020-06-01 14:28:46 UTC
+3.721699    1:15  7:12.4 2.62663 5.49388 2020-06-01 14:29:16 UTC 2020-06-01 14:30:31 UTC
+3.618188    1:15  7:24.7 1.25924 3.14367 2020-06-01 14:30:59 UTC 2020-06-01 14:32:14 UTC
+3.607790    1:15  7:26.0 2.95211 5.39560 2020-06-01 14:32:46 UTC 2020-06-01 14:34:01 UTC
+Average: 7:19
