@@ -1894,3 +1894,53 @@ bash-3.2[remove_gain_and_loss_fudge]$ time target/release/int_ave ~/Documents/Ru
 3.636368    1:15  7:22.5 1.15835 5.37755 2020-06-08 14:27:56 UTC 2020-06-08 14:29:11 UTC
 3.618481    1:15  7:24.7 1.19065 4.47536 2020-06-08 14:29:41 UTC 2020-06-08 14:30:56 UTC
 Average: 7:13.2
+
+========================================================================
+
+Pathetic showing today, although that's what I expected. I have not
+slept well the last couple of nights and my rest bike ride yesterday
+took more out of me than it should.  My right foot is still slightly
+injuired, so I decided to skip 9.9 miles of running before the
+intervals, just do the intervals and then get home, which is what I
+did.
+
+Since I knew I was only going to do a single lap, I didn't bring any
+water bottles.  That meant I didn't have my normal cue to keep track
+of which lap I was on.  So, I botched and took only 15 seconds of rest
+between my 3rd and 4th interval and accidentally took 45 seconds
+between my 11th and 12th interval. I also wound up doing 13 intervals.
+
+FWIW, I'm glad I did them.  The Silverton Alpine 50k is coming up soon
+enough that I need to know where my right foot stands (pardon the
+pun).
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 13 ~/Documents/Running/Movescount/Move_2020_06_22_07_52_12_Running.gpx 
+3.639621    1:15  7:22.1 5.27803 0.00000 2020-06-22 14:07:15 UTC 2020-06-22 14:08:30 UTC
+3.442117    1:15  7:47.5 5.75223 0.00000 2020-06-22 14:08:59 UTC 2020-06-22 14:10:14 UTC
+3.395791    1:15  7:53.9 4.28191 0.00000 2020-06-22 14:10:53 UTC 2020-06-22 14:12:08 UTC
+3.750222    1:15  7:09.1 0.39588 1.42078 2020-06-22 14:12:31 UTC 2020-06-22 14:13:46 UTC
+3.622010    1:15  7:24.3 2.99844 1.49419 2020-06-22 14:14:17 UTC 2020-06-22 14:15:32 UTC
+4.109951    1:15  6:31.5 0.00000 7.38016 2020-06-22 14:15:56 UTC 2020-06-22 14:17:11 UTC
+3.903704    1:15  6:52.2 0.00000 6.86073 2020-06-22 14:17:33 UTC 2020-06-22 14:18:48 UTC
+3.749184    1:15  7:09.2 0.00000 6.21860 2020-06-22 14:19:15 UTC 2020-06-22 14:20:30 UTC
+3.748022    1:15  7:09.3 0.00000 6.82639 2020-06-22 14:20:46 UTC 2020-06-22 14:22:01 UTC
+3.388639    1:15  7:54.9 0.00000 3.99769 2020-06-22 14:22:30 UTC 2020-06-22 14:23:45 UTC
+3.457811    1:15  7:45.4 0.00000 1.11012 2020-06-22 14:24:15 UTC 2020-06-22 14:25:30 UTC
+3.599424    1:15  7:27.1 0.10828 0.79157 2020-06-22 14:25:59 UTC 2020-06-22 14:27:14 UTC
+3.698196    1:15  7:15.1 0.11055 1.29962 2020-06-22 14:27:46 UTC 2020-06-22 14:29:01 UTC
+Average: 7:21.7
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 12 ~/Documents/Running/Movescount/Move_2020_06_22_07_52_12_Running.gpx 
+3.442117    1:15  7:47.5 5.75223 0.00000 2020-06-22 14:08:59 UTC 2020-06-22 14:10:14 UTC
+3.395791    1:15  7:53.9 4.28191 0.00000 2020-06-22 14:10:53 UTC 2020-06-22 14:12:08 UTC
+3.750222    1:15  7:09.1 0.39588 1.42078 2020-06-22 14:12:31 UTC 2020-06-22 14:13:46 UTC
+3.622010    1:15  7:24.3 2.99844 1.49419 2020-06-22 14:14:17 UTC 2020-06-22 14:15:32 UTC
+4.109951    1:15  6:31.5 0.00000 7.38016 2020-06-22 14:15:56 UTC 2020-06-22 14:17:11 UTC
+3.903704    1:15  6:52.2 0.00000 6.86073 2020-06-22 14:17:33 UTC 2020-06-22 14:18:48 UTC
+3.749184    1:15  7:09.2 0.00000 6.21860 2020-06-22 14:19:15 UTC 2020-06-22 14:20:30 UTC
+3.748022    1:15  7:09.3 0.00000 6.82639 2020-06-22 14:20:46 UTC 2020-06-22 14:22:01 UTC
+3.388639    1:15  7:54.9 0.00000 3.99769 2020-06-22 14:22:30 UTC 2020-06-22 14:23:45 UTC
+3.457811    1:15  7:45.4 0.00000 1.11012 2020-06-22 14:24:15 UTC 2020-06-22 14:25:30 UTC
+3.599424    1:15  7:27.1 0.10828 0.79157 2020-06-22 14:25:59 UTC 2020-06-22 14:27:14 UTC
+3.698196    1:15  7:15.1 0.11055 1.29962 2020-06-22 14:27:46 UTC 2020-06-22 14:29:01 UTC
+Average: 7:21.6
+bash-3.2[remove_gain_and_loss_fudge]$ 
