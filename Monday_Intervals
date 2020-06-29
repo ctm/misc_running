@@ -1943,4 +1943,36 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 12 ~/Documents/R
 3.599424    1:15  7:27.1 0.10828 0.79157 2020-06-22 14:25:59 UTC 2020-06-22 14:27:14 UTC
 3.698196    1:15  7:15.1 0.11055 1.29962 2020-06-22 14:27:46 UTC 2020-06-22 14:29:01 UTC
 Average: 7:21.6
-bash-3.2[remove_gain_and_loss_fudge]$ 
+bash-3.2[remove_gain_and_loss_fudge]$
+
+========================================================================
+No pack.  1/2 distance taper, although I did my intervals before doing
+half of my non-interval distance.  This is similar to what I did the
+last time I did a 1/2 distance taper, except then (March 2nd) I did
+have a pack and I also made up the extra distance (between 5.6 and
+6.55) back in the neighborhood in March (pre covid-19).
+
+So, I really don't have anything to compare this directly to.  My
+second interval is incredibly slow.  Looking at a graph of my pace
+during it shows a weird decline in the middle which I don't remember.
+The jagginess of the graph makes me think I'm seeing some anomalies
+due to the age of m watch (specifically the age of the battery built
+in).
+
+Looks like I first used my Ambit3 on October 8th, 2014, so my watch is
+five and a half years old.
+
+Anyway, considering the fact that I did a cheater double-crossing on
+Saturday with a slightly gimpy right foot, I'm happy.  A week from
+today I'll do 1/4 distance and incorporate 3 intervals, then I'll
+drive Margaret and myself up to Silverton.  Whee!
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 6 ~/Documents/Running/Movescount/Move_2020_06_29_06_05_39_Running.gpx 
+3.732903    1:15  7:11.1 6.35510 0.00000 2020-06-29 12:21:42 UTC 2020-06-29 12:22:57 UTC
+3.203914    1:15  8:22.3 5.69064 0.00000 2020-06-29 12:23:26 UTC 2020-06-29 12:24:41 UTC
+3.392735    1:15  7:54.3 4.54771 0.00000 2020-06-29 12:25:13 UTC 2020-06-29 12:26:28 UTC
+4.080663    1:15  6:34.3 0.44899 1.21843 2020-06-29 12:26:57 UTC 2020-06-29 12:28:12 UTC
+3.420542    1:15  7:50.4 2.74649 0.76393 2020-06-29 12:28:46 UTC 2020-06-29 12:30:01 UTC
+4.448330    1:15  6:01.7 0.00000 6.51710 2020-06-29 12:30:27 UTC 2020-06-29 12:31:42 UTC
+Average: 7:19
+
