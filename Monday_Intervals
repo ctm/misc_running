@@ -1976,3 +1976,33 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 6 ~/Documents/Ru
 4.448330    1:15  6:01.7 0.00000 6.51710 2020-06-29 12:30:27 UTC 2020-06-29 12:31:42 UTC
 Average: 7:19
 
+========================================================================
+Absolutely pitiful numbers, but at least I ran all 12.
+
+I left the house not knowing what I was going to do and without
+drinking any extra water beforehand or taking water with me.  I chose
+to run only one lap (instead of two laps) around AA before doing my
+intervals and I wasn't even sure as I was finishing the first lap
+whether I'd do any intervals, then I talked myself into doing at least
+one ... which led to all twelve.
+
+My right foot is still pretty jacked up from the Baldy 50k.  It did
+not feel good during any of my running and after I had finished my
+laps I stopped running along Barstow, took my shoes off and walked
+barefoot the rest of the way home.  Typing this up my foot is really
+complaining, so I'm not sure what I'll do the rest of the week.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_08_10_07_06_10_Running.gpx 
+3.598483    1:15  7:27.2 6.44487 0.00000 2020-08-10 13:58:11 UTC 2020-08-10 13:59:26 UTC
+2.884399    1:15  9:17.9 4.00876 0.00000 2020-08-10 13:59:59 UTC 2020-08-10 14:01:14 UTC
+2.957037    1:15  9:04.2 5.53500 0.00000 2020-08-10 14:01:42 UTC 2020-08-10 14:02:57 UTC
+3.020333    1:15  8:52.8 1.92410 0.00000 2020-08-10 14:03:35 UTC 2020-08-10 14:04:50 UTC
+3.251290    1:15  8:14.9 0.92885 2.28605 2020-08-10 14:05:05 UTC 2020-08-10 14:06:20 UTC
+3.466864    1:15  7:44.2 0.39610 2.80985 2020-08-10 14:07:02 UTC 2020-08-10 14:08:17 UTC
+3.540093    1:15  7:34.6 0.00000 5.16854 2020-08-10 14:08:46 UTC 2020-08-10 14:10:01 UTC
+3.372532    1:15  7:57.1 0.00000 6.57536 2020-08-10 14:10:28 UTC 2020-08-10 14:11:43 UTC
+3.677356    1:15  7:17.6 0.00000 5.85348 2020-08-10 14:12:13 UTC 2020-08-10 14:13:28 UTC
+3.693978    1:15  7:15.6 0.03490 6.56085 2020-08-10 14:13:57 UTC 2020-08-10 14:15:12 UTC
+3.395695    1:15  7:53.9 0.00000 3.32704 2020-08-10 14:15:44 UTC 2020-08-10 14:16:59 UTC
+2.937920    1:15  9:07.7 0.15216 0.54670 2020-08-10 14:17:30 UTC 2020-08-10 14:18:45 UTC
+Average: 8:09
