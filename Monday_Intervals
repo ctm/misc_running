@@ -2006,3 +2006,27 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running
 3.395695    1:15  7:53.9 0.00000 3.32704 2020-08-10 14:15:44 UTC 2020-08-10 14:16:59 UTC
 2.937920    1:15  9:07.7 0.15216 0.54670 2020-08-10 14:17:30 UTC 2020-08-10 14:18:45 UTC
 Average: 8:09
+
+========================================================================
+Without a pack.  Worst stats in a long time, because I half-assed it.
+However, today was the first day I ran 13.1 miles w/o stopping since
+Baldy 50k, which really trashed my right foot.  I went into today's
+run choosing to prioritize distance going w/o walking over doing my
+intervals.  In fact, I was willing to not do intervals *at all* if I
+needed to forego them in order to get my run done without walking, so
+half-assing them was a compromise.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_08_31_06_51_44_Running.gpx 
+3.377351    1:15  7:56.5 1.82562 7.82684 2020-08-31 14:26:44 UTC 2020-08-31 14:27:59 UTC
+3.073769    1:15  8:43.5 1.15310 2.43405 2020-08-31 14:28:31 UTC 2020-08-31 14:29:46 UTC
+2.843118    1:15  9:26.0 5.07314 1.41456 2020-08-31 14:30:20 UTC 2020-08-31 14:31:35 UTC
+3.595578    1:15  7:27.5 12.71348 1.49364 2020-08-31 14:32:03 UTC 2020-08-31 14:33:18 UTC
+2.826320    1:15  9:29.4 0.94979 1.64753 2020-08-31 14:33:18 UTC 2020-08-31 14:34:33 UTC
+3.608709    1:15  7:25.9 0.38993 1.92510 2020-08-31 14:35:35 UTC 2020-08-31 14:36:50 UTC
+3.453494    1:15  7:46.0 1.36949 3.21269 2020-08-31 14:37:18 UTC 2020-08-31 14:38:33 UTC
+3.450716    1:15  7:46.3 1.74197 6.22778 2020-08-31 14:39:11 UTC 2020-08-31 14:40:26 UTC
+3.594792    1:15  7:27.6 6.77550 3.31087 2020-08-31 14:40:52 UTC 2020-08-31 14:42:07 UTC
+3.399393    1:15  7:53.4 5.24067 5.60024 2020-08-31 14:42:36 UTC 2020-08-31 14:43:51 UTC
+2.991001    1:15  8:58.0 1.02006 6.62871 2020-08-31 14:44:19 UTC 2020-08-31 14:45:34 UTC
+3.289701    1:15  8:09.2 0.31590 4.69753 2020-08-31 14:46:06 UTC 2020-08-31 14:47:21 UTC
+Average: 8:12.4
