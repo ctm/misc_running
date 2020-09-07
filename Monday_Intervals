@@ -2030,3 +2030,37 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running
 2.991001    1:15  8:58.0 1.02006 6.62871 2020-08-31 14:44:19 UTC 2020-08-31 14:45:34 UTC
 3.289701    1:15  8:09.2 0.31590 4.69753 2020-08-31 14:46:06 UTC 2020-08-31 14:47:21 UTC
 Average: 8:12.4
+
+========================================================================
+
+No pack. Ran out to AA, 2 laps around AA, did intervals during the
+3rd, then did a 4th, for 15.6 miles total.  However, after my second
+interval I was lost in thought and rested longer than I should have.
+I realized what I had done, but I chose to rest 1:30 instead of 0:30
+so that all the other start and stop times would be correct (i.e., I
+start on the 0, then the 45, then the 30, then the 15).
+
+So, my average of 7:36.4 for ten intervals isn't fair because it
+doesn't include the first two intervals which were uphill.  I still
+think I got a great workout; I just can't use this weeks numbers as
+part of my analysis.
+
+The nice thing is that it was cool enough that I had extra water which
+allowed me to run 15.6 instead of 13.1.  I wouldn't have done that if
+my foot weren't better, either.  It's still not 100%, but it's moving
+in that direction.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_09_07_06_39_43_Running.gpx 
+3.526194    1:15  7:36.3 14.41779 0.00000 2020-09-07 14:13:15 UTC 2020-09-07 14:14:30 UTC
+3.563999    1:15  7:31.5 6.82306 2.54485 2020-09-07 14:15:00 UTC 2020-09-07 14:16:15 UTC
+3.498200    1:15  7:40.0 13.98452 0.28782 2020-09-07 14:16:55 UTC 2020-09-07 14:18:10 UTC
+3.631259    1:15  7:23.1 4.33658 4.71120 2020-09-07 14:18:20 UTC 2020-09-07 14:19:35 UTC
+3.814587    1:15  7:01.8 2.72771 4.55059 2020-09-07 14:20:16 UTC 2020-09-07 14:21:31 UTC
+3.521683    1:15  7:36.9 0.50174 7.39806 2020-09-07 14:22:03 UTC 2020-09-07 14:23:18 UTC
+3.543557    1:15  7:34.1 8.69038 4.35170 2020-09-07 14:23:48 UTC 2020-09-07 14:25:03 UTC
+3.384237    1:15  7:55.5 3.34541 4.67099 2020-09-07 14:25:33 UTC 2020-09-07 14:26:48 UTC
+3.399989    1:15  7:53.3 4.86080 4.64761 2020-09-07 14:27:17 UTC 2020-09-07 14:28:32 UTC
+3.415660    1:15  7:51.1 5.26330 4.37457 2020-09-07 14:29:04 UTC 2020-09-07 14:30:19 UTC
+Average: 7:36.4
+thread 'main' panicked at 'Was told to find 12 intervals, but found 10', src/gpx.rs:356:13
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
