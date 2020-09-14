@@ -2064,3 +2064,26 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running
 Average: 7:36.4
 thread 'main' panicked at 'Was told to find 12 intervals, but found 10', src/gpx.rs:356:13
 note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+========================================================================
+
+No pack.  I screwed up and started my third interval 15 seconds early.
+I then took an extra 15 second pause between my third and fourth lap
+to get back in sync.  I don't *think* that shift of 15 seconds helped
+me.  My guess is it harmed my stats, but not very much.
+
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_09_14_07_06_06_Running.gpx 
+3.517335    1:15  7:37.5 5.41841 4.10607 2020-09-14 14:39:07 UTC 2020-09-14 14:40:22 UTC
+3.347780    1:15  8:00.7 3.65000 1.95706 2020-09-14 14:40:54 UTC 2020-09-14 14:42:09 UTC
+3.346803    1:15  8:00.8 6.16487 1.93360 2020-09-14 14:42:27 UTC 2020-09-14 14:43:42 UTC
+3.594625    1:15  7:27.7 0.60772 3.77477 2020-09-14 14:44:26 UTC 2020-09-14 14:45:41 UTC
+3.282756    1:15  8:10.2 0.31272 6.48718 2020-09-14 14:46:08 UTC 2020-09-14 14:47:23 UTC
+3.753881    1:16  7:08.7 6.69424 2.57611 2020-09-14 14:47:54 UTC 2020-09-14 14:49:10 UTC
+3.740102    1:15  7:10.2 11.28258 0.00000 2020-09-14 14:49:43 UTC 2020-09-14 14:50:58 UTC
+3.664846    1:16  7:19.1 2.36998 4.46175 2020-09-14 14:51:28 UTC 2020-09-14 14:52:44 UTC
+4.030135    1:16  6:39.3 5.34380 1.75422 2020-09-14 14:53:11 UTC 2020-09-14 14:54:27 UTC
+3.497993    1:15  7:40.0 9.13834 1.40460 2020-09-14 14:54:57 UTC 2020-09-14 14:56:12 UTC
+3.446831    1:15  7:46.9 7.94523 0.06146 2020-09-14 14:56:39 UTC 2020-09-14 14:57:54 UTC
+4.064070    1:15  6:35.9 9.33136 1.60854 2020-09-14 14:58:24 UTC 2020-09-14 14:59:39 UTC
+Average: 7:28
