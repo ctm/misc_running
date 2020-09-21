@@ -2087,3 +2087,42 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running
 3.446831    1:15  7:46.9 7.94523 0.06146 2020-09-14 14:56:39 UTC 2020-09-14 14:57:54 UTC
 4.064070    1:15  6:35.9 9.33136 1.60854 2020-09-14 14:58:24 UTC 2020-09-14 14:59:39 UTC
 Average: 7:28
+
+========================================================================
+No pack.  My intervals were better than they look because I started
+significantly early.  I knew the north facing AA gate was closed, so when
+I saw my seconds were about to tick over to 00 I started my first interval
+before crossing the AA driveway (which is where I normally start from).
+
+That means I had more uphill overall and all that uphill was at the
+beginning.  I also had to dodge a vehicle that was in the right lane
+when I was about to cross the west facing AA road.  I didn't know if
+he wanted to turn right, so I went out to the bike lane and ran to the
+left of him, but it turns out he wanted to be in the left-most lane.
+Ugh.
+
+Additionally, I ran out of water by the end, which wasn't a big deal
+from a hydration POV, because it was relatively cool, but it did mean
+that I didn't have the cue of a bottle with liquid in it that I could
+shift from hand to hand at the end to know whether I was on an odd or
+even interval.
+
+FTR, I ran fasted this morning, and had 3 tablespoons of chia in 20
+oz. as my first water bottle and then 4 scoops of Tailwind (I think! I
+may have only used three) in my second bottle.  I think that works out
+fine when I'm only doing 13.1 miles.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_09_21_06_14_55_Running.gpx 
+3.598057    1:15  7:27.2 5.92721 0.00000 2020-09-21 13:47:58 UTC 2020-09-21 13:49:13 UTC
+3.092390    1:15  8:40.4 5.05134 0.00000 2020-09-21 13:49:44 UTC 2020-09-21 13:50:59 UTC
+3.352296    1:15  8:00.0 6.52916 0.00000 2020-09-21 13:51:30 UTC 2020-09-21 13:52:45 UTC
+3.437286    1:15  7:48.2 2.13343 0.00000 2020-09-21 13:53:16 UTC 2020-09-21 13:54:31 UTC
+3.509625    1:15  7:38.5 2.37211 1.08237 2020-09-21 13:54:58 UTC 2020-09-21 13:56:13 UTC
+3.941544    1:15  6:48.3 0.00000 5.14586 2020-09-21 13:56:44 UTC 2020-09-21 13:57:59 UTC
+3.927669    1:15  6:49.7 0.00000 6.18381 2020-09-21 13:58:30 UTC 2020-09-21 13:59:45 UTC
+3.932241    1:15  6:49.2 0.00000 7.96510 2020-09-21 14:00:15 UTC 2020-09-21 14:01:30 UTC
+3.915574    1:15  6:51.0 0.00000 6.86836 2020-09-21 14:01:59 UTC 2020-09-21 14:03:14 UTC
+3.616294    1:15  7:25.0 0.00000 3.07174 2020-09-21 14:03:44 UTC 2020-09-21 14:04:59 UTC
+3.615626    1:15  7:25.1 0.00000 1.18512 2020-09-21 14:05:27 UTC 2020-09-21 14:06:42 UTC
+3.613218    1:15  7:25.4 0.25897 1.89807 2020-09-21 14:07:17 UTC 2020-09-21 14:08:32 UTC
+Average: 7:25.6
