@@ -2126,3 +2126,34 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running
 3.615626    1:15  7:25.1 0.00000 1.18512 2020-09-21 14:05:27 UTC 2020-09-21 14:06:42 UTC
 3.613218    1:15  7:25.4 0.25897 1.89807 2020-09-21 14:07:17 UTC 2020-09-21 14:08:32 UTC
 Average: 7:25.6
+
+========================================================================
+No pack.  Two days ago was a mostly self-supported Mt. Taylor 50k.
+The race was canceled due to covid, but a bunch of people went out and
+played on the mountain that day.  I chose to do the full course in the
+normal direction, but started a half hour early with Bobby Keogh.
+Ken, Margaret and others had marked all the turns to the Continental
+Divide Trail, and I stayed with Bobby until we reached it, however
+after we split up, we both wound up getting of course.  I wound up
+bushwhacking it over some gnarly terrain to get back to rock tank.
+
+Anyway, I took yesterday off, and although I did intervals today, I
+had no oomph.  Not too surprising.  It was still nice to get out and
+do them.  My overall time for 13.1 miles was slightly faster than last
+week, but part of that had to do with it being cooler and me also not
+stopping to chat with anyone.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_09_28_06_49_24_Running.gpx 
+3.374151    1:15  7:56.9 6.61655 0.00000 2020-09-28 14:16:26 UTC 2020-09-28 14:17:41 UTC
+3.045803    1:15  8:48.3 5.49170 0.00000 2020-09-28 14:18:12 UTC 2020-09-28 14:19:27 UTC
+3.207125    1:15  8:21.8 6.76585 0.00000 2020-09-28 14:19:57 UTC 2020-09-28 14:21:12 UTC
+3.467354    1:17  7:44.1 1.96139 0.38143 2020-09-28 14:21:44 UTC 2020-09-28 14:23:01 UTC
+3.381663    1:15  7:55.9 3.45959 0.92679 2020-09-28 14:23:26 UTC 2020-09-28 14:24:41 UTC
+3.878275    1:15  6:54.9 0.00000 5.45597 2020-09-28 14:25:12 UTC 2020-09-28 14:26:27 UTC
+3.862899    1:16  6:56.6 0.00000 6.36404 2020-09-28 14:26:55 UTC 2020-09-28 14:28:11 UTC
+3.927474    1:16  6:49.7 0.00000 6.75580 2020-09-28 14:28:42 UTC 2020-09-28 14:29:58 UTC
+3.752431    1:15  7:08.8 0.00000 6.67866 2020-09-28 14:30:30 UTC 2020-09-28 14:31:45 UTC
+3.644173    1:15  7:21.6 0.12743 4.24658 2020-09-28 14:32:12 UTC 2020-09-28 14:33:27 UTC
+3.425155    1:15  7:49.8 0.00000 1.57928 2020-09-28 14:33:58 UTC 2020-09-28 14:35:13 UTC
+3.468111    1:15  7:44.0 0.28447 1.66342 2020-09-28 14:35:44 UTC 2020-09-28 14:36:59 UTC
+Average: 7:37.6
