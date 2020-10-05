@@ -2157,3 +2157,14 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running
 3.425155    1:15  7:49.8 0.00000 1.57928 2020-09-28 14:33:58 UTC 2020-09-28 14:35:13 UTC
 3.468111    1:15  7:44.0 0.28447 1.66342 2020-09-28 14:35:44 UTC 2020-09-28 14:36:59 UTC
 Average: 7:37.6
+
+========================================================================
+Quarter taper for Moab 240.  I don't have enough -c 3 runs to really
+know how this compares, although my first two interval is the fastest
+I've ever done, so there's that.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 3 ~/Documents/Running/Movescount/Move_2020_10_05_07_48_59_Running.gpx 
+3.812073    1:15  7:02.1 7.38914 0.00000 2020-10-05 14:02:29 UTC 2020-10-05 14:03:44 UTC
+2.993647    1:15  8:57.5 5.67535 0.00000 2020-10-05 14:04:17 UTC 2020-10-05 14:05:32 UTC
+4.046240    1:15  6:37.7 0.00000 9.30466 2020-10-05 14:06:03 UTC 2020-10-05 14:07:18 UTC
+Average: 7:32.4
