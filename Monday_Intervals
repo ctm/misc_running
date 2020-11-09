@@ -2172,11 +2172,39 @@ Average: 7:32.4
 Did a half distance Monday this morning because I'm still recovering from
 the Moab 240.
 
-bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 6 ~/Documents/Running/Movescount/Move_2020_10_19_07_50_23_Running.gpx 
-3.781046    1:15  7:05.6 6.18546 0.00000 2020-10-19 14:04:25 UTC 2020-10-19 14:05:40 UTC
-3.098277    1:15  8:39.4 5.88497 0.00000 2020-10-19 14:06:12 UTC 2020-10-19 14:07:27 UTC
-3.322655    1:15  8:04.3 7.13037 0.00000 2020-10-19 14:07:56 UTC 2020-10-19 14:09:11 UTC
-3.465565    1:15  7:44.3 2.43839 0.63251 2020-10-19 14:09:45 UTC 2020-10-19 14:11:00 UTC
-3.280727    1:15  8:10.5 3.53871 0.00000 2020-10-19 14:11:28 UTC 2020-10-19 14:12:43 UTC
-4.072268    1:15  6:35.1 0.00000 5.74256 2020-10-19 14:13:11 UTC 2020-10-19 14:14:26 UTC
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 6
+~/Documents/Running/Movescount/Move_2020_10_19_07_50_23_Running.gpx
+3.781046 1:15 7:05.6 6.18546 0.00000 2020-10-19 14:04:25 UTC
+2020-10-19 14:05:40 UTC 3.098277 1:15 8:39.4 5.88497 0.00000
+2020-10-19 14:06:12 UTC 2020-10-19 14:07:27 UTC 3.322655 1:15 8:04.3
+7.13037 0.00000 2020-10-19 14:07:56 UTC 2020-10-19 14:09:11 UTC
+3.465565 1:15 7:44.3 2.43839 0.63251 2020-10-19 14:09:45 UTC
+2020-10-19 14:11:00 UTC 3.280727 1:15 8:10.5 3.53871 0.00000
+2020-10-19 14:11:28 UTC 2020-10-19 14:12:43 UTC 4.072268 1:15 6:35.1
+0.00000 5.74256 2020-10-19 14:13:11 UTC 2020-10-19 14:14:26 UTC
 Average: 7:43.2
+========================================================================
+Only ran one lap before doing the intervals.  Today is the first
+Monday after DPTR53M, so it's comparable to 2018-11-05, which gave me
+a 7:03 average when I ran int_ave on it just now.  So, a minute and a
+half slower, but much of that is due to my gimpy foot.
+
+I should have run another lap after my interval lap and then also done
+a stub .9 miles to bring my total up to 13.1 miles, but between my bad
+foot and some GI distress, I decided to come home directly.  I may go
+out again later today, although letting the foot heal might be better.
+
+bash-3.2[remove_gain_and_loss_fudge]$ time target/release/int_ave ~/Documents/Running/Movescount/Move_2020_11_09_06_43_30_Running.gpx 
+3.118943    1:15  8:35.9 5.44636 0.00000 2020-11-09 13:37:31 UTC 2020-11-09 13:38:46 UTC
+2.767534    1:15  9:41.5 3.35495 0.00000 2020-11-09 13:39:20 UTC 2020-11-09 13:40:35 UTC
+2.921914    1:15  9:10.7 7.31557 0.00000 2020-11-09 13:41:04 UTC 2020-11-09 13:42:19 UTC
+3.091615    1:15  8:40.5 3.48499 0.00000 2020-11-09 13:42:48 UTC 2020-11-09 13:44:03 UTC
+3.155007    1:15  8:30.0 0.00000 1.35546 2020-11-09 13:44:35 UTC 2020-11-09 13:45:50 UTC
+2.815239    1:15  9:31.6 3.35149 0.00000 2020-11-09 13:46:20 UTC 2020-11-09 13:47:35 UTC
+3.436886    1:15  7:48.2 0.00000 3.71862 2020-11-09 13:48:02 UTC 2020-11-09 13:49:17 UTC
+3.527384    1:15  7:36.2 0.00000 6.19724 2020-11-09 13:49:48 UTC 2020-11-09 13:51:03 UTC
+3.472117    1:15  7:43.5 0.00000 6.57929 2020-11-09 13:51:32 UTC 2020-11-09 13:52:47 UTC
+3.446062    1:15  7:47.0 0.00000 5.37336 2020-11-09 13:53:18 UTC 2020-11-09 13:54:33 UTC
+3.219354    1:15  8:19.8 0.00000 4.13102 2020-11-09 13:55:04 UTC 2020-11-09 13:56:19 UTC
+3.146509    1:15  8:31.4 0.00000 2.92283 2020-11-09 13:56:47 UTC 2020-11-09 13:58:02 UTC
+Average: 8:29.7
