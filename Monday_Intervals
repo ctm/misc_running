@@ -2208,3 +2208,29 @@ bash-3.2[remove_gain_and_loss_fudge]$ time target/release/int_ave ~/Documents/Ru
 3.219354    1:15  8:19.8 0.00000 4.13102 2020-11-09 13:55:04 UTC 2020-11-09 13:56:19 UTC
 3.146509    1:15  8:31.4 0.00000 2.92283 2020-11-09 13:56:47 UTC 2020-11-09 13:58:02 UTC
 Average: 8:29.7
+
+========================================================================
+No pack.  Did intervals on my second (not third) lap around AA.  Got
+off to a late start due to chatting with Sophie when I was about to
+leave, only to find that my iPod touch was completely discharged.  So,
+I plugged it in and let it charge a while.  In the meantime, I made a
+third double espresso, even though I had planned on only having two
+before my run. So, the temperature rose rapidly from below freezing
+when I was initially thinking of running to 52F by the time I was
+done.
+
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_11_16_07_16_09_Running.gpx 
+3.536169    1:15  7:35.1 6.82978 0.00000 2020-11-16 14:03:13 UTC 2020-11-16 14:04:28 UTC
+3.177428    1:15  8:26.4 5.43360 0.00000 2020-11-16 14:04:59 UTC 2020-11-16 14:06:14 UTC
+3.340493    1:16  8:01.7 6.15051 0.00000 2020-11-16 14:06:42 UTC 2020-11-16 14:07:58 UTC
+3.787829    1:15  7:04.8 1.40801 2.21614 2020-11-16 14:08:50 UTC 2020-11-16 14:10:05 UTC
+3.230183    1:15  8:18.2 2.83751 0.00000 2020-11-16 14:10:13 UTC 2020-11-16 14:11:28 UTC
+3.972265    1:15  6:45.1 0.00000 5.86324 2020-11-16 14:11:59 UTC 2020-11-16 14:13:14 UTC
+4.194690    1:15  6:23.6 0.00000 7.91643 2020-11-16 14:13:42 UTC 2020-11-16 14:14:57 UTC
+4.105802    1:15  6:31.9 0.00000 7.23672 2020-11-16 14:15:28 UTC 2020-11-16 14:16:43 UTC
+4.004952    1:15  6:41.8 0.00000 7.00434 2020-11-16 14:17:12 UTC 2020-11-16 14:18:27 UTC
+3.984376    1:15  6:43.9 0.00000 5.05472 2020-11-16 14:18:56 UTC 2020-11-16 14:20:11 UTC
+3.515410    1:15  7:37.7 0.16060 1.19575 2020-11-16 14:20:45 UTC 2020-11-16 14:22:00 UTC
+3.633374    1:15  7:22.9 0.10787 0.47605 2020-11-16 14:22:31 UTC 2020-11-16 14:23:46 UTC
+Average: 7:17.8
