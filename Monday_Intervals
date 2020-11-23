@@ -2234,3 +2234,49 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running
 3.515410    1:15  7:37.7 0.16060 1.19575 2020-11-16 14:20:45 UTC 2020-11-16 14:22:00 UTC
 3.633374    1:15  7:22.9 0.10787 0.47605 2020-11-16 14:22:31 UTC 2020-11-16 14:23:46 UTC
 Average: 7:17.8
+
+========================================================================
+No pack, although I plan on having one next week.  Did intervals on my
+second lap around AA.  Got a late start due to chatting with Sophie.
+
+Screwed up on tenth interval and only ran about 60 seconds, then took
+45 second break (because I hadn't figured out what I had done wrong
+yet and tried to start at the right time, but even that was wrong...).
+As it was I wound up doing 13 laps because I had lost count and based
+on where I was, I figured I had another lap left, but I was in the
+wrong place because I hadn't run as hard as I should have for fifteen
+seconds.  As such, a *small* part of my abysmal performance is due to
+me not running enough on that last lap, but my first nine laps were
+also about ten seconds per mile slower than last week (7:13.4 average
+today vs. 7:03.3 average a week ago).
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_11_23_07_17_53_Running.gpx 
+3.267038    1:15  8:12.6 5.52407 0.00000 2020-11-23 15:08:40 UTC 2020-11-23 15:09:55 UTC
+3.200356    1:15  8:22.8 5.83740 0.00000 2020-11-23 15:10:28 UTC 2020-11-23 15:11:43 UTC
+3.446126    1:15  7:47.0 1.18126 0.38070 2020-11-23 15:12:13 UTC 2020-11-23 15:13:28 UTC
+3.324932    1:15  8:04.0 3.57351 0.29103 2020-11-23 15:13:57 UTC 2020-11-23 15:15:12 UTC
+4.096951    1:15  6:32.8 0.00000 6.54681 2020-11-23 15:15:41 UTC 2020-11-23 15:16:56 UTC
+3.877620    1:15  6:55.0 0.00000 6.66880 2020-11-23 15:17:27 UTC 2020-11-23 15:18:42 UTC
+3.896339    1:15  6:53.0 0.00000 7.19050 2020-11-23 15:19:10 UTC 2020-11-23 15:20:25 UTC
+3.851118    1:15  6:57.8 0.00000 6.80660 2020-11-23 15:20:56 UTC 2020-11-23 15:22:11 UTC
+3.552730    1:15  7:32.9 0.00000 3.92572 2020-11-23 15:22:36 UTC 2020-11-23 15:23:51 UTC
+3.554447    1:15  7:32.7 0.12741 1.09205 2020-11-23 15:24:14 UTC 2020-11-23 15:25:29 UTC
+3.585847    1:15  7:28.8 0.00000 1.38529 2020-11-23 15:25:56 UTC 2020-11-23 15:27:11 UTC
+3.799124    1:15  7:03.6 0.10601 0.12649 2020-11-23 15:27:42 UTC 2020-11-23 15:28:57 UTC
+Average: 7:26.9
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 13 ~/Documents/Running/Movescount/Move_2020_11_23_07_17_53_Running.gpx 
+3.553688    1:15  7:32.8 6.72045 0.00000 2020-11-23 15:06:54 UTC 2020-11-23 15:08:09 UTC
+3.267038    1:15  8:12.6 5.52407 0.00000 2020-11-23 15:08:40 UTC 2020-11-23 15:09:55 UTC
+3.200356    1:15  8:22.8 5.83740 0.00000 2020-11-23 15:10:28 UTC 2020-11-23 15:11:43 UTC
+3.446126    1:15  7:47.0 1.18126 0.38070 2020-11-23 15:12:13 UTC 2020-11-23 15:13:28 UTC
+3.324932    1:15  8:04.0 3.57351 0.29103 2020-11-23 15:13:57 UTC 2020-11-23 15:15:12 UTC
+4.096951    1:15  6:32.8 0.00000 6.54681 2020-11-23 15:15:41 UTC 2020-11-23 15:16:56 UTC
+3.877620    1:15  6:55.0 0.00000 6.66880 2020-11-23 15:17:27 UTC 2020-11-23 15:18:42 UTC
+3.896339    1:15  6:53.0 0.00000 7.19050 2020-11-23 15:19:10 UTC 2020-11-23 15:20:25 UTC
+3.851118    1:15  6:57.8 0.00000 6.80660 2020-11-23 15:20:56 UTC 2020-11-23 15:22:11 UTC
+3.552730    1:15  7:32.9 0.00000 3.92572 2020-11-23 15:22:36 UTC 2020-11-23 15:23:51 UTC
+3.554447    1:15  7:32.7 0.12741 1.09205 2020-11-23 15:24:14 UTC 2020-11-23 15:25:29 UTC
+3.585847    1:15  7:28.8 0.00000 1.38529 2020-11-23 15:25:56 UTC 2020-11-23 15:27:11 UTC
+3.799124    1:15  7:03.6 0.10601 0.12649 2020-11-23 15:27:42 UTC 2020-11-23 15:28:57 UTC
+Average: 7:27.4
+bash-3.2[remove_gain_and_loss_fudge]$ 
