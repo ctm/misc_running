@@ -2323,3 +2323,36 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 13 ~/Documents/R
 3.162855    1:15  8:28.8 0.15264 1.64260 2020-11-30 14:34:56 UTC 2020-11-30 14:36:11 UTC
 3.259089    1:15  8:13.8 0.14821 1.23028 2020-11-30 14:36:41 UTC 2020-11-30 14:37:56 UTC
 Average: 8:30.6
+
+========================================================================
+Although these are good numbers, they'd have been better if I hadn't
+had so much trouble with my water bottle and my glove/mitten
+combination.  Because it was well under freezing (22.8F) when I left,
+I wore lightweight gloves with an outer mitten shell.  Unfortunately,
+the Amphipod bottle that I use does not have anything other than
+tension holding the bottom of the strap to the bottle.  So, if I
+loosen the strap enough so that I can switch hands (which is how I
+keep count), I run the risk of the bottom of the strap coming off as I
+change hands.  With only thirty seconds between intervals, it was a
+bit of a race to get the bottle switched (my hands also don't work
+efficiently when they're cold).  In fact, the strap came off and hte
+bottle flew out of my hand in the middle of my sixth interval.
+
+Next week I'll have my pack again, so I'll be using two water bottles
+and I won't have this problem, although I'll have a hard time keeping
+count.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_12_07_06_30_20_Running.gpx 
+3.737906    1:15  7:10.5 6.12542 0.00000 2020-12-07 14:16:23 UTC 2020-12-07 14:17:38 UTC
+3.052474    1:15  8:47.2 6.20950 0.00000 2020-12-07 14:17:59 UTC 2020-12-07 14:19:14 UTC
+3.478575    1:15  7:42.6 5.06708 0.00000 2020-12-07 14:19:53 UTC 2020-12-07 14:21:08 UTC
+3.683522    1:15  7:16.9 1.57280 1.34513 2020-12-07 14:21:44 UTC 2020-12-07 14:22:59 UTC
+3.668097    1:15  7:18.7 3.06189 0.11147 2020-12-07 14:23:25 UTC 2020-12-07 14:24:40 UTC
+3.746751    1:15  7:09.5 0.00000 4.81763 2020-12-07 14:25:12 UTC 2020-12-07 14:26:27 UTC
+4.106983    1:15  6:31.8 0.00000 6.46435 2020-12-07 14:26:54 UTC 2020-12-07 14:28:09 UTC
+4.202245    1:15  6:22.9 0.00000 7.66718 2020-12-07 14:28:41 UTC 2020-12-07 14:29:56 UTC
+4.317062    1:15  6:12.7 0.00000 8.50328 2020-12-07 14:30:32 UTC 2020-12-07 14:31:47 UTC
+3.992063    1:15  6:43.1 0.30600 3.95333 2020-12-07 14:32:12 UTC 2020-12-07 14:33:27 UTC
+3.891299    1:15  6:53.5 0.17168 1.02946 2020-12-07 14:34:00 UTC 2020-12-07 14:35:15 UTC
+3.975364    1:15  6:44.8 0.00000 2.00817 2020-12-07 14:35:41 UTC 2020-12-07 14:36:56 UTC
+Average: 7:04.5
