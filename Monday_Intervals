@@ -2356,3 +2356,38 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running
 3.891299    1:15  6:53.5 0.17168 1.02946 2020-12-07 14:34:00 UTC 2020-12-07 14:35:15 UTC
 3.975364    1:15  6:44.8 0.00000 2.00817 2020-12-07 14:35:41 UTC 2020-12-07 14:36:56 UTC
 Average: 7:04.5
+
+========================================================================
+40.7# pack
+
+Today was pretty weird.  Due to vATLARGE over the last three days, I
+drank a lot and didn't get my normal amount of sleep.  In fact, there
+was a SAR call-out that I didn't attend yesterday late afternoon and
+this morning after getting up at my normal time, I couldn't find my
+gloves, so I went back to sleep until 8am.  So, I got a bunch of
+"extra" sleep that was make-up sleep and I also ate differently than
+normal.
+
+I don't currently have the file organized well enough for me to be
+sure, but these numbers look very good compared both to a bunch of
+last year's results I skimmed and two years ago (8:07.2 average).  How
+much of that is due to fitness and how much is due to good weather (it
+was just above freezing, cloudy and fairly humid, so I didn't have to
+worry about frostbite and didn't have to wear my ice hat) and
+different eating habits, I don't know.  It'll be interesting to see
+how I do two weeks from today.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_12_14_09_56_22_Running.gpx 
+3.272140    1:15  8:11.8 5.55623 0.00000 2020-12-14 17:49:24 UTC 2020-12-14 17:50:39 UTC
+2.938901    1:15  9:07.6 4.61876 0.00000 2020-12-14 17:51:11 UTC 2020-12-14 17:52:26 UTC
+2.987379    1:15  8:58.7 7.27650 0.00000 2020-12-14 17:52:55 UTC 2020-12-14 17:54:10 UTC
+3.085220    1:15  8:41.6 2.56221 0.32092 2020-12-14 17:54:39 UTC 2020-12-14 17:55:54 UTC
+3.385202    1:15  7:55.4 0.30821 2.71420 2020-12-14 17:56:26 UTC 2020-12-14 17:57:41 UTC
+3.295444    1:15  8:08.3 2.52455 1.41588 2020-12-14 17:58:11 UTC 2020-12-14 17:59:26 UTC
+3.737634    1:15  7:10.5 0.00000 6.33708 2020-12-14 17:59:56 UTC 2020-12-14 18:01:11 UTC
+3.692143    1:15  7:15.8 0.00000 7.37180 2020-12-14 18:01:40 UTC 2020-12-14 18:02:55 UTC
+3.623007    1:15  7:24.2 0.00000 5.84162 2020-12-14 18:03:26 UTC 2020-12-14 18:04:41 UTC
+3.765590    1:15  7:07.3 0.00000 7.34362 2020-12-14 18:05:10 UTC 2020-12-14 18:06:25 UTC
+3.765266    1:15  7:07.4 0.00000 3.37010 2020-12-14 18:06:57 UTC 2020-12-14 18:08:12 UTC
+3.655620    1:15  7:20.2 0.10941 2.68185 2020-12-14 18:08:42 UTC 2020-12-14 18:09:57 UTC
+Average: 7:52.4
