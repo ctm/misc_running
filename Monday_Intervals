@@ -2421,3 +2421,53 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running
 3.973067    1:15  6:45.0 0.00000 1.35333 2020-12-21 14:35:14 UTC 2020-12-21 14:36:29 UTC
 4.098276    1:15  6:32.6 0.23774 0.65694 2020-12-21 14:36:59 UTC 2020-12-21 14:38:14 UTC
 Average: 6:49.8
+
+========================================================================
+Ugh.  I miscounted and did 13 intervals instead of 12.  Actually, I
+didn't miscount; it's just that I was not as far from my starting
+point as I thought I should be when I finished my 12th, so I did
+another just to be sure.  Turns out that was because I was slower than
+two weeks ago...
+
+Unfortunately, if I run int_ave and let it find 12 intervals, it
+discards the first one which is slow (because it is uphill), so that
+isn't fair, but if I ask for all thirteen, then it includes the last
+one which is slightly faster than the average, so that also gives me
+slightly better stats.
+
+So, doing the math, the average for my first twelve intervals should
+be 7:58.1, which is 5.7 secs/mile slower than two weeks ago.  However,
+it was significantly hotter and today I weighed less in the morning
+than the previous day rather than more, so my guess is I didn't lose
+much fitness over the last two weeks, but I *may* not have gained
+much, either.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_12_28_06_35_37_Running.gpx 
+2.755363    1:15  9:44.0 3.89356 0.00000 2020-12-28 14:29:28 UTC 2020-12-28 14:30:43 UTC
+2.985846    1:15  8:58.9 7.42269 0.00000 2020-12-28 14:31:11 UTC 2020-12-28 14:32:26 UTC
+3.047525    1:15  8:48.0 2.22363 0.00000 2020-12-28 14:32:55 UTC 2020-12-28 14:34:10 UTC
+3.463792    1:15  7:44.6 0.00000 1.89988 2020-12-28 14:34:44 UTC 2020-12-28 14:35:59 UTC
+3.125503    1:15  8:34.9 3.30334 0.72324 2020-12-28 14:36:23 UTC 2020-12-28 14:37:38 UTC
+3.585060    1:15  7:28.9 0.00000 5.64340 2020-12-28 14:38:08 UTC 2020-12-28 14:39:23 UTC
+3.834294    1:15  6:59.7 0.00000 5.38713 2020-12-28 14:39:56 UTC 2020-12-28 14:41:11 UTC
+3.857246    1:15  6:57.2 0.00000 6.93085 2020-12-28 14:41:39 UTC 2020-12-28 14:42:54 UTC
+3.709446    1:15  7:13.8 0.00000 7.28299 2020-12-28 14:43:25 UTC 2020-12-28 14:44:40 UTC
+3.694642    1:15  7:15.5 0.06868 2.76890 2020-12-28 14:45:10 UTC 2020-12-28 14:46:25 UTC
+3.607148    1:15  7:26.1 0.00000 1.10866 2020-12-28 14:46:55 UTC 2020-12-28 14:48:10 UTC
+3.381445    1:15  7:55.9 0.25421 0.93912 2020-12-28 14:48:40 UTC 2020-12-28 14:49:55 UTC
+Average: 7:55.6
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 13 ~/Documents/Running/Movescount/Move_2020_12_28_06_35_37_Running.gpx 
+3.185490    1:15  8:25.2 4.92731 0.00000 2020-12-28 14:27:39 UTC 2020-12-28 14:28:54 UTC
+2.755363    1:15  9:44.0 3.89356 0.00000 2020-12-28 14:29:28 UTC 2020-12-28 14:30:43 UTC
+2.985846    1:15  8:58.9 7.42269 0.00000 2020-12-28 14:31:11 UTC 2020-12-28 14:32:26 UTC
+3.047525    1:15  8:48.0 2.22363 0.00000 2020-12-28 14:32:55 UTC 2020-12-28 14:34:10 UTC
+3.463792    1:15  7:44.6 0.00000 1.89988 2020-12-28 14:34:44 UTC 2020-12-28 14:35:59 UTC
+3.125503    1:15  8:34.9 3.30334 0.72324 2020-12-28 14:36:23 UTC 2020-12-28 14:37:38 UTC
+3.585060    1:15  7:28.9 0.00000 5.64340 2020-12-28 14:38:08 UTC 2020-12-28 14:39:23 UTC
+3.834294    1:15  6:59.7 0.00000 5.38713 2020-12-28 14:39:56 UTC 2020-12-28 14:41:11 UTC
+3.857246    1:15  6:57.2 0.00000 6.93085 2020-12-28 14:41:39 UTC 2020-12-28 14:42:54 UTC
+3.709446    1:15  7:13.8 0.00000 7.28299 2020-12-28 14:43:25 UTC 2020-12-28 14:44:40 UTC
+3.694642    1:15  7:15.5 0.06868 2.76890 2020-12-28 14:45:10 UTC 2020-12-28 14:46:25 UTC
+3.607148    1:15  7:26.1 0.00000 1.10866 2020-12-28 14:46:55 UTC 2020-12-28 14:48:10 UTC
+3.381445    1:15  7:55.9 0.25421 0.93912 2020-12-28 14:48:40 UTC 2020-12-28 14:49:55 UTC
+Average: 7:57.9
