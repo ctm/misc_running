@@ -2471,3 +2471,35 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 13 ~/Documents/R
 3.607148    1:15  7:26.1 0.00000 1.10866 2020-12-28 14:46:55 UTC 2020-12-28 14:48:10 UTC
 3.381445    1:15  7:55.9 0.25421 0.93912 2020-12-28 14:48:40 UTC 2020-12-28 14:49:55 UTC
 Average: 7:57.9
+
+========================================================================
+No pack
+
+I expected these numbers to suck, since I did a pack run yesterday
+(instead of Saturday) due to my running the Foothills Fat Ass 50k on
+Thursday, January first.  However, I cut my seventh interval short
+because my friend John, who walks around Albuquerque Academy picking
+up trash with his friend Larry and sometimes his wife Trudy, tripped
+and fell.  I stopped to pick him up and make sure he was OK.  That
+probably would have been a 6:30 rather than a 7:23, so knocking 53
+seconds divided by twelve intervals, suggests I might hae gotten
+closer to a 7:04 which is still pretty slow.
+
+On top of that, my heart-rate monitor was giving me bad readings, so I
+probably need to change the battery.
+
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Downloads/Move_2021_01_04_06_59_49_Running.gpx
+3.690827    1:15  7:16.0 6.40717 0.00000 2021-01-04 14:47:51 UTC 2021-01-04 14:49:06 UTC
+3.328747    1:15  8:03.4 5.07775 0.00000 2021-01-04 14:49:36 UTC 2021-01-04 14:50:51 UTC
+3.472645    1:15  7:43.4 5.46491 0.00000 2021-01-04 14:51:22 UTC 2021-01-04 14:52:37 UTC
+3.993117    1:15  6:43.0 0.84815 1.44685 2021-01-04 14:53:10 UTC 2021-01-04 14:54:25 UTC
+3.488453    1:15  7:41.3 3.77847 0.24490 2021-01-04 14:54:56 UTC 2021-01-04 14:56:11 UTC
+4.134861    1:15  6:29.2 0.00000 6.54257 2021-01-04 14:56:37 UTC 2021-01-04 14:57:52 UTC
+3.628093    1:15  7:23.5 0.00000 6.63619 2021-01-04 14:58:01 UTC 2021-01-04 14:59:16 UTC
+4.074472    1:15  6:34.9 0.00000 6.57528 2021-01-04 15:00:09 UTC 2021-01-04 15:01:24 UTC
+4.106517    1:15  6:31.9 0.00000 7.40955 2021-01-04 15:01:52 UTC 2021-01-04 15:03:07 UTC
+3.813373    1:15  7:02.0 0.11054 3.55786 2021-01-04 15:03:39 UTC 2021-01-04 15:04:54 UTC
+3.622428    1:15  7:24.2 0.15893 0.97348 2021-01-04 15:05:23 UTC 2021-01-04 15:06:38 UTC
+3.951767    1:15  6:47.2 0.06960 1.43407 2021-01-04 15:07:07 UTC 2021-01-04 15:08:22 UTC
+Average: 7:08.3
