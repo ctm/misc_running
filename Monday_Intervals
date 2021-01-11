@@ -2325,6 +2325,8 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 13 ~/Documents/R
 Average: 8:30.6
 
 ========================================================================
+No pack
+
 Although these are good numbers, they'd have been better if I hadn't
 had so much trouble with my water bottle and my glove/mitten
 combination.  Because it was well under freezing (22.8F) when I left,
@@ -2423,6 +2425,8 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running
 Average: 6:49.8
 
 ========================================================================
+With 4??.? pound pack
+
 Ugh.  I miscounted and did 13 intervals instead of 12.  Actually, I
 didn't miscount; it's just that I was not as far from my starting
 point as I thought I should be when I finished my 12th, so I did
@@ -2503,3 +2507,41 @@ bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Downloads/Move_20
 3.622428    1:15  7:24.2 0.15893 0.97348 2021-01-04 15:05:23 UTC 2021-01-04 15:06:38 UTC
 3.951767    1:15  6:47.2 0.06960 1.43407 2021-01-04 15:07:07 UTC 2021-01-04 15:08:22 UTC
 Average: 7:08.3
+
+========================================================================
+With 40.1 pound pack
+
+These are probably my best pack numbers ever, which is a little
+surprising because my iPod touch turned itself off before I started
+running them.  It was cold today and I thought to wear my iPod in my
+aquamarine running band so it would be next to my body and that worked
+initially, but when I switched from random tunes to Speed 3, I had to
+take it away from my body and it was probably around 17F at that point
+and it turned itself off.
+
+Eating a crap-ton of bread yesterday may have also helped top up my
+glycogen stores.  I didn't lose any weight between my morning reading
+yesterday and my morning reading today.  My overall pace for the
+entire 13.1 was pretty slow though in part because I needed to poop
+and that raises my HR, but I was trying to get an overall average of
+130bpm, so I had to walk quite a bit to bring the average down.
+
+I'm mighty curious as to what my average pace will be two days from
+now for my 10 mile speed pack run.  Two years ago I managed to pull
+off an 8:35 min/mile pace for that run (although it looks like I had
+no downtime at the first stoplight.
+
+bash-3.2[master]$ ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2021_01_11_07_02_03_Running.gpx 
+3.200986    1:15  8:22.7 5.88458 0.00000 2021-01-11 14:52:37 UTC 2021-01-11 14:53:52 UTC
+2.963212    1:15  9:03.1 5.13128 0.00000 2021-01-11 14:54:24 UTC 2021-01-11 14:55:39 UTC
+3.142841    1:15  8:32.0 6.73552 0.00000 2021-01-11 14:56:07 UTC 2021-01-11 14:57:22 UTC
+3.178358    1:15  8:26.3 2.61028 0.00000 2021-01-11 14:57:53 UTC 2021-01-11 14:59:08 UTC
+3.347414    1:15  8:00.7 0.64693 3.15074 2021-01-11 14:59:36 UTC 2021-01-11 15:00:51 UTC
+3.444456    1:15  7:47.2 0.71106 3.66570 2021-01-11 15:01:24 UTC 2021-01-11 15:02:39 UTC
+3.630215    1:15  7:23.3 0.00000 5.37055 2021-01-11 15:03:08 UTC 2021-01-11 15:04:23 UTC
+3.738051    1:15  7:10.5 0.00000 7.50418 2021-01-11 15:04:53 UTC 2021-01-11 15:06:08 UTC
+3.781962    1:15  7:05.5 0.00000 6.16670 2021-01-11 15:06:37 UTC 2021-01-11 15:07:52 UTC
+3.704785    1:15  7:14.3 0.00000 7.33078 2021-01-11 15:08:22 UTC 2021-01-11 15:09:37 UTC
+3.751823    1:15  7:08.9 0.00000 4.25909 2021-01-11 15:10:06 UTC 2021-01-11 15:11:21 UTC
+3.685382    1:15  7:16.6 0.26241 0.78646 2021-01-11 15:11:51 UTC 2021-01-11 15:13:06 UTC
+Average: 7:47.6
