@@ -2592,3 +2592,41 @@ is correct, because I'll be in greater Phoenix two weeks from today
 and so any interval work I do there will be boosted by me being at a
 much lower elevation.  And of course four weeks from today will
 probably be *much* hotter.
+
+========================================================================
+With a 40.4# pack (and minorly sprained ankle)
+
+Took a low speed fall on Saturday when lost in thought while on one of
+the few rocky hairpin turns.  I scraped up my right shin and minorly
+sprained my left ankle.  So, when I did my intervals today, I tried to
+go as fast as I could without stressing either leg too much.  I
+actually *felt* fast, but was on average 2 seconds per mile slower
+than two weeks ago.
+
+After doing my intervals, I walked a lot, so my complete time for 13.1
+miles was probably around 2:28:08 (I don't know for sure, because I
+didn't start my GPS watch at the beginning, however, I know I started
+pretty darn close to 7:00 and the last GPS timestamp in my track is
+9:28:08.
+
+FWIW, I started with a bit of trepidation (which is probably why I
+forgot to start my watch) and finished with mild discomfort, I'm glad
+I did it.  I probably didn't get as big of a training effect as I
+would have had I not been injured, but I think I would have lost
+fitness had I not run at all.  With luck I'll be able to run full
+speed on Wednesday.
+
+bash-3.2[master]$ ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2021_01_25_07_50_03_Running.gpx 
+3.237019    1:15  8:17.1 6.11177 0.00000 2021-01-25 14:54:05 UTC 2021-01-25 14:55:20 UTC
+3.034167    1:15  8:50.4 4.62719 0.00000 2021-01-25 14:55:49 UTC 2021-01-25 14:57:04 UTC
+2.945820    1:15  9:06.3 6.27572 0.00000 2021-01-25 14:57:37 UTC 2021-01-25 14:58:52 UTC
+3.048931    1:15  8:47.8 1.50335 0.00000 2021-01-25 14:59:21 UTC 2021-01-25 15:00:36 UTC
+3.388464    1:15  7:54.9 0.46172 3.00567 2021-01-25 15:01:05 UTC 2021-01-25 15:02:20 UTC
+3.353260    1:15  7:59.9 1.36977 3.33217 2021-01-25 15:02:53 UTC 2021-01-25 15:04:08 UTC
+3.879431    1:15  6:54.8 0.08966 5.45204 2021-01-25 15:04:39 UTC 2021-01-25 15:05:54 UTC
+3.703217    1:15  7:14.5 0.00000 6.34675 2021-01-25 15:06:22 UTC 2021-01-25 15:07:37 UTC
+3.788475    1:15  7:04.7 0.00000 6.07494 2021-01-25 15:08:06 UTC 2021-01-25 15:09:21 UTC
+3.639194    1:15  7:22.2 0.00000 6.36300 2021-01-25 15:09:51 UTC 2021-01-25 15:11:06 UTC
+3.788024    1:15  7:04.8 0.00000 4.02158 2021-01-25 15:11:36 UTC 2021-01-25 15:12:51 UTC
+3.689379    1:15  7:16.2 0.01164 1.17931 2021-01-25 15:13:22 UTC 2021-01-25 15:14:37 UTC
+Average: 7:49.5
