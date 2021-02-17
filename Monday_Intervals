@@ -2662,3 +2662,34 @@ bash-3.2[master]$ ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Mov
 3.687882    1:15  7:16.3 0.06464 2.30877 2021-02-08 17:11:26 UTC 2021-02-08 17:12:41 UTC
 3.690095    1:15  7:16.1 0.00000 1.56519 2021-02-08 17:13:13 UTC 2021-02-08 17:14:28 UTC
 Average: 7:25.9
+
+========================================================================
+With a 40.2 pound pack
+
+I was still pretty hurting from a combination of the Bosque Bigfoot
+50k as well as all the drinking I did that day.  However, this is also
+the first time that the GPX file I'm using comes from my convert-moves
+app, rather than from Movescount, so there's a chance that the numbers
+are off due to that.
+
+In fact, when I try running int_ave against the GPX file for 2/8 (the
+only interval day that I have other than the one here), int_ave isn't
+even able to find 12 intervals. So ...
+
+I'll probably have to look into the difference.  Until I do, it's not
+clear that starting today, the numbers here are useful at all.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Downloads/Move_2021_02_15_08_38_46_Running.gpx 
+2.465963  1:15.1 10:52.6 5.40665 0.00000 2021-02-15 16:36:53.948 UTC 2021-02-15 16:38:09.057 UTC
+2.630083    1:15 10:11.8 6.81360 0.00000 2021-02-15 16:38:17.648 UTC 2021-02-15 16:39:32.648 UTC
+2.701199    1:15  9:55.7 2.58764 0.15104 2021-02-15 16:40:06.648 UTC 2021-02-15 16:41:21.648 UTC
+3.046195    1:15  8:48.3 0.00000 1.83955 2021-02-15 16:41:57.648 UTC 2021-02-15 16:43:12.648 UTC
+2.640015    1:15 10:09.5 3.33125 0.00000 2021-02-15 16:43:50.648 UTC 2021-02-15 16:45:05.648 UTC
+3.106282    1:15  8:38.0 0.00000 4.53501 2021-02-15 16:45:33.649 UTC 2021-02-15 16:46:48.660 UTC
+2.710497    1:15  9:53.7 0.00000 5.67857 2021-02-15 16:47:42.734 UTC 2021-02-15 16:48:57.742 UTC
+3.185485  1:15.1  8:25.2 0.00000 6.09893 2021-02-15 16:49:05.855 UTC 2021-02-15 16:50:20.967 UTC
+3.099116    1:15  8:39.2 0.00000 4.64852 2021-02-15 16:50:50.648 UTC 2021-02-15 16:52:05.648 UTC
+3.235412    1:15  8:17.4 0.00000 7.08117 2021-02-15 16:52:32.648 UTC 2021-02-15 16:53:47.648 UTC
+3.153186    1:15  8:30.3 0.00000 3.51622 2021-02-15 16:54:18.648 UTC 2021-02-15 16:55:33.649 UTC
+3.481431  1:15.2  7:42.2 0.13381 2.74523 2021-02-15 16:56:03.679 UTC 2021-02-15 16:57:18.959 UTC
+Average: 9:10.6
