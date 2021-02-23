@@ -2631,7 +2631,7 @@ bash-3.2[master]$ ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Mov
 3.689379    1:15  7:16.2 0.01164 1.17931 2021-01-25 15:13:22 UTC 2021-01-25 15:14:37 UTC
 Average: 7:49.5
 
-========================================================================
+o========================================================================
 Without pack and with my intervals being my 3rd AA loop rather than my second.
 
 Today was scheduled far in advance to be a pack interval, but I took a
@@ -2663,33 +2663,76 @@ bash-3.2[master]$ ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Mov
 3.690095    1:15  7:16.1 0.00000 1.56519 2021-02-08 17:13:13 UTC 2021-02-08 17:14:28 UTC
 Average: 7:25.9
 
+FWIW, when run against the convert-moves GPX (which probaby has more
+accurate numbers than what I get from downloading from Movescount), I
+get a second faster:
+
+bash-3.2[remove_gain_and_loss_fudge]$ cargo run --bin int_ave ~/moves-still-count/convert-moves/Move_2021_02_08_08_25_50_Running.gpx 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.05s
+     Running `target/debug/int_ave /Users/ctm/moves-still-count/convert-moves/Move_2021_02_08_08_25_50_Running.gpx`
+3.740282    1:15  7:10.2 6.50566 0.00000 2021-02-08 16:53:57.417 UTC 2021-02-08 16:55:12.446 UTC
+3.237321    1:15  8:17.1 7.50793 0.00000 2021-02-08 16:55:42.417 UTC 2021-02-08 16:56:57.417 UTC
+3.386835    1:15  7:55.1 4.82688 0.00000 2021-02-08 16:57:25.417 UTC 2021-02-08 16:58:40.509 UTC
+3.463013    1:15  7:44.7 1.80109 0.99266 2021-02-08 16:59:12.417 UTC 2021-02-08 17:00:27.451 UTC
+3.226101  1:15.8  8:18.8 3.70693 0.14681 2021-02-08 17:00:57.519 UTC 2021-02-08 17:02:13.417 UTC
+3.937192    1:15  6:48.7 0.00000 5.62958 2021-02-08 17:02:45.417 UTC 2021-02-08 17:04:00.483 UTC
+3.803289  1:15.1  7:03.1 0.00000 6.02922 2021-02-08 17:04:25.417 UTC 2021-02-08 17:05:40.522 UTC
+3.799170    1:15  7:03.6 0.00000 7.49874 2021-02-08 17:06:11.417 UTC 2021-02-08 17:07:26.417 UTC
+3.905203    1:15  6:52.1 0.00000 7.58222 2021-02-08 17:07:55.417 UTC 2021-02-08 17:09:10.417 UTC
+3.736207    1:15  7:10.7 0.00000 4.72421 2021-02-08 17:09:42.417 UTC 2021-02-08 17:10:57.417 UTC
+3.694234  1:15.1  7:15.6 0.09154 2.34925 2021-02-08 17:11:26.710 UTC 2021-02-08 17:12:41.823 UTC
+3.687657    1:15  7:16.4 0.00000 1.52564 2021-02-08 17:13:12.417 UTC 2021-02-08 17:14:27.417 UTC
+Average: 7:24.9
 ========================================================================
 With a 40.2 pound pack
 
 I was still pretty hurting from a combination of the Bosque Bigfoot
 50k as well as all the drinking I did that day.  However, this is also
 the first time that the GPX file I'm using comes from my convert-moves
-app, rather than from Movescount, so there's a chance that the numbers
-are off due to that.
+app, rather than from Movescount, and my first use of int_ave gave
+me a reading of 9:10.6 due to int_ave not having a wide enough window
+to properly detect the intervals.  I've since made the window larger
+and rerun int_ave.
 
-In fact, when I try running int_ave against the GPX file for 2/8 (the
-only interval day that I have other than the one here), int_ave isn't
-even able to find 12 intervals. So ...
-
-I'll probably have to look into the difference.  Until I do, it's not
-clear that starting today, the numbers here are useful at all.
-
-bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Downloads/Move_2021_02_15_08_38_46_Running.gpx 
-2.465963  1:15.1 10:52.6 5.40665 0.00000 2021-02-15 16:36:53.948 UTC 2021-02-15 16:38:09.057 UTC
+bash-3.2[remove_gain_and_loss_fudge]$ cargo run --bin int_ave ~/moves-still-count/convert-moves/Move_2021_02_15_08_38_46_Running.gpx 
+   Compiling nom_fun v0.1.0 (/Users/ctm/playpens/rust/nom_fun)
+    Finished dev [unoptimized + debuginfo] target(s) in 1.38s
+     Running `target/debug/int_ave /Users/ctm/moves-still-count/convert-moves/Move_2021_02_15_08_38_46_Running.gpx`
+2.808016    1:15  9:33.1 4.07249 0.00000 2021-02-15 16:36:32.648 UTC 2021-02-15 16:37:47.680 UTC
 2.630083    1:15 10:11.8 6.81360 0.00000 2021-02-15 16:38:17.648 UTC 2021-02-15 16:39:32.648 UTC
 2.701199    1:15  9:55.7 2.58764 0.15104 2021-02-15 16:40:06.648 UTC 2021-02-15 16:41:21.648 UTC
 3.046195    1:15  8:48.3 0.00000 1.83955 2021-02-15 16:41:57.648 UTC 2021-02-15 16:43:12.648 UTC
 2.640015    1:15 10:09.5 3.33125 0.00000 2021-02-15 16:43:50.648 UTC 2021-02-15 16:45:05.648 UTC
 3.106282    1:15  8:38.0 0.00000 4.53501 2021-02-15 16:45:33.649 UTC 2021-02-15 16:46:48.660 UTC
-2.710497    1:15  9:53.7 0.00000 5.67857 2021-02-15 16:47:42.734 UTC 2021-02-15 16:48:57.742 UTC
+3.121478    1:15  8:35.5 0.00000 5.68670 2021-02-15 16:47:20.648 UTC 2021-02-15 16:48:35.648 UTC
 3.185485  1:15.1  8:25.2 0.00000 6.09893 2021-02-15 16:49:05.855 UTC 2021-02-15 16:50:20.967 UTC
 3.099116    1:15  8:39.2 0.00000 4.64852 2021-02-15 16:50:50.648 UTC 2021-02-15 16:52:05.648 UTC
 3.235412    1:15  8:17.4 0.00000 7.08117 2021-02-15 16:52:32.648 UTC 2021-02-15 16:53:47.648 UTC
 3.153186    1:15  8:30.3 0.00000 3.51622 2021-02-15 16:54:18.648 UTC 2021-02-15 16:55:33.649 UTC
 3.481431  1:15.2  7:42.2 0.13381 2.74523 2021-02-15 16:56:03.679 UTC 2021-02-15 16:57:18.959 UTC
-Average: 9:10.6
+Average: 8:57.4
+
+========================================================================
+With 40.5 pound pack
+
+A lot better than last week.  Still not as good as 2021-01-25
+(7:49.5), much less 2021-01-11 (7:47.6), which is my personal best
+with a pack.  Pretty good, considering.
+
+bash-3.2[remove_gain_and_loss_fudge]$ cargo run --bin int_ave ~/moves-still-count/convert-moves/Move_2021_02_22_07_34_32_Running.gpx 
+   Compiling nom_fun v0.1.0 (/Users/ctm/playpens/rust/nom_fun)
+    Finished dev [unoptimized + debuginfo] target(s) in 1.37s
+     Running `target/debug/int_ave /Users/ctm/moves-still-count/convert-moves/Move_2021_02_22_07_34_32_Running.gpx`
+3.153063    1:15  8:30.4 6.43514 0.00000 2021-02-22 15:27:33.283 UTC 2021-02-22 15:28:48.363 UTC
+2.895437    1:15  9:15.8 4.48703 0.00000 2021-02-22 15:29:19.525 UTC 2021-02-22 15:30:34.614 UTC
+2.942805    1:15  9:06.8 7.18046 0.00000 2021-02-22 15:31:03.287 UTC 2021-02-22 15:32:18.294 UTC
+3.264035  1:15.1  8:13.0 2.61454 0.00000 2021-02-22 15:32:48.500 UTC 2021-02-22 15:34:03.613 UTC
+3.294966  1:15.1  8:08.4 0.50467 1.45861 2021-02-22 15:34:33.278 UTC 2021-02-22 15:35:48.391 UTC
+3.219275    1:15  8:19.9 1.18464 1.36772 2021-02-22 15:36:20.283 UTC 2021-02-22 15:37:35.365 UTC
+3.715374    1:15  7:13.1 0.00000 5.71529 2021-02-22 15:38:05.278 UTC 2021-02-22 15:39:20.278 UTC
+3.641147    1:15  7:21.9 0.00000 5.18935 2021-02-22 15:39:49.278 UTC 2021-02-22 15:41:04.320 UTC
+3.857448    1:15  6:57.2 0.00000 7.32548 2021-02-22 15:41:37.282 UTC 2021-02-22 15:42:52.296 UTC
+3.703109    1:15  7:14.5 0.00000 6.06829 2021-02-22 15:43:20.281 UTC 2021-02-22 15:44:35.282 UTC
+3.444652    1:15  7:47.2 0.39074 3.06560 2021-02-22 15:45:06.282 UTC 2021-02-22 15:46:21.282 UTC
+3.332852    1:15  8:02.8 0.62898 0.65245 2021-02-22 15:46:52.282 UTC 2021-02-22 15:48:07.365 UTC
+Average: 8:01.3
