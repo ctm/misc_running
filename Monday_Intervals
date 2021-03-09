@@ -2784,3 +2784,22 @@ bash-3.2[master]$ ~/playpens/rust/nom_fun/target/release/int_ave -c 6 ~/moves-st
 4.176442    1:15  6:25.3 0.00000 6.23021 2021-03-09 14:57:33.128 UTC 2021-03-09 14:58:48.129 UTC
 3.961011  1:15.1  6:46.2 0.00000 5.83177 2021-03-09 14:59:17.156 UTC 2021-03-09 15:00:32.256 UTC
 Average: 7:20.5
+
+Oops... turns out I did seven intervals, which I only realized after
+looking at my pace profile on Strava.  I definitely got confused
+somewhere.  So, although I got a little bit of a workout, it's hard
+for me to estimate my fitness due to the weird numbers.  At least I
+know why my first interval was so slow. With "-c 6" my first interval
+was not even being counted.  Turns out, that's the second fastest I've
+run my first interval, which makes me feel a lot better, since it
+seemed fast (and tiring!) at the tine.
+
+bash-3.2[master]$ ~/playpens/rust/nom_fun/target/release/int_ave -c 7 ~/moves-still-count/convert-moves/Move_2021_03_09_07_35_45_Running.gpx 
+3.850149    1:15  6:57.9 5.61829 0.00000 2021-03-09 14:48:47.128 UTC 2021-03-09 14:50:02.163 UTC
+3.352854    1:15  7:59.9 6.05257 0.00000 2021-03-09 14:50:33.128 UTC 2021-03-09 14:51:48.148 UTC
+3.437731    1:15  7:48.1 3.39668 0.00000 2021-03-09 14:52:17.128 UTC 2021-03-09 14:53:32.128 UTC
+3.879977    1:15  6:54.7 0.29491 1.47041 2021-03-09 14:54:04.128 UTC 2021-03-09 14:55:19.139 UTC
+3.298552    1:15  8:07.8 3.05114 0.83582 2021-03-09 14:55:56.128 UTC 2021-03-09 14:57:11.128 UTC
+4.176442    1:15  6:25.3 0.00000 6.23021 2021-03-09 14:57:33.128 UTC 2021-03-09 14:58:48.129 UTC
+3.961011  1:15.1  6:46.2 0.00000 5.83177 2021-03-09 14:59:17.156 UTC 2021-03-09 15:00:32.256 UTC
+Average: 7:17.3
