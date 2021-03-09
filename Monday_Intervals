@@ -2765,3 +2765,22 @@ bash-3.2[master]$ ~/playpens/rust/nom_fun/target/release/int_ave ~/moves-still-c
 3.673756  1:15.2  7:18.0 0.11874 1.28619 2021-03-01 16:37:36.116 UTC 2021-03-01 16:38:51.328 UTC
 3.730303    1:15  7:11.4 0.00000 0.74874 2021-03-01 16:39:19.014 UTC 2021-03-01 16:40:34.014 UTC
 Average: 7:00.3
+
+========================================================================
+No pack.  On taper.  Should have done these yesterday, but with Sophie
+driving Jeanne home, I was tied up in the morning.  I suspect I did
+not run the entire 75 seconds in my fourth interval.  I think I got
+confused about when my ending should be.  I had a lot on my mind.
+
+FWIW, my first interval looks surprisingly slow.  I don't know what's
+up with that.  I didn't exercise on Sunday or Monday due to Jeanne's
+visit.
+
+bash-3.2[master]$ ~/playpens/rust/nom_fun/target/release/int_ave -c 6 ~/moves-still-count/convert-moves/Move_2021_03_09_07_35_45_Running.gpx 
+3.352854    1:15  7:59.9 6.05257 0.00000 2021-03-09 14:50:33.128 UTC 2021-03-09 14:51:48.148 UTC
+3.437731    1:15  7:48.1 3.39668 0.00000 2021-03-09 14:52:17.128 UTC 2021-03-09 14:53:32.128 UTC
+3.879977    1:15  6:54.7 0.29491 1.47041 2021-03-09 14:54:04.128 UTC 2021-03-09 14:55:19.139 UTC
+3.298552    1:15  8:07.8 3.05114 0.83582 2021-03-09 14:55:56.128 UTC 2021-03-09 14:57:11.128 UTC
+4.176442    1:15  6:25.3 0.00000 6.23021 2021-03-09 14:57:33.128 UTC 2021-03-09 14:58:48.129 UTC
+3.961011  1:15.1  6:46.2 0.00000 5.83177 2021-03-09 14:59:17.156 UTC 2021-03-09 15:00:32.256 UTC
+Average: 7:20.5
