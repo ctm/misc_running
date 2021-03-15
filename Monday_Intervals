@@ -645,6 +645,9 @@ bash-3.2[master]$ time target/release/nom_fun -c 6 ~/Downloads/Move_2019_03_04_0
 3.761973    1:15  7:12.7 0.35937 3.92822
 Average: 8:14.5
 
+========================================================================
+With 40# pack
+
 bash-3.2[master]$ time target/release/nom_fun -c 3 ~/Downloads/Move_2019_03_11_07_01_58_Running.gpx 
 4.106348    1:15  7:30.7 5.62751 0.00000
 3.522309    1:15  8:43.7 4.57222 0.00000
@@ -2803,3 +2806,18 @@ bash-3.2[master]$ ~/playpens/rust/nom_fun/target/release/int_ave -c 7 ~/moves-st
 4.176442    1:15  6:25.3 0.00000 6.23021 2021-03-09 14:57:33.128 UTC 2021-03-09 14:58:48.129 UTC
 3.961011  1:15.1  6:46.2 0.00000 5.83177 2021-03-09 14:59:17.156 UTC 2021-03-09 15:00:32.256 UTC
 Average: 7:17.3
+
+========================================================================
+With 40.6# pack (my weight was 164.1, the temp was 34.7F)
+
+The only other two times I've done 1/4 distance interval training with
+my pack are 20190311 (Average: 7:46.7, weight 163.9, temp unknown) and
+20200309 (Average: 8:08.5, weight 164.1, 37.4F but dropping).  So, I'm
+in between, but much closer to last year than two years ago.
+
+time ~/playpens/rust/nom_fun/target/release/int_ave -c 3 ~/Downloads/Move_2021_03_15_07_03_13_Running.gpx 
+<rget/release/int_ave -c 3 ~/Downloads/Move_2021_03_15_07_03_13_Running.gpx 
+3.327421    1:15  8:03.6 6.66614 0.00000 2021-03-15 13:18:14.800 UTC 2021-03-15 13:19:29.835 UTC
+3.050480    1:15  8:47.5 3.74607 0.00000 2021-03-15 13:19:58.800 UTC 2021-03-15 13:21:13.800 UTC
+3.719524  1:15.6  7:12.6 0.00000 5.86959 2021-03-15 13:21:44.133 UTC 2021-03-15 13:22:59.800 UTC
+Average: 8:02.6
