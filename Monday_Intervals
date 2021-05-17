@@ -3004,3 +3004,33 @@ morning.
 3.896094  1:15.1  6:53.0 0.33834 1.57176 2021-05-10 14:09:24.875 UTC 2021-05-10 14:10:40.010 UTC
 Average: 7:26.4
 
+========================================================================
+Without a pack.  Fasted.
+
+Easily my best fasted intervals ever, but these are actually my 3rd
+fastest intervals and the two faster ones were both done in winter
+when it's cooler and I probably was running with no water bottles. or
+perhaps one.  Today I had two water bottles, and I believe they slow
+me down (unless it's hot enough, like today, for the sips of water to
+be necessary).
+
+So, I'm super pleased with these stats, although to be fair, my
+Saturday was comparatively easy (just the first loop of the Chimney
+Melon 50k) and I only rode my bike 71 miles yesterday (because it was
+my mother's birthday and I wanted to take her to a Team RWB event that
+started at noon).
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2021_05_17_05_45_19_Running.gpx 
+3.773004    1:15  7:06.5 6.14611 0.00000 2021-05-17 12:40:20.407 UTC 2021-05-17 12:41:35.423 UTC
+3.362113    1:15  7:58.6 6.59812 0.00000 2021-05-17 12:42:05.395 UTC 2021-05-17 12:43:20.399 UTC
+3.526223    1:15  7:36.3 5.21833 0.00000 2021-05-17 12:43:50.395 UTC 2021-05-17 12:45:05.416 UTC
+3.848293  1:15.1  6:58.1 2.63515 2.84235 2021-05-17 12:45:36.395 UTC 2021-05-17 12:46:51.515 UTC
+3.808344    1:15  7:02.5 3.54907 0.73680 2021-05-17 12:47:22.731 UTC 2021-05-17 12:48:37.731 UTC
+4.367490    1:15  6:08.4 0.00000 6.58832 2021-05-17 12:49:07.430 UTC 2021-05-17 12:50:22.479 UTC
+4.357801    1:15  6:09.3 0.00000 8.21320 2021-05-17 12:50:53.395 UTC 2021-05-17 12:52:08.395 UTC
+4.251168    1:15  6:18.5 0.00000 6.45693 2021-05-17 12:52:36.395 UTC 2021-05-17 12:53:51.395 UTC
+4.210936  1:15.1  6:22.1 0.00000 4.76375 2021-05-17 12:54:21.464 UTC 2021-05-17 12:55:36.593 UTC
+3.671863    1:15  7:18.2 0.26551 2.53975 2021-05-17 12:55:59.396 UTC 2021-05-17 12:57:14.435 UTC
+4.152415  1:15.2  6:27.5 0.13072 1.28664 2021-05-17 12:57:50.395 UTC 2021-05-17 12:59:05.628 UTC
+4.012296    1:15  6:41.1 0.00000 0.20962 2021-05-17 12:59:37.395 UTC 2021-05-17 13:00:52.395 UTC
+Average: 6:50.9
