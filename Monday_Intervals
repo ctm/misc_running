@@ -3097,3 +3097,18 @@ time I started the intervals,
 3.967015  1:15.2  6:45.6 1.47409 4.62574 2021-06-07 13:17:38.691 UTC 2021-06-07 13:18:53.974 UTC
 3.948512    1:15  6:47.5 0.10681 5.60016 2021-06-07 13:19:24.544 UTC 2021-06-07 13:20:39.544 UTC
 Average: 6:46.9
+
+========================================================================
+No pack.  Fasted.  Only 6 due to taper.  Slow due to Chimney Melon 50k
+on Saturday and my lack of sleep last night due to stomach ache
+(probably due to the dodgy nectarine I ate earlier in the day) as well
+as today's heat and my choice to only take 20 oz. of water with me.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave -c 6 ~/Downloads/Move_2021_06_14_06_54_50_Running.gpx 
+3.474534  1:15.1  7:43.1 10.11561 5.82202 2021-06-14 14:05:52.054 UTC 2021-06-14 14:07:07.171 UTC
+3.223522  1:15.2  8:19.2 1.51024 6.15465 2021-06-14 14:07:37.843 UTC 2021-06-14 14:08:53.054 UTC
+3.150280    1:16  8:30.8 19.27451 0.00000 2021-06-14 14:09:24.056 UTC 2021-06-14 14:10:40.134 UTC
+3.516250  1:15.1  7:37.6 3.68837 0.92758 2021-06-14 14:11:10.203 UTC 2021-06-14 14:12:25.375 UTC
+3.467389    1:15  7:44.1 8.80899 0.13000 2021-06-14 14:12:53.054 UTC 2021-06-14 14:14:08.070 UTC
+3.726063  1:15.1  7:11.9 7.12872 2.18365 2021-06-14 14:14:39.199 UTC 2021-06-14 14:15:54.398 UTC
+Average: 7:52
