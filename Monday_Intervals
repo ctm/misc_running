@@ -3112,3 +3112,13 @@ as today's heat and my choice to only take 20 oz. of water with me.
 3.467389    1:15  7:44.1 8.80899 0.13000 2021-06-14 14:12:53.054 UTC 2021-06-14 14:14:08.070 UTC
 3.726063  1:15.1  7:11.9 7.12872 2.18365 2021-06-14 14:14:39.199 UTC 2021-06-14 14:15:54.398 UTC
 Average: 7:52
+
+========================================================================
+No pack. Fasted. Coming back from Affordable Automotive, so can't be
+compared to normal intervals.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave -c 3 ~/Downloads/Move_2021_06_21_05_51_40_Running.gpx 
+3.906889    1:15  6:51.9 4.77614 0.00000 2021-06-21 11:59:40.887 UTC 2021-06-21 12:00:55.901 UTC
+3.509707    1:15  7:38.5 3.77904 0.00000 2021-06-21 12:01:24.887 UTC 2021-06-21 12:02:39.887 UTC
+3.303417  1:15.1  8:07.1 4.25851 0.00000 2021-06-21 12:03:09.887 UTC 2021-06-21 12:04:25.011 UTC
+Average: 7:32.8
