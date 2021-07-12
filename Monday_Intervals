@@ -3122,3 +3122,17 @@ compared to normal intervals.
 3.509707    1:15  7:38.5 3.77904 0.00000 2021-06-21 12:01:24.887 UTC 2021-06-21 12:02:39.887 UTC
 3.303417  1:15.1  8:07.1 4.25851 0.00000 2021-06-21 12:03:09.887 UTC 2021-06-21 12:04:25.011 UTC
 Average: 7:32.8
+
+========================================================================
+No pack.  Fasted.  Done on the Silverton track.  1/4 distance taper since
+Hardrock is on Friday.  Completely gassed from the altitude.
+
+I don't think I have any other Silverton intervals to compare it to,
+but my guess is I'm doing well, considering.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave -c 3 ~/Downloads/Move_2021_07_12_05_48_09_Running.gpx 
+<release/int_ave -c 3 ~/Downloads/Move_2021_07_12_05_48_09_Running.gpx 
+4.336757    1:15  6:11.0 0.00000 0.00000 2021-07-12 12:00:08.304 UTC 2021-07-12 12:01:23.304 UTC
+3.829000    1:15  7:00.3 0.00000 0.00000 2021-07-12 12:01:55.304 UTC 2021-07-12 12:03:10.304 UTC
+3.597795    1:15  7:27.3 0.00000 0.00000 2021-07-12 12:03:41.304 UTC 2021-07-12 12:04:56.340 UTC
+Average: 6:52.9
