@@ -3188,3 +3188,30 @@ all be sub-optimal, so who knows what will happen?
 3.271521    1:15  8:11.9 1.08792 3.36287 2021-08-16 16:53:56.391 UTC 2021-08-16 16:55:11.468 UTC
 3.356721    1:15  7:59.4 0.09247 6.22145 2021-08-16 16:55:41.432 UTC 2021-08-16 16:56:56.457 UTC
 Average: 8:06.5
+
+========================================================================
+No pack. Fasted. Not sure why int_ave can only find 10
+intervals. Twelve show up when looking at my tracks on Strava.  I
+thought it might be a matter of my downhill running at the end
+(I ran to Michael Thomas and ran a BQ pace downhill on Alameda)
+confusing it, but clipping out the end didn't help.
+
+I've also tried clipping out the beginning and the end (but not
+uploading it to Strava where I can see it) and I still only got ten
+intervals.  As such, I can't compare it to any other date though
+because it may be clipping out two slow intervals.
+
+Overall I think I improved from last week's horrible intervals.
+
+[master]% time ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2021_08_23_06_40_46_Running.gpx 
+3.270908    1:15  8:12.0 5.94253 0.00000 2021-08-23 13:34:15.144 UTC 2021-08-23 13:35:30.144 UTC
+3.415281    1:15  7:51.2 1.97336 0.00000 2021-08-23 13:36:02.144 UTC 2021-08-23 13:37:17.144 UTC
+3.453083    1:15  7:46.0 1.53826 2.01705 2021-08-23 13:37:45.144 UTC 2021-08-23 13:39:00.147 UTC
+3.647583  1:15.1  7:21.2 0.31000 3.96030 2021-08-23 13:39:35.144 UTC 2021-08-23 13:40:50.249 UTC
+3.836339    1:15  6:59.4 0.00000 5.71572 2021-08-23 13:41:17.144 UTC 2021-08-23 13:42:32.144 UTC
+3.962793    1:15  6:46.1 0.00000 7.86554 2021-08-23 13:43:05.144 UTC 2021-08-23 13:44:20.194 UTC
+3.857396    1:15  6:57.2 0.00000 5.57776 2021-08-23 13:44:48.166 UTC 2021-08-23 13:46:03.201 UTC
+4.473045    1:15  5:59.7 0.00000 10.41385 2021-08-23 13:46:34.144 UTC 2021-08-23 13:47:49.144 UTC
+3.745352    1:15  7:09.6 1.66529 2.27322 2021-08-23 13:48:16.144 UTC 2021-08-23 13:49:31.188 UTC
+3.878479  1:15.1  6:54.9 0.56304 10.16569 2021-08-23 13:50:03.144 UTC 2021-08-23 13:51:18.258 UTC
+Average: 7:11.9
