@@ -3230,3 +3230,18 @@ but I'm still very optimistic.
 3.672245    1:15  7:18.2 3.80271 0.17000 2021-08-30 13:12:01.587 UTC 2021-08-30 13:13:16.587 UTC
 3.926693    1:15  6:49.8 0.00000 5.70474 2021-08-30 13:13:47.587 UTC 2021-08-30 13:15:02.587 UTC
 Average: 7:26.4
+
+========================================================================
+No pack.  Fasted.
+
+[master]% time ~/playpens/rust/nom_fun/target/release/int_ave -c 3 ~/Downloads/Move_2021_09_06_07_06_53_Running.gpx 
+3.896547  1:15.3  6:53.0 6.53429 0.00000 2021-09-06 13:19:52.752 UTC 2021-09-06 13:21:08.096 UTC
+3.623700    1:15  7:24.1 6.20811 0.00000 2021-09-06 13:21:38.686 UTC 2021-09-06 13:22:53.721 UTC
+4.585623    1:15  5:50.9 0.00000 11.00199 2021-09-06 13:23:22.686 UTC 2021-09-06 13:24:37.686 UTC
+Average: 6:43.3
+
+These are my fastest "-c 3" intervals yet.  OTOH, I don't have many of
+them to compare to.  OTOOH, most of the others were not done when I
+was fasted.  Additionally, my first mile was at an 8:33 pace and my HR
+was probably around 130bpm, so I do think these numbers bode well my
+BQ attempt coming up on Saturday.
