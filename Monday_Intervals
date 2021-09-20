@@ -3245,3 +3245,21 @@ them to compare to.  OTOOH, most of the others were not done when I
 was fasted.  Additionally, my first mile was at an 8:33 pace and my HR
 was probably around 130bpm, so I do think these numbers bode well my
 BQ attempt coming up on Saturday.
+
+========================================================================
+No pack.  Fasted.
+
+Not very fast, but still recovering from Big Cottonwood.
+
+Looks to me better than 2018_09_24 (9/24 in the 2018 section), but that year
+I did Tahoe 200 earlier in the month and didn't do Big Cottonwood.
+
+2019_09_23 was clearly worse, so I think it's likely that I'll run the
+Mt. Taylor 50k faster this year than 2019, but I just don't have enough
+data to speculate on beating my 2018 time.
+
+[bike]% time ~/playpens/rust/nom_fun/target/release/int_ave -c 3 ~/Downloads/Move_2021_09_20_07_12_41_Running.gpx 
+3.698496    1:15  7:15.1 5.65270 0.00000 2021-09-20 13:25:42.209 UTC 2021-09-20 13:26:57.209 UTC
+3.245702    1:15  8:15.8 4.91019 0.00000 2021-09-20 13:27:28.209 UTC 2021-09-20 13:28:43.209 UTC
+4.289140  1:15.5  6:15.2 0.23178 8.65647 2021-09-20 13:29:16.622 UTC 2021-09-20 13:30:32.209 UTC
+Average: 7:16.3
