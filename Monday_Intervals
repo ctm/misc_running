@@ -3286,3 +3286,27 @@ to the 00.  A bit beaten up from Mt. Taylor 50k on Saturday.
 3.282098  1:15.9  8:10.3 0.09735 0.15158 2021-09-27 13:19:57.614 UTC 2021-09-27 13:21:13.562 UTC
 Average: 7:56.6
 
+========================================================================
+No pack.  Fasted.  Not on normal course.  This was started on Wyoming headed
+toward Alameda, then down Alameda.  However, between crossing roads and
+dealing with other issues, I lost track of time here and there and some of
+the intervals have well more than thirty seconds of rest between them.
+
+So, today was fun, but those horrible numbers are a combination of
+tiredness from the weekend antics as well as traffic issues.  I
+suspect I still got *some* benefit from doing them.
+
+[master]% time ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2021_10_04_06_06_30_Running.gpx 
+3.256019    1:15  8:14.2 0.00000 5.28480 2021-10-04 12:14:08.568 UTC 2021-10-04 12:15:23.568 UTC
+3.168226    1:15  8:27.9 0.00000 5.57532 2021-10-04 12:15:56.568 UTC 2021-10-04 12:17:11.568 UTC
+3.067238  1:15.2  8:44.6 0.00000 6.48390 2021-10-04 12:17:11.568 UTC 2021-10-04 12:18:26.860 UTC
+3.026497    1:15  8:51.7 0.37391 0.07028 2021-10-04 12:19:14.568 UTC 2021-10-04 12:20:29.568 UTC
+4.131293    1:16  6:29.5 0.34016 1.56627 2021-10-04 12:21:33.588 UTC 2021-10-04 12:22:49.631 UTC
+4.179422    1:15  6:25.0 0.00000 9.87059 2021-10-04 12:23:17.819 UTC 2021-10-04 12:24:32.901 UTC
+3.735656    1:15  7:10.8 0.00000 7.05795 2021-10-04 12:25:04.568 UTC 2021-10-04 12:26:19.568 UTC
+3.877743    1:15  6:55.0 0.00000 6.41534 2021-10-04 12:27:32.568 UTC 2021-10-04 12:28:47.569 UTC
+3.949806    1:15  6:47.4 0.00000 8.23940 2021-10-04 12:29:23.678 UTC 2021-10-04 12:30:38.694 UTC
+4.034138    1:15  6:38.9 0.00000 3.70258 2021-10-04 12:31:47.568 UTC 2021-10-04 12:33:02.568 UTC
+3.275366    1:15  8:11.3 0.22274 1.62991 2021-10-04 12:33:10.568 UTC 2021-10-04 12:34:25.568 UTC
+3.955199    1:15  6:46.8 0.00000 4.41769 2021-10-04 12:34:47.568 UTC 2021-10-04 12:36:02.568 UTC
+Average: 7:28.8
