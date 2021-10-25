@@ -3310,3 +3310,17 @@ suspect I still got *some* benefit from doing them.
 3.275366    1:15  8:11.3 0.22274 1.62991 2021-10-04 12:33:10.568 UTC 2021-10-04 12:34:25.568 UTC
 3.955199    1:15  6:46.8 0.00000 4.41769 2021-10-04 12:34:47.568 UTC 2021-10-04 12:36:02.568 UTC
 Average: 7:28.8
+
+========================================================================
+No pack. Fasted.  I don't have a lot of -c 3 to compare this to.  It's
+certainly not my fastest, but I did ride (slowly!) the Day of the
+Tread century yesterday and the caffeine I took during the ride and
+the alcohol I consumed after did interfere with my sleep, so I'm
+pretty happy averaging "only" 14.6 secs / mile slower than my fastest.
+
+[master]% time ~/playpens/rust/nom_fun/target/release/int_ave -c 3 ~/Downloads/Move_2021_10_25_07_53_23_Running.gpx 
+<rget/release/int_ave -c 3 ~/Downloads/Move_2021_10_25_07_53_23_Running.gpx 
+3.826885  1:15.1  7:00.5 6.52545 0.00000 2021-10-25 14:07:22.594 UTC 2021-10-25 14:08:37.720 UTC
+3.434525    1:15  7:48.5 6.48442 0.00000 2021-10-25 14:09:08.594 UTC 2021-10-25 14:10:23.594 UTC
+4.424429    1:15  6:03.7 0.00000 10.14323 2021-10-25 14:10:55.610 UTC 2021-10-25 14:12:10.695 UTC
+Average: 6:57.9
