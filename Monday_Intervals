@@ -3324,3 +3324,22 @@ pretty happy averaging "only" 14.6 secs / mile slower than my fastest.
 3.434525    1:15  7:48.5 6.48442 0.00000 2021-10-25 14:09:08.594 UTC 2021-10-25 14:10:23.594 UTC
 4.424429    1:15  6:03.7 0.00000 10.14323 2021-10-25 14:10:55.610 UTC 2021-10-25 14:12:10.695 UTC
 Average: 6:57.9
+
+========================================================================
+37.7# pack. Fasted. Only downhill and half-hearted. Not even a Monday.
+
+I wasn't planning on doing intervals today, but I did a lot of walking
+so I could chat first with Dave and Tobias and then later with Peggy.
+As such I had a fair amount of oomph in me (considering the fact that
+I had done DPTR106M on Saturday an JJ100M the previous Saturday) and
+figured doing three downhill intervals would at least somewhat remind
+my body of what intervals with a pack are like.
+
+So, I can't compare these numbers to any other set of intervals, but I
+do think they served a useful purpose.
+
+[bike]% ~/playpens/rust/nom_fun/target/release/int_ave -c 3 ~/Downloads/Move_2021_11_10_06_51_55_Running.gpx 
+3.747216    1:15  7:09.4 0.00000 5.29408 2021-11-10 15:17:57.833 UTC 2021-11-10 15:19:12.881 UTC
+3.541727    1:15  7:34.3 0.00000 6.19391 2021-11-10 15:19:42.833 UTC 2021-11-10 15:20:57.833 UTC
+3.515075    1:15  7:37.8 0.00000 6.52261 2021-11-10 15:21:30.833 UTC 2021-11-10 15:22:45.833 UTC
+Average: 7:27.3
