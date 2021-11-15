@@ -3343,3 +3343,47 @@ do think they served a useful purpose.
 3.541727    1:15  7:34.3 0.00000 6.19391 2021-11-10 15:19:42.833 UTC 2021-11-10 15:20:57.833 UTC
 3.515075    1:15  7:37.8 0.00000 6.52261 2021-11-10 15:21:30.833 UTC 2021-11-10 15:22:45.833 UTC
 Average: 7:27.3
+
+========================================================================
+42.2# pack. Fasted. Did two AA laps prior to doing my intervals.  Got
+off to a late start, so it was a bit warm.  I was basically in no
+shape to do intervals of any sort today, but I was too tired yesterday
+to figure out just when to start my BMDM training, then I got up this
+morning and decided doing a crappy job of intervals was better than
+putting off my BMDM start until later.
+
+Pre-intervals I was very slowly running until I came across Dave
+(whose name I just learned today).  I stopped and chatted with him a
+little bit.
+
+I wound up doing 13 intervals because I swung my arms into my ibud
+wire and yanked it out of my iPod on my second (or third) interval.  I
+waited until my 30 second inter-interval slowdown to try to fix it,
+but couldn't get evertying right in 30 seconds, so I started an
+interval late and ...  thought I might have lost count, so after I had
+done what I thought was twelve, I did another.  FWIW, I haven't yet
+counted them on Strava, but my software was able to find thirteen (and
+couldn't find fourteen), so my guess is I did thirteen.
+
+This is the first time I've done a full twelve intervals with my pack
+in a fasted state.  After I was done with my intervals I was cooked,
+but I still walked to the turnaround, did another AA lap and head
+home.  As such I put 15.5 miles on my feet, but very slowly.
+
+I have a ton of room to improve.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave -c 13 ~/Downloads/Move_2021_11_15_06_58_19_Running.gpx 
+2.879186    1:15  9:18.9 0.00000 3.53388 2021-11-15 15:50:20.836 UTC 2021-11-15 15:51:35.836 UTC
+2.760937    1:15  9:42.8 0.00925 1.53608 2021-11-15 15:52:06.836 UTC 2021-11-15 15:53:21.836 UTC
+2.627987    1:15 10:12.3 2.54192 0.00000 2021-11-15 15:53:59.836 UTC 2021-11-15 15:55:14.860 UTC
+2.813035    1:15  9:32.1 0.46014 0.22364 2021-11-15 15:55:37.836 UTC 2021-11-15 15:56:52.838 UTC
+2.664449  1:15.1 10:04.0 0.00000 1.93936 2021-11-15 15:57:23.836 UTC 2021-11-15 15:58:38.966 UTC
+2.548298    1:15 10:31.5 0.30232 5.40472 2021-11-15 15:59:06.836 UTC 2021-11-15 16:00:21.836 UTC
+2.913592  1:15.1  9:12.3 0.00000 17.47169 2021-11-15 16:00:52.836 UTC 2021-11-15 16:02:07.981 UTC
+3.027583    1:15  8:51.5 0.00000 10.65002 2021-11-15 16:02:37.836 UTC 2021-11-15 16:03:52.838 UTC
+3.426671  1:15.1  7:49.6 7.31777 4.94265 2021-11-15 16:04:21.039 UTC 2021-11-15 16:05:36.156 UTC
+3.397515    1:15  7:53.6 0.33959 5.90714 2021-11-15 16:06:05.867 UTC 2021-11-15 16:07:20.940 UTC
+3.192680    1:15  8:24.0 28.36018 4.38301 2021-11-15 16:07:53.843 UTC 2021-11-15 16:09:08.872 UTC
+3.118261    1:15  8:36.1 0.00000 8.55885 2021-11-15 16:09:38.836 UTC 2021-11-15 16:10:53.877 UTC
+3.088343    1:15  8:41.1 0.00000 7.43594 2021-11-15 16:11:22.836 UTC 2021-11-15 16:12:37.903 UTC
+Average: 9:08.8
