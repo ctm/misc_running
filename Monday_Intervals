@@ -3501,3 +3501,31 @@ than not doing them at all.
 3.942300  1:15.1  6:48.2 0.00000 4.19675 2022-01-10 18:41:23.566 UTC 2022-01-10 18:42:38.739 UTC
 3.515161    1:15  7:37.8 0.00000 1.06559 2022-01-10 18:43:09.675 UTC 2022-01-10 18:44:24.675 UTC
 Average: 7:41.6
+
+========================================================================
+Fasted. No pack. Pretty poor although not too surprising seeing how I
+haven't done intervals for two months and took a lot of time away from
+running due to my bad foot. Additionally I did some portion of the
+intervals using a very exaggerated kick that isn't efficient in and of
+itself, but I hope has other benefits. Oh and my twelvth interval
+would have had me running into traffic at the main entrance to
+Albuquerque Academy so I made some detours that slowe me down and
+probably also didn't register properly on my ancient GPS watch.  My
+final excuse is that I got off to a late start and as such it was
+hotter than it would have been otherwise.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2022_03_14_07_56_27_Running.gpx 
+<release/int_ave ~/Downloads/Move_2022_03_14_07_56_27_Running.gpx 
+3.683263  1:15.1  7:16.9 6.32734 0.00000 2022-03-14 15:23:28.335 UTC 2022-03-14 15:24:43.469 UTC
+2.891591    1:15  9:16.5 4.88286 0.00000 2022-03-14 15:25:14.335 UTC 2022-03-14 15:26:29.343 UTC
+3.212354  1:15.9  8:20.9 6.08805 0.00000 2022-03-14 15:26:57.397 UTC 2022-03-14 15:28:13.338 UTC
+3.682695  1:15.2  7:17.0 1.89985 0.15250 2022-03-14 15:28:44.337 UTC 2022-03-14 15:29:59.605 UTC
+3.145289    1:15  8:31.6 2.59191 0.74593 2022-03-14 15:30:28.335 UTC 2022-03-14 15:31:43.335 UTC
+3.864154    1:15  6:56.4 0.00000 5.11316 2022-03-14 15:32:12.340 UTC 2022-03-14 15:33:27.340 UTC
+3.698634  1:15.1  7:15.1 0.00000 5.91012 2022-03-14 15:34:00.581 UTC 2022-03-14 15:35:15.743 UTC
+3.548863    1:15  7:33.4 0.00000 8.10118 2022-03-14 15:35:46.335 UTC 2022-03-14 15:37:01.398 UTC
+3.760079    1:15  7:08.0 0.00000 6.79343 2022-03-14 15:37:31.335 UTC 2022-03-14 15:38:46.335 UTC
+3.617294    1:15  7:24.9 0.00000 3.26998 2022-03-14 15:39:15.365 UTC 2022-03-14 15:40:30.395 UTC
+3.674563  1:15.1  7:17.9 0.00000 2.15102 2022-03-14 15:40:58.604 UTC 2022-03-14 15:42:13.781 UTC
+3.305434    1:15  8:06.8 0.37924 1.23230 2022-03-14 15:42:46.335 UTC 2022-03-14 15:44:01.335 UTC
+Average: 7:42.5
