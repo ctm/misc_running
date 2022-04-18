@@ -3612,4 +3612,23 @@ my base fitness can get me through Cocodona 250 w/o incident.
 3.723314    1:15  7:12.2 0.00000 2.06063 2022-04-11 14:49:54.505 UTC 2022-04-11 14:51:09.505 UTC
 3.768190  1:15.6  7:07.0 0.01755 1.65935 2022-04-11 14:51:39.827 UTC 2022-04-11 14:52:55.504 UTC
 Average: 7:27.1
-[master]% 
+
+========================================================================
+Fasted. 7.5# "pack". Only 6 intervals because I'm on my taper. Not
+good numbers, even with that pack.  I did, however start later in the
+day than normal so I'd be exercising in hotter weather than if I
+started early.
+
+My guess is my weight cutting in general and my Easter beers in
+specific are interfering with my speed, but I *think* I'd rather weigh
+less going into Cocodona 250 than weigh more but have faster interval
+times.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave -c 6 ~/Downloads/Move_2022_04_18_08_37_44_Running.gpx 
+3.490108  1:15.1  7:41.1 5.63527 0.00000 2022-04-18 14:52:46.122 UTC 2022-04-18 14:54:01.233 UTC
+3.198468    1:15  8:23.1 4.40724 0.00000 2022-04-18 14:54:33.122 UTC 2022-04-18 14:55:48.165 UTC
+2.975741    1:15  9:00.8 4.67207 0.00000 2022-04-18 14:56:15.122 UTC 2022-04-18 14:57:30.165 UTC
+3.365369  1:15.1  7:58.2 1.53771 0.37497 2022-04-18 14:58:03.943 UTC 2022-04-18 14:59:19.122 UTC
+3.227463  1:15.1  8:18.6 2.18178 1.76841 2022-04-18 14:59:45.122 UTC 2022-04-18 15:01:00.240 UTC
+3.588343    1:15  7:28.4 0.21000 3.91394 2022-04-18 15:01:34.122 UTC 2022-04-18 15:02:49.122 UTC
+Average: 8:08.9
