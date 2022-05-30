@@ -3632,3 +3632,86 @@ times.
 3.227463  1:15.1  8:18.6 2.18178 1.76841 2022-04-18 14:59:45.122 UTC 2022-04-18 15:01:00.240 UTC
 3.588343    1:15  7:28.4 0.21000 3.91394 2022-04-18 15:01:34.122 UTC 2022-04-18 15:02:49.122 UTC
 Average: 8:08.9
+
+========================================================================
+Fasted. No pack. Only 3 intervals, because I'm on my taper.
+
+% ~/playpens/rust/nom_fun/target/release/int_ave -c 3 ~/Downloads/Move_2022_04_25_08_34_36_Running.gpx 
+3.889804    1:15  6:53.7 0.00000 0.00000 2022-04-25 14:49:46 UTC 2022-04-25 14:51:01 UTC
+3.380943    1:15  7:56.0 0.00000 0.00000 2022-04-25 14:51:30 UTC 2022-04-25 14:52:45 UTC
+4.259425    1:15  6:17.8 0.00000 0.00000 2022-04-25 14:53:18 UTC 2022-04-25 14:54:33 UTC
+Average: 7:02.5
+
+========================================================================
+Fasted. 41.0 pound pack.
+
+One of my intervals was short because I don't yet have a face on my
+Vertix 2 that allows me to time them properly.  I did a 13th interval
+to make up for that.
+
+I did not do two AA laps before my intervals because it was the first
+ruck intervals I've done in a while. I only took 20 oz. of water and
+only planned on doing a single AA lap, but wound up walking a second
+lap and then running into Peggy (and Winston and Lacey) and then into
+Rich.
+
+% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2022_05_25_07_34_41_Running.gpx 
+2.790660    1:15  9:36.6 0.00000 0.00000 2022-05-25 13:53:27 UTC 2022-05-25 13:54:42 UTC
+2.759183    1:15  9:43.2 0.00000 0.00000 2022-05-25 13:55:12 UTC 2022-05-25 13:56:27 UTC
+2.818150    1:15  9:31.0 0.00000 0.00000 2022-05-25 13:56:54 UTC 2022-05-25 13:58:09 UTC
+3.053868    1:15  8:46.9 0.00000 0.00000 2022-05-25 13:58:34 UTC 2022-05-25 13:59:49 UTC
+2.922747    1:15  9:10.6 0.00000 0.00000 2022-05-25 14:00:20 UTC 2022-05-25 14:01:35 UTC
+3.338315    1:15  8:02.0 0.00000 0.00000 2022-05-25 14:02:04 UTC 2022-05-25 14:03:19 UTC
+3.423764    1:15  7:50.0 0.00000 0.00000 2022-05-25 14:03:49 UTC 2022-05-25 14:05:04 UTC
+3.325670    1:15  8:03.9 0.00000 0.00000 2022-05-25 14:05:33 UTC 2022-05-25 14:06:48 UTC
+3.112891    1:15  8:36.9 0.00000 0.00000 2022-05-25 14:07:07 UTC 2022-05-25 14:08:22 UTC
+3.297695    1:15  8:08.0 0.00000 0.00000 2022-05-25 14:08:47 UTC 2022-05-25 14:10:02 UTC
+3.185684    1:15  8:25.1 0.00000 0.00000 2022-05-25 14:10:35 UTC 2022-05-25 14:11:50 UTC
+3.150561    1:15  8:30.8 0.00000 0.00000 2022-05-25 14:12:18 UTC 2022-05-25 14:13:33 UTC
+Average: 8:42.1
+% ~/playpens/rust/nom_fun/target/release/int_ave -c 13 ~/Downloads/Move_2022_05_25_07_34_41_Running.gpx 
+3.020902    1:15  8:52.7 0.00000 0.00000 2022-05-25 13:51:42 UTC 2022-05-25 13:52:57 UTC
+2.790660    1:15  9:36.6 0.00000 0.00000 2022-05-25 13:53:27 UTC 2022-05-25 13:54:42 UTC
+2.759183    1:15  9:43.2 0.00000 0.00000 2022-05-25 13:55:12 UTC 2022-05-25 13:56:27 UTC
+2.818150    1:15  9:31.0 0.00000 0.00000 2022-05-25 13:56:54 UTC 2022-05-25 13:58:09 UTC
+3.053868    1:15  8:46.9 0.00000 0.00000 2022-05-25 13:58:34 UTC 2022-05-25 13:59:49 UTC
+2.922747    1:15  9:10.6 0.00000 0.00000 2022-05-25 14:00:20 UTC 2022-05-25 14:01:35 UTC
+3.338315    1:15  8:02.0 0.00000 0.00000 2022-05-25 14:02:04 UTC 2022-05-25 14:03:19 UTC
+3.423764    1:15  7:50.0 0.00000 0.00000 2022-05-25 14:03:49 UTC 2022-05-25 14:05:04 UTC
+3.325670    1:15  8:03.9 0.00000 0.00000 2022-05-25 14:05:33 UTC 2022-05-25 14:06:48 UTC
+3.112891    1:15  8:36.9 0.00000 0.00000 2022-05-25 14:07:07 UTC 2022-05-25 14:08:22 UTC
+3.297695    1:15  8:08.0 0.00000 0.00000 2022-05-25 14:08:47 UTC 2022-05-25 14:10:02 UTC
+3.185684    1:15  8:25.1 0.00000 0.00000 2022-05-25 14:10:35 UTC 2022-05-25 14:11:50 UTC
+3.150561    1:15  8:30.8 0.00000 0.00000 2022-05-25 14:12:18 UTC 2022-05-25 14:13:33 UTC
+Average: 8:42.9
+
+Back in November, when it was colder and I was probably fitter, I got an 8:19.4 on November
+22nd.  However, I haven't done many pack intervals in the last year, so this is a good start.
+========================================================================
+Fasted. 40.7# pack.
+
+This time my Vertix 2 was able to give me elapsed time rather than lap
+time, so none of these were short.  I felt faster than I did on
+Wednesday and really can't at all be surprised that I wasn't able to
+muster an 8:19.4 like I did at the end of November of last year.
+
+My guess is I got an "OK" training effect from this.  I did not do any
+additional running because I wanted to get to the Memorial Day service
+in time, but still got there late because the web-site that I got the
+time from claimed it started at 11am, but it had started at 10am.
+Ugh.
+
+% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2022_05_30_07_41_39_Running.gpx 
+3.063029    1:15  8:45.4 0.00000 0.00000 2022-05-30 13:58:41 UTC 2022-05-30 13:59:56 UTC
+2.916811    1:15  9:11.7 0.00000 0.00000 2022-05-30 14:00:28 UTC 2022-05-30 14:01:43 UTC
+2.827145    1:15  9:29.2 0.00000 0.00000 2022-05-30 14:02:12 UTC 2022-05-30 14:03:27 UTC
+3.087928    1:15  8:41.1 0.00000 0.00000 2022-05-30 14:03:57 UTC 2022-05-30 14:05:12 UTC
+3.202326    1:15  8:22.5 0.00000 0.00000 2022-05-30 14:05:41 UTC 2022-05-30 14:06:56 UTC
+3.107808    1:15  8:37.8 0.00000 0.00000 2022-05-30 14:07:28 UTC 2022-05-30 14:08:43 UTC
+3.356341    1:15  7:59.4 0.00000 0.00000 2022-05-30 14:09:12 UTC 2022-05-30 14:10:27 UTC
+3.301076    1:15  8:07.5 0.00000 0.00000 2022-05-30 14:10:59 UTC 2022-05-30 14:12:14 UTC
+3.283895    1:15  8:10.0 0.00000 0.00000 2022-05-30 14:12:44 UTC 2022-05-30 14:13:59 UTC
+3.335727    1:15  8:02.4 0.00000 0.00000 2022-05-30 14:14:27 UTC 2022-05-30 14:15:42 UTC
+3.174234    1:15  8:27.0 0.00000 0.00000 2022-05-30 14:16:11 UTC 2022-05-30 14:17:26 UTC
+3.202447    1:15  8:22.5 0.00000 0.00000 2022-05-30 14:17:57 UTC 2022-05-30 14:19:12 UTC
+Average: 8:31.4
