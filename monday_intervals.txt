@@ -3271,7 +3271,6 @@ on the 45, so I slowed down then realized I was supposed to have run
 to the 00.  A bit beaten up from Mt. Taylor 50k on Saturday.
 
 [master]% time ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2021_09_27_06_00_38_Running.gpx 
-<rget/release/int_ave ~/Downloads/Move_2021_09_27_06_00_38_Running.gpx 
 3.547088    1:15  7:33.7 4.93480 0.00000 2021-09-27 13:00:37.562 UTC 2021-09-27 13:01:52.562 UTC
 2.694944    1:15  9:57.1 4.61834 0.00000 2021-09-27 13:02:28.562 UTC 2021-09-27 13:03:43.562 UTC
 2.888591    1:15  9:17.1 5.30783 0.00000 2021-09-27 13:04:13.562 UTC 2021-09-27 13:05:28.562 UTC
@@ -3319,7 +3318,6 @@ the alcohol I consumed after did interfere with my sleep, so I'm
 pretty happy averaging "only" 14.6 secs / mile slower than my fastest.
 
 [master]% time ~/playpens/rust/nom_fun/target/release/int_ave -c 3 ~/Downloads/Move_2021_10_25_07_53_23_Running.gpx 
-<rget/release/int_ave -c 3 ~/Downloads/Move_2021_10_25_07_53_23_Running.gpx 
 3.826885  1:15.1  7:00.5 6.52545 0.00000 2021-10-25 14:07:22.594 UTC 2021-10-25 14:08:37.720 UTC
 3.434525    1:15  7:48.5 6.48442 0.00000 2021-10-25 14:09:08.594 UTC 2021-10-25 14:10:23.594 UTC
 4.424429    1:15  6:03.7 0.00000 10.14323 2021-10-25 14:10:55.610 UTC 2021-10-25 14:12:10.695 UTC
@@ -3487,7 +3485,6 @@ discomfort.  So, I did all 12 intervals, but I sucked.  Still better
 than not doing them at all.
 
 [master]% time ~/playpens/rust/nom_fun/target/release/int_ave  ~/Downloads/Move_2022_01_10_09_50_49_Running.gpx 
-<rget/release/int_ave  ~/Downloads/Move_2022_01_10_09_50_49_Running.gpx 
 3.166848    1:15  8:28.1 5.46028 0.00000 2022-01-10 18:23:52.566 UTC 2022-01-10 18:25:07.635 UTC
 3.262096    1:15  8:13.3 5.91579 0.00000 2022-01-10 18:25:38.566 UTC 2022-01-10 18:26:53.590 UTC
 3.071394  1:15.1  8:43.9 5.50576 0.00000 2022-01-10 18:27:23.566 UTC 2022-01-10 18:28:38.680 UTC
@@ -3515,7 +3512,6 @@ final excuse is that I got off to a late start and as such it was
 hotter than it would have been otherwise.
 
 [master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2022_03_14_07_56_27_Running.gpx 
-<release/int_ave ~/Downloads/Move_2022_03_14_07_56_27_Running.gpx 
 3.683263  1:15.1  7:16.9 6.32734 0.00000 2022-03-14 15:23:28.335 UTC 2022-03-14 15:24:43.469 UTC
 2.891591    1:15  9:16.5 4.88286 0.00000 2022-03-14 15:25:14.335 UTC 2022-03-14 15:26:29.343 UTC
 3.212354  1:15.9  8:20.9 6.08805 0.00000 2022-03-14 15:26:57.397 UTC 2022-03-14 15:28:13.338 UTC
@@ -3538,7 +3534,6 @@ out that I had made a mistake, the fifteen seconds were gone.  That's
 probably on my 9th, judging from the times.
 
 [master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2022_03_28_06_19_48_Running.gpx 
-<release/int_ave ~/Downloads/Move_2022_03_28_06_19_48_Running.gpx 
 3.431111    1:15  7:49.0 4.77750 0.15364 2022-03-28 13:50:48.066 UTC 2022-03-28 13:52:03.069 UTC
 2.943797  1:15.2  9:06.6 4.14746 0.01791 2022-03-28 13:52:36.275 UTC 2022-03-28 13:53:51.519 UTC
 3.309832    1:15  8:06.2 6.85474 0.00000 2022-03-28 13:54:20.066 UTC 2022-03-28 13:55:35.071 UTC
@@ -3744,7 +3739,6 @@ actual races and want more practice and body adaptations so I can do
 it efficiently.
 
 [master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2022_06_06_07_06_10_Running.gpx 
-<release/int_ave ~/Downloads/Move_2022_06_06_07_06_10_Running.gpx 
 3.493678    1:15  7:40.6 0.00000 0.00000 2022-06-06 13:24:13 UTC 2022-06-06 13:25:28 UTC
 3.260374    1:15  8:13.6 0.00000 0.00000 2022-06-06 13:25:57 UTC 2022-06-06 13:27:12 UTC
 3.356256    1:15  7:59.5 0.00000 0.00000 2022-06-06 13:27:44 UTC 2022-06-06 13:28:59 UTC
@@ -3759,7 +3753,6 @@ it efficiently.
 3.627459    1:15  7:23.6 0.00000 0.00000 2022-06-06 13:43:44 UTC 2022-06-06 13:44:59 UTC
 Average: 7:06.1
 [master]% ~/playpens/rust/nom_fun/target/release/int_ave -c 13 ~/Downloads/Move_2022_06_06_07_06_10_Running.gpx 
-<release/int_ave -c 13 ~/Downloads/Move_2022_06_06_07_06_10_Running.gpx 
 3.493678    1:15  7:40.6 0.00000 0.00000 2022-06-06 13:24:13 UTC 2022-06-06 13:25:28 UTC
 3.260374    1:15  8:13.6 0.00000 0.00000 2022-06-06 13:25:57 UTC 2022-06-06 13:27:12 UTC
 3.356256    1:15  7:59.5 0.00000 0.00000 2022-06-06 13:27:44 UTC 2022-06-06 13:28:59 UTC
@@ -3774,4 +3767,26 @@ Average: 7:06.1
 3.627459    1:15  7:23.6 0.00000 0.00000 2022-06-06 13:43:44 UTC 2022-06-06 13:44:59 UTC
 3.427745    1:15  7:49.5 0.00000 0.00000 2022-06-06 13:45:27 UTC 2022-06-06 13:46:42 UTC
 Average: 7:09.5
-[master]% 
+
+========================================================================
+Fasted. No pack.  Only slightly faster than last week, although I
+weighed 1.3 pounds more.  Like last week, I did not do any laps around
+Albuquerque Academy before doing my intervals.  However, I did have a
+handheld this time.  I *think* it was warmer today than a week ago, so
+I'm guessing these numbers really do represent a slight gain in
+fitness.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2022_06_13_06_52_00_Running.gpx 
+3.729801    1:15  7:11.4 0.00000 0.00000 2022-06-13 13:09:41 UTC 2022-06-13 13:10:56 UTC
+3.280352    1:15  8:10.6 0.00000 0.00000 2022-06-13 13:11:25 UTC 2022-06-13 13:12:40 UTC
+3.456519    1:15  7:45.5 0.00000 0.00000 2022-06-13 13:13:12 UTC 2022-06-13 13:14:27 UTC
+3.886057    1:15  6:54.1 0.00000 0.00000 2022-06-13 13:14:57 UTC 2022-06-13 13:16:12 UTC
+3.585668    1:15  7:28.8 0.00000 0.00000 2022-06-13 13:16:46 UTC 2022-06-13 13:18:01 UTC
+4.236920    1:15  6:19.8 0.00000 0.00000 2022-06-13 13:18:28 UTC 2022-06-13 13:19:43 UTC
+4.225463    1:15  6:20.8 0.00000 0.00000 2022-06-13 13:20:16 UTC 2022-06-13 13:21:31 UTC
+4.039522    1:15  6:38.3 0.00000 0.00000 2022-06-13 13:21:56 UTC 2022-06-13 13:23:11 UTC
+3.959042    1:15  6:46.4 0.00000 0.00000 2022-06-13 13:23:40 UTC 2022-06-13 13:24:55 UTC
+3.799342    1:15  7:03.5 0.00000 0.00000 2022-06-13 13:25:25 UTC 2022-06-13 13:26:40 UTC
+3.765867    1:15  7:07.3 0.00000 0.00000 2022-06-13 13:27:10 UTC 2022-06-13 13:28:25 UTC
+3.944357    1:15  6:48.0 0.00000 0.00000 2022-06-13 13:28:57 UTC 2022-06-13 13:30:12 UTC
+Average: 7:02.9
