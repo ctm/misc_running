@@ -3952,3 +3952,16 @@ Average: 7:32.7
 Average: 7:32.7
 thread 'main' panicked at 'Was told to find 15 intervals, but found 14', src/gpx.rs:331:13
 note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+
+========================================================================
+No pack. Fasted.
+
+Taper for Mt. Taylor 50k / Recovery from AA 50k & Tour of the Rio Grande
+
+Not particularly fast. My legs are just tired from the weekend.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave -c 3 ~/Downloads/Move_2022_09_26_07_29_00_Running.gpx 
+3.625600    1:15  7:23.8 0.00000 0.00000 2022-09-26 13:43:37 UTC 2022-09-26 13:44:52 UTC
+3.346008    1:15  8:00.9 0.00000 0.00000 2022-09-26 13:45:20 UTC 2022-09-26 13:46:35 UTC
+4.178295    1:15  6:25.1 0.00000 0.00000 2022-09-26 13:47:07 UTC 2022-09-26 13:48:22 UTC
+Average: 7:16.6
