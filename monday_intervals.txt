@@ -3965,3 +3965,19 @@ Not particularly fast. My legs are just tired from the weekend.
 3.346008    1:15  8:00.9 0.00000 0.00000 2022-09-26 13:45:20 UTC 2022-09-26 13:46:35 UTC
 4.178295    1:15  6:25.1 0.00000 0.00000 2022-09-26 13:47:07 UTC 2022-09-26 13:48:22 UTC
 Average: 7:16.6
+========================================================================
+No pack. Not fasted.  Downhill in the dark on a sidewalk I'm not *that*
+familiar with.
+
+I only did three intervals today because I'm recovering from the
+Mt. Taylor 50k and tapering for the Feral Hog 50k (rucksack division).
+I didn't do them in my normal place (by Albuquerque Academy) due to it
+being the Albuquerque International Balloon Fiesta.  I crew there
+every year and run from my house to the Fiesta grounds.  I wore a
+headlamp, and had to be aware of traffic lights.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave -c 3 ~/Downloads/Move_2022_10_03_06_01_00.gpx 
+4.227774    1:15  6:20.6 0.00000 0.00000 2022-10-03 12:20:46 UTC 2022-10-03 12:22:01 UTC
+4.198998    1:15  6:23.2 0.00000 0.00000 2022-10-03 12:22:30 UTC 2022-10-03 12:23:45 UTC
+3.960191    1:15  6:46.3 0.00000 0.00000 2022-10-03 12:24:16 UTC 2022-10-03 12:25:31 UTC
+Average: 6:30.1
