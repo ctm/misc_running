@@ -3981,3 +3981,14 @@ headlamp, and had to be aware of traffic lights.
 4.198998    1:15  6:23.2 0.00000 0.00000 2022-10-03 12:22:30 UTC 2022-10-03 12:23:45 UTC
 3.960191    1:15  6:46.3 0.00000 0.00000 2022-10-03 12:24:16 UTC 2022-10-03 12:25:31 UTC
 Average: 6:30.1
+
+========================================================================
+No pack. Fasted.
+
+Taper for Tortugas Mountain & DCM / Recovery from Feral Hog 50k rucksack.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave -c 3 ~/Downloads/Move_2022_10_10_08_51_00_Running.gpx 
+3.753042    1:15  7:08.8 0.00000 0.00000 2022-10-10 15:05:30 UTC 2022-10-10 15:06:45 UTC
+3.415896    1:15  7:51.1 0.00000 0.00000 2022-10-10 15:07:13 UTC 2022-10-10 15:08:28 UTC
+4.442906    1:15  6:02.2 0.00000 0.00000 2022-10-10 15:09:01 UTC 2022-10-10 15:10:16 UTC
+Average: 7:00.7
