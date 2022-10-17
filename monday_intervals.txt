@@ -3992,3 +3992,16 @@ Taper for Tortugas Mountain & DCM / Recovery from Feral Hog 50k rucksack.
 3.415896    1:15  7:51.1 0.00000 0.00000 2022-10-10 15:07:13 UTC 2022-10-10 15:08:28 UTC
 4.442906    1:15  6:02.2 0.00000 0.00000 2022-10-10 15:09:01 UTC 2022-10-10 15:10:16 UTC
 Average: 7:00.7
+
+========================================================================
+No pack.  Fasted.
+
+Taper for Forever Young / Recovery from Tortugus Mountain & DCM
+
+Perfunctory, but better than nothing.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave -c 3 ~/Downloads/Move_2022_10_17_09_10_00_Running.gpx 
+3.501955    1:15  7:39.5 0.00000 0.00000 2022-10-17 15:25:11 UTC 2022-10-17 15:26:26 UTC
+3.022806    1:15  8:52.4 0.00000 0.00000 2022-10-17 15:26:57 UTC 2022-10-17 15:28:12 UTC
+3.946180    1:15  6:47.8 0.00000 0.00000 2022-10-17 15:28:44 UTC 2022-10-17 15:29:59 UTC
+Average: 7:46.5
