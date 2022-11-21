@@ -4005,3 +4005,45 @@ Perfunctory, but better than nothing.
 3.022806    1:15  8:52.4 0.00000 0.00000 2022-10-17 15:26:57 UTC 2022-10-17 15:28:12 UTC
 3.946180    1:15  6:47.8 0.00000 0.00000 2022-10-17 15:28:44 UTC 2022-10-17 15:29:59 UTC
 Average: 7:46.5
+
+========================================================================
+40.9# pack. Not fasted.  Did not run an AA loop before *or after* my
+intervals, because my left knee is not 100% and although I wanted to
+get the benefit of pack interval training, I do want the knee to heal
+*relatively* quickly.
+
+Got a late start.  Sophie wanted a second cappuccino.  Chose not to
+wear my ice hat, even though I knew I'd get hot.  I didn't want the
+sound of ice interfering with my speed 3 playlist and I didn't think
+I'd get *that* hot (and I didn't).
+
+This is better than I did in the two pack interval training sessions I
+did last season, but that's not saying much, because I only did the
+first two.  I missed the remaining six due to: covid, a broken pack,
+sickness twice in a row, an injured foot and an injured back.
+
+FWIW, the sickness was my own darned fault by running my immune system
+down by drinking during the Academy of Pain.  I don't remember the
+specifics of the foot issue, but I suspect the back issue was a
+knock-on effect of the foot.
+
+So, for this season I need to stay healthy and avoid jacking up my
+feet and knees (meaning avoid falling).  I didn't get off to the best
+start with my tumble up on La Luz Saturday, but with 200mg of
+ibuprofen this morning my knee didn't hold me back in today's
+training.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2022_11_21_08_20_00_Running.gpx 
+3.092307    1:15  8:40.4 0.00000 0.00000 2022-11-21 15:37:16 UTC 2022-11-21 15:38:31 UTC
+2.825913    1:15  9:29.4 0.00000 0.00000 2022-11-21 15:39:02 UTC 2022-11-21 15:40:17 UTC
+2.713542    1:15  9:53.0 0.00000 0.00000 2022-11-21 15:40:44 UTC 2022-11-21 15:41:59 UTC
+3.175327    1:15  8:26.8 0.00000 0.00000 2022-11-21 15:42:35 UTC 2022-11-21 15:43:50 UTC
+3.224278    1:15  8:19.1 0.00000 0.00000 2022-11-21 15:44:14 UTC 2022-11-21 15:45:29 UTC
+3.297951    1:15  8:07.9 0.00000 0.00000 2022-11-21 15:46:03 UTC 2022-11-21 15:47:18 UTC
+3.532473    1:15  7:35.5 0.00000 0.00000 2022-11-21 15:47:46 UTC 2022-11-21 15:49:01 UTC
+3.575776    1:15  7:30.0 0.00000 0.00000 2022-11-21 15:49:34 UTC 2022-11-21 15:50:49 UTC
+3.386086    1:15  7:55.2 0.00000 0.00000 2022-11-21 15:51:18 UTC 2022-11-21 15:52:33 UTC
+3.523699    1:15  7:36.7 0.00000 0.00000 2022-11-21 15:53:02 UTC 2022-11-21 15:54:17 UTC
+3.378684    1:15  7:56.3 0.00000 0.00000 2022-11-21 15:54:50 UTC 2022-11-21 15:56:05 UTC
+3.431166    1:15  7:49.0 0.00000 0.00000 2022-11-21 15:56:33 UTC 2022-11-21 15:57:48 UTC
+Average: 8:16.6
