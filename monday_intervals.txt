@@ -4047,3 +4047,57 @@ training.
 3.378684    1:15  7:56.3 0.00000 0.00000 2022-11-21 15:54:50 UTC 2022-11-21 15:56:05 UTC
 3.431166    1:15  7:49.0 0.00000 0.00000 2022-11-21 15:56:33 UTC 2022-11-21 15:57:48 UTC
 Average: 8:16.6
+
+========================================================================
+No pack. Fasted. Not necessarily comparable to other non-pack fasted
+intervals.
+
+I got off to a late start, so it was warmer than it should be for this
+time of year (46.0F).  When I got near where I normally start, there
+was a guy blowing leaves.  Normally I slow down and possibly even wait
+so that I can start at the 00 second mark just as I cross the
+Albuquerque Academy road that leaves AA facing north, but this time I
+chose to start running well before hitting that road so that I could
+get out of the maintenance person's way ASAP.  That means my first
+interval had less incline than normal.
+
+Additionally, I misread my watch at one point and stopped running when
+I thought I had done 75 seconds, but I had done less.  So I ran at
+full speed from my walk for a few more seconds.  Finally, after my
+eleventh interval, I rested too long.  I was supposed to start on the
+15, but started on the 20.  I then resolved to slow down at the 35,
+but probably didn't until around the 40.  My sense of time was pretty
+fried by then.
+
+Although fasted, I had 200mg of ibuprofen at 5:54 and my second double
+shot of espresso at 7:45, but didn't leave my house until 8:37.  The
+ibuprofen was due to some trouble I'm having with my left knee (the
+original injury was falling at the Big Cottonwood Marathon, but I've
+fallen and hit that knee at least once since, too) and a hot-spot in
+my right foot (due to a blister well beneath the thick callus that I
+have on the ball of my foot, that blister started at the Deadman Peaks
+Trail Run about a month) ago.
+
+So, although my interval average was roughly comparable to my June
+13th run earlier this year, it was much cooler today (December, duh!)
+than it was then, but I'm also seven pounds heavier (and only a tiny
+amount of that might be muscle).
+
+Bottom line: I'm glad I did the exercise for the training effect it
+will give me and these numbers aren't horrible, but they're not great,
+either.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/downloads/move_2022_12_05_08_37_00_running.gpx 
+3.713990    1:15  7:13.3 0.00000 0.00000 2022-12-05 15:52:46 UTC 2022-12-05 15:54:01 UTC
+3.265528    1:15  8:12.8 0.00000 0.00000 2022-12-05 15:54:28 UTC 2022-12-05 15:55:43 UTC
+3.282295    1:15  8:10.3 0.00000 0.00000 2022-12-05 15:56:15 UTC 2022-12-05 15:57:30 UTC
+3.920621    1:15  6:50.4 0.00000 0.00000 2022-12-05 15:58:00 UTC 2022-12-05 15:59:15 UTC
+3.598233    1:15  7:27.2 0.00000 0.00000 2022-12-05 15:59:45 UTC 2022-12-05 16:01:00 UTC
+4.121099    1:15  6:30.5 0.00000 0.00000 2022-12-05 16:01:31 UTC 2022-12-05 16:02:46 UTC
+4.024223    1:15  6:39.9 0.00000 0.00000 2022-12-05 16:03:16 UTC 2022-12-05 16:04:31 UTC
+4.112851    1:15  6:31.2 0.00000 0.00000 2022-12-05 16:05:03 UTC 2022-12-05 16:06:18 UTC
+4.129463    1:15  6:29.7 0.00000 0.00000 2022-12-05 16:06:46 UTC 2022-12-05 16:08:01 UTC
+4.014248    1:15  6:40.9 0.00000 0.00000 2022-12-05 16:08:30 UTC 2022-12-05 16:09:45 UTC
+3.897564    1:15  6:52.9 0.00000 0.00000 2022-12-05 16:10:16 UTC 2022-12-05 16:11:31 UTC
+4.149584    1:15  6:27.8 0.00000 0.00000 2022-12-05 16:12:12 UTC 2022-12-05 16:13:27 UTC
+Average: 7:00.6
