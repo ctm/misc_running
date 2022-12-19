@@ -4101,3 +4101,35 @@ either.
 3.897564    1:15  6:52.9 0.00000 0.00000 2022-12-05 16:10:16 UTC 2022-12-05 16:11:31 UTC
 4.149584    1:15  6:27.8 0.00000 0.00000 2022-12-05 16:12:12 UTC 2022-12-05 16:13:27 UTC
 Average: 7:00.6
+
+========================================================================
+40.5# pack. Fasted at start, but consumed 300 calories during.  Did
+not do any AA laps prior (or after), but did run from my house.
+
+No ibuprofen, but did wear my ice hat (although I dumped the ice after
+I finished my intervals).  This is 9.2 seconds per mile slower than a
+month ago (November 21st), but I'm three pounds heavier, so that
+accounts for about six of those seconds, and I normally don't do pack
+intervals on the Monday after a long (i.e., bosque bike path) pack run
+Saturday.  Normally I only do them after a La Luz pack run Saturday,
+but I wanted to see where my knee is and I also wanted "quick"
+exercise today, because I did a bunch of work before and I have a
+bunch of work do after.
+
+So, I'm OK with these stats, but I do expect them to improve as my
+training season progresses.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2022_12_19_08_29_00_Running.gpx 
+3.202593    1:15  8:22.5 0.00000 0.00000 2022-12-19 15:44:20 UTC 2022-12-19 15:45:35 UTC
+2.857563    1:15  9:23.1 0.00000 0.00000 2022-12-19 15:46:06 UTC 2022-12-19 15:47:21 UTC
+2.757324    1:15  9:43.6 0.00000 0.00000 2022-12-19 15:47:50 UTC 2022-12-19 15:49:05 UTC
+3.026925    1:15  8:51.6 0.00000 0.00000 2022-12-19 15:49:35 UTC 2022-12-19 15:50:50 UTC
+3.130796    1:15  8:34.0 0.00000 0.00000 2022-12-19 15:51:19 UTC 2022-12-19 15:52:34 UTC
+3.137882    1:15  8:32.8 0.00000 0.00000 2022-12-19 15:53:05 UTC 2022-12-19 15:54:20 UTC
+3.371155    1:15  7:57.3 0.00000 0.00000 2022-12-19 15:54:50 UTC 2022-12-19 15:56:05 UTC
+3.448094    1:15  7:46.7 0.00000 0.00000 2022-12-19 15:56:35 UTC 2022-12-19 15:57:50 UTC
+3.420928    1:15  7:50.4 0.00000 0.00000 2022-12-19 15:58:19 UTC 2022-12-19 15:59:34 UTC
+3.425813    1:15  7:49.7 0.00000 0.00000 2022-12-19 16:00:05 UTC 2022-12-19 16:01:20 UTC
+3.277607    1:15  8:11.0 0.00000 0.00000 2022-12-19 16:01:49 UTC 2022-12-19 16:03:04 UTC
+3.304108    1:15  8:07.0 0.00000 0.00000 2022-12-19 16:03:37 UTC 2022-12-19 16:04:52 UTC
+Average: 8:25.8
