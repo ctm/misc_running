@@ -4160,3 +4160,46 @@ up to at least 13.1 if not 15.5 and that may slow me down a little.
 3.278312    1:15  8:10.9 0.00000 0.00000 2022-12-26 15:31:06 UTC 2022-12-26 15:32:21 UTC
 3.585775    1:15  7:28.8 0.00000 0.00000 2022-12-26 15:32:52 UTC 2022-12-26 15:34:07 UTC
 Average: 8:10.7
+
+========================================================================
+No pack. Fasted. Late start.  Did not do any extra AA laps (i.e., none
+before or after).
+
+I'm not sure how valid the numbers are here.  For one thing, I changed
+nom_fun to take elevation into account, so pretty much all my
+intervals from now on will show as being slightly faster than
+previously.  For example, 2022_12_05_08 using the old algorithm was
+7:00.6 and now it's 6:59.2.  Additionally, I did not start where I
+normally start.  As I was approaching the Albuquerque Academy
+driveway, it was clear that I either needed to start early or kill
+almost a minute to start where I normally start.  I chose to start
+early, and I don't know if that should give me better or worse times.
+I also may have screwed up at least one of the intervals, although
+looking at the graph suggests I didn't do so in a big way.
+
+I was a bit distracted, because I'm going to have our dog euthanized
+"soon" (i.e., today or tomorrow, probably today) and it's a tough
+decision to make.
+
+All things considered, these numbers are better than I expected and
+suggest that I'm more fit than I gave myself credit for after
+Saturday's absolutely horrible pack run.  I took no ibuprofen this
+morning and my hot-spot didn't flare up enough to slow me down AFAICT,
+but my suspicion is I'm dealing with a (hopefully minor) case of
+morton's neuroma.  If true, that's going to be annoying, but at least
+I'm not being taken out to the farm to play with all the other dogs.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2023_01_09_08_39_00.gpx 
+3.789499    1:15  7:04.6 0.00000 0.00000 2023-01-09 15:54:54 UTC 2023-01-09 15:56:09 UTC
+3.404140    1:15  7:52.7 0.00000 0.00000 2023-01-09 15:56:40 UTC 2023-01-09 15:57:55 UTC
+3.529441    1:15  7:35.9 0.00000 0.00000 2023-01-09 15:58:27 UTC 2023-01-09 15:59:42 UTC
+3.753997    1:15  7:08.7 0.00000 0.00000 2023-01-09 16:00:13 UTC 2023-01-09 16:01:28 UTC
+3.598851    1:15  7:27.1 0.00000 0.00000 2023-01-09 16:02:01 UTC 2023-01-09 16:03:16 UTC
+4.204389    1:15  6:22.7 0.00000 0.00000 2023-01-09 16:03:42 UTC 2023-01-09 16:04:57 UTC
+4.003533    1:15  6:41.9 0.00000 0.00000 2023-01-09 16:05:28 UTC 2023-01-09 16:06:43 UTC
+4.163296    1:15  6:26.5 0.00000 0.00000 2023-01-09 16:07:13 UTC 2023-01-09 16:08:28 UTC
+4.169205    1:15  6:26.0 0.00000 0.00000 2023-01-09 16:08:56 UTC 2023-01-09 16:10:11 UTC
+3.868751    1:15  6:55.9 0.00000 0.00000 2023-01-09 16:10:42 UTC 2023-01-09 16:11:57 UTC
+3.943327    1:15  6:48.1 0.00000 0.00000 2023-01-09 16:12:25 UTC 2023-01-09 16:13:40 UTC
+3.993212    1:15  6:43.0 0.00000 0.00000 2023-01-09 16:14:12 UTC 2023-01-09 16:15:27 UTC
+Average: 6:57.8
