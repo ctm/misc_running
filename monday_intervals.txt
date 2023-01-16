@@ -3094,7 +3094,7 @@ time I started the intervals,
 3.939724  1:15.1  6:48.4 1.33166 5.00321 2021-06-07 13:15:51.544 UTC 2021-06-07 13:17:06.663 UTC
 3.967015  1:15.2  6:45.6 1.47409 4.62574 2021-06-07 13:17:38.691 UTC 2021-06-07 13:18:53.974 UTC
 3.948512    1:15  6:47.5 0.10681 5.60016 2021-06-07 13:19:24.544 UTC 2021-06-07 13:20:39.544 UTC
-Average: 6:46.9
+Average: 6:46.9 (Average: 6:43.1 using algorithm that uses elevation)
 
 ========================================================================
 No pack.  Fasted.  Only 6 due to taper.  Slow due to Chimney Melon 50k
@@ -4203,3 +4203,48 @@ I'm not being taken out to the farm to play with all the other dogs.
 3.943327    1:15  6:48.1 0.00000 0.00000 2023-01-09 16:12:25 UTC 2023-01-09 16:13:40 UTC
 3.993212    1:15  6:43.0 0.00000 0.00000 2023-01-09 16:14:12 UTC 2023-01-09 16:15:27 UTC
 Average: 6:57.8
+
+========================================================================
+Not fasted. No pack. No ibuprofen. Today was supposed to be a pack
+interval training day, but the weather (or at least my perception of
+it) didn't cooperate.  Although I have a rain cover, I prefer not to
+use it when I'm doing pack intervals.
+
+In the past, the aluminum pins that are used to adjust my pack have
+worn through after running with my pack in the rain, so these days,
+due to that and the fact that I'm using rice as weight, I'm a big baby
+and normally (not counting the Feral Hog 50k!) avoid using my pack in
+the rain.  However, there was no precipitation while I was running, so
+I felt like the big baby that I am.
+
+I chose not to bring any water with me and to wear a T-shirt.  It's
+nice to run without a handheld, but I switch it from side to side to
+help me know which interval I'm on and that tells me when to stop and
+start.  Based on my pace graph on Strava, I lost track during my ninth
+interval, which led to me not running it and my tenth as hard as I
+could have, I think.
+
+FWIW, it doesn't look like I rested extra long, but the way the GPS
+watch and software works, I may have got an unfair bonus due to my
+confusion over my start and stop times.  Additionally, this was not in
+a fasted state and I didn't run any AA laps before or after.  As such,
+I don't think these numbers suggest I'm any more fit than last week,
+but I'm probably not less fit, either.
+
+My hot spot never bothered me, although I can feel it now that my shoes
+are off and I'm resting.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2023_01_16_09_52_00_Running.gpx 
+3.901396    1:15  6:52.5 0.00000 0.00000 2023-01-16 17:05:58 UTC 2023-01-16 17:07:13 UTC
+3.412032    1:15  7:51.6 0.00000 0.00000 2023-01-16 17:07:44 UTC 2023-01-16 17:08:59 UTC
+3.463145    1:15  7:44.7 0.00000 0.00000 2023-01-16 17:09:30 UTC 2023-01-16 17:10:45 UTC
+3.891055    1:15  6:53.6 0.00000 0.00000 2023-01-16 17:11:15 UTC 2023-01-16 17:12:30 UTC
+3.918704    1:15  6:50.6 0.00000 0.00000 2023-01-16 17:13:01 UTC 2023-01-16 17:14:16 UTC
+4.194761    1:15  6:23.6 0.00000 0.00000 2023-01-16 17:14:45 UTC 2023-01-16 17:16:00 UTC
+4.375696    1:15  6:07.7 0.00000 0.00000 2023-01-16 17:16:29 UTC 2023-01-16 17:17:44 UTC
+4.263688    1:15  6:17.4 0.00000 0.00000 2023-01-16 17:18:16 UTC 2023-01-16 17:19:31 UTC
+4.001374    1:15  6:42.1 0.00000 0.00000 2023-01-16 17:19:58 UTC 2023-01-16 17:21:13 UTC
+3.648446    1:15  7:21.1 0.00000 0.00000 2023-01-16 17:21:25 UTC 2023-01-16 17:22:40 UTC
+3.728712    1:15  7:11.6 0.00000 0.00000 2023-01-16 17:23:14 UTC 2023-01-16 17:24:29 UTC
+4.424287    1:15  6:03.7 0.00000 0.00000 2023-01-16 17:25:01 UTC 2023-01-16 17:26:16 UTC
+Average: 6:51.7
