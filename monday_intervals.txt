@@ -4248,3 +4248,38 @@ are off and I'm resting.
 3.728712    1:15  7:11.6 0.00000 0.00000 2023-01-16 17:23:14 UTC 2023-01-16 17:24:29 UTC
 4.424287    1:15  6:03.7 0.00000 0.00000 2023-01-16 17:25:01 UTC 2023-01-16 17:26:16 UTC
 Average: 6:51.7
+
+========================================================================
+Fasted. 40.4# pack. No AA laps prior. Windy AF. Did not take
+ibuprofen, even though I still have a hot-spot on my right foot.  I
+wanted to see where I stand (so to speak).  Did not wear my ice hat,
+because I didn't want it blowing off.  Only took 10 oz. of Tailwind
+water, because that's how much I had left over and I didn't think
+today's effort was going to require a lot.
+
+Running in high winds is annoying, especially with a pack on one's
+back.  The wind was mostly from the east, which meant that my first
+few intervals were both uphill and into the wind.  When I look at the
+graph of my pace on Strava, I can see that I did 12 intervals,
+however, they were so pitiful that the heuristic that "nom_fun" (my
+interval extracting software) is not able to find all of them.
+
+So, I can't compare today's intervals to any other intervals, but even
+if I could, they would be ridiculously slow.  I do suspect that I got
+a nice training effect for my effort, and I definitely learned that my
+hot-spot is bad enough that I'll be taking ibuprofen for my speed run
+this Wednesday.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2023_01_23_08_35_00_Running.gpx 
+2.578771    1:15 10:24.0 0.00000 0.00000 2023-01-23 15:54:23 UTC 2023-01-23 15:55:38 UTC
+2.595988    1:15 10:19.9 0.00000 0.00000 2023-01-23 15:56:10 UTC 2023-01-23 15:57:25 UTC
+2.913229    1:15  9:12.4 0.00000 0.00000 2023-01-23 15:57:53 UTC 2023-01-23 15:59:08 UTC
+2.855008    1:15  9:23.6 0.00000 0.00000 2023-01-23 15:59:36 UTC 2023-01-23 16:00:51 UTC
+3.476202    1:15  7:42.9 0.00000 0.00000 2023-01-23 16:01:24 UTC 2023-01-23 16:02:39 UTC
+3.615576    1:15  7:25.1 0.00000 0.00000 2023-01-23 16:03:09 UTC 2023-01-23 16:04:24 UTC
+3.631521    1:15  7:23.1 0.00000 0.00000 2023-01-23 16:04:53 UTC 2023-01-23 16:06:08 UTC
+3.625314    1:15  7:23.9 0.00000 0.00000 2023-01-23 16:06:38 UTC 2023-01-23 16:07:53 UTC
+3.472722    1:15  7:43.4 0.00000 0.00000 2023-01-23 16:08:22 UTC 2023-01-23 16:09:37 UTC
+3.493333    1:15  7:40.6 0.00000 0.00000 2023-01-23 16:10:10 UTC 2023-01-23 16:11:25 UTC
+Average: 8:27.9
+thread 'main' panicked at 'Was told to find 12 intervals, but found 10', src/gpx.rs:331:13
