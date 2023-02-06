@@ -4283,3 +4283,42 @@ this Wednesday.
 3.493333    1:15  7:40.6 0.00000 0.00000 2023-01-23 16:10:10 UTC 2023-01-23 16:11:25 UTC
 Average: 8:27.9
 thread 'main' panicked at 'Was told to find 12 intervals, but found 10', src/gpx.rs:331:13
+
+========================================================================
+40.3# pack. *Not* fasted.  I had my "normal" (i.e. fortified) oatmeal,
+albeit without Udo's Oil, at 5:40am. I also consumed 600 calories
+during my entire time out, although probably around 300 during the
+intervals themselves.  Did no AA lap prior, but walked with John a bit
+after.  I had a quad espresso to wake up and another quad espresso
+before leaving the house.
+
+No ibuprofen or acetaminophen and wore my ice hat (although I dumped
+the ice after I finished my intervals).  These are slower than what I did
+on December 26th and I don't have an explanation for it.  I don't
+*think* my hot-spot was slowing me down, but I did have 200mg ibuprofen
+on December 26th, so perhaps that helps speed me up.  I would like
+to believe I'm more fit now than I was six weeks ago, but perhaps not.
+
+My hot-spot did chirp after I finished my intervals.  I'll be taking
+analgesics for my speed run on Wednesday.  I'm cautiously optimistic
+that I'll get some relief between now and my pre-race two week taper
+and that I'll get even more relief during the two week taper.
+
+Next week will be my final full set of twelve pack intervals before
+BMDM.  In theory it'll be cooler, so perhaps I'll get better numbers
+then.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2023_02_06_06_56_00_Running..gpx 
+3.208752    1:15  8:21.5 0.00000 0.00000 2023-02-06 14:13:28 UTC 2023-02-06 14:14:43 UTC
+2.920125    1:15  9:11.1 0.00000 0.00000 2023-02-06 14:15:14 UTC 2023-02-06 14:16:29 UTC
+2.782890    1:15  9:38.2 0.00000 0.00000 2023-02-06 14:17:01 UTC 2023-02-06 14:18:16 UTC
+2.970171    1:15  9:01.8 0.00000 0.00000 2023-02-06 14:18:44 UTC 2023-02-06 14:19:59 UTC
+3.176391    1:15  8:26.6 0.00000 0.00000 2023-02-06 14:20:27 UTC 2023-02-06 14:21:42 UTC
+3.218123    1:15  8:20.0 0.00000 0.00000 2023-02-06 14:22:15 UTC 2023-02-06 14:23:30 UTC
+3.379385    1:15  7:56.2 0.00000 0.00000 2023-02-06 14:24:00 UTC 2023-02-06 14:25:15 UTC
+3.412978    1:15  7:51.5 0.00000 0.00000 2023-02-06 14:25:45 UTC 2023-02-06 14:27:00 UTC
+3.477230    1:15  7:42.8 0.00000 0.00000 2023-02-06 14:27:31 UTC 2023-02-06 14:28:46 UTC
+3.460387    1:15  7:45.0 0.00000 0.00000 2023-02-06 14:29:15 UTC 2023-02-06 14:30:30 UTC
+3.291254    1:15  8:08.9 0.00000 0.00000 2023-02-06 14:31:00 UTC 2023-02-06 14:32:15 UTC
+3.368138    1:15  7:57.8 0.00000 0.00000 2023-02-06 14:33:10 UTC 2023-02-06 14:34:25 UTC
+Average: 8:21.8
