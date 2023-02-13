@@ -4322,3 +4322,41 @@ then.
 3.291254    1:15  8:08.9 0.00000 0.00000 2023-02-06 14:31:00 UTC 2023-02-06 14:32:15 UTC
 3.368138    1:15  7:57.8 0.00000 0.00000 2023-02-06 14:33:10 UTC 2023-02-06 14:34:25 UTC
 Average: 8:21.8
+
+========================================================================
+41.0# pack. Not fasted. Only 6 intervals because I'm tapering for The
+Quad, not because I want to do well in The Quad, but because my right
+hot-spot has not gotten better over the last several weeks and so I'm
+trying to find the right balance between still doing the trainings I
+need to do to gain fitness for BMDM, but without as much pack running
+junk miles in an effort to let my foot heal.
+
+So, I didn't even jog from my house to the intersection of Barstow and
+Harper.  I drove my truck down to the library.  Similarly, after I did
+my six intervals, I didn't even complete the Albuquerque Academy loop;
+I turned around and ran/walked back to my truck.
+
+Doing it this way is frustrating, but I think it's the best way to
+proceed.  I can't help but think of this exchange captured in Running
+America https://www.youtube.com/watch?v=NBuR9aNRbI8&t=110s
+
+  "The best advice is rest and time."
+
+  "If I do... say, 40 miles instead of 60, would that constitute rest?"
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave -c 6 ~/Downloads/Move_2023_02_13_07_15_00_Running.gpx 
+3.141051    1:15  8:32.3 0.00000 0.00000 2023-02-13 14:20:58 UTC 2023-02-13 14:22:13 UTC
+2.867505    1:15  9:21.2 0.00000 0.00000 2023-02-13 14:22:44 UTC 2023-02-13 14:23:59 UTC
+2.860896    1:15  9:22.5 0.00000 0.00000 2023-02-13 14:24:29 UTC 2023-02-13 14:25:44 UTC
+3.075366    1:15  8:43.3 0.00000 0.00000 2023-02-13 14:26:14 UTC 2023-02-13 14:27:29 UTC
+3.241461    1:15  8:16.4 0.00000 0.00000 2023-02-13 14:27:59 UTC 2023-02-13 14:29:14 UTC
+3.182015    1:15  8:25.7 0.00000 0.00000 2023-02-13 14:29:44 UTC 2023-02-13 14:30:59 UTC
+Average: 8:46.9
+
+FWIW, the last time I did 6 intervals with my pack was on March 2nd,
+2020 and using the latest version of int_ave, my average pace was
+8:24.2 and I was lamenting then that my pace was slower than the
+previous year.  So, these numbers just aren't very good.  OTOH, those
+were my top-of-taper for BMDM numbers.  My taper for The Quad average
+was 8:40.0, only 7 seconds per mile slower than 2020, although still
+26 seconds slower than my taper for The Quad in 2019 (8:21).
