@@ -1,4 +1,3 @@
-
 I may be able to get closer numbers on 3/27 if I re-use the zoom tool and make it tight
 
 2017
@@ -4360,3 +4359,33 @@ previous year.  So, these numbers just aren't very good.  OTOH, those
 were my top-of-taper for BMDM numbers.  My taper for The Quad average
 was 8:40.0, only 7 seconds per mile slower than 2020, although still
 26 seconds slower than my taper for The Quad in 2019 (8:21).
+
+========================================================================
+40.3# pack. Not fasted. No analgesics. No ice hat.  No panty liners.
+
+Only 6 intervals, because I'm recovering from The Quad.  Normally, I'd
+do all twelve, but I still have this lingering hot-spot, It did indeed
+chirp at me on The Quad, but only toward the end of the run up and all
+the way on the ski up and toward the end of the run down.  I took
+400mg of ibuprofen and 500mg of acetaminophen at the run/ski
+transition.  I note all of that here to explain to myself next year
+why I did my intervals this way.
+
+I did these a little late and without taking the time to put panty
+liners on my back for padding.  I had been working on some software
+that computes running times for people who do multiple events.
+Specifically, I want to be able to compute the doublers' times,
+ostensibly for Ken Gordon, but it's a little late for that for this
+year.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave -c 6 ~/Downloads/Move_2023_02_20_08_26_00_Running.gpx 
+3.188207    1:15  8:24.7 0.00000 0.00000 2023-02-20 15:32:01 UTC 2023-02-20 15:33:16 UTC
+2.970740    1:15  9:01.7 0.00000 0.00000 2023-02-20 15:33:46 UTC 2023-02-20 15:35:01 UTC
+2.891727    1:15  9:16.5 0.00000 0.00000 2023-02-20 15:35:31 UTC 2023-02-20 15:36:46 UTC
+3.064369    1:15  8:45.1 0.00000 0.00000 2023-02-20 15:37:18 UTC 2023-02-20 15:38:33 UTC
+3.299595    1:15  8:07.7 0.00000 0.00000 2023-02-20 15:39:01 UTC 2023-02-20 15:40:16 UTC
+3.388689    1:15  7:54.9 0.00000 0.00000 2023-02-20 15:40:48 UTC 2023-02-20 15:42:03 UTC
+Average: 8:35.1
+
+These numbers are better than last week, but not as good as my post Quad
+pack intervals of 2019, where my average was 8:21.
