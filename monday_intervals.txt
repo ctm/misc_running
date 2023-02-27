@@ -4389,3 +4389,34 @@ Average: 8:35.1
 
 These numbers are better than last week, but not as good as my post Quad
 pack intervals of 2019, where my average was 8:21.
+
+========================================================================
+41.1# pack. Not fasted. No analgesics. Ice hat. Panty liners. Parked
+at library, didn't do an AA lap before or after.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2023_02_27_07_22_00_Running.gpx 
+3.066009    1:15  8:44.8 0.00000 0.00000 2023-02-27 14:27:39 UTC 2023-02-27 14:28:54 UTC
+2.818878    1:15  9:30.9 0.00000 0.00000 2023-02-27 14:29:22 UTC 2023-02-27 14:30:37 UTC
+2.808786    1:15  9:32.9 0.00000 0.00000 2023-02-27 14:31:06 UTC 2023-02-27 14:32:21 UTC
+3.032661    1:15  8:50.6 0.00000 0.00000 2023-02-27 14:32:54 UTC 2023-02-27 14:34:09 UTC
+3.274937    1:15  8:11.4 0.00000 0.00000 2023-02-27 14:34:37 UTC 2023-02-27 14:35:52 UTC
+3.176723    1:15  8:26.6 0.00000 0.00000 2023-02-27 14:36:23 UTC 2023-02-27 14:37:38 UTC
+3.468012    1:15  7:44.0 0.00000 0.00000 2023-02-27 14:38:06 UTC 2023-02-27 14:39:21 UTC
+3.574382    1:15  7:30.2 0.00000 0.00000 2023-02-27 14:39:53 UTC 2023-02-27 14:41:08 UTC
+3.404766    1:15  7:52.6 0.00000 0.00000 2023-02-27 14:41:39 UTC 2023-02-27 14:42:54 UTC
+3.470019    1:15  7:43.7 0.00000 0.00000 2023-02-27 14:43:24 UTC 2023-02-27 14:44:39 UTC
+3.366554    1:15  7:58.0 0.00000 0.00000 2023-02-27 14:45:10 UTC 2023-02-27 14:46:25 UTC
+3.275016    1:15  8:11.4 0.00000 0.00000 2023-02-27 14:46:54 UTC 2023-02-27 14:48:09 UTC
+Average: 8:21.4
+
+In 2019, my average was 7:52.4 when taking elevation into account
+(earlier in this file it says 7:54.6, but that's because I wasn't
+taking elevation into account then). However, on that date, I ran from
+my house and did an AA lap before my intervals (and after them, I did
+another AA lap, ran home and ran some extra mileage to do 13.1 all
+told).  To be fair, in 2019 it was slightly cooler, I got off to an
+earlier start and I drank three double espressos before my run instead
+of one.  However, my plan today was to do one or more extra AA laps
+after my intervals if my foot wasn't chirping, but it was.
+
+My Wednesday speed run is going to be "interesting".
