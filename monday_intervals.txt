@@ -651,7 +651,7 @@ bash-3.2[master]$ time target/release/nom_fun -c 3 ~/Downloads/Move_2019_03_11_0
 4.106348    1:15  7:30.7 5.62751 0.00000
 3.522309    1:15  8:43.7 4.57222 0.00000
 3.778439    1:15  7:05.9 0.00000 8.93982
-Average: 7:46.7
+Average: 7:46.7 (7:48.3 taking elevation into account)
 
 ------------------------------------------------------------------------
 
@@ -4447,3 +4447,19 @@ the podiatrist Friday, but I race King of the Hill Saturday, so even
 if he thinks cortisone makes sense, I'll try to do it after KotH.
 
 So, I'm cautiously optimistic.
+
+========================================================================
+40.0# pack. Fasted. No analgesics. No ice hat. Panty Liners.  This is
+basically the same route I did the Monday before BMDM in 2019, when my
+average was 7:48.3 (taking elevation into account, like it is here).
+
+If I'm only 18.3 seconds per mile slower than 2019 and I don't fall
+apart at the end (due to, e.g., a broken upright or my hot-spot), I
+should break five hours, but I don't think I'm in the running to break
+four and a half.
+
+[master]% target/release/int_ave -c 3 ~/Downloads/Move_2023_03_13_08_00_00_Running.gpx 
+3.332642    1:15  8:02.9 0.00000 0.00000 2023-03-13 14:17:02 UTC 2023-03-13 14:18:17 UTC
+2.999143    1:15  8:56.6 0.00000 0.00000 2023-03-13 14:18:48 UTC 2023-03-13 14:20:03 UTC
+3.653317    1:15  7:20.5 0.00000 0.00000 2023-03-13 14:20:34 UTC 2023-03-13 14:21:49 UTC
+Average: 8:06.6
