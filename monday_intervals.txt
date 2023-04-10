@@ -3605,7 +3605,7 @@ my base fitness can get me through Cocodona 250 w/o incident.
 3.789447  1:15.3  7:04.6 0.00000 4.77129 2022-04-11 14:48:08.505 UTC 2022-04-11 14:49:23.829 UTC
 3.723314    1:15  7:12.2 0.00000 2.06063 2022-04-11 14:49:54.505 UTC 2022-04-11 14:51:09.505 UTC
 3.768190  1:15.6  7:07.0 0.01755 1.65935 2022-04-11 14:51:39.827 UTC 2022-04-11 14:52:55.504 UTC
-Average: 7:27.1
+Average: 7:27.1 (Average: 7:20.4 with elevation gain correction)
 
 ========================================================================
 Fasted. 7.5# "pack". Only 6 intervals because I'm on my taper. Not
@@ -4463,3 +4463,29 @@ four and a half.
 2.999143    1:15  8:56.6 0.00000 0.00000 2023-03-13 14:18:48 UTC 2023-03-13 14:20:03 UTC
 3.653317    1:15  7:20.5 0.00000 0.00000 2023-03-13 14:20:34 UTC 2023-03-13 14:21:49 UTC
 Average: 8:06.6
+
+========================================================================
+No pack. Not fasted. No analgesics. Late start. Kind of warm. Minor
+right foot hot-spot discomfort. Started just a little further downhill
+than normal, due to talking with John.  I did, however, "run" one AA
+lap prior to my intervals, which is something I haven't done in a while.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2023_04_10_08_00_00_Running.gpx 
+3.776243    1:15  7:06.1 0.00000 0.00000 2023-04-10 15:02:40 UTC 2023-04-10 15:03:55 UTC
+3.153623    1:15  8:30.3 0.00000 0.00000 2023-04-10 15:04:27 UTC 2023-04-10 15:05:42 UTC
+3.454241    1:15  7:45.9 0.00000 0.00000 2023-04-10 15:06:10 UTC 2023-04-10 15:07:25 UTC
+3.731305    1:15  7:11.3 0.00000 0.00000 2023-04-10 15:07:58 UTC 2023-04-10 15:09:13 UTC
+3.501596    1:15  7:39.6 0.00000 0.00000 2023-04-10 15:09:43 UTC 2023-04-10 15:10:58 UTC
+3.909505    1:15  6:51.6 0.00000 0.00000 2023-04-10 15:11:28 UTC 2023-04-10 15:12:43 UTC
+3.980323    1:15  6:44.3 0.00000 0.00000 2023-04-10 15:13:12 UTC 2023-04-10 15:14:27 UTC
+3.855071    1:15  6:57.4 0.00000 0.00000 2023-04-10 15:14:58 UTC 2023-04-10 15:16:13 UTC
+3.929643    1:15  6:49.5 0.00000 0.00000 2023-04-10 15:16:42 UTC 2023-04-10 15:17:57 UTC
+3.641217    1:15  7:21.9 0.00000 0.00000 2023-04-10 15:18:26 UTC 2023-04-10 15:19:41 UTC
+3.524432    1:15  7:36.6 0.00000 0.00000 2023-04-10 15:20:12 UTC 2023-04-10 15:21:27 UTC
+3.634178    1:15  7:22.8 0.00000 0.00000 2023-04-10 15:21:58 UTC 2023-04-10 15:23:13 UTC
+Average: 7:19.8
+
+FWIW, a year ago, I did mostly this same exercise and my average was
+7:20.4, although I did two AA laps prior to my intervals.  I did,
+however, start earlier in the day.  Offhand, I'd say I'm at least as
+fit as I was then, with the exception of my hot-spot.
