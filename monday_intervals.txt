@@ -4489,3 +4489,21 @@ FWIW, a year ago, I did mostly this same exercise and my average was
 7:20.4, although I did two AA laps prior to my intervals.  I did,
 however, start earlier in the day.  Offhand, I'd say I'm at least as
 fit as I was then, with the exception of my hot-spot.
+
+========================================================================
+Fasted. No pack. 1/4 distance taper for Cocodona 250.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave -c 3 ~/Downloads/Move_2023_04_24_08_00_Running.gpx 
+4.039896    1:15  6:38.3 0.00000 0.00000 2023-04-24 14:15:04 UTC 2023-04-24 14:16:19 UTC
+3.429328    1:15  7:49.2 0.00000 0.00000 2023-04-24 14:16:48 UTC 2023-04-24 14:18:03 UTC
+4.570009    1:15  5:52.1 0.00000 0.00000 2023-04-24 14:18:34 UTC 2023-04-24 14:19:49 UTC
+Average: 6:46.6
+
+This is better than my same 3 interval taper last year, but I didn't run the
+Cedro 50k on Saturday, so I'm not recovering from anything. Today was also
+probably much cooler than a year ago.  I didn't write the temperature down
+for a few days last year, but the temperatures on the day after and a few
+days before were both warmer.
+
+FWIW, the cooler temperatures *might* make the first day of C250 easier than
+it was two years ago (when I didn't run it).
