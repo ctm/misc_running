@@ -4507,3 +4507,24 @@ days before were both warmer.
 
 FWIW, the cooler temperatures *might* make the first day of C250 easier than
 it was two years ago (when I didn't run it).
+========================================================================
+No pack. Fasted.
+
+This isn't exactly the same route, because they're still doing construction
+where I normally do my intervals. So, I did them on the north portion of
+Harper, rather than the south. So it's comparable.
+
+Taper for Mt. Taylor 50k / Recovery from AA 50k & Tour of the Rio Grande
+
+Not particularly fast, especially compared to last year.  However,
+this was my first interval training since late April and I took a lot
+of time off from running after Western States, so I'm not at all
+surprised, especially since I'm 13.7 pounds heavier than a year ago.
+
+Oh well, at least my foot didn't slow me down.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave -c 3 ~/Downloads/Move_2023_09_25_08_32_00_Running.gpx 
+3.512035    1:15  7:38.2 0.00000 0.00000 2023-09-25 14:48:27 UTC 2023-09-25 14:49:42 UTC
+3.050452    1:15  8:47.5 0.00000 0.00000 2023-09-25 14:50:09 UTC 2023-09-25 14:51:24 UTC
+4.111517    1:15  6:31.4 0.00000 0.00000 2023-09-25 14:51:57 UTC 2023-09-25 14:53:12 UTC
+Average: 7:39
