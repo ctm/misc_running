@@ -4470,6 +4470,14 @@ right foot hot-spot discomfort. Started just a little further downhill
 than normal, due to talking with John.  I did, however, "run" one AA
 lap prior to my intervals, which is something I haven't done in a while.
 
+This is the first set of twelve intervals that I've done since April
+10th.  This is almost as slow as February 27th, when I did them with a
+41.1 pound pack.  In 2018, when I was in my best shape, I ran these
+same intervals *after* jogging an AA lap first at a 7:06 minute
+per/mile pace on October 22nd, which was also the day after the Duke
+City Marathon, but I had done the White Mesa Fat Ass 50k the day
+before that...
+
 [master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2023_04_10_08_00_00_Running.gpx 
 3.776243    1:15  7:06.1 0.00000 0.00000 2023-04-10 15:02:40 UTC 2023-04-10 15:03:55 UTC
 3.153623    1:15  8:30.3 0.00000 0.00000 2023-04-10 15:04:27 UTC 2023-04-10 15:05:42 UTC
@@ -4528,3 +4536,35 @@ Oh well, at least my foot didn't slow me down.
 3.050452    1:15  8:47.5 0.00000 0.00000 2023-09-25 14:50:09 UTC 2023-09-25 14:51:24 UTC
 4.111517    1:15  6:31.4 0.00000 0.00000 2023-09-25 14:51:57 UTC 2023-09-25 14:53:12 UTC
 Average: 7:39
+
+========================================================================
+No pack. Fasted until I started consuming the three tablespoons of chia in
+my 20 oz. of water.
+
+I did not run an AA lap before or after the lap that included my
+intervals.  I probably would have, had we not already had an
+appointment to get our air switched from the swamp cooler to the
+heater. I had to be back in time to let Isaac in.
+
+
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2023_10_23_08_13_00_Running.gpx 
+3.342049    1:15  8:01.5 0.00000 0.00000 2023-10-23 14:29:52 UTC 2023-10-23 14:31:07 UTC
+2.861283    1:15  9:22.4 0.00000 0.00000 2023-10-23 14:31:37 UTC 2023-10-23 14:32:52 UTC
+3.041326    1:15  8:49.1 0.00000 0.00000 2023-10-23 14:33:23 UTC 2023-10-23 14:34:38 UTC
+3.223456    1:15  8:19.2 0.00000 0.00000 2023-10-23 14:35:06 UTC 2023-10-23 14:36:21 UTC
+3.126164    1:15  8:34.7 0.00000 0.00000 2023-10-23 14:36:46 UTC 2023-10-23 14:38:01 UTC
+3.653314    1:15  7:20.5 0.00000 0.00000 2023-10-23 14:38:38 UTC 2023-10-23 14:39:53 UTC
+3.742436    1:15  7:10.0 0.00000 0.00000 2023-10-23 14:40:22 UTC 2023-10-23 14:41:37 UTC
+3.688038    1:15  7:16.3 0.00000 0.00000 2023-10-23 14:42:07 UTC 2023-10-23 14:43:22 UTC
+3.538186    1:15  7:34.8 0.00000 0.00000 2023-10-23 14:43:53 UTC 2023-10-23 14:45:08 UTC
+3.534892    1:15  7:35.2 0.00000 0.00000 2023-10-23 14:45:36 UTC 2023-10-23 14:46:51 UTC
+3.366361    1:15  7:58.0 0.00000 0.00000 2023-10-23 14:47:21 UTC 2023-10-23 14:48:36 UTC
+3.347687    1:15  8:00.7 0.00000 0.00000 2023-10-23 14:49:07 UTC 2023-10-23 14:50:22 UTC
+Average: 8:00.2
+
+I understand why I'm so slow. I took a ridiculous amount of time off
+from running in general and an even greater time off from doing
+interval training.  On the other hand, I was able to count to twelve
+today, and it's nice to get back on the horse. And of course the worse
+I do, the more room for improvement I have.
