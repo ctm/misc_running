@@ -4568,3 +4568,33 @@ from running in general and an even greater time off from doing
 interval training.  On the other hand, I was able to count to twelve
 today, and it's nice to get back on the horse. And of course the worse
 I do, the more room for improvement I have.
+
+========================================================================
+No pack. Not fasted.
+
+I ran DPTR 53M on Saturday, so I didn't expect (or get!) good stats here.
+Still, it's nice to be back in the saddle.  Only ran one lap before doing
+the intervals because I'm still out of shape and ramping up.  I also didn't
+run a lap after.  Instead, I ran back to John and then walked and chatted
+with him until we got back to his truck.  I then walked and ran back home.
+I didn't have enough water with me to want to run the entire time.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2023_11_06_07_33_00_Running.gpx 
+3.080321    1:15  8:42.4 0.00000 0.00000 2023-11-06 15:34:23 UTC 2023-11-06 15:35:38 UTC
+2.988534    1:15  8:58.5 0.00000 0.00000 2023-11-06 15:36:07 UTC 2023-11-06 15:37:22 UTC
+2.930181    1:15  9:09.2 0.00000 0.00000 2023-11-06 15:37:52 UTC 2023-11-06 15:39:07 UTC
+3.052752    1:15  8:47.1 0.00000 0.00000 2023-11-06 15:39:37 UTC 2023-11-06 15:40:52 UTC
+3.290405    1:15  8:09.1 0.00000 0.00000 2023-11-06 15:41:18 UTC 2023-11-06 15:42:33 UTC
+3.201025    1:15  8:22.7 0.00000 0.00000 2023-11-06 15:43:09 UTC 2023-11-06 15:44:24 UTC
+3.641637    1:15  7:21.9 0.00000 0.00000 2023-11-06 15:44:52 UTC 2023-11-06 15:46:07 UTC
+3.420975    1:15  7:50.4 0.00000 0.00000 2023-11-06 15:46:40 UTC 2023-11-06 15:47:55 UTC
+3.642374    1:15  7:21.8 0.00000 0.00000 2023-11-06 15:48:25 UTC 2023-11-06 15:49:40 UTC
+3.801891    1:15  7:03.3 0.00000 0.00000 2023-11-06 15:50:08 UTC 2023-11-06 15:51:23 UTC
+3.717934    1:15  7:12.8 0.00000 0.00000 2023-11-06 15:51:54 UTC 2023-11-06 15:53:09 UTC
+3.367179    1:15  7:57.9 0.00000 0.00000 2023-11-06 15:53:38 UTC 2023-11-06 15:54:53 UTC
+Average: 8:04.7
+
+FWIW, this is better than November 9th, 2020, which was the Monday
+after DPTR 53M. In 2021 and 2022 I did the 106 M, so I'm not comparing
+myself to those years.  This year 106 M wasn't an option, but it
+should be in 2024.
