@@ -4598,3 +4598,48 @@ FWIW, this is better than November 9th, 2020, which was the Monday
 after DPTR 53M. In 2021 and 2022 I did the 106 M, so I'm not comparing
 myself to those years.  This year 106 M wasn't an option, but it
 should be in 2024.
+
+========================================================================
+42.3# pack. Not fasted.  Ice Hat. Panty liners.
+
+Ran one AA loop before starting my intervals and ran enough afterward
+to bring my total up to 13.1 miles.  I was sick enough yesterday that
+I stayed in bed all day, although part of that was due to the fact
+that I was in no shape to safely ride my unicycle and I was too
+stubborn to ride my bicycle instead.  Additionally, Sophie was much
+sicker and I wanted to be nearby in case she needed anything.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2023_11_13_06_44_00_Running.gpx 
+2.830200    1:15  9:28.6 0.00000 0.00000 2023-11-13 14:42:49 UTC 2023-11-13 14:44:04 UTC
+2.749426    1:15  9:45.3 0.00000 0.00000 2023-11-13 14:44:34 UTC 2023-11-13 14:45:49 UTC
+2.731474    1:15  9:49.1 0.00000 0.00000 2023-11-13 14:46:19 UTC 2023-11-13 14:47:34 UTC
+2.851636    1:15  9:24.3 0.00000 0.00000 2023-11-13 14:48:04 UTC 2023-11-13 14:49:19 UTC
+3.091899    1:15  8:40.5 0.00000 0.00000 2023-11-13 14:49:50 UTC 2023-11-13 14:51:05 UTC
+2.810579    1:15  9:32.6 0.00000 0.00000 2023-11-13 14:51:35 UTC 2023-11-13 14:52:50 UTC
+3.198780    1:15  8:23.1 0.00000 0.00000 2023-11-13 14:53:18 UTC 2023-11-13 14:54:33 UTC
+3.288445    1:15  8:09.3 0.00000 0.00000 2023-11-13 14:55:04 UTC 2023-11-13 14:56:19 UTC
+3.366303    1:15  7:58.0 0.00000 0.00000 2023-11-13 14:56:50 UTC 2023-11-13 14:58:05 UTC
+3.242199    1:15  8:16.3 0.00000 0.00000 2023-11-13 14:58:34 UTC 2023-11-13 14:59:49 UTC
+3.251014    1:15  8:15.0 0.00000 0.00000 2023-11-13 15:00:19 UTC 2023-11-13 15:01:34 UTC
+3.145188    1:15  8:31.6 0.00000 0.00000 2023-11-13 15:02:06 UTC 2023-11-13 15:03:21 UTC
+Average: 8:51.1
+
+So, the last time I did a full 12 intervals with a pack was February
+27th of this year.  By then I had been doing a lot of BMDM training,
+but my foot was starting to give me trouble.  Additionally, that was
+post Mount Taylor Winter Quadrathlon.  My average then was 8:21.4, so
+I'm 30 seconds per mile slower than when I was fairly slow.  However,
+it was probably cooler then and I didn't even run out to AA, much less
+do a loop around AA first, instead I parked at the library.
+
+Last year I skipped this training (i.e. pack intervals two days after
+the White Mesa Fat Ass 50k) entirely ("did not do: worked instead").
+
+Two years ago, I did this training, but "I was basically in no shape
+to do intervals of any sort today..." and my average was 9:08, but I
+did two AA laps before and I also wound up doing 13 intervals because
+I yanked my ear buds out of my ears.
+
+So, I'm actually very happy with my numbers from today, because my
+right foot didn't chirp at all and so I have plenty of room for
+improvement.
