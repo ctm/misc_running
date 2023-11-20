@@ -4643,3 +4643,34 @@ I yanked my ear buds out of my ears.
 So, I'm actually very happy with my numbers from today, because my
 right foot didn't chirp at all and so I have plenty of room for
 improvement.
+
+========================================================================
+No pack. Fasted.
+
+Ran two AA loops before starting my intervals and ran one afterward,
+for a total of 15.55 miles.  This is the first time I've run two AA
+laps before since August 1st, 2022.  I also started just a little to
+the west of the north AA entrance, because that's when my watch ticked
+over to a new minute.
+
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2023_11_20_07_08_00_Running.gpx 
+3.306028    1:15  8:06.7 0.00000 0.00000 2023-11-20 15:56:11 UTC 2023-11-20 15:57:26 UTC
+3.087676    1:15  8:41.2 0.00000 0.00000 2023-11-20 15:57:55 UTC 2023-11-20 15:59:10 UTC
+2.894807    1:15  9:15.9 0.00000 0.00000 2023-11-20 15:59:39 UTC 2023-11-20 16:00:54 UTC
+3.341399    1:15  8:01.6 0.00000 0.00000 2023-11-20 16:01:27 UTC 2023-11-20 16:02:42 UTC
+3.340872    1:15  8:01.7 0.00000 0.00000 2023-11-20 16:03:09 UTC 2023-11-20 16:04:24 UTC
+3.389306    1:15  7:54.8 0.00000 0.00000 2023-11-20 16:04:58 UTC 2023-11-20 16:06:13 UTC
+3.660460    1:15  7:19.6 0.00000 0.00000 2023-11-20 16:06:41 UTC 2023-11-20 16:07:56 UTC
+3.494650    1:15  7:40.5 0.00000 0.00000 2023-11-20 16:08:28 UTC 2023-11-20 16:09:43 UTC
+3.762176    1:15  7:07.7 0.00000 0.00000 2023-11-20 16:10:12 UTC 2023-11-20 16:11:27 UTC
+3.645372    1:15  7:21.4 0.00000 0.00000 2023-11-20 16:11:54 UTC 2023-11-20 16:13:09 UTC
+3.629457    1:15  7:23.4 0.00000 0.00000 2023-11-20 16:13:39 UTC 2023-11-20 16:14:54 UTC
+3.491129    1:15  7:40.9 0.00000 0.00000 2023-11-20 16:15:25 UTC 2023-11-20 16:16:40 UTC
+Average: 7:52.9
+
+This is not fast for not having a pack, but yesterday I did a 41.3
+pound pack 5k at a 9:52 min/mile pace to cap off a 96 mile week that
+included four pack runs and a 38 mile run through the Magdalena
+mountains, so I'm not disappointed by this low average.  I assume I'll
+get faster as my body gets used to my new mileage.
