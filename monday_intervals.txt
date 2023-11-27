@@ -4674,3 +4674,62 @@ pound pack 5k at a 9:52 min/mile pace to cap off a 96 mile week that
 included four pack runs and a 38 mile run through the Magdalena
 mountains, so I'm not disappointed by this low average.  I assume I'll
 get faster as my body gets used to my new mileage.
+
+========================================================================
+40.4# pack. Not fasted.  Had a big bowl of peas before the run and 300
+calories of Tailwind during the run.  I wore my ice hat, without ice,
+over my fleece hat.  I did, however, "run" two laps around Albuquerque
+Academy before starting my intervals, something I haven't done with a
+pack since January 22nd, *2021*.
+
+I had a double espresso right before my run and should have had it
+earlier so I could use the bathroom once more before leaving.  Instead
+I had to use an emergency tree and still hit the bathroom at the
+library on my way back home.
+
+I started out with my iPod touch on random shuffle, but took my pack
+off before starting my intervals and put on Speed 3, however, it
+wasn't on repeat, so once those three songs played, it was silent
+until I eventually restarted it which was tricky because my fingers
+were still fairly cold from when I had my pack and gloves off to
+switch from random shuffle to Speed 34.
+
+Because my fingers weren't working well, I didn't shift my bottles
+back and forth, which meant that I lost count of how many intervals I
+did.  I wound up doing thirteen, all told, but one of my intervals
+and/or one of my rests may have been short.
+
+Normally I don't do pack intervals on the Monday after Bosque Bigfoot
+50k, but I ran that so slowly this year I decided to give it a go.  My
+stats are pretty bad, but I'm guessing I got a decent training effect.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave -c 13 ~/Downloads/Move_2023_11_27_06_57_00_Running.gpx 
+2.953770    1:15  9:04.8 0.00000 0.00000 2023-11-27 15:52:55 UTC 2023-11-27 15:54:10 UTC
+2.769470    1:15  9:41.1 0.00000 0.00000 2023-11-27 15:54:42 UTC 2023-11-27 15:55:57 UTC
+2.632971    1:15 10:11.2 0.00000 0.00000 2023-11-27 15:56:27 UTC 2023-11-27 15:57:42 UTC
+2.787209    1:15  9:37.4 0.00000 0.00000 2023-11-27 15:58:12 UTC 2023-11-27 15:59:27 UTC
+3.006649    1:15  8:55.2 0.00000 0.00000 2023-11-27 15:59:56 UTC 2023-11-27 16:01:11 UTC
+2.796372    1:15  9:35.5 0.00000 0.00000 2023-11-27 16:01:40 UTC 2023-11-27 16:02:55 UTC
+3.220570    1:15  8:19.7 0.00000 0.00000 2023-11-27 16:03:26 UTC 2023-11-27 16:04:41 UTC
+3.364736    1:15  7:58.2 0.00000 0.00000 2023-11-27 16:05:11 UTC 2023-11-27 16:06:26 UTC
+3.236170    1:15  8:17.2 0.00000 0.00000 2023-11-27 16:06:56 UTC 2023-11-27 16:08:11 UTC
+3.079516    1:15  8:42.5 0.00000 0.00000 2023-11-27 16:08:40 UTC 2023-11-27 16:09:55 UTC
+3.184495    1:15  8:25.3 0.00000 0.00000 2023-11-27 16:10:26 UTC 2023-11-27 16:11:41 UTC
+3.013732    1:15  8:54.0 0.00000 0.00000 2023-11-27 16:12:12 UTC 2023-11-27 16:13:27 UTC
+2.982669    1:15  8:59.5 0.00000 0.00000 2023-11-27 16:14:11 UTC 2023-11-27 16:15:26 UTC
+Average: 8:58.6
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2023_11_27_06_57_00_Running.gpx 
+2.769470    1:15  9:41.1 0.00000 0.00000 2023-11-27 15:54:42 UTC 2023-11-27 15:55:57 UTC
+2.632971    1:15 10:11.2 0.00000 0.00000 2023-11-27 15:56:27 UTC 2023-11-27 15:57:42 UTC
+2.787209    1:15  9:37.4 0.00000 0.00000 2023-11-27 15:58:12 UTC 2023-11-27 15:59:27 UTC
+3.006649    1:15  8:55.2 0.00000 0.00000 2023-11-27 15:59:56 UTC 2023-11-27 16:01:11 UTC
+2.796372    1:15  9:35.5 0.00000 0.00000 2023-11-27 16:01:40 UTC 2023-11-27 16:02:55 UTC
+3.220570    1:15  8:19.7 0.00000 0.00000 2023-11-27 16:03:26 UTC 2023-11-27 16:04:41 UTC
+3.364736    1:15  7:58.2 0.00000 0.00000 2023-11-27 16:05:11 UTC 2023-11-27 16:06:26 UTC
+3.236170    1:15  8:17.2 0.00000 0.00000 2023-11-27 16:06:56 UTC 2023-11-27 16:08:11 UTC
+3.079516    1:15  8:42.5 0.00000 0.00000 2023-11-27 16:08:40 UTC 2023-11-27 16:09:55 UTC
+3.184495    1:15  8:25.3 0.00000 0.00000 2023-11-27 16:10:26 UTC 2023-11-27 16:11:41 UTC
+3.013732    1:15  8:54.0 0.00000 0.00000 2023-11-27 16:12:12 UTC 2023-11-27 16:13:27 UTC
+2.982669    1:15  8:59.5 0.00000 0.00000 2023-11-27 16:14:11 UTC 2023-11-27 16:15:26 UTC
+Average: 8:58.1
+[master]% 
