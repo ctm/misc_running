@@ -4815,3 +4815,35 @@ was also deeper into my BMDM training than I am now.
 Bottom line, I'm still far off my peak for BMDM training, but I'm not
 too far off where I was last year and assuming I can keep my right
 foot healthy, I'll exceed my fitness from last year.
+
+========================================================================
+Not fasted. No pack. Did my intervals on my *first* AA lap, which is
+cheating, but I was nervous that my right knee would chirp enough that
+my first would be my only lap, but that wasn't the case.  I had a serving
+of fortified oatmeal (albeit without the Udo's Oil, because we're out and
+Amazon messed up the replacement order) at 5:40, but I ran with water (i.e.,
+no additional calories).  I took 200mg of ibuprofen to make sure that I
+could do my intervals.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2023_12_18_06_55_00_Running.gpx 
+3.684040    1:15  7:16.8 0.00000 0.00000 2023-12-18 14:12:42 UTC 2023-12-18 14:13:57 UTC
+3.172274    1:15  8:27.3 0.00000 0.00000 2023-12-18 14:14:28 UTC 2023-12-18 14:15:43 UTC
+3.209748    1:15  8:21.3 0.00000 0.00000 2023-12-18 14:16:15 UTC 2023-12-18 14:17:30 UTC
+3.615587    1:15  7:25.1 0.00000 0.00000 2023-12-18 14:18:01 UTC 2023-12-18 14:19:16 UTC
+3.365841    1:15  7:58.1 0.00000 0.00000 2023-12-18 14:19:44 UTC 2023-12-18 14:20:59 UTC
+4.021380    1:15  6:40.1 0.00000 0.00000 2023-12-18 14:21:31 UTC 2023-12-18 14:22:46 UTC
+4.037927    1:15  6:38.5 0.00000 0.00000 2023-12-18 14:23:15 UTC 2023-12-18 14:24:30 UTC
+3.945716    1:15  6:47.8 0.00000 0.00000 2023-12-18 14:25:01 UTC 2023-12-18 14:26:16 UTC
+4.113428    1:15  6:31.2 0.00000 0.00000 2023-12-18 14:26:44 UTC 2023-12-18 14:27:59 UTC
+3.831257    1:15  7:00.0 0.00000 0.00000 2023-12-18 14:28:30 UTC 2023-12-18 14:29:45 UTC
+3.636368    1:15  7:22.5 0.00000 0.00000 2023-12-18 14:30:14 UTC 2023-12-18 14:31:29 UTC
+3.827412    1:15  7:00.4 0.00000 0.00000 2023-12-18 14:32:01 UTC 2023-12-18 14:33:16 UTC
+Average: 7:17.4
+
+This is my fastest average in a long time, although the cheating (not
+running one, much less two AA laps prior) probably helped.  I got a
+6:51.7 back on January 16th of this year, and it was significantly
+hotter then.  Additionally, last year on December 5th my average was
+7:00.6 and it was hotter then, too. So, I am making nice progress, but
+I'm still below my fitness level from last year, much less from my
+peak year.
