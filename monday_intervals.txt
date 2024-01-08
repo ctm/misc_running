@@ -4847,3 +4847,49 @@ hotter then.  Additionally, last year on December 5th my average was
 7:00.6 and it was hotter then, too. So, I am making nice progress, but
 I'm still below my fitness level from last year, much less from my
 peak year.
+========================================================================
+Semi-fasted, in that I had no calories before I started running, but did
+consume 20 oz. of water with three scoops of Tailwind during my run. No pack.
+Did one AA lap before my intervals. No ibuprofen.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2024_01_08_06_54_00_Running.gpx 
+3.412582    1:15  7:51.5 0.00000 0.00000 2024-01-08 14:52:25 UTC 2024-01-08 14:53:40 UTC
+3.153645    1:15  8:30.3 0.00000 0.00000 2024-01-08 14:54:09 UTC 2024-01-08 14:55:24 UTC
+3.159949    1:15  8:29.2 0.00000 0.00000 2024-01-08 14:55:54 UTC 2024-01-08 14:57:09 UTC
+3.681258    1:15  7:17.1 0.00000 0.00000 2024-01-08 14:57:40 UTC 2024-01-08 14:58:55 UTC
+3.542854    1:15  7:34.2 0.00000 0.00000 2024-01-08 14:59:24 UTC 2024-01-08 15:00:39 UTC
+3.823952    1:15  7:00.8 0.00000 0.00000 2024-01-08 15:01:10 UTC 2024-01-08 15:02:25 UTC
+4.018285    1:15  6:40.5 0.00000 0.00000 2024-01-08 15:02:53 UTC 2024-01-08 15:04:08 UTC
+3.988178    1:15  6:43.5 0.00000 0.00000 2024-01-08 15:04:39 UTC 2024-01-08 15:05:54 UTC
+4.032712    1:15  6:39.0 0.00000 0.00000 2024-01-08 15:06:23 UTC 2024-01-08 15:07:38 UTC
+3.770241    1:15  7:06.8 0.00000 0.00000 2024-01-08 15:08:09 UTC 2024-01-08 15:09:24 UTC
+3.644051    1:15  7:21.6 0.00000 0.00000 2024-01-08 15:09:54 UTC 2024-01-08 15:11:09 UTC
+3.683273    1:15  7:16.9 0.00000 0.00000 2024-01-08 15:11:39 UTC 2024-01-08 15:12:54 UTC
+Average: 7:22.6
+
+This is slower than three weeks ago (I didn't do them last week or the
+week before, due to it being New Year's Day and Christmas), but not by
+much and I think the coolness actually slowed me down a bit.  I was
+using a handheld that I can't easily switch from hand to hand when
+wearing gloves ... and I was wearing gloves.  I also screwed up and
+slowed down to a walk with a few seconds to go on two different
+intervals, probably because the coolness was making me stupid.
+
+My form varied greatly, with my first interval having me bring my
+knees higher than usual.  Sometimes higher knees results in me going
+faster, but not necessarily when going uphill, which is what my first
+interval is.  So, today, I think it mostly just tired me more and was
+less efficient. I was sufficiently cold that I had a very hard time
+judging my pace.
+
+I'm very happy that I didn't use any ibuprofen and didn't feel like I
+needed it.  I did, however, choose to come home directly after my
+interval AA lap, even though I had planned on running 13.1 miles.  I
+was wearing wool gloves and one of them has a huge hole in it.  I had
+lost feeling in my fingertips and even though I didn't think I was
+close to frostbite, I knew that it was well below freezing and that if
+I can't feel 'em, I can't tell when frostbite is approaching.
+
+I plan on going out and doing some more running later today.
+
+Whee!
