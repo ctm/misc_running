@@ -4893,3 +4893,38 @@ I can't feel 'em, I can't tell when frostbite is approaching.
 I plan on going out and doing some more running later today.
 
 Whee!
+
+========================================================================
+40.2# pack. Not fasted. No ibuprofen. Ice hat, but not much ice. I had
+some trouble shifting my handhelds back and forth.  Smartwool gloves
+are just too thick for the caddies I use, and my right glove has a
+huge hole in it.
+
+I jogged from my house out to Albuquerque Academy ad did one
+counter-clockwise loop before doing my intervals, so this is a fair
+test, although I didn't do any exercise at all yesterday and my
+Saturday exercise was a very slow (due to snow conditions) La Luz pack
+"run".
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2024_01_15_06_54_00_Running.gpx 
+3.092340    1:15  8:40.4 0.00000 0.00000 2024-01-15 14:48:15 UTC 2024-01-15 14:49:30 UTC
+2.847091    1:15  9:25.2 0.00000 0.00000 2024-01-15 14:50:00 UTC 2024-01-15 14:51:15 UTC
+2.819660    1:15  9:30.7 0.00000 0.00000 2024-01-15 14:51:46 UTC 2024-01-15 14:53:01 UTC
+3.070267    1:15  8:44.1 0.00000 0.00000 2024-01-15 14:53:31 UTC 2024-01-15 14:54:46 UTC
+3.319535    1:15  8:04.8 0.00000 0.00000 2024-01-15 14:55:21 UTC 2024-01-15 14:56:36 UTC
+3.222878    1:15  8:19.3 0.00000 0.00000 2024-01-15 14:57:02 UTC 2024-01-15 14:58:17 UTC
+3.558728    1:15  7:32.2 0.00000 0.00000 2024-01-15 14:58:47 UTC 2024-01-15 15:00:02 UTC
+3.654422    1:15  7:20.3 0.00000 0.00000 2024-01-15 15:00:33 UTC 2024-01-15 15:01:48 UTC
+3.514948    1:15  7:37.8 0.00000 0.00000 2024-01-15 15:02:17 UTC 2024-01-15 15:03:32 UTC
+3.612627    1:15  7:25.4 0.00000 0.00000 2024-01-15 15:04:01 UTC 2024-01-15 15:05:16 UTC
+3.506859    1:15  7:38.9 0.00000 0.00000 2024-01-15 15:05:49 UTC 2024-01-15 15:07:04 UTC
+3.407660    1:15  7:52.2 0.00000 0.00000 2024-01-15 15:07:32 UTC 2024-01-15 15:08:47 UTC
+Average: 8:10.9
+
+These are my best pack intervals since December 26th, 2022, and those were the
+best since February 22nd, 2021. So, these are pretty good intervals.
+
+I did not chafe my back, so it should be in good shape for Wednesday.
+My right foot did complain a bit once I had finished my intervals.  I
+suspect the way my orthotic fits in my new shoe is part to blame.
+Ugh.
