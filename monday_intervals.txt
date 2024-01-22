@@ -4928,3 +4928,39 @@ I did not chafe my back, so it should be in good shape for Wednesday.
 My right foot did complain a bit once I had finished my intervals.  I
 suspect the way my orthotic fits in my new shoe is part to blame.
 Ugh.
+
+========================================================================
+40.1# pack. Not fasted. No ibuprofen. Ice hat, with a fair amount of
+ice.  It was hot enough (39.7F at the start) that I wasn't wearing
+gloves, which meant I could shift my handhelds back and forth quickly.
+I do, however, think the heat slowed me down slightly as did the
+remnants of the respiratory virus that sidelined me Tuesday through
+Friday.
+
+I jogged from my house out to Albuquerque Academy ad did one
+counter-clockwise loop before doing my intervals, so this is a fair
+test, although I didn't do any exercise at all yesterday.  My Saturday
+exercise, however, was the Sandia Snowshoe Classic and that's
+annoyingly intense.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2024_01_22_06_46_00_Running.gpx 
+2.997490    1:15  8:56.8 0.00000 0.00000 2024-01-22 14:52:43 UTC 2024-01-22 14:53:58 UTC
+2.978512    1:15  9:00.3 0.00000 0.00000 2024-01-22 14:54:30 UTC 2024-01-22 14:55:45 UTC
+2.936208    1:15  9:08.1 0.00000 0.00000 2024-01-22 14:56:16 UTC 2024-01-22 14:57:31 UTC
+3.163665    1:15  8:28.6 0.00000 0.00000 2024-01-22 14:58:01 UTC 2024-01-22 14:59:16 UTC
+3.118511    1:15  8:36.0 0.00000 0.00000 2024-01-22 14:59:45 UTC 2024-01-22 15:01:00 UTC
+3.268378    1:15  8:12.3 0.00000 0.00000 2024-01-22 15:01:30 UTC 2024-01-22 15:02:45 UTC
+3.452394    1:15  7:46.1 0.00000 0.00000 2024-01-22 15:03:18 UTC 2024-01-22 15:04:33 UTC
+3.680542    1:15  7:17.2 0.00000 0.00000 2024-01-22 15:05:01 UTC 2024-01-22 15:06:16 UTC
+3.513092    1:15  7:38.0 0.00000 0.00000 2024-01-22 15:06:45 UTC 2024-01-22 15:08:00 UTC
+3.436817    1:15  7:48.2 0.00000 0.00000 2024-01-22 15:08:31 UTC 2024-01-22 15:09:46 UTC
+3.366516    1:15  7:58.0 0.00000 0.00000 2024-01-22 15:10:14 UTC 2024-01-22 15:11:29 UTC
+3.499073    1:15  7:39.9 0.00000 0.00000 2024-01-22 15:12:01 UTC 2024-01-22 15:13:16 UTC
+Average: 8:12.5
+
+1.6 seconds per mile slower than last week, but way hotter. I think
+that suggests I didn't lose any fitness due to my illness, although
+perhaps I'm kidding myself.  I'll find out more on Wednesday when I
+do my speed run after skipping it last week and then the first big
+test will be Sunday, when I do my first 24 mile race-pace ruck of the
+training season.
