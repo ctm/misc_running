@@ -4964,3 +4964,48 @@ perhaps I'm kidding myself.  I'll find out more on Wednesday when I
 do my speed run after skipping it last week and then the first big
 test will be Sunday, when I do my first 24 mile race-pace ruck of the
 training season.
+
+========================================================================
+40.3# pack. Not fasted. No ibuprofen. Ice hat, with a fair amount of
+ice. It was cold enough that I wore my thin (torn to shreds) REI gloves
+which didn't interfere with my bottle switching as much as my thicker,
+SmartWool ones, but still interfered a little.
+
+My biggest equipment failure was that I swung my arms far enough into
+my earbud cables to pull them out of both ears and, unbeknownst to me
+at the time, also pulled the jack out of my iPod touch.  That meant I
+had the cables to futz with, and I wasn't having my Speed 3 playlist
+spur me on.  When I finally got my earbuds back in my ears, it was silent
+and so I ran the rest of my intervals in silence and I think that slowed
+me down. Whine, whine, whine.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2024_02_05_06_37_00_Running.gpx 
+<release/int_ave ~/Downloads/Move_2024_02_05_06_37_00_Running.gpx 
+3.077295    1:15  8:42.9 0.00000 0.00000 2024-02-05 14:39:54 UTC 2024-02-05 14:41:09 UTC
+2.887741    1:15  9:17.3 0.00000 0.00000 2024-02-05 14:41:42 UTC 2024-02-05 14:42:57 UTC
+2.931490    1:15  9:08.9 0.00000 0.00000 2024-02-05 14:43:25 UTC 2024-02-05 14:44:40 UTC
+2.965472    1:15  9:02.6 0.00000 0.00000 2024-02-05 14:45:10 UTC 2024-02-05 14:46:25 UTC
+3.258194    1:15  8:13.9 0.00000 0.00000 2024-02-05 14:46:57 UTC 2024-02-05 14:48:12 UTC
+3.103271    1:15  8:38.5 0.00000 0.00000 2024-02-05 14:48:44 UTC 2024-02-05 14:49:59 UTC
+3.568511    1:15  7:30.9 0.00000 0.00000 2024-02-05 14:50:27 UTC 2024-02-05 14:51:42 UTC
+3.705435    1:15  7:14.3 0.00000 0.00000 2024-02-05 14:52:24 UTC 2024-02-05 14:53:39 UTC
+3.415976    1:15  7:51.1 0.00000 0.00000 2024-02-05 14:53:57 UTC 2024-02-05 14:55:12 UTC
+3.583789    1:15  7:29.0 0.00000 0.00000 2024-02-05 14:55:43 UTC 2024-02-05 14:56:58 UTC
+3.406570    1:15  7:52.4 0.00000 0.00000 2024-02-05 14:57:27 UTC 2024-02-05 14:58:42 UTC
+3.439406    1:15  7:47.9 0.00000 0.00000 2024-02-05 14:59:12 UTC 2024-02-05 15:00:27 UTC
+Average: 8:14.1
+
+I did a counter-clockwise Albuquerque Academy loop before doing my intervals,
+so this is a fair comparison to my previous intervals, but I came out
+lacking.
+
+It's funny,  because I was 1.6 seconds / mile slower than my last pack
+intervals and *they* were 1.6 seconds / mile slower than the previous week.
+Since it was cooler, I should have been significantly faster.  OTOH, I did
+do a little ruck hike yesterday with BFit505 and a ruck nature hike with
+Marcia and Jeff on Friday, and I still have a ton of junk in my lungs.  My
+suspicion, however, is my slowness was more due to the lack of sleep I got
+during WYWAE than anything else.
+
+Considering the fact that I wasn't sure I'd be up for intervals, at all,
+when I went to bed, I'm happy.
