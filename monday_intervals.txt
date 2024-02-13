@@ -5009,3 +5009,28 @@ during WYWAE than anything else.
 
 Considering the fact that I wasn't sure I'd be up for intervals, at all,
 when I went to bed, I'm happy.
+
+========================================================================
+40.1# pack. Not fasted. No analgesics. Ice hat, with a middle amount of
+ice. I wore my thin, frayed REI gloves. I jogged over to Albuquerque
+Academy, but did not do a lap before, because I'm tapering for The Quad
+and because my right foot has continued to give me trouble.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave -c 6 ~/Downloads/Move_2024_02_13_07_08_00_Running.gpx 
+<release/int_ave -c 6 ~/Downloads/Move_2024_02_13_07_08_00_Running.gpx 
+3.201978    1:15  8:22.6 0.00000 0.00000 2024-02-13 14:24:23 UTC 2024-02-13 14:25:38 UTC
+2.760525    1:15  9:42.9 0.00000 0.00000 2024-02-13 14:26:07 UTC 2024-02-13 14:27:22 UTC
+2.935857    1:15  9:08.1 0.00000 0.00000 2024-02-13 14:27:53 UTC 2024-02-13 14:29:08 UTC
+3.048948    1:15  8:47.8 0.00000 0.00000 2024-02-13 14:29:38 UTC 2024-02-13 14:30:53 UTC
+3.365118    1:15  7:58.2 0.00000 0.00000 2024-02-13 14:31:23 UTC 2024-02-13 14:32:38 UTC
+3.294566    1:15  8:08.4 0.00000 0.00000 2024-02-13 14:33:08 UTC 2024-02-13 14:34:23 UTC
+Average: 8:41.3
+
+This is five seconds per mile faster than this time last year, and
+last year I didn't even jog down to Albuquerque Academy,
+first. Instead, I parked in the Cherry Hills Library parking lot.
+Additionally, the construction slows me down a little bit, especially
+today. OTOH, it was significantly warmer then and I only had two
+double espressos rather then three.  So, I don't think this particular
+exercise shows I'm in better shape than last year, but it certainly
+doesn't contradict it.
