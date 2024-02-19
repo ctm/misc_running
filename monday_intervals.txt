@@ -5034,3 +5034,25 @@ today. OTOH, it was significantly warmer then and I only had two
 double espressos rather then three.  So, I don't think this particular
 exercise shows I'm in better shape than last year, but it certainly
 doesn't contradict it.
+========================================================================
+40.2# pack. Not fasted. 400mg ibuprofen due to broken tooth or crown.
+Ice hat, with a middle amount of ice.  No gloves.  I jogged over to
+Albuquerque Academy, but did not do a lap before, because I'm
+recovering from The Quad and because my right foot has continued to
+give me trouble.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave -c 6 ~/Downloads/Move_2024_02_19_07_01_00_Running.gpx 
+<release/int_ave -c 6 ~/Downloads/Move_2024_02_19_07_01_00_Running.gpx 
+3.253290    1:15  8:14.6 0.00000 0.00000 2024-02-19 14:18:04 UTC 2024-02-19 14:19:19 UTC
+2.878814    1:15  9:19.0 0.00000 0.00000 2024-02-19 14:19:50 UTC 2024-02-19 14:21:05 UTC
+2.752034    1:15  9:44.7 0.00000 0.00000 2024-02-19 14:21:34 UTC 2024-02-19 14:22:49 UTC
+3.074838    1:15  8:43.3 0.00000 0.00000 2024-02-19 14:23:20 UTC 2024-02-19 14:24:35 UTC
+3.242734    1:15  8:16.2 0.00000 0.00000 2024-02-19 14:25:06 UTC 2024-02-19 14:26:21 UTC
+3.219790    1:15  8:19.8 0.00000 0.00000 2024-02-19 14:26:51 UTC 2024-02-19 14:28:06 UTC
+Average: 8:46.3
+
+My average is five seconds per mile slower than last week, which is almost
+eleven seconds slower than last year, but my first interval is fastest of
+all three and my second is faster than last week and it was hot.  I think
+I kind of blew myself up on those first two, but perhaps I'm just kidding
+myself.
