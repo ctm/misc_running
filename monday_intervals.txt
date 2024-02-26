@@ -5056,3 +5056,31 @@ eleven seconds slower than last year, but my first interval is fastest of
 all three and my second is faster than last week and it was hot.  I think
 I kind of blew myself up on those first two, but perhaps I'm just kidding
 myself.
+
+========================================================================
+40.8# pack. Not fasted. No ibuprofen. Ice hat with lots of ice.  Crazy
+hot (52.7F - 58.6F). No foot trouble, perhaps because of the combination
+of wearing my Olympus 4s and my original orthotics.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2024_02_26_06_57_00_Running.gpx 
+<release/int_ave ~/Downloads/Move_2024_02_26_06_57_00_Running.gpx 
+2.967398    1:15  9:02.3 0.00000 0.00000 2024-02-26 14:54:09 UTC 2024-02-26 14:55:24 UTC
+3.025215    1:15  8:51.9 0.00000 0.00000 2024-02-26 14:55:57 UTC 2024-02-26 14:57:12 UTC
+2.905644    1:15  9:13.8 0.00000 0.00000 2024-02-26 14:57:43 UTC 2024-02-26 14:58:58 UTC
+3.140608    1:15  8:32.4 0.00000 0.00000 2024-02-26 14:59:28 UTC 2024-02-26 15:00:43 UTC
+3.279694    1:15  8:10.6 0.00000 0.00000 2024-02-26 15:01:13 UTC 2024-02-26 15:02:28 UTC
+3.248397    1:15  8:15.4 0.00000 0.00000 2024-02-26 15:02:59 UTC 2024-02-26 15:04:14 UTC
+3.611081    1:15  7:25.6 0.00000 0.00000 2024-02-26 15:04:42 UTC 2024-02-26 15:05:57 UTC
+3.385878    1:15  7:55.3 0.00000 0.00000 2024-02-26 15:06:22 UTC 2024-02-26 15:07:37 UTC
+3.534598    1:15  7:35.3 0.00000 0.00000 2024-02-26 15:08:13 UTC 2024-02-26 15:09:28 UTC
+3.468584    1:15  7:43.9 0.00000 0.00000 2024-02-26 15:09:58 UTC 2024-02-26 15:11:13 UTC
+3.499884    1:15  7:39.8 0.00000 0.00000 2024-02-26 15:11:41 UTC 2024-02-26 15:12:56 UTC
+3.337015    1:15  8:02.2 0.00000 0.00000 2024-02-26 15:13:29 UTC 2024-02-26 15:14:44 UTC
+Average: 8:12.4
+
+Not too shabby, considering I had to stop during my eighth interval
+due to traffic going into the Academy entrance to Albuquerque Academy.
+I did an 8:10.9 on January 15th, but it was much cooler and I have no
+notes suggesting I had to stop at a traffic light on that day, so I'd
+say I'm in better shape now than I was then, which is HOW IT SHOULD
+BE, Dang it!
