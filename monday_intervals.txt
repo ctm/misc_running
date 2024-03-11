@@ -5109,3 +5109,22 @@ pace was 10:56 min/mile last year and 11:27 this year.  These are not
 the numbers I'm looking for.
 
 Oh well.
+
+========================================================================
+40.8# pack. Fasted until, 150 calories during. No analgesics. No ice
+hat. Panty Liners.  This is basically the same route I did the Monday
+before BMDM in 2019, when my average was 7:48.3 (taking elevation into
+account, like it is here) and like I did last year, when my average
+was 8:06.6, but this year was much cooler, so I should have been
+faster.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave -c 3 ~/Downloads/Move_2024_03_11_07_00_00_Running.gpx 
+3.175596    1:15  8:26.7 0.00000 0.00000 2024-03-11 13:17:06 UTC 2024-03-11 13:18:21 UTC
+3.043990    1:15  8:48.6 0.00000 0.00000 2024-03-11 13:18:53 UTC 2024-03-11 13:20:08 UTC
+3.628108    1:15  7:23.5 0.00000 0.00000 2024-03-11 13:20:38 UTC 2024-03-11 13:21:53 UTC
+Average: 8:13
+
+I'm not in quite as good of shape as I was last year. I don't know if
+I'll get a boost from staying on base. In theory, I'll get more sleep,
+but I'll also be dealing with a different routine (including putting
+my pads on outside, with a mirror).
