@@ -5157,3 +5157,34 @@ I didn't have my iPod touch, only my iPhone, which had "If you're gunna
 be dumb, you gotta be tough" on it, which I had to manually start each
 time after it ended.  I had my iPhone because mom's still at Lovelace UNM
 in patient rehab after her stroke.
+
+========================================================================
+No pack. Fasted. No analgesics. No ice hat. New, heavy water bottle.  Speed 3.
+
+One AA lap before my intervals.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2024_04_22_05_56_00_Running.gpx 
+3.336660    1:15  8:02.3 0.00000 0.00000 2024-04-22 12:59:08 UTC 2024-04-22 13:00:23 UTC
+3.037594    1:15  8:49.8 0.00000 0.00000 2024-04-22 13:00:50 UTC 2024-04-22 13:02:05 UTC
+3.054394    1:15  8:46.8 0.00000 0.00000 2024-04-22 13:02:39 UTC 2024-04-22 13:03:54 UTC
+3.353679    1:15  7:59.8 0.00000 0.00000 2024-04-22 13:04:24 UTC 2024-04-22 13:05:39 UTC
+3.368347    1:15  7:57.7 0.00000 0.00000 2024-04-22 13:06:09 UTC 2024-04-22 13:07:24 UTC
+3.936557    1:15  6:48.8 0.00000 0.00000 2024-04-22 13:07:55 UTC 2024-04-22 13:09:10 UTC
+3.976489    1:15  6:44.7 0.00000 0.00000 2024-04-22 13:09:40 UTC 2024-04-22 13:10:55 UTC
+3.776936    1:15  7:06.0 0.00000 0.00000 2024-04-22 13:11:24 UTC 2024-04-22 13:12:39 UTC
+3.786021    1:15  7:05.0 0.00000 0.00000 2024-04-22 13:13:09 UTC 2024-04-22 13:14:24 UTC
+3.922941    1:15  6:50.2 0.00000 0.00000 2024-04-22 13:14:55 UTC 2024-04-22 13:16:10 UTC
+3.785946    1:15  7:05.0 0.00000 0.00000 2024-04-22 13:16:38 UTC 2024-04-22 13:17:53 UTC
+3.725943    1:15  7:11.9 0.00000 0.00000 2024-04-22 13:18:25 UTC 2024-04-22 13:19:40 UTC
+Average: 7:32.3
+
+Still crazy slow, but .7 seconds per mile faster than a week and a
+half ago and I did an AA lap before the intervals.  It was also hotter
+than last week, so I'd say I have made a tiny improvement.
+
+My foot was chirping by the time I finished my first AA lap.  I was
+nervous that it'd get even more upset during my intervals, but it was
+just the opposite; it quieted down.
+
+With luck, I'll gain fitness in the next few weeks since I'm not doing
+Cocodona 250 this year.
