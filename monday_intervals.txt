@@ -5277,3 +5277,32 @@ Average: 7:44.9
 That's my baseline for mom's house.  I'll try to do them at least once
 a week for a little while to see if I can make any progress, although
 I'll probably crank up the duration five seconds at a time or so.
+
+========================================================================
+40.3# pack. Fasted. No analgesics. No ice hat.  At mom's house.
+30 seconds hard, 30 seconds rest.  Woke up thinking I'd increase my hard
+duration to 35 seconds but realized that doing so would mean that I would
+likely lose track of when I was supposed to do which.
+
+There's a chance that my Vertix has programmable intervals, but I've
+never looked. Most likely I'll crank up my hard duration to 45 seconds
+a week from today, because that *shouldn't* be too hard to keep track
+of.
+
+[master]% target/release/int_ave -d 30 ~/Downloads/Move_2024_09_02_06_10_00_Running.gpx 
+4.138531      30  6:28.8 0.00000 0.00000 2024-09-02 06:22:24 MDT 2024-09-02 06:22:54 MDT
+3.848253      30  6:58.2 0.00000 0.00000 2024-09-02 06:23:22 MDT 2024-09-02 06:23:52 MDT
+3.683126      30  7:16.9 0.00000 0.00000 2024-09-02 06:24:22 MDT 2024-09-02 06:24:52 MDT
+3.424557      30  7:49.9 0.00000 0.00000 2024-09-02 06:25:22 MDT 2024-09-02 06:25:52 MDT
+3.321269      30  8:04.5 0.00000 0.00000 2024-09-02 06:26:26 MDT 2024-09-02 06:26:56 MDT
+3.493648      30  7:40.6 0.00000 0.00000 2024-09-02 06:27:24 MDT 2024-09-02 06:27:54 MDT
+3.814669      30  7:01.8 0.00000 0.00000 2024-09-02 06:28:24 MDT 2024-09-02 06:28:54 MDT
+3.620027      30  7:24.5 0.00000 0.00000 2024-09-02 06:29:24 MDT 2024-09-02 06:29:54 MDT
+3.784912      30  7:05.1 0.00000 0.00000 2024-09-02 06:30:22 MDT 2024-09-02 06:30:52 MDT
+3.580726      30  7:29.4 0.00000 0.00000 2024-09-02 06:31:24 MDT 2024-09-02 06:31:54 MDT
+3.516796      30  7:37.6 0.00000 0.00000 2024-09-02 06:32:22 MDT 2024-09-02 06:32:52 MDT
+3.416481      30  7:51.0 0.00000 0.00000 2024-09-02 06:33:22 MDT 2024-09-02 06:33:52 MDT
+Average: 7:24
+
+Twenty seconds per mile faster is a nice improvement, albeit it's effectively
+newbie gains.
