@@ -5306,3 +5306,32 @@ Average: 7:24
 
 Twenty seconds per mile faster is a nice improvement, albeit it's effectively
 newbie gains.
+
+========================================================================
+41.2# pack. Fasted. No analgesics. No ice hat.  At mom's house.  45
+seconds hard, 30 seconds rest.  I was late getting started and didn't
+want to take the time to get closer to 40.0 pounds.  Today I increased
+my running duration to forty-five seconds and--not surprisingly--my
+average pace decreased significantly. I *suspect* I got a better
+training effect though.
+
+[master]% target/release/int_ave -d 45 ~/Downloads/Move_2024_09_09_06_17_00_Running.gpx 
+3.921569      45  6:50.3 0.00000 0.00000 2024-09-09 06:27:29 MDT 2024-09-09 06:28:14 MDT
+3.651642      45  7:20.7 0.00000 0.00000 2024-09-09 06:28:45 MDT 2024-09-09 06:29:30 MDT
+3.295299      45  8:08.3 0.00000 0.00000 2024-09-09 06:30:00 MDT 2024-09-09 06:30:45 MDT
+3.199700      45  8:22.9 0.00000 0.00000 2024-09-09 06:31:16 MDT 2024-09-09 06:32:01 MDT
+3.252031      45  8:14.8 0.00000 0.00000 2024-09-09 06:32:30 MDT 2024-09-09 06:33:15 MDT
+3.412418      45  7:51.6 0.00000 0.00000 2024-09-09 06:33:45 MDT 2024-09-09 06:34:30 MDT
+3.476628      45  7:42.9 0.00000 0.00000 2024-09-09 06:34:58 MDT 2024-09-09 06:35:43 MDT
+3.515893      45  7:37.7 0.00000 0.00000 2024-09-09 06:36:14 MDT 2024-09-09 06:36:59 MDT
+3.343887      45  8:01.2 0.00000 0.00000 2024-09-09 06:37:29 MDT 2024-09-09 06:38:14 MDT
+3.210571      45  8:21.2 0.00000 0.00000 2024-09-09 06:38:44 MDT 2024-09-09 06:39:29 MDT
+3.411448      45  7:51.7 0.00000 0.00000 2024-09-09 06:39:59 MDT 2024-09-09 06:40:44 MDT
+3.625431      45  7:23.9 0.00000 0.00000 2024-09-09 06:41:15 MDT 2024-09-09 06:42:00 MDT
+Average: 7:48.9
+
+Not too bad, considering. My tentative plan is to increase my duration
+to sixty seconds next week, which will probably result in me slowing
+down even more, but I want to get back to being comfortable with
+seventy-five seconds on and seventy-five seconds rest, which was my
+pre-mom's-stroke standard.
