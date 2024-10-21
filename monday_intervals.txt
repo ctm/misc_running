@@ -5435,3 +5435,31 @@ run slowly for a couple of the intervals.  Still, my first all-out
 interval was at a 7:15.0 pace today and was 7:20.7 on October 4th, so
 I think I gained fitness over Balloon Fiesta.  I definitely lost
 weight (166.7 on the 4th, 164.5 today).
+
+========================================================================
+No pack. Fasted. No analgesics. Bonus caffeine. No ice hat. Warm water in
+hand-held (that was an accident).  At mom's house. 75 seconds hard, 30 seconds
+rest.  It was hot (~60F). It was cool (37F at start, 36.5F at end).
+
+[master]% target/release/int_ave ~/Downloads/Move_2024_10_21_06_40_00_Running.gpx 
+4.220000    1:15  6:21.3 0.00000 0.00000 2024-10-21 06:42:01 MDT 2024-10-21 06:43:16 MDT
+3.455330    1:15  7:45.7 0.00000 0.00000 2024-10-21 06:43:47 MDT 2024-10-21 06:45:02 MDT
+3.473226    1:15  7:43.3 0.00000 0.00000 2024-10-21 06:45:32 MDT 2024-10-21 06:46:47 MDT
+3.718336    1:15  7:12.8 0.00000 0.00000 2024-10-21 06:47:19 MDT 2024-10-21 06:48:34 MDT
+3.395872    1:15  7:53.9 0.00000 0.00000 2024-10-21 06:49:03 MDT 2024-10-21 06:50:18 MDT
+3.060861    1:15  8:45.7 0.00000 0.00000 2024-10-21 06:50:33 MDT 2024-10-21 06:51:48 MDT
+3.712249    1:15  7:13.5 0.00000 0.00000 2024-10-21 06:52:32 MDT 2024-10-21 06:53:47 MDT
+3.487459    1:15  7:41.4 0.00000 0.00000 2024-10-21 06:54:18 MDT 2024-10-21 06:55:33 MDT
+3.487939    1:15  7:41.4 0.00000 0.00000 2024-10-21 06:56:02 MDT 2024-10-21 06:57:17 MDT
+3.600967    1:15  7:26.9 0.00000 0.00000 2024-10-21 06:57:46 MDT 2024-10-21 06:59:01 MDT
+3.579293    1:15  7:29.6 0.00000 0.00000 2024-10-21 06:59:31 MDT 2024-10-21 07:00:46 MDT
+3.707118    1:15  7:14.1 0.00000 0.00000 2024-10-21 07:01:18 MDT 2024-10-21 07:02:33 MDT
+Average: 7:32.5
+
+I lost count and so my sixth interval is crazy slow, because I
+finished it prematurely.  I think all the corners in my intervals
+screws up the times as well, but that's always the case at mom's.
+
+Considering yesterday was the Duke City Marathon, I'm OK with these
+numbers, especially since I have no non-pack mom's house intervals to
+compare them to.
