@@ -5463,3 +5463,40 @@ screws up the times as well, but that's always the case at mom's.
 Considering yesterday was the Duke City Marathon, I'm OK with these
 numbers, especially since I have no non-pack mom's house intervals to
 compare them to.
+========================================================================
+40.?# pack (scale was misbehaving). Fasted. No analgesics. Bonus caffeine.
+Ice hat, albeit without a lot of ice.  Did not drink any extra liquids
+before and only had a sip or two during, although I poured some water on
+my head during.
+
+[master]% target/release/int_ave ~/Downloads/Move_2024_11_25_08_21_00_Running.gpx 
+3.445978    1:15  7:47.0 0.00000 0.00000 2024-11-25 08:29:46 MST 2024-11-25 08:31:01 MST
+3.130838    1:15  8:34.0 0.00000 0.00000 2024-11-25 08:31:30 MST 2024-11-25 08:32:45 MST
+2.813034    1:15  9:32.1 0.00000 0.00000 2024-11-25 08:33:17 MST 2024-11-25 08:34:32 MST
+3.135256    1:15  8:33.3 0.00000 0.00000 2024-11-25 08:35:01 MST 2024-11-25 08:36:16 MST
+3.128253    1:15  8:34.4 0.00000 0.00000 2024-11-25 08:36:45 MST 2024-11-25 08:38:00 MST
+2.963859    1:15  9:02.9 0.00000 0.00000 2024-11-25 08:38:30 MST 2024-11-25 08:39:45 MST
+3.119498    1:15  8:35.8 0.00000 0.00000 2024-11-25 08:40:16 MST 2024-11-25 08:41:31 MST
+2.890782    1:15  9:16.7 0.00000 0.00000 2024-11-25 08:42:00 MST 2024-11-25 08:43:15 MST
+2.997982    1:15  8:56.8 0.00000 0.00000 2024-11-25 08:43:46 MST 2024-11-25 08:45:01 MST
+3.051429    1:15  8:47.4 0.00000 0.00000 2024-11-25 08:45:32 MST 2024-11-25 08:46:47 MST
+2.942960    1:15  9:06.8 0.00000 0.00000 2024-11-25 08:47:16 MST 2024-11-25 08:48:31 MST
+2.845989    1:15  9:25.4 0.00000 0.00000 2024-11-25 08:49:02 MST 2024-11-25 08:50:17 MST
+Average: 8:51
+
+Those are super shitty intervals, but I knew that going into it.  I
+still have a little junk in my lungs from whatever I've had the last
+few days.  Most likely, it was covid, since mom has the same (but
+worse) symptoms and was diagnosed as having been covid positive,
+although it could be that she and I had covid and something else. Who
+knows?
+
+I did these intervals today to practice counting to twelve, which
+turns out to be easy when not running particularly hard.  I also want
+to get onto my modified-for-living-at-mom's BMDM training block and am
+disappointed that I have not yet done even a perfunctory La Luz pack
+run.
+
+Considering how crap I felt over the last few days, I'm still taking
+these intervals as a win.  They certainly leave me plenty of room for
+improvement.
