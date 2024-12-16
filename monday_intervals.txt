@@ -5556,3 +5556,44 @@ minding mom day.  I've now done three Wednesday speed runs from *my*
 house (not *mom's*) and that too will work out. It looks like I'll be
 able to train for BMDM while being my mom's minder and moving CPC
 forward.  Yay!
+
+========================================================================
+40.3# pack. Not fasted. No analgesics. Ice hat. Bonus caffeine.  No
+extra liquids before, but I did drink about 30 oz. of (3 scoops
+Tailwind per 20 oz. water), although some of that was on my walking
+cool-down.
+
+[master]% target/release/int_ave -c 13 ~/Downloads/Move_2024_12_16_06_45_00_Running.gpx 
+target/release/int_ave -c 13 ~/Downloads/Move_2024_12_16_06_45_00_Running.gpx 
+3.691518    1:15  7:15.9 0.00000 0.00000 2024-12-16 06:52:39 MST 2024-12-16 06:53:54 MST
+3.289874    1:15  8:09.1 0.00000 0.00000 2024-12-16 06:54:21 MST 2024-12-16 06:55:36 MST
+3.024842    1:15  8:52.0 0.00000 0.00000 2024-12-16 06:56:06 MST 2024-12-16 06:57:21 MST
+3.287621    1:15  8:09.5 0.00000 0.00000 2024-12-16 06:57:53 MST 2024-12-16 06:59:08 MST
+3.378185    1:15  7:56.3 0.00000 0.00000 2024-12-16 06:59:39 MST 2024-12-16 07:00:54 MST
+3.119102    1:15  8:35.9 0.00000 0.00000 2024-12-16 07:01:23 MST 2024-12-16 07:02:38 MST
+3.317269    1:15  8:05.1 0.00000 0.00000 2024-12-16 07:03:06 MST 2024-12-16 07:04:21 MST
+3.144936    1:15  8:31.7 0.00000 0.00000 2024-12-16 07:04:54 MST 2024-12-16 07:06:09 MST
+3.295705    1:15  8:08.3 0.00000 0.00000 2024-12-16 07:06:36 MST 2024-12-16 07:07:51 MST
+3.252129    1:15  8:14.8 0.00000 0.00000 2024-12-16 07:08:22 MST 2024-12-16 07:09:37 MST
+2.954268    1:15  9:04.7 0.00000 0.00000 2024-12-16 07:10:23 MST 2024-12-16 07:11:38 MST
+3.011270    1:15  8:54.4 0.00000 0.00000 2024-12-16 07:12:07 MST 2024-12-16 07:13:22 MST
+3.243548    1:15  8:16.1 0.00000 0.00000 2024-12-16 07:13:52 MST 2024-12-16 07:15:07 MST
+Average: 8:19.5
+
+Once again I had trouble counting to twelve.  It looks like my
+eleventh interval was started too late and perhaps was too short, too.
+FWIW, I didn't purposely run a make-up interval; I just botched the
+count.
+
+Only seven seconds per mile faster than last week, which is
+disappointing considering how poor my numbers were last week and the
+fact that it was colder and in some ways I was more prepared than last
+week.  It's still an improvement though, so I'll take it.
+
+I got to sleep much later than I'd have liked to. My mom happened to
+notice that the Sound of Music was playing on TV, so she watched it,
+even though it went well past both of our normal bedtimes.  She is
+hard of hearing and her TV is on the wall that separates the living
+room from my bedroom and the headboard of my bed is next to that wall,
+too.  With a fireplace and windows, there's not a lot of flexibility
+to reconfigure.
