@@ -5597,3 +5597,54 @@ hard of hearing and her TV is on the wall that separates the living
 room from my bedroom and the headboard of my bed is next to that wall,
 too.  With a fireplace and windows, there's not a lot of flexibility
 to reconfigure.
+
+========================================================================
+No pack. Not fasted. No analgesics. No Ice hat. Bonus caffeine.
+Double socks (I had single socks on my ill-fated 18 miler on
+Saturday). No extra liquids before, but I did drink about 3 scoops
+Tailwind in 20 oz. water) although some of that was on my walking
+cool-down.
+
+I chose not to do pack intervals today to let my back heal up a little
+bit.  In the past when I've done pack intervals every Monday in a BMDM
+training block, my back has gotten too chafed and ... once again, this
+has happened.  I do not *plan* to go back to only doing pack intervals
+the Monday after a La Luz run, but I'll do that if I think it's
+appropriate.
+
+It is very hard to get the training effect I'd like while living at
+mom's and walking with her daily (often twice a day now).  I don't
+mind that trade off, but I'm still experimenting to figure something
+that works for mom and for my sleep, because it's sleep (and lack
+thereof) that greatly affects my ability to work during the day with
+all my new distractions.
+
+[master]% target/release/int_ave ~/Downloads/Move_2024_12_23_07_03_00_Running.gpx 
+4.388352    1:15  6:06.7 0.00000 0.00000 2024-12-23 07:16:28 MST 2024-12-23 07:17:43 MST
+3.802980    1:15  7:03.1 0.00000 0.00000 2024-12-23 07:18:09 MST 2024-12-23 07:19:24 MST
+3.642966    1:15  7:21.7 0.00000 0.00000 2024-12-23 07:19:54 MST 2024-12-23 07:21:09 MST
+3.645619    1:15  7:21.4 0.00000 0.00000 2024-12-23 07:21:29 MST 2024-12-23 07:22:44 MST
+3.523476    1:15  7:36.7 0.00000 0.00000 2024-12-23 07:23:11 MST 2024-12-23 07:24:26 MST
+3.452425    1:15  7:46.1 0.00000 0.00000 2024-12-23 07:25:10 MST 2024-12-23 07:26:25 MST
+3.716680    1:15  7:13.0 0.00000 0.00000 2024-12-23 07:26:54 MST 2024-12-23 07:28:09 MST
+3.157758    1:15  8:29.6 0.00000 0.00000 2024-12-23 07:28:28 MST 2024-12-23 07:29:43 MST
+3.505158    1:15  7:39.1 0.00000 0.00000 2024-12-23 07:29:56 MST 2024-12-23 07:31:11 MST
+3.752354    1:15  7:08.8 0.00000 0.00000 2024-12-23 07:32:10 MST 2024-12-23 07:33:25 MST
+3.856315    1:15  6:57.3 0.00000 0.00000 2024-12-23 07:33:53 MST 2024-12-23 07:35:08 MST
+3.428496    1:15  7:49.4 0.00000 0.00000 2024-12-23 07:35:40 MST 2024-12-23 07:36:55 MST
+Average: 7:22.7
+
+I botched counting to twelve, which resulted in my eighth interval being short
+(and hence slow, because the extraction software makes sure the interval is
+seventy five seconds, even if I prematurely cut it short by walking) and my
+ninth interval being long (and hence slow, because I didn't rest a full thirty
+seconds in between due to confusion about which interval I was on).
+
+I don't really have much to compare this to.  On September 2nd, I had
+an average of 7:24 with a 40.3# pack, *but* that was only 30 second
+intervals which I can do much quicker than 75 second intervals.
+
+On level ground, I should be able to push myself harder and get close
+to or under 7:00 average without a pack. OTOH, it was warm (36F) and I
+chose not to wear an ice hat because I didn't want water dripping on
+my scab. I did, however, run shirtless.
