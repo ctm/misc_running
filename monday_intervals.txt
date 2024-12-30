@@ -5648,3 +5648,38 @@ On level ground, I should be able to push myself harder and get close
 to or under 7:00 average without a pack. OTOH, it was warm (36F) and I
 chose not to wear an ice hat because I didn't want water dripping on
 my scab. I did, however, run shirtless.
+
+========================================================================
+40.0# pack. Fasted at start, 300 calories during. No analgesics. Ice hat.
+Bonus caffeine.  No extra liquids before. Did my last mile or so walking
+with mom.  I drank 20 oz. of rice milk while walking with her.
+
+This was my first use of my Frankenpack.  On Saturday my pack tore at
+a grommet, but the frame remained intact, so this morning I swapped in
+the non-frame portion of my old pack on my current frame. I also
+finally managed to get my ripped music onto my iPhone 7.  That got me
+off to a late start and it was warm.
+
+[master]% target/release/int_ave ~/Downloads/Move_2024_12_30_08_26_00_Running.gpx 
+<ads/Move_2024_12_30_08_26_00_Running.gpx 
+3.866394    1:15  6:56.2 0.00000 0.00000 2024-12-30 08:51:44 MST 2024-12-30 08:52:59 MST
+3.406111    1:15  7:52.4 0.00000 0.00000 2024-12-30 08:53:28 MST 2024-12-30 08:54:43 MST
+3.237763    1:15  8:17.0 0.00000 0.00000 2024-12-30 08:55:13 MST 2024-12-30 08:56:28 MST
+3.298245    1:15  8:07.9 0.00000 0.00000 2024-12-30 08:56:59 MST 2024-12-30 08:58:14 MST
+3.362345    1:15  7:58.6 0.00000 0.00000 2024-12-30 08:58:42 MST 2024-12-30 08:59:57 MST
+3.006426    1:15  8:55.3 0.00000 0.00000 2024-12-30 09:00:29 MST 2024-12-30 09:01:44 MST
+3.273298    1:15  8:11.6 0.00000 0.00000 2024-12-30 09:02:13 MST 2024-12-30 09:03:28 MST
+3.282586    1:15  8:10.2 0.00000 0.00000 2024-12-30 09:04:00 MST 2024-12-30 09:05:15 MST
+3.093244    1:15  8:40.2 0.00000 0.00000 2024-12-30 09:05:45 MST 2024-12-30 09:07:00 MST
+3.309495    1:15  8:06.2 0.00000 0.00000 2024-12-30 09:07:39 MST 2024-12-30 09:08:54 MST
+3.028235    1:15  8:51.4 0.00000 0.00000 2024-12-30 09:09:15 MST 2024-12-30 09:10:30 MST
+3.025322    1:15  8:51.9 0.00000 0.00000 2024-12-30 09:11:00 MST 2024-12-30 09:12:15 MST
+Average: 8:14.9
+
+FWIW, in addition to getting off to a late start, I had a lot of
+trouble sleeping from about 1am to 3am and again from around 4am until
+maybe fifteen minutes later. The former was due to financial worries,
+the latter was due to mom feeding Fuzzle.
+
+This is my best time for 75 seconds on, 30 seconds off pack intervals
+at mom's house.  That suggests I'm making progress.  I'll take it.
