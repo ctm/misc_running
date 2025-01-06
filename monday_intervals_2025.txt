@@ -2,4 +2,29 @@ I'm now putting each year's intervals in separate files, but I'm also
 keeping the original monday_interval.txt file intact, since I have
 links into it from my BMDM training pages.
 
+========================================================================
+40.8# pack. Fasted at start, 300 calories during. No analgesics. Ice hat.
+Bonus caffeine.  16 oz. water before. Did my last mile or so walking
+with mom.  I some (the rest) rice milk before walking with her.
 
+[master]% target/release/int_ave ~/Downloads/Move_2025_01_06_07_14_00_Running.gpx 
+3.573411    1:15  7:30.3 0.00000 0.00000 2025-01-06 07:56:46 MST 2025-01-06 07:58:01 MST
+3.373445    1:15  7:57.0 0.00000 0.00000 2025-01-06 07:58:29 MST 2025-01-06 07:59:44 MST
+3.194621    1:15  8:23.7 0.00000 0.00000 2025-01-06 08:00:16 MST 2025-01-06 08:01:31 MST
+3.379549    1:15  7:56.2 0.00000 0.00000 2025-01-06 08:02:01 MST 2025-01-06 08:03:16 MST
+3.428460    1:15  7:49.4 0.00000 0.00000 2025-01-06 08:03:44 MST 2025-01-06 08:04:59 MST
+3.036477    1:15  8:50.0 0.00000 0.00000 2025-01-06 08:05:31 MST 2025-01-06 08:06:46 MST
+3.312428    1:15  8:05.8 0.00000 0.00000 2025-01-06 08:07:16 MST 2025-01-06 08:08:31 MST
+3.402356    1:15  7:53.0 0.00000 0.00000 2025-01-06 08:09:02 MST 2025-01-06 08:10:17 MST
+3.268343    1:15  8:12.4 0.00000 0.00000 2025-01-06 08:10:47 MST 2025-01-06 08:12:02 MST
+3.300950    1:15  8:07.5 0.00000 0.00000 2025-01-06 08:12:32 MST 2025-01-06 08:13:47 MST
+3.410557    1:15  7:51.8 0.00000 0.00000 2025-01-06 08:14:14 MST 2025-01-06 08:15:29 MST
+3.243639    1:15  8:16.1 0.00000 0.00000 2025-01-06 08:16:02 MST 2025-01-06 08:17:17 MST
+Average: 8:04.4
+
+Once again I got off to a late start, in part due to mom stuff.  Like
+last week, I also had trouble sleeping the night prior.
+
+This is 10.5 seconds per mile faster than last week, however it was
+*much* cooler today, which means that I didn't make anywhere near as
+much progress as it appears.  Psychologically, it's still a win.
