@@ -1,0 +1,1066 @@
+With 40# pack.  Was supposed to be 13.1 miles, but I stayed up late
+last night bug chasing, then did some more bug chasing in the morning
+and decided to see what would happen if I skipped breakfast and only
+had espresso until I started drinking my Tailwind (at 9:45, 17 hours
+and fifteen minutes after my previous calories (4:30pm)).  Well ...
+by the time I had done my first AA lap and had to turn around to start
+doing my intervals I was considering just going home, because I was
+definitely out of gas.  And after I did my intervals, I did go
+straight home, so I only did 8.9 miles (at least so far today).
+
+I started further up the hill than last time, so my .6 seconds/mile
+improvement is really a decrease, but I do think that not eating
+slowed me down considerably.  I still coughed up small amounts of junk
+from my lungs, but nothing at all like on Wednesday (during the
+Foothills Fat Ass 50k without a pack).
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Desktop/Move_2020_01_06_09_47_28_Running.gpx 
+3.233519    1:15  8:17.7 6.25258 0.00000 2020-01-06 16:41:31 UTC 2020-01-06 16:42:46 UTC
+2.939962    1:15  9:07.4 5.09568 0.00000 2020-01-06 16:43:16 UTC 2020-01-06 16:44:31 UTC
+2.900464    1:15  9:14.8 6.33689 0.00000 2020-01-06 16:45:02 UTC 2020-01-06 16:46:17 UTC
+3.152298    1:15  8:30.5 3.22349 0.04630 2020-01-06 16:46:47 UTC 2020-01-06 16:48:02 UTC
+3.155969    1:15  8:29.9 1.97487 2.05026 2020-01-06 16:48:29 UTC 2020-01-06 16:49:44 UTC
+3.459148    1:15  7:45.2 0.31233 2.17823 2020-01-06 16:50:18 UTC 2020-01-06 16:51:33 UTC
+3.614790    1:15  7:25.2 0.00000 6.56988 2020-01-06 16:52:02 UTC 2020-01-06 16:53:17 UTC
+3.554881    1:15  7:32.7 0.00000 6.88547 2020-01-06 16:53:46 UTC 2020-01-06 16:55:01 UTC
+3.585376    1:15  7:28.8 0.00000 5.03657 2020-01-06 16:55:32 UTC 2020-01-06 16:56:47 UTC
+3.353150    1:15  7:59.9 0.00000 5.11315 2020-01-06 16:57:17 UTC 2020-01-06 16:58:32 UTC
+3.244212    1:15  8:16.0 0.14854 2.12196 2020-01-06 16:59:00 UTC 2020-01-06 17:00:15 UTC
+3.326089    1:15  8:03.8 0.14743 0.00000 2020-01-06 17:00:46 UTC 2020-01-06 17:02:01 UTC
+Average: 8:11
+
+========================================================================
+
+With 40# pack.  I did do 13.1 miles, although I walked a lot after
+doing my intervals and even went inside my home for a potty break at
+12.2 miles.  I had my green drink before running and too much liquid
+in me made things uncomfortable, albeit *after* my intervals.
+
+Considering how much I had to eat yesterday and this morning and that
+I once again wound up starting fairly far up the hill, I'm
+disappointed that I only made a 7.7 secs/mile improvement.  *However*,
+my first interval was a sub-8 minute mile up hill, and I think that
+really cooked my legs.  I did a 7:54.4 on 2/25/2019 and I *think*
+that's my best.  Last year, my interval average on 1/14/2019 was
+7:46.3, *but* I only did 11 intervals, probably because I hadn't
+learned to count back then.
+
+FWIW, counting is hard when I'm doing intervals, so now I *always*
+start on 0 seconds past the hour and I also shift my bottles back and
+forth so that on odd numbered (starting at 1) intervals my "good
+bottle" is on my right hand and on the evens it's on my left.  That
+helps me remember when to start and when to stop.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_01_13_06_54_49_Running.gpx 
+3.369641    1:15  7:57.6 8.27056 0.00000 2020-01-13 13:45:51 UTC 2020-01-13 13:47:06 UTC
+2.926138    1:15  9:09.9 7.27133 0.00000 2020-01-13 13:47:38 UTC 2020-01-13 13:48:53 UTC
+2.839679    1:15  9:26.7 1.94518 0.00000 2020-01-13 13:49:25 UTC 2020-01-13 13:50:40 UTC
+3.336731    1:15  8:02.3 1.03038 0.86495 2020-01-13 13:51:14 UTC 2020-01-13 13:52:29 UTC
+3.007966    1:15  8:55.0 3.74926 0.19851 2020-01-13 13:52:53 UTC 2020-01-13 13:54:08 UTC
+3.587430    1:15  7:28.6 0.00000 6.09928 2020-01-13 13:54:39 UTC 2020-01-13 13:55:54 UTC
+3.581393    1:15  7:29.3 0.00000 4.95012 2020-01-13 13:56:22 UTC 2020-01-13 13:57:37 UTC
+3.606355    1:15  7:26.2 0.00000 6.94683 2020-01-13 13:58:07 UTC 2020-01-13 13:59:22 UTC
+3.757255    1:15  7:08.3 0.00000 6.89729 2020-01-13 13:59:53 UTC 2020-01-13 14:01:08 UTC
+3.479482    1:15  7:42.5 0.00000 3.66599 2020-01-13 14:01:38 UTC 2020-01-13 14:02:53 UTC
+3.384639    1:15  7:55.4 0.14670 1.66770 2020-01-13 14:03:21 UTC 2020-01-13 14:04:36 UTC
+3.364346    1:15  7:58.3 0.11860 1.64853 2020-01-13 14:05:08 UTC 2020-01-13 14:06:23 UTC
+Average: 8:03.3
+
+========================================================================
+No pack today after all.  An important clip broke on my descent down
+La Luz on Saturday.  I have a new Tioga coming on Wednesday, so I
+decided to do a non-pack interval training today.  I'll then defer my
+Wednesday speed pack run to Thursday, which may slightly interfere
+with my performance at Saturday's snowshoe race, but oh well...
+
+This time I actually ran back slightly before starting my intervals,
+because my watch hit zero seconds after the minute before I got to my
+earliest starting spot.  In the past I've jogged very slowly up from
+there, but a minute is a long time and that puts me further up the
+hill, so this time I doubled back and got almost back to the AA
+driveway before turning uphill and starting again.  I will do that
+from now on so that I'll essentially be starting from close to the
+driveway every time.  It's embarrassing that I didn't start doing that
+earlier, although I used to pay more attention to my total 13.1 mile
+time than I do now.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_01_20_07_27_22_Running.gpx 
+3.800070    1:15  7:03.5 5.75283 0.10937 2020-01-20 14:13:25 UTC 2020-01-20 14:14:40 UTC
+3.505602    1:15  7:39.0 6.86248 0.00000 2020-01-20 14:15:09 UTC 2020-01-20 14:16:24 UTC
+3.440928    1:15  7:47.7 5.75501 0.00000 2020-01-20 14:16:57 UTC 2020-01-20 14:18:12 UTC
+3.872092    1:15  6:55.6 1.35122 2.35537 2020-01-20 14:18:41 UTC 2020-01-20 14:19:56 UTC
+3.773619    1:15  7:06.4 3.65542 1.89339 2020-01-20 14:20:27 UTC 2020-01-20 14:21:42 UTC
+4.024757    1:15  6:39.8 0.00000 6.93370 2020-01-20 14:22:11 UTC 2020-01-20 14:23:26 UTC
+4.113925    1:15  6:31.1 0.00000 7.31756 2020-01-20 14:23:55 UTC 2020-01-20 14:25:10 UTC
+4.022047    1:15  6:40.1 0.00000 6.56590 2020-01-20 14:25:42 UTC 2020-01-20 14:26:57 UTC
+3.898788    1:15  6:52.7 0.00000 5.48033 2020-01-20 14:27:24 UTC 2020-01-20 14:28:39 UTC
+3.706741    1:15  7:14.1 0.00000 2.39580 2020-01-20 14:29:09 UTC 2020-01-20 14:30:24 UTC
+3.731761    1:15  7:11.2 0.00000 0.77912 2020-01-20 14:30:55 UTC 2020-01-20 14:32:10 UTC
+3.836033    1:15  6:59.5 0.10460 1.38952 2020-01-20 14:32:42 UTC 2020-01-20 14:33:57 UTC
+Average: 7:03.4
+
+========================================================================
+With 40#, started just before crossing the driveway into the north end
+of AA, which is *slightly* earlier than I'm supposed to start, but
+there were no cars and I really didn't want to run in place for a
+minute waiting to get to 00 seconds past the minute again.
+
+Although I started at 00 and was switching water bottles, I still
+screwed up.  Looking at my pace graph on Movescount it appears I
+started my sixth interval late.  I *think* I then ended it when it
+should have ended and that I did 30 second rests in between each of
+my remaining 75 second all-outs, but the damage had been done and I
+knew I had lost count, so I did what I *thought* was an extra
+interval, just to be sure, but it turns out I had done two extra
+intervals.
+
+Considering that I got behind on sleep (due to the SAR mission) and
+that all the caffeine both Saturday (Snowshoe Race) and Sunday (Bombs
+Away ARR Burque Brew Tour race) and that this was my first interval
+pack run with my new Tioga, I'm not too unhappy with my numbers.
+
+My hope is I actually got better training and am a little more fit
+than the numbers suggest.  I'll know more after my Wednesday speed run.
+
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 14 ~/Documents/Running/Movescount/Move_2020_01_27_07_14_27_Running.gpx 
+3.120967    1:15  8:35.6 5.71126 0.00000 2020-01-27 14:06:30 UTC 2020-01-27 14:07:45 UTC
+2.807321    1:15  9:33.2 3.24789 0.00000 2020-01-27 14:08:15 UTC 2020-01-27 14:09:30 UTC
+2.788014    1:15  9:37.2 6.64706 0.00000 2020-01-27 14:10:02 UTC 2020-01-27 14:11:17 UTC
+2.972446    1:15  9:01.4 2.87007 0.00000 2020-01-27 14:11:52 UTC 2020-01-27 14:13:07 UTC
+3.085776    1:15  8:41.5 0.09601 1.72235 2020-01-27 14:13:32 UTC 2020-01-27 14:14:47 UTC
+3.035893    1:15  8:50.1 1.15201 1.73011 2020-01-27 14:15:30 UTC 2020-01-27 14:16:45 UTC
+3.352874    1:15  7:59.9 0.00000 5.46266 2020-01-27 14:16:48 UTC 2020-01-27 14:18:03 UTC
+3.439731    1:15  7:47.8 0.00000 5.06808 2020-01-27 14:18:23 UTC 2020-01-27 14:19:38 UTC
+3.306778    1:15  8:06.6 0.00000 7.12646 2020-01-27 14:20:04 UTC 2020-01-27 14:21:19 UTC
+3.309617    1:15  8:06.2 0.00000 5.64579 2020-01-27 14:21:46 UTC 2020-01-27 14:23:01 UTC
+3.511680    1:15  7:38.2 0.00000 4.27568 2020-01-27 14:23:31 UTC 2020-01-27 14:24:46 UTC
+3.351516    1:15  8:00.1 0.00000 1.21604 2020-01-27 14:25:15 UTC 2020-01-27 14:26:30 UTC
+3.211984    1:15  8:21.0 0.34082 0.97421 2020-01-27 14:27:00 UTC 2020-01-27 14:28:15 UTC
+3.208855    1:15  8:21.5 1.03786 0.59032 2020-01-27 14:28:46 UTC 2020-01-27 14:30:01 UTC
+Average: 8:28.6
+
+========================================================================
+With 40# pack
+
+Much hotter today than a week ago.  I also was carrying around extra
+food in my gut due to a combination of having done a low fiber
+protocol on Friday and eating like a piggy yesterday evening (after
+having gotten myself amped up over a SAR mission that was over well
+before I got to IB).
+
+I did, however, successfully count to 12.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_02_03_06_44_01_Running.gpx 
+3.131488    1:15  8:33.9 4.12934 0.00000 2020-02-03 13:38:00 UTC 2020-02-03 13:39:15 UTC
+2.763478    1:15  9:42.3 4.18123 0.00000 2020-02-03 13:39:50 UTC 2020-02-03 13:41:05 UTC
+2.778459    1:15  9:39.2 5.80275 0.00000 2020-02-03 13:41:37 UTC 2020-02-03 13:42:52 UTC
+2.993634    1:15  8:57.5 2.55699 0.00000 2020-02-03 13:43:21 UTC 2020-02-03 13:44:36 UTC
+3.150517    1:15  8:30.8 0.36766 2.09179 2020-02-03 13:45:03 UTC 2020-02-03 13:46:18 UTC
+3.194906    1:15  8:23.7 1.94542 2.13381 2020-02-03 13:46:55 UTC 2020-02-03 13:48:10 UTC
+3.429431    1:15  7:49.2 0.00000 7.00289 2020-02-03 13:48:35 UTC 2020-02-03 13:49:50 UTC
+3.379599    1:15  7:56.1 0.00000 5.35092 2020-02-03 13:50:22 UTC 2020-02-03 13:51:37 UTC
+3.340348    1:15  8:01.7 0.00000 5.64141 2020-02-03 13:52:07 UTC 2020-02-03 13:53:22 UTC
+3.409225    1:15  7:52.0 0.00000 6.17069 2020-02-03 13:53:51 UTC 2020-02-03 13:55:06 UTC
+3.302294    1:15  8:07.3 0.01291 3.76455 2020-02-03 13:55:37 UTC 2020-02-03 13:56:52 UTC
+3.286907    1:15  8:09.6 0.16778 0.74068 2020-02-03 13:57:22 UTC 2020-02-03 13:58:37 UTC
+Average: 8:28.6
+
+========================================================================
+With 40# pack
+
+Once more I successfully counted to 12.  Yay.
+
+Today there was light rain, so although I did my normal lap around AA
+before doing my intervals, I went straight home afterward, for a total
+of 8.88 miles instead of my typical Monday 13.1.  FTR, rain doesn't
+hurt me, but it does potentially hurt a Tioga 5500.  I've worn through
+clevis pins in the past.  Since I'm down to one functional pack that
+I'm using both for SAR and BMDM training, I really didn't want any
+additional strain on it.  As it is, I didn't go to a SAR mission in
+Santa Fe last night due to my pack being too poorly organized for me
+to count on it in the dark in a storm on the mountain :-(
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_02_10_06_52_31_Running.gpx 
+3.123465    1:15  8:35.2 6.04038 0.00000 2020-02-10 13:46:35 UTC 2020-02-10 13:47:50 UTC
+2.965880    1:15  9:02.6 5.03442 0.00000 2020-02-10 13:48:18 UTC 2020-02-10 13:49:33 UTC
+2.832581    1:15  9:28.1 6.67692 0.00000 2020-02-10 13:50:04 UTC 2020-02-10 13:51:19 UTC
+2.947960    1:15  9:05.9 2.62261 0.00000 2020-02-10 13:51:51 UTC 2020-02-10 13:53:06 UTC
+3.308439    1:15  8:06.4 1.47988 2.57941 2020-02-10 13:53:33 UTC 2020-02-10 13:54:48 UTC
+3.399728    1:15  7:53.3 0.34736 2.61940 2020-02-10 13:55:21 UTC 2020-02-10 13:56:36 UTC
+3.446328    1:15  7:46.9 0.00000 5.93886 2020-02-10 13:57:05 UTC 2020-02-10 13:58:20 UTC
+3.549603    1:15  7:33.3 0.00000 6.49019 2020-02-10 13:58:51 UTC 2020-02-10 14:00:06 UTC
+3.459769    1:15  7:45.1 0.00000 4.83583 2020-02-10 14:00:36 UTC 2020-02-10 14:01:51 UTC
+3.443507    1:15  7:47.3 0.00000 5.99213 2020-02-10 14:02:18 UTC 2020-02-10 14:03:33 UTC
+3.282437    1:15  8:10.2 0.00000 3.07861 2020-02-10 14:04:04 UTC 2020-02-10 14:05:19 UTC
+3.355791    1:15  7:59.5 0.38556 0.74872 2020-02-10 14:05:51 UTC 2020-02-10 14:07:06 UTC
+Average: 8:16.2
+
+=========================================================================
+With 40# pack
+
+As per last year (2019_02_18), I ran to AA and did 6 intervals w/o
+doing my normal one lap prior or one lap after, for a total distance
+of 5.56 miles.  However, last year I did an additonal mile after I got
+home so that I did one quarter marathon distance.  This year I had
+glanced at what I did last year and wanted to do the same, but I
+didn't pay close enough attention to see that extra mile, so I didn't
+do it because I didn't think I had done it last year.
+
+It was about 10F warmer today than last year.  My average interval
+pace was 23 seconds / mile slower than last year.  Some of that was
+the heat, but most of it is simply me being less fit.  The portion of
+my back that chafes is now tough enough that it didn't slow me down.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 6 ~/Documents/Running/Movescount/Move_2020_02_17_06_47_14_Running.gpx 
+3.239855    1:15  8:16.7 6.47855 0.00000 2020-02-17 13:02:16 UTC 2020-02-17 13:03:31 UTC
+2.809314    1:15  9:32.8 5.37069 0.00000 2020-02-17 13:04:03 UTC 2020-02-17 13:05:18 UTC
+2.801367    1:15  9:34.4 6.00882 0.00000 2020-02-17 13:05:48 UTC 2020-02-17 13:07:03 UTC
+3.124003    1:15  8:35.1 2.48192 0.00000 2020-02-17 13:07:35 UTC 2020-02-17 13:08:50 UTC
+3.220376    1:15  8:19.7 0.57935 2.64389 2020-02-17 13:09:14 UTC 2020-02-17 13:10:29 UTC
+3.316118    1:15  8:05.3 0.99598 2.71464 2020-02-17 13:11:06 UTC 2020-02-17 13:12:21 UTC
+Average: 8:44
+
+========================================================================
+With 40# pack
+
+Nice improvement from last week.  Still, 24.9 seconds/mile slower than
+last year, although it was about 11F hotter this year than last.  My
+overall pace for the 13.1 miles this year was 10:19 @ 142bpm,
+vs. 10:06 @ 142bpm last year.  However, I was wearing my ice hat this
+year, so that may have been a contributing factor.  Also, last week
+since I only did 6 intervals, the percentage that were uphill was much
+greater, although I also did them w/o the first loop around AA and I
+was still recovering from the quad.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_02_24_06_55_16_Running.gpx 
+3.286130    1:15  8:09.7 5.12679 0.00000 2020-02-24 13:44:18 UTC 2020-02-24 13:45:33 UTC
+2.876107    1:15  9:19.5 6.03696 0.00000 2020-02-24 13:46:04 UTC 2020-02-24 13:47:19 UTC
+2.772548    1:15  9:40.4 5.04145 0.00000 2020-02-24 13:47:51 UTC 2020-02-24 13:49:06 UTC
+3.143816    1:15  8:31.9 2.23501 0.01990 2020-02-24 13:49:36 UTC 2020-02-24 13:50:51 UTC
+3.079402    1:15  8:42.6 1.09881 0.84492 2020-02-24 13:51:18 UTC 2020-02-24 13:52:33 UTC
+3.328878    1:15  8:03.4 0.72656 3.32319 2020-02-24 13:53:06 UTC 2020-02-24 13:54:21 UTC
+3.426158    1:15  7:49.7 0.00000 5.30847 2020-02-24 13:54:49 UTC 2020-02-24 13:56:04 UTC
+3.494698    1:15  7:40.5 0.00000 6.60177 2020-02-24 13:56:36 UTC 2020-02-24 13:57:51 UTC
+3.436008    1:15  7:48.3 0.00000 5.16776 2020-02-24 13:58:21 UTC 2020-02-24 13:59:36 UTC
+3.509551    1:15  7:38.5 0.00000 5.89320 2020-02-24 14:00:05 UTC 2020-02-24 14:01:20 UTC
+3.272940    1:15  8:11.7 0.43961 3.27015 2020-02-24 14:01:53 UTC 2020-02-24 14:03:08 UTC
+3.261358    1:15  8:13.4 0.00739 0.55858 2020-02-24 14:03:35 UTC 2020-02-24 14:04:50 UTC
+Average: 8:19.1
+
+========================================================================
+With 40# pack
+
+This is 14.5 seconds slower than last year, but it was about 10F
+warmer.  I also had to start from a dead stop, on my first interval
+(although I started slightly before the top of the minute, in theory
+to make up for that).  The graph that I get from Movescount does not
+look right.  The troughs are not deep enough.  It is quite possible
+that my Ambit3's battery is so old that it's really doing
+significantly more approximation than it did a year ago.  If so, that
+makes a lot of my interval analysis a bit dodgy, but it doesn't really
+greatly affect my other trainings since approximations get more
+accurate at all the other distance / pace combinations I do.
+Furthermore, the battery for my HRM is replaceable and now I'm
+replacing it once a month, so my HR shouldn't be too much of an
+approximation.
+
+My guess is I'm less than 15 seconds per mile less fit than last year,
+but probably not much less.  Assuming I can avoid a potty break (4
+minutes last year!) and assuming my snail's pace at the end of BMDM
+last year was due to my pack breaking, I should be around 10 minutes
+faster (all else equal, and it probably won't be, because it should be
+hotter) than last year, but probably not fifteen minutes faster.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 6 ~/Documents/Running/Movescount/Move_2020_03_02_07_00_03_Running.gpx 
+3.422670    1:15  7:50.2 4.68589 0.10725 2020-03-02 13:16:02 UTC 2020-03-02 13:17:17 UTC
+2.976077    1:15  9:00.7 6.24094 0.00000 2020-03-02 13:17:52 UTC 2020-03-02 13:19:07 UTC
+2.789770    1:15  9:36.8 5.65164 0.00000 2020-03-02 13:19:36 UTC 2020-03-02 13:20:51 UTC
+3.089615    1:15  8:40.8 2.25225 0.16705 2020-03-02 13:21:38 UTC 2020-03-02 13:22:53 UTC
+3.213737    1:15  8:20.7 2.18443 1.49675 2020-03-02 13:23:04 UTC 2020-03-02 13:24:19 UTC
+3.659167    1:15  7:19.8 0.69128 4.35807 2020-03-02 13:24:51 UTC 2020-03-02 13:26:06 UTC
+Average: 8:28.2
+
+========================================================================
+With 40# pack
+
+Ugh.  First interval 5.7 seconds per mile slower than a week ago,
+second 1.7 secondds slower.  It was warmer this week, I started
+further down the road and my pack may have been a pound higher.  I had
+put a little extra weight in my pack for King of The Hill, which I
+didn't take out before adding a 5 pound bag of rice to my pack today.
+My scale has so much variance that I am not 100% confident that my
+pack was a pound higher than last week, but that's both what the scale
+read and it also makes sense.
+
+Overall, considering the swelling and discomfort in my right foot, I'm
+happy I didn't go backward further, but considering I'm on my taper, I
+expected to show improvement over last week.  Last year my first two
+intervals were 8.9 and 2.9 seconds faster.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 3 ~/Documents/Running/Movescount/Move_2020_03_09_07_00_02_Running.gpx 
+3.381223    1:15  7:55.9 6.72733 0.00000 2020-03-09 13:16:05 UTC 2020-03-09 13:17:20 UTC
+2.966707    1:15  9:02.4 5.00834 0.00000 2020-03-09 13:17:49 UTC 2020-03-09 13:19:04 UTC
+3.598737    1:15  7:27.1 0.00000 7.84603 2020-03-09 13:19:34 UTC 2020-03-09 13:20:49 UTC
+Average: 8:08.5
+
+========================================================================
+Without a pack
+
+This was after 3 AA loops (i.e., I jogged 11.5 miles before starting
+my intervals).  I haven't done that in a while.  It was also w/o any
+calories other than the small amount in the espressos I had.
+
+I had some sort of respiratory sickness that kept me from training
+March 27th - 30th.  The symptoms were suspiciously like a mild case of
+Covid-19, but I couldn't be tested and there are so few confirmed
+instances of Covid-19 in Bernalillo County that my guess is it was
+something else.  Anyway, my lungs are not back to normal, but I'm
+doing OK, considering.
+
+My right foot is still in distress, which is why I chose to do my
+interval training today without a pack.  I'll do a pack half marathon
+at a 130bpm HR on Wednesday.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_04_06_05_57_55_Running.gpx 
+3.723866    1:15  7:12.1 6.01359 0.00000 2020-04-06 13:57:02 UTC 2020-04-06 13:58:17 UTC
+3.353993    1:15  7:59.8 6.95150 0.00000 2020-04-06 13:58:41 UTC 2020-04-06 13:59:56 UTC
+3.404114    1:15  7:52.7 4.63286 0.00000 2020-04-06 14:00:29 UTC 2020-04-06 14:01:44 UTC
+3.773206    1:15  7:06.5 1.08748 2.29777 2020-04-06 14:02:14 UTC 2020-04-06 14:03:29 UTC
+3.456723    1:15  7:45.5 3.34063 0.39030 2020-04-06 14:03:59 UTC 2020-04-06 14:05:14 UTC
+4.236722    1:15  6:19.8 0.00000 7.04891 2020-04-06 14:05:45 UTC 2020-04-06 14:07:00 UTC
+3.977362    1:15  6:44.6 0.00000 7.51599 2020-04-06 14:07:31 UTC 2020-04-06 14:08:46 UTC
+3.739003    1:15  7:10.4 1.51974 4.44254 2020-04-06 14:09:16 UTC 2020-04-06 14:10:31 UTC
+3.888106    1:15  6:53.9 7.69027 3.50816 2020-04-06 14:10:57 UTC 2020-04-06 14:12:12 UTC
+3.750563    1:15  7:09.0 6.06337 1.89463 2020-04-06 14:12:44 UTC 2020-04-06 14:13:59 UTC
+3.586744    1:15  7:28.6 5.82943 1.84309 2020-04-06 14:14:29 UTC 2020-04-06 14:15:44 UTC
+3.729648    1:15  7:11.5 0.00000 13.63421 2020-04-06 14:16:14 UTC 2020-04-06 14:17:29 UTC
+Average: 7:14.5
+
+========================================================================
+Without a pack
+
+I'm on my 1/4 distance taper, since I have the Tough Ruck/Boston
+Marathon substitute coming up.  Today I should have done 3 intervals
+with my pack, but it was raining and I didn't want to get the contents
+of my pack wet, so I ran w/o a pack.  Then it snowed and I could have
+run with the pack, but I didn't know it would snow,
+
+I screwed up when I ran and only did 15 seconds of rest after my first
+interval.  I didn't realize I had only rested 15 seconds when I did my
+second interval and consequently I went 15 seconds longer than I
+should have *and* I was slowing down tremendously as I went.
+
+My timing was off enough that my app that extracts my interval info
+can't even find 3 intervals.  I could change the constraints it uses
+to find them, but there's no point.  I don't have anything to compare
+them to.  As it is, I rarely run 3 intervals (2 up, 1 down) and when I
+do, it's often with a pack.
+
+So, I probably got some acceptable training in today, considering that
+I'm on my taper.  I also put less stress on my right foot by running
+without my pack.  The substitute runs that are coming up are pretty
+much one-offs anyway, so the exact details of what I'm doing now don't
+really matter anyway.
+
+By now JMTR50M has been canceled.  In theory SJS50M and HR100M still
+might go, but my guess is they'll both be canceled.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 3 ~/Documents/Running/Movescount/Move_2020_04_13_09_23_59_Running.gpx 
+4.219873    1:15  6:21.3 0.00000 11.42988 2020-04-13 15:42:31 UTC 2020-04-13 15:43:46 UTC
+Average: 6:21.3
+thread 'main' panicked at 'Was told to find 3 intervals, but found 1', src/gpx.rs:356:13
+
+========================================================================
+Without a pack
+
+Lungs still pretty fried.  I half-assed it today.  I don't think I
+could have even started running if I thought I had to really go all
+out.  At least I should be able to do better next week w/o much
+effort, although I'll be taking my truck into Affordable Automotive
+and may not do my normal Monday exercise.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_04_27_07_32_52_Running.gpx 
+3.597961    1:15  7:27.2 6.97973 0.00000 2020-04-27 14:25:53 UTC 2020-04-27 14:27:08 UTC
+3.315804    1:15  8:05.3 6.56928 0.00000 2020-04-27 14:27:37 UTC 2020-04-27 14:28:52 UTC
+3.176936    1:15  8:26.5 4.37506 0.00000 2020-04-27 14:29:26 UTC 2020-04-27 14:30:41 UTC
+3.615453    1:15  7:25.1 1.15108 1.38074 2020-04-27 14:31:11 UTC 2020-04-27 14:32:26 UTC
+3.291236    1:15  8:08.9 3.85336 0.00000 2020-04-27 14:32:56 UTC 2020-04-27 14:34:11 UTC
+3.807829    1:15  7:02.6 0.00000 6.43672 2020-04-27 14:34:43 UTC 2020-04-27 14:35:58 UTC
+3.593215    1:15  7:27.8 0.00000 5.83577 2020-04-27 14:36:27 UTC 2020-04-27 14:37:42 UTC
+4.065759    1:15  6:35.8 0.00000 7.08662 2020-04-27 14:38:10 UTC 2020-04-27 14:39:25 UTC
+3.986075    1:15  6:43.7 0.00000 6.76744 2020-04-27 14:39:56 UTC 2020-04-27 14:41:11 UTC
+3.661491    1:15  7:19.5 0.00000 2.58911 2020-04-27 14:41:41 UTC 2020-04-27 14:42:56 UTC
+3.528807    1:15  7:36.0 0.15000 1.35416 2020-04-27 14:43:26 UTC 2020-04-27 14:44:41 UTC
+3.446151    1:15  7:46.9 0.10728 0.35310 2020-04-27 14:45:12 UTC 2020-04-27 14:46:27 UTC
+Average: 7:30.5
+
+========================================================================
+Without a pack
+
+Pretty poor, however, better than the end of last month, and I did
+ride my bike 100 miles yesterday.  Furthermore, I ran 11.6 miles
+before doing my intervals (i.e. from my house and 3 and a fraction
+laps around Albuquerque Academy).
+
+However, last year I rode the Santa Fe Century the day before and also
+ran 3 and a fraction laps, and I was 16 seconds per mile faster.  Of
+course I hadn't had a nasty lung infection a month prior (and it
+appears to have been slightly cooler).
+
+So, it's no surprise that I was more fit last year, but considering
+how bad I was previously, I'm pretty happy.  I also tanked hard
+starting in about June, so if I can avoid that, I'll go into my
+Hardrock taper in better shape than I would have last year.
+
+bash-3.2[remove_gain_and_loss_fudge]$ time target/release/int_ave ~/Documents/Running/Movescount/Move_2020_05_18_05_45_29_Running.gpx 
+3.740633    1:15  7:10.2 4.79639 0.00000 2020-05-18 13:48:31 UTC 2020-05-18 13:49:46 UTC
+3.353965    1:15  7:59.8 6.44372 0.00000 2020-05-18 13:50:15 UTC 2020-05-18 13:51:30 UTC
+3.401823    1:15  7:53.0 5.57553 0.00000 2020-05-18 13:52:02 UTC 2020-05-18 13:53:17 UTC
+3.645300    1:15  7:21.4 0.43889 1.70924 2020-05-18 13:53:50 UTC 2020-05-18 13:55:05 UTC
+3.285411    1:15  8:09.8 3.61358 0.20142 2020-05-18 13:55:34 UTC 2020-05-18 13:56:49 UTC
+4.165424    1:15  6:26.3 0.00000 6.54799 2020-05-18 13:57:18 UTC 2020-05-18 13:58:33 UTC
+3.933530    1:15  6:49.1 0.00000 6.46363 2020-05-18 13:59:05 UTC 2020-05-18 14:00:20 UTC
+3.981529    1:15  6:44.2 0.00000 6.15736 2020-05-18 14:00:48 UTC 2020-05-18 14:02:03 UTC
+4.009303    1:15  6:41.4 0.00000 6.72630 2020-05-18 14:02:31 UTC 2020-05-18 14:03:46 UTC
+3.520017    1:15  7:37.1 0.06992 1.99215 2020-05-18 14:04:17 UTC 2020-05-18 14:05:32 UTC
+3.438009    1:15  7:48.1 0.10799 1.04665 2020-05-18 14:06:02 UTC 2020-05-18 14:07:17 UTC
+3.668994    1:15  7:18.6 0.15144 0.44018 2020-05-18 14:07:48 UTC 2020-05-18 14:09:03 UTC
+Average: 7:19.9
+
+========================================================================
+Without a pack
+
+About a second faster per mile than two weeks ago, but the remarkable
+thing about a dancing pig is not that he dances well, it's that he
+dances at all.  I doubt many of the other RG2C finishers did interval
+training today.
+
+FWIW, I did screw up my stats by misremembering when my 3rd interval
+was to end.  I wound up jogging 15 seconds before the end, then
+noticed my mistake and briefly sped up again.  Still, that mistake was
+a fraction of 1/12th of my workout, so it didn't really screw things
+up that much.
+
+My pace for the entire 15.66 miles was 10:30, but my average HR was
+125.  Two weeks ago my pace for 15.66 miles was 10:22, but my average
+HR was 131.  It was also slightly hotter this week, so overall I'd say
+I'm *slightly* more fit than I was then.
+
+bash-3.2[remove_gain_and_loss_fudge]$ time target/release/int_ave ~/Documents/Running/Movescount/Move_2020_06_01_06_07_26_Running.gpx 
+3.563942    1:15  7:31.5 5.82186 2.22327 2020-06-01 14:13:29 UTC 2020-06-01 14:14:44 UTC
+3.318334    1:15  8:04.9 4.58710 6.65065 2020-06-01 14:15:13 UTC 2020-06-01 14:16:28 UTC
+3.293205    1:15  8:08.6 0.00000 11.21507 2020-06-01 14:16:58 UTC 2020-06-01 14:18:13 UTC
+3.877643    1:15  6:55.0 80.06769 8.00826 2020-06-01 14:18:45 UTC 2020-06-01 14:20:00 UTC
+3.461090    1:15  7:44.9 0.00000 21.38192 2020-06-01 14:20:30 UTC 2020-06-01 14:21:45 UTC
+3.991506    1:15  6:43.1 3.53604 4.26971 2020-06-01 14:22:15 UTC 2020-06-01 14:23:30 UTC
+4.035916    1:15  6:38.7 3.52650 1.72551 2020-06-01 14:24:02 UTC 2020-06-01 14:25:17 UTC
+3.714148    1:15  7:13.3 1.97295 4.42279 2020-06-01 14:25:45 UTC 2020-06-01 14:27:00 UTC
+3.970291    1:15  6:45.3 0.00000 4.13560 2020-06-01 14:27:31 UTC 2020-06-01 14:28:46 UTC
+3.721699    1:15  7:12.4 2.62663 5.49388 2020-06-01 14:29:16 UTC 2020-06-01 14:30:31 UTC
+3.618188    1:15  7:24.7 1.25924 3.14367 2020-06-01 14:30:59 UTC 2020-06-01 14:32:14 UTC
+3.607790    1:15  7:26.0 2.95211 5.39560 2020-06-01 14:32:46 UTC 2020-06-01 14:34:01 UTC
+Average: 7:19
+
+========================================================================
+Without a pack.  Yesterday I did some pack work since it was Run as
+One and I also went to La Cueva track with Margaret in the afternoon.
+To top it off, my poker work cost me an hour of sleep last night, so
+I'm fairly happy with the progress here, although last week I had done
+the RG2C the day before my intervals.
+
+bash-3.2[remove_gain_and_loss_fudge]$ time target/release/int_ave ~/Documents/Running/Movescount/Move_2020_06_08_06_13_22_Running.gpx 
+3.697397    1:15  7:15.2 10.87583 8.18820 2020-06-08 14:10:23 UTC 2020-06-08 14:11:38 UTC
+3.494491    1:15  7:40.5 4.04294 6.80044 2020-06-08 14:12:12 UTC 2020-06-08 14:13:27 UTC
+3.441409    1:15  7:47.6 7.66519 2.02252 2020-06-08 14:13:56 UTC 2020-06-08 14:15:11 UTC
+3.800579    1:15  7:03.4 6.62029 1.05351 2020-06-08 14:15:48 UTC 2020-06-08 14:17:03 UTC
+3.462582    1:15  7:44.7 2.69507 0.97255 2020-06-08 14:17:30 UTC 2020-06-08 14:18:45 UTC
+3.959248    1:15  6:46.4 16.12781 0.15553 2020-06-08 14:19:11 UTC 2020-06-08 14:20:26 UTC
+4.081176    1:15  6:34.3 13.47332 0.00000 2020-06-08 14:20:56 UTC 2020-06-08 14:22:11 UTC
+3.872099    1:15  6:55.6 10.83542 3.50754 2020-06-08 14:22:43 UTC 2020-06-08 14:23:58 UTC
+3.952465    1:15  6:47.1 5.37074 2.66804 2020-06-08 14:24:25 UTC 2020-06-08 14:25:40 UTC
+3.684570    1:15  7:16.7 0.00850 10.92933 2020-06-08 14:26:13 UTC 2020-06-08 14:27:28 UTC
+3.636368    1:15  7:22.5 1.15835 5.37755 2020-06-08 14:27:56 UTC 2020-06-08 14:29:11 UTC
+3.618481    1:15  7:24.7 1.19065 4.47536 2020-06-08 14:29:41 UTC 2020-06-08 14:30:56 UTC
+Average: 7:13.2
+
+========================================================================
+
+Pathetic showing today, although that's what I expected. I have not
+slept well the last couple of nights and my rest bike ride yesterday
+took more out of me than it should.  My right foot is still slightly
+injuired, so I decided to skip 9.9 miles of running before the
+intervals, just do the intervals and then get home, which is what I
+did.
+
+Since I knew I was only going to do a single lap, I didn't bring any
+water bottles.  That meant I didn't have my normal cue to keep track
+of which lap I was on.  So, I botched and took only 15 seconds of rest
+between my 3rd and 4th interval and accidentally took 45 seconds
+between my 11th and 12th interval. I also wound up doing 13 intervals.
+
+FWIW, I'm glad I did them.  The Silverton Alpine 50k is coming up soon
+enough that I need to know where my right foot stands (pardon the
+pun).
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 13 ~/Documents/Running/Movescount/Move_2020_06_22_07_52_12_Running.gpx 
+3.639621    1:15  7:22.1 5.27803 0.00000 2020-06-22 14:07:15 UTC 2020-06-22 14:08:30 UTC
+3.442117    1:15  7:47.5 5.75223 0.00000 2020-06-22 14:08:59 UTC 2020-06-22 14:10:14 UTC
+3.395791    1:15  7:53.9 4.28191 0.00000 2020-06-22 14:10:53 UTC 2020-06-22 14:12:08 UTC
+3.750222    1:15  7:09.1 0.39588 1.42078 2020-06-22 14:12:31 UTC 2020-06-22 14:13:46 UTC
+3.622010    1:15  7:24.3 2.99844 1.49419 2020-06-22 14:14:17 UTC 2020-06-22 14:15:32 UTC
+4.109951    1:15  6:31.5 0.00000 7.38016 2020-06-22 14:15:56 UTC 2020-06-22 14:17:11 UTC
+3.903704    1:15  6:52.2 0.00000 6.86073 2020-06-22 14:17:33 UTC 2020-06-22 14:18:48 UTC
+3.749184    1:15  7:09.2 0.00000 6.21860 2020-06-22 14:19:15 UTC 2020-06-22 14:20:30 UTC
+3.748022    1:15  7:09.3 0.00000 6.82639 2020-06-22 14:20:46 UTC 2020-06-22 14:22:01 UTC
+3.388639    1:15  7:54.9 0.00000 3.99769 2020-06-22 14:22:30 UTC 2020-06-22 14:23:45 UTC
+3.457811    1:15  7:45.4 0.00000 1.11012 2020-06-22 14:24:15 UTC 2020-06-22 14:25:30 UTC
+3.599424    1:15  7:27.1 0.10828 0.79157 2020-06-22 14:25:59 UTC 2020-06-22 14:27:14 UTC
+3.698196    1:15  7:15.1 0.11055 1.29962 2020-06-22 14:27:46 UTC 2020-06-22 14:29:01 UTC
+Average: 7:21.7
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 12 ~/Documents/Running/Movescount/Move_2020_06_22_07_52_12_Running.gpx 
+3.442117    1:15  7:47.5 5.75223 0.00000 2020-06-22 14:08:59 UTC 2020-06-22 14:10:14 UTC
+3.395791    1:15  7:53.9 4.28191 0.00000 2020-06-22 14:10:53 UTC 2020-06-22 14:12:08 UTC
+3.750222    1:15  7:09.1 0.39588 1.42078 2020-06-22 14:12:31 UTC 2020-06-22 14:13:46 UTC
+3.622010    1:15  7:24.3 2.99844 1.49419 2020-06-22 14:14:17 UTC 2020-06-22 14:15:32 UTC
+4.109951    1:15  6:31.5 0.00000 7.38016 2020-06-22 14:15:56 UTC 2020-06-22 14:17:11 UTC
+3.903704    1:15  6:52.2 0.00000 6.86073 2020-06-22 14:17:33 UTC 2020-06-22 14:18:48 UTC
+3.749184    1:15  7:09.2 0.00000 6.21860 2020-06-22 14:19:15 UTC 2020-06-22 14:20:30 UTC
+3.748022    1:15  7:09.3 0.00000 6.82639 2020-06-22 14:20:46 UTC 2020-06-22 14:22:01 UTC
+3.388639    1:15  7:54.9 0.00000 3.99769 2020-06-22 14:22:30 UTC 2020-06-22 14:23:45 UTC
+3.457811    1:15  7:45.4 0.00000 1.11012 2020-06-22 14:24:15 UTC 2020-06-22 14:25:30 UTC
+3.599424    1:15  7:27.1 0.10828 0.79157 2020-06-22 14:25:59 UTC 2020-06-22 14:27:14 UTC
+3.698196    1:15  7:15.1 0.11055 1.29962 2020-06-22 14:27:46 UTC 2020-06-22 14:29:01 UTC
+Average: 7:21.6
+bash-3.2[remove_gain_and_loss_fudge]$
+
+========================================================================
+No pack.  1/2 distance taper, although I did my intervals before doing
+half of my non-interval distance.  This is similar to what I did the
+last time I did a 1/2 distance taper, except then (March 2nd) I did
+have a pack and I also made up the extra distance (between 5.6 and
+6.55) back in the neighborhood in March (pre covid-19).
+
+So, I really don't have anything to compare this directly to.  My
+second interval is incredibly slow.  Looking at a graph of my pace
+during it shows a weird decline in the middle which I don't remember.
+The jagginess of the graph makes me think I'm seeing some anomalies
+due to the age of m watch (specifically the age of the battery built
+in).
+
+Looks like I first used my Ambit3 on October 8th, 2014, so my watch is
+five and a half years old.
+
+Anyway, considering the fact that I did a cheater double-crossing on
+Saturday with a slightly gimpy right foot, I'm happy.  A week from
+today I'll do 1/4 distance and incorporate 3 intervals, then I'll
+drive Margaret and myself up to Silverton.  Whee!
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 6 ~/Documents/Running/Movescount/Move_2020_06_29_06_05_39_Running.gpx 
+3.732903    1:15  7:11.1 6.35510 0.00000 2020-06-29 12:21:42 UTC 2020-06-29 12:22:57 UTC
+3.203914    1:15  8:22.3 5.69064 0.00000 2020-06-29 12:23:26 UTC 2020-06-29 12:24:41 UTC
+3.392735    1:15  7:54.3 4.54771 0.00000 2020-06-29 12:25:13 UTC 2020-06-29 12:26:28 UTC
+4.080663    1:15  6:34.3 0.44899 1.21843 2020-06-29 12:26:57 UTC 2020-06-29 12:28:12 UTC
+3.420542    1:15  7:50.4 2.74649 0.76393 2020-06-29 12:28:46 UTC 2020-06-29 12:30:01 UTC
+4.448330    1:15  6:01.7 0.00000 6.51710 2020-06-29 12:30:27 UTC 2020-06-29 12:31:42 UTC
+Average: 7:19
+
+========================================================================
+Absolutely pitiful numbers, but at least I ran all 12.
+
+I left the house not knowing what I was going to do and without
+drinking any extra water beforehand or taking water with me.  I chose
+to run only one lap (instead of two laps) around AA before doing my
+intervals and I wasn't even sure as I was finishing the first lap
+whether I'd do any intervals, then I talked myself into doing at least
+one ... which led to all twelve.
+
+My right foot is still pretty jacked up from the Baldy 50k.  It did
+not feel good during any of my running and after I had finished my
+laps I stopped running along Barstow, took my shoes off and walked
+barefoot the rest of the way home.  Typing this up my foot is really
+complaining, so I'm not sure what I'll do the rest of the week.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_08_10_07_06_10_Running.gpx 
+3.598483    1:15  7:27.2 6.44487 0.00000 2020-08-10 13:58:11 UTC 2020-08-10 13:59:26 UTC
+2.884399    1:15  9:17.9 4.00876 0.00000 2020-08-10 13:59:59 UTC 2020-08-10 14:01:14 UTC
+2.957037    1:15  9:04.2 5.53500 0.00000 2020-08-10 14:01:42 UTC 2020-08-10 14:02:57 UTC
+3.020333    1:15  8:52.8 1.92410 0.00000 2020-08-10 14:03:35 UTC 2020-08-10 14:04:50 UTC
+3.251290    1:15  8:14.9 0.92885 2.28605 2020-08-10 14:05:05 UTC 2020-08-10 14:06:20 UTC
+3.466864    1:15  7:44.2 0.39610 2.80985 2020-08-10 14:07:02 UTC 2020-08-10 14:08:17 UTC
+3.540093    1:15  7:34.6 0.00000 5.16854 2020-08-10 14:08:46 UTC 2020-08-10 14:10:01 UTC
+3.372532    1:15  7:57.1 0.00000 6.57536 2020-08-10 14:10:28 UTC 2020-08-10 14:11:43 UTC
+3.677356    1:15  7:17.6 0.00000 5.85348 2020-08-10 14:12:13 UTC 2020-08-10 14:13:28 UTC
+3.693978    1:15  7:15.6 0.03490 6.56085 2020-08-10 14:13:57 UTC 2020-08-10 14:15:12 UTC
+3.395695    1:15  7:53.9 0.00000 3.32704 2020-08-10 14:15:44 UTC 2020-08-10 14:16:59 UTC
+2.937920    1:15  9:07.7 0.15216 0.54670 2020-08-10 14:17:30 UTC 2020-08-10 14:18:45 UTC
+Average: 8:09
+
+========================================================================
+Without a pack.  Worst stats in a long time, because I half-assed it.
+However, today was the first day I ran 13.1 miles w/o stopping since
+Baldy 50k, which really trashed my right foot.  I went into today's
+run choosing to prioritize distance going w/o walking over doing my
+intervals.  In fact, I was willing to not do intervals *at all* if I
+needed to forego them in order to get my run done without walking, so
+half-assing them was a compromise.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_08_31_06_51_44_Running.gpx 
+3.377351    1:15  7:56.5 1.82562 7.82684 2020-08-31 14:26:44 UTC 2020-08-31 14:27:59 UTC
+3.073769    1:15  8:43.5 1.15310 2.43405 2020-08-31 14:28:31 UTC 2020-08-31 14:29:46 UTC
+2.843118    1:15  9:26.0 5.07314 1.41456 2020-08-31 14:30:20 UTC 2020-08-31 14:31:35 UTC
+3.595578    1:15  7:27.5 12.71348 1.49364 2020-08-31 14:32:03 UTC 2020-08-31 14:33:18 UTC
+2.826320    1:15  9:29.4 0.94979 1.64753 2020-08-31 14:33:18 UTC 2020-08-31 14:34:33 UTC
+3.608709    1:15  7:25.9 0.38993 1.92510 2020-08-31 14:35:35 UTC 2020-08-31 14:36:50 UTC
+3.453494    1:15  7:46.0 1.36949 3.21269 2020-08-31 14:37:18 UTC 2020-08-31 14:38:33 UTC
+3.450716    1:15  7:46.3 1.74197 6.22778 2020-08-31 14:39:11 UTC 2020-08-31 14:40:26 UTC
+3.594792    1:15  7:27.6 6.77550 3.31087 2020-08-31 14:40:52 UTC 2020-08-31 14:42:07 UTC
+3.399393    1:15  7:53.4 5.24067 5.60024 2020-08-31 14:42:36 UTC 2020-08-31 14:43:51 UTC
+2.991001    1:15  8:58.0 1.02006 6.62871 2020-08-31 14:44:19 UTC 2020-08-31 14:45:34 UTC
+3.289701    1:15  8:09.2 0.31590 4.69753 2020-08-31 14:46:06 UTC 2020-08-31 14:47:21 UTC
+Average: 8:12.4
+
+========================================================================
+
+No pack. Ran out to AA, 2 laps around AA, did intervals during the
+3rd, then did a 4th, for 15.6 miles total.  However, after my second
+interval I was lost in thought and rested longer than I should have.
+I realized what I had done, but I chose to rest 1:30 instead of 0:30
+so that all the other start and stop times would be correct (i.e., I
+start on the 0, then the 45, then the 30, then the 15).
+
+So, my average of 7:36.4 for ten intervals isn't fair because it
+doesn't include the first two intervals which were uphill.  I still
+think I got a great workout; I just can't use this weeks numbers as
+part of my analysis.
+
+The nice thing is that it was cool enough that I had extra water which
+allowed me to run 15.6 instead of 13.1.  I wouldn't have done that if
+my foot weren't better, either.  It's still not 100%, but it's moving
+in that direction.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_09_07_06_39_43_Running.gpx 
+3.526194    1:15  7:36.3 14.41779 0.00000 2020-09-07 14:13:15 UTC 2020-09-07 14:14:30 UTC
+3.563999    1:15  7:31.5 6.82306 2.54485 2020-09-07 14:15:00 UTC 2020-09-07 14:16:15 UTC
+3.498200    1:15  7:40.0 13.98452 0.28782 2020-09-07 14:16:55 UTC 2020-09-07 14:18:10 UTC
+3.631259    1:15  7:23.1 4.33658 4.71120 2020-09-07 14:18:20 UTC 2020-09-07 14:19:35 UTC
+3.814587    1:15  7:01.8 2.72771 4.55059 2020-09-07 14:20:16 UTC 2020-09-07 14:21:31 UTC
+3.521683    1:15  7:36.9 0.50174 7.39806 2020-09-07 14:22:03 UTC 2020-09-07 14:23:18 UTC
+3.543557    1:15  7:34.1 8.69038 4.35170 2020-09-07 14:23:48 UTC 2020-09-07 14:25:03 UTC
+3.384237    1:15  7:55.5 3.34541 4.67099 2020-09-07 14:25:33 UTC 2020-09-07 14:26:48 UTC
+3.399989    1:15  7:53.3 4.86080 4.64761 2020-09-07 14:27:17 UTC 2020-09-07 14:28:32 UTC
+3.415660    1:15  7:51.1 5.26330 4.37457 2020-09-07 14:29:04 UTC 2020-09-07 14:30:19 UTC
+Average: 7:36.4
+thread 'main' panicked at 'Was told to find 12 intervals, but found 10', src/gpx.rs:356:13
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+========================================================================
+
+No pack.  I screwed up and started my third interval 15 seconds early.
+I then took an extra 15 second pause between my third and fourth lap
+to get back in sync.  I don't *think* that shift of 15 seconds helped
+me.  My guess is it harmed my stats, but not very much.
+
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_09_14_07_06_06_Running.gpx 
+3.517335    1:15  7:37.5 5.41841 4.10607 2020-09-14 14:39:07 UTC 2020-09-14 14:40:22 UTC
+3.347780    1:15  8:00.7 3.65000 1.95706 2020-09-14 14:40:54 UTC 2020-09-14 14:42:09 UTC
+3.346803    1:15  8:00.8 6.16487 1.93360 2020-09-14 14:42:27 UTC 2020-09-14 14:43:42 UTC
+3.594625    1:15  7:27.7 0.60772 3.77477 2020-09-14 14:44:26 UTC 2020-09-14 14:45:41 UTC
+3.282756    1:15  8:10.2 0.31272 6.48718 2020-09-14 14:46:08 UTC 2020-09-14 14:47:23 UTC
+3.753881    1:16  7:08.7 6.69424 2.57611 2020-09-14 14:47:54 UTC 2020-09-14 14:49:10 UTC
+3.740102    1:15  7:10.2 11.28258 0.00000 2020-09-14 14:49:43 UTC 2020-09-14 14:50:58 UTC
+3.664846    1:16  7:19.1 2.36998 4.46175 2020-09-14 14:51:28 UTC 2020-09-14 14:52:44 UTC
+4.030135    1:16  6:39.3 5.34380 1.75422 2020-09-14 14:53:11 UTC 2020-09-14 14:54:27 UTC
+3.497993    1:15  7:40.0 9.13834 1.40460 2020-09-14 14:54:57 UTC 2020-09-14 14:56:12 UTC
+3.446831    1:15  7:46.9 7.94523 0.06146 2020-09-14 14:56:39 UTC 2020-09-14 14:57:54 UTC
+4.064070    1:15  6:35.9 9.33136 1.60854 2020-09-14 14:58:24 UTC 2020-09-14 14:59:39 UTC
+Average: 7:28
+
+========================================================================
+No pack.  My intervals were better than they look because I started
+significantly early.  I knew the north facing AA gate was closed, so when
+I saw my seconds were about to tick over to 00 I started my first interval
+before crossing the AA driveway (which is where I normally start from).
+
+That means I had more uphill overall and all that uphill was at the
+beginning.  I also had to dodge a vehicle that was in the right lane
+when I was about to cross the west facing AA road.  I didn't know if
+he wanted to turn right, so I went out to the bike lane and ran to the
+left of him, but it turns out he wanted to be in the left-most lane.
+Ugh.
+
+Additionally, I ran out of water by the end, which wasn't a big deal
+from a hydration POV, because it was relatively cool, but it did mean
+that I didn't have the cue of a bottle with liquid in it that I could
+shift from hand to hand at the end to know whether I was on an odd or
+even interval.
+
+FTR, I ran fasted this morning, and had 3 tablespoons of chia in 20
+oz. as my first water bottle and then 4 scoops of Tailwind (I think! I
+may have only used three) in my second bottle.  I think that works out
+fine when I'm only doing 13.1 miles.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_09_21_06_14_55_Running.gpx 
+3.598057    1:15  7:27.2 5.92721 0.00000 2020-09-21 13:47:58 UTC 2020-09-21 13:49:13 UTC
+3.092390    1:15  8:40.4 5.05134 0.00000 2020-09-21 13:49:44 UTC 2020-09-21 13:50:59 UTC
+3.352296    1:15  8:00.0 6.52916 0.00000 2020-09-21 13:51:30 UTC 2020-09-21 13:52:45 UTC
+3.437286    1:15  7:48.2 2.13343 0.00000 2020-09-21 13:53:16 UTC 2020-09-21 13:54:31 UTC
+3.509625    1:15  7:38.5 2.37211 1.08237 2020-09-21 13:54:58 UTC 2020-09-21 13:56:13 UTC
+3.941544    1:15  6:48.3 0.00000 5.14586 2020-09-21 13:56:44 UTC 2020-09-21 13:57:59 UTC
+3.927669    1:15  6:49.7 0.00000 6.18381 2020-09-21 13:58:30 UTC 2020-09-21 13:59:45 UTC
+3.932241    1:15  6:49.2 0.00000 7.96510 2020-09-21 14:00:15 UTC 2020-09-21 14:01:30 UTC
+3.915574    1:15  6:51.0 0.00000 6.86836 2020-09-21 14:01:59 UTC 2020-09-21 14:03:14 UTC
+3.616294    1:15  7:25.0 0.00000 3.07174 2020-09-21 14:03:44 UTC 2020-09-21 14:04:59 UTC
+3.615626    1:15  7:25.1 0.00000 1.18512 2020-09-21 14:05:27 UTC 2020-09-21 14:06:42 UTC
+3.613218    1:15  7:25.4 0.25897 1.89807 2020-09-21 14:07:17 UTC 2020-09-21 14:08:32 UTC
+Average: 7:25.6
+
+========================================================================
+No pack.  Two days ago was a mostly self-supported Mt. Taylor 50k.
+The race was canceled due to covid, but a bunch of people went out and
+played on the mountain that day.  I chose to do the full course in the
+normal direction, but started a half hour early with Bobby Keogh.
+Ken, Margaret and others had marked all the turns to the Continental
+Divide Trail, and I stayed with Bobby until we reached it, however
+after we split up, we both wound up getting of course.  I wound up
+bushwhacking it over some gnarly terrain to get back to rock tank.
+
+Anyway, I took yesterday off, and although I did intervals today, I
+had no oomph.  Not too surprising.  It was still nice to get out and
+do them.  My overall time for 13.1 miles was slightly faster than last
+week, but part of that had to do with it being cooler and me also not
+stopping to chat with anyone.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_09_28_06_49_24_Running.gpx 
+3.374151    1:15  7:56.9 6.61655 0.00000 2020-09-28 14:16:26 UTC 2020-09-28 14:17:41 UTC
+3.045803    1:15  8:48.3 5.49170 0.00000 2020-09-28 14:18:12 UTC 2020-09-28 14:19:27 UTC
+3.207125    1:15  8:21.8 6.76585 0.00000 2020-09-28 14:19:57 UTC 2020-09-28 14:21:12 UTC
+3.467354    1:17  7:44.1 1.96139 0.38143 2020-09-28 14:21:44 UTC 2020-09-28 14:23:01 UTC
+3.381663    1:15  7:55.9 3.45959 0.92679 2020-09-28 14:23:26 UTC 2020-09-28 14:24:41 UTC
+3.878275    1:15  6:54.9 0.00000 5.45597 2020-09-28 14:25:12 UTC 2020-09-28 14:26:27 UTC
+3.862899    1:16  6:56.6 0.00000 6.36404 2020-09-28 14:26:55 UTC 2020-09-28 14:28:11 UTC
+3.927474    1:16  6:49.7 0.00000 6.75580 2020-09-28 14:28:42 UTC 2020-09-28 14:29:58 UTC
+3.752431    1:15  7:08.8 0.00000 6.67866 2020-09-28 14:30:30 UTC 2020-09-28 14:31:45 UTC
+3.644173    1:15  7:21.6 0.12743 4.24658 2020-09-28 14:32:12 UTC 2020-09-28 14:33:27 UTC
+3.425155    1:15  7:49.8 0.00000 1.57928 2020-09-28 14:33:58 UTC 2020-09-28 14:35:13 UTC
+3.468111    1:15  7:44.0 0.28447 1.66342 2020-09-28 14:35:44 UTC 2020-09-28 14:36:59 UTC
+Average: 7:37.6
+
+========================================================================
+Quarter taper for Moab 240.  I don't have enough -c 3 runs to really
+know how this compares, although my first two interval is the fastest
+I've ever done, so there's that.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 3 ~/Documents/Running/Movescount/Move_2020_10_05_07_48_59_Running.gpx 
+3.812073    1:15  7:02.1 7.38914 0.00000 2020-10-05 14:02:29 UTC 2020-10-05 14:03:44 UTC
+2.993647    1:15  8:57.5 5.67535 0.00000 2020-10-05 14:04:17 UTC 2020-10-05 14:05:32 UTC
+4.046240    1:15  6:37.7 0.00000 9.30466 2020-10-05 14:06:03 UTC 2020-10-05 14:07:18 UTC
+Average: 7:32.4
+========================================================================
+Did a half distance Monday this morning because I'm still recovering from
+the Moab 240.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 6
+~/Documents/Running/Movescount/Move_2020_10_19_07_50_23_Running.gpx
+3.781046 1:15 7:05.6 6.18546 0.00000 2020-10-19 14:04:25 UTC
+2020-10-19 14:05:40 UTC 3.098277 1:15 8:39.4 5.88497 0.00000
+2020-10-19 14:06:12 UTC 2020-10-19 14:07:27 UTC 3.322655 1:15 8:04.3
+7.13037 0.00000 2020-10-19 14:07:56 UTC 2020-10-19 14:09:11 UTC
+3.465565 1:15 7:44.3 2.43839 0.63251 2020-10-19 14:09:45 UTC
+2020-10-19 14:11:00 UTC 3.280727 1:15 8:10.5 3.53871 0.00000
+2020-10-19 14:11:28 UTC 2020-10-19 14:12:43 UTC 4.072268 1:15 6:35.1
+0.00000 5.74256 2020-10-19 14:13:11 UTC 2020-10-19 14:14:26 UTC
+Average: 7:43.2
+========================================================================
+Only ran one lap before doing the intervals.  Today is the first
+Monday after DPTR53M, so it's comparable to 2018-11-05, which gave me
+a 7:03 average when I ran int_ave on it just now.  So, a minute and a
+half slower, but much of that is due to my gimpy foot.
+
+I should have run another lap after my interval lap and then also done
+a stub .9 miles to bring my total up to 13.1 miles, but between my bad
+foot and some GI distress, I decided to come home directly.  I may go
+out again later today, although letting the foot heal might be better.
+
+bash-3.2[remove_gain_and_loss_fudge]$ time target/release/int_ave ~/Documents/Running/Movescount/Move_2020_11_09_06_43_30_Running.gpx 
+3.118943    1:15  8:35.9 5.44636 0.00000 2020-11-09 13:37:31 UTC 2020-11-09 13:38:46 UTC
+2.767534    1:15  9:41.5 3.35495 0.00000 2020-11-09 13:39:20 UTC 2020-11-09 13:40:35 UTC
+2.921914    1:15  9:10.7 7.31557 0.00000 2020-11-09 13:41:04 UTC 2020-11-09 13:42:19 UTC
+3.091615    1:15  8:40.5 3.48499 0.00000 2020-11-09 13:42:48 UTC 2020-11-09 13:44:03 UTC
+3.155007    1:15  8:30.0 0.00000 1.35546 2020-11-09 13:44:35 UTC 2020-11-09 13:45:50 UTC
+2.815239    1:15  9:31.6 3.35149 0.00000 2020-11-09 13:46:20 UTC 2020-11-09 13:47:35 UTC
+3.436886    1:15  7:48.2 0.00000 3.71862 2020-11-09 13:48:02 UTC 2020-11-09 13:49:17 UTC
+3.527384    1:15  7:36.2 0.00000 6.19724 2020-11-09 13:49:48 UTC 2020-11-09 13:51:03 UTC
+3.472117    1:15  7:43.5 0.00000 6.57929 2020-11-09 13:51:32 UTC 2020-11-09 13:52:47 UTC
+3.446062    1:15  7:47.0 0.00000 5.37336 2020-11-09 13:53:18 UTC 2020-11-09 13:54:33 UTC
+3.219354    1:15  8:19.8 0.00000 4.13102 2020-11-09 13:55:04 UTC 2020-11-09 13:56:19 UTC
+3.146509    1:15  8:31.4 0.00000 2.92283 2020-11-09 13:56:47 UTC 2020-11-09 13:58:02 UTC
+Average: 8:29.7
+
+========================================================================
+No pack.  Did intervals on my second (not third) lap around AA.  Got
+off to a late start due to chatting with Sophie when I was about to
+leave, only to find that my iPod touch was completely discharged.  So,
+I plugged it in and let it charge a while.  In the meantime, I made a
+third double espresso, even though I had planned on only having two
+before my run. So, the temperature rose rapidly from below freezing
+when I was initially thinking of running to 52F by the time I was
+done.
+
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_11_16_07_16_09_Running.gpx 
+3.536169    1:15  7:35.1 6.82978 0.00000 2020-11-16 14:03:13 UTC 2020-11-16 14:04:28 UTC
+3.177428    1:15  8:26.4 5.43360 0.00000 2020-11-16 14:04:59 UTC 2020-11-16 14:06:14 UTC
+3.340493    1:16  8:01.7 6.15051 0.00000 2020-11-16 14:06:42 UTC 2020-11-16 14:07:58 UTC
+3.787829    1:15  7:04.8 1.40801 2.21614 2020-11-16 14:08:50 UTC 2020-11-16 14:10:05 UTC
+3.230183    1:15  8:18.2 2.83751 0.00000 2020-11-16 14:10:13 UTC 2020-11-16 14:11:28 UTC
+3.972265    1:15  6:45.1 0.00000 5.86324 2020-11-16 14:11:59 UTC 2020-11-16 14:13:14 UTC
+4.194690    1:15  6:23.6 0.00000 7.91643 2020-11-16 14:13:42 UTC 2020-11-16 14:14:57 UTC
+4.105802    1:15  6:31.9 0.00000 7.23672 2020-11-16 14:15:28 UTC 2020-11-16 14:16:43 UTC
+4.004952    1:15  6:41.8 0.00000 7.00434 2020-11-16 14:17:12 UTC 2020-11-16 14:18:27 UTC
+3.984376    1:15  6:43.9 0.00000 5.05472 2020-11-16 14:18:56 UTC 2020-11-16 14:20:11 UTC
+3.515410    1:15  7:37.7 0.16060 1.19575 2020-11-16 14:20:45 UTC 2020-11-16 14:22:00 UTC
+3.633374    1:15  7:22.9 0.10787 0.47605 2020-11-16 14:22:31 UTC 2020-11-16 14:23:46 UTC
+Average: 7:17.8
+
+========================================================================
+No pack, although I plan on having one next week.  Did intervals on my
+second lap around AA.  Got a late start due to chatting with Sophie.
+
+Screwed up on tenth interval and only ran about 60 seconds, then took
+45 second break (because I hadn't figured out what I had done wrong
+yet and tried to start at the right time, but even that was wrong...).
+As it was I wound up doing 13 laps because I had lost count and based
+on where I was, I figured I had another lap left, but I was in the
+wrong place because I hadn't run as hard as I should have for fifteen
+seconds.  As such, a *small* part of my abysmal performance is due to
+me not running enough on that last lap, but my first nine laps were
+also about ten seconds per mile slower than last week (7:13.4 average
+today vs. 7:03.3 average a week ago).
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_11_23_07_17_53_Running.gpx 
+3.267038    1:15  8:12.6 5.52407 0.00000 2020-11-23 15:08:40 UTC 2020-11-23 15:09:55 UTC
+3.200356    1:15  8:22.8 5.83740 0.00000 2020-11-23 15:10:28 UTC 2020-11-23 15:11:43 UTC
+3.446126    1:15  7:47.0 1.18126 0.38070 2020-11-23 15:12:13 UTC 2020-11-23 15:13:28 UTC
+3.324932    1:15  8:04.0 3.57351 0.29103 2020-11-23 15:13:57 UTC 2020-11-23 15:15:12 UTC
+4.096951    1:15  6:32.8 0.00000 6.54681 2020-11-23 15:15:41 UTC 2020-11-23 15:16:56 UTC
+3.877620    1:15  6:55.0 0.00000 6.66880 2020-11-23 15:17:27 UTC 2020-11-23 15:18:42 UTC
+3.896339    1:15  6:53.0 0.00000 7.19050 2020-11-23 15:19:10 UTC 2020-11-23 15:20:25 UTC
+3.851118    1:15  6:57.8 0.00000 6.80660 2020-11-23 15:20:56 UTC 2020-11-23 15:22:11 UTC
+3.552730    1:15  7:32.9 0.00000 3.92572 2020-11-23 15:22:36 UTC 2020-11-23 15:23:51 UTC
+3.554447    1:15  7:32.7 0.12741 1.09205 2020-11-23 15:24:14 UTC 2020-11-23 15:25:29 UTC
+3.585847    1:15  7:28.8 0.00000 1.38529 2020-11-23 15:25:56 UTC 2020-11-23 15:27:11 UTC
+3.799124    1:15  7:03.6 0.10601 0.12649 2020-11-23 15:27:42 UTC 2020-11-23 15:28:57 UTC
+Average: 7:26.9
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 13 ~/Documents/Running/Movescount/Move_2020_11_23_07_17_53_Running.gpx 
+3.553688    1:15  7:32.8 6.72045 0.00000 2020-11-23 15:06:54 UTC 2020-11-23 15:08:09 UTC
+3.267038    1:15  8:12.6 5.52407 0.00000 2020-11-23 15:08:40 UTC 2020-11-23 15:09:55 UTC
+3.200356    1:15  8:22.8 5.83740 0.00000 2020-11-23 15:10:28 UTC 2020-11-23 15:11:43 UTC
+3.446126    1:15  7:47.0 1.18126 0.38070 2020-11-23 15:12:13 UTC 2020-11-23 15:13:28 UTC
+3.324932    1:15  8:04.0 3.57351 0.29103 2020-11-23 15:13:57 UTC 2020-11-23 15:15:12 UTC
+4.096951    1:15  6:32.8 0.00000 6.54681 2020-11-23 15:15:41 UTC 2020-11-23 15:16:56 UTC
+3.877620    1:15  6:55.0 0.00000 6.66880 2020-11-23 15:17:27 UTC 2020-11-23 15:18:42 UTC
+3.896339    1:15  6:53.0 0.00000 7.19050 2020-11-23 15:19:10 UTC 2020-11-23 15:20:25 UTC
+3.851118    1:15  6:57.8 0.00000 6.80660 2020-11-23 15:20:56 UTC 2020-11-23 15:22:11 UTC
+3.552730    1:15  7:32.9 0.00000 3.92572 2020-11-23 15:22:36 UTC 2020-11-23 15:23:51 UTC
+3.554447    1:15  7:32.7 0.12741 1.09205 2020-11-23 15:24:14 UTC 2020-11-23 15:25:29 UTC
+3.585847    1:15  7:28.8 0.00000 1.38529 2020-11-23 15:25:56 UTC 2020-11-23 15:27:11 UTC
+3.799124    1:15  7:03.6 0.10601 0.12649 2020-11-23 15:27:42 UTC 2020-11-23 15:28:57 UTC
+Average: 7:27.4
+bash-3.2[remove_gain_and_loss_fudge]$
+
+========================================================================
+With 40.8# pack.  Once again I got confused and wound up running 13
+rather than 12 intervals.  Today I was rushed in that I had a 9:30am
+appointment, so I knew that I was only going to do two laps around AA
+and not my normal 13.1 miles. Since it was about 22F when I started,
+and I ran with two water bottles of the same size and shape, I didn't
+switch which hand was carrying the water bottle, which made it easy
+for me to lose track.
+
+Doing my intervals without doing a lap around AA first, makes today
+incomparable to other pack run intervals.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_11_30_07_00_22_Running.gpx 
+2.860231    1:15  9:22.6 4.12192 0.00000 2020-11-30 14:17:11 UTC 2020-11-30 14:18:26 UTC
+2.722625    1:15  9:51.1 6.90542 0.00000 2020-11-30 14:18:56 UTC 2020-11-30 14:20:11 UTC
+2.953994    1:15  9:04.8 2.53048 0.00000 2020-11-30 14:20:43 UTC 2020-11-30 14:21:58 UTC
+3.080061    1:15  8:42.5 0.24258 1.99346 2020-11-30 14:22:24 UTC 2020-11-30 14:23:39 UTC
+2.839599    1:15  9:26.7 1.23204 1.75231 2020-11-30 14:24:10 UTC 2020-11-30 14:25:25 UTC
+3.524983    1:15  7:36.5 0.00000 6.45910 2020-11-30 14:25:53 UTC 2020-11-30 14:27:08 UTC
+3.555799    1:15  7:32.5 0.10751 6.13915 2020-11-30 14:27:44 UTC 2020-11-30 14:28:59 UTC
+3.348831    1:15  8:00.5 0.00000 5.31692 2020-11-30 14:29:42 UTC 2020-11-30 14:30:57 UTC
+3.445021    1:15  7:47.1 0.00000 7.71692 2020-11-30 14:31:25 UTC 2020-11-30 14:32:40 UTC
+3.356924    1:15  7:59.4 0.00000 4.17036 2020-11-30 14:33:10 UTC 2020-11-30 14:34:25 UTC
+3.162855    1:15  8:28.8 0.15264 1.64260 2020-11-30 14:34:56 UTC 2020-11-30 14:36:11 UTC
+3.259089    1:15  8:13.8 0.14821 1.23028 2020-11-30 14:36:41 UTC 2020-11-30 14:37:56 UTC
+Average: 8:30.5
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 13 ~/Documents/Running/Movescount/Move_2020_11_30_07_00_22_Running.gpx 
+3.148826    1:15  8:31.0 6.02641 0.00000 2020-11-30 14:15:23 UTC 2020-11-30 14:16:38 UTC
+2.860231    1:15  9:22.6 4.12192 0.00000 2020-11-30 14:17:11 UTC 2020-11-30 14:18:26 UTC
+2.722625    1:15  9:51.1 6.90542 0.00000 2020-11-30 14:18:56 UTC 2020-11-30 14:20:11 UTC
+2.953994    1:15  9:04.8 2.53048 0.00000 2020-11-30 14:20:43 UTC 2020-11-30 14:21:58 UTC
+3.080061    1:15  8:42.5 0.24258 1.99346 2020-11-30 14:22:24 UTC 2020-11-30 14:23:39 UTC
+2.839599    1:15  9:26.7 1.23204 1.75231 2020-11-30 14:24:10 UTC 2020-11-30 14:25:25 UTC
+3.524983    1:15  7:36.5 0.00000 6.45910 2020-11-30 14:25:53 UTC 2020-11-30 14:27:08 UTC
+3.555799    1:15  7:32.5 0.10751 6.13915 2020-11-30 14:27:44 UTC 2020-11-30 14:28:59 UTC
+3.348831    1:15  8:00.5 0.00000 5.31692 2020-11-30 14:29:42 UTC 2020-11-30 14:30:57 UTC
+3.445021    1:15  7:47.1 0.00000 7.71692 2020-11-30 14:31:25 UTC 2020-11-30 14:32:40 UTC
+3.356924    1:15  7:59.4 0.00000 4.17036 2020-11-30 14:33:10 UTC 2020-11-30 14:34:25 UTC
+3.162855    1:15  8:28.8 0.15264 1.64260 2020-11-30 14:34:56 UTC 2020-11-30 14:36:11 UTC
+3.259089    1:15  8:13.8 0.14821 1.23028 2020-11-30 14:36:41 UTC 2020-11-30 14:37:56 UTC
+Average: 8:30.6
+
+========================================================================
+No pack
+
+Although these are good numbers, they'd have been better if I hadn't
+had so much trouble with my water bottle and my glove/mitten
+combination.  Because it was well under freezing (22.8F) when I left,
+I wore lightweight gloves with an outer mitten shell.  Unfortunately,
+the Amphipod bottle that I use does not have anything other than
+tension holding the bottom of the strap to the bottle.  So, if I
+loosen the strap enough so that I can switch hands (which is how I
+keep count), I run the risk of the bottom of the strap coming off as I
+change hands.  With only thirty seconds between intervals, it was a
+bit of a race to get the bottle switched (my hands also don't work
+efficiently when they're cold).  In fact, the strap came off and hte
+bottle flew out of my hand in the middle of my sixth interval.
+
+Next week I'll have my pack again, so I'll be using two water bottles
+and I won't have this problem, although I'll have a hard time keeping
+count.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_12_07_06_30_20_Running.gpx 
+3.737906    1:15  7:10.5 6.12542 0.00000 2020-12-07 14:16:23 UTC 2020-12-07 14:17:38 UTC
+3.052474    1:15  8:47.2 6.20950 0.00000 2020-12-07 14:17:59 UTC 2020-12-07 14:19:14 UTC
+3.478575    1:15  7:42.6 5.06708 0.00000 2020-12-07 14:19:53 UTC 2020-12-07 14:21:08 UTC
+3.683522    1:15  7:16.9 1.57280 1.34513 2020-12-07 14:21:44 UTC 2020-12-07 14:22:59 UTC
+3.668097    1:15  7:18.7 3.06189 0.11147 2020-12-07 14:23:25 UTC 2020-12-07 14:24:40 UTC
+3.746751    1:15  7:09.5 0.00000 4.81763 2020-12-07 14:25:12 UTC 2020-12-07 14:26:27 UTC
+4.106983    1:15  6:31.8 0.00000 6.46435 2020-12-07 14:26:54 UTC 2020-12-07 14:28:09 UTC
+4.202245    1:15  6:22.9 0.00000 7.66718 2020-12-07 14:28:41 UTC 2020-12-07 14:29:56 UTC
+4.317062    1:15  6:12.7 0.00000 8.50328 2020-12-07 14:30:32 UTC 2020-12-07 14:31:47 UTC
+3.992063    1:15  6:43.1 0.30600 3.95333 2020-12-07 14:32:12 UTC 2020-12-07 14:33:27 UTC
+3.891299    1:15  6:53.5 0.17168 1.02946 2020-12-07 14:34:00 UTC 2020-12-07 14:35:15 UTC
+3.975364    1:15  6:44.8 0.00000 2.00817 2020-12-07 14:35:41 UTC 2020-12-07 14:36:56 UTC
+Average: 7:04.5
+
+========================================================================
+40.7# pack
+
+Today was pretty weird.  Due to vATLARGE over the last three days, I
+drank a lot and didn't get my normal amount of sleep.  In fact, there
+was a SAR call-out that I didn't attend yesterday late afternoon and
+this morning after getting up at my normal time, I couldn't find my
+gloves, so I went back to sleep until 8am.  So, I got a bunch of
+"extra" sleep that was make-up sleep and I also ate differently than
+normal.
+
+I don't currently have the file organized well enough for me to be
+sure, but these numbers look very good compared both to a bunch of
+last year's results I skimmed and two years ago (8:07.2 average).  How
+much of that is due to fitness and how much is due to good weather (it
+was just above freezing, cloudy and fairly humid, so I didn't have to
+worry about frostbite and didn't have to wear my ice hat) and
+different eating habits, I don't know.  It'll be interesting to see
+how I do two weeks from today.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_12_14_09_56_22_Running.gpx 
+3.272140    1:15  8:11.8 5.55623 0.00000 2020-12-14 17:49:24 UTC 2020-12-14 17:50:39 UTC
+2.938901    1:15  9:07.6 4.61876 0.00000 2020-12-14 17:51:11 UTC 2020-12-14 17:52:26 UTC
+2.987379    1:15  8:58.7 7.27650 0.00000 2020-12-14 17:52:55 UTC 2020-12-14 17:54:10 UTC
+3.085220    1:15  8:41.6 2.56221 0.32092 2020-12-14 17:54:39 UTC 2020-12-14 17:55:54 UTC
+3.385202    1:15  7:55.4 0.30821 2.71420 2020-12-14 17:56:26 UTC 2020-12-14 17:57:41 UTC
+3.295444    1:15  8:08.3 2.52455 1.41588 2020-12-14 17:58:11 UTC 2020-12-14 17:59:26 UTC
+3.737634    1:15  7:10.5 0.00000 6.33708 2020-12-14 17:59:56 UTC 2020-12-14 18:01:11 UTC
+3.692143    1:15  7:15.8 0.00000 7.37180 2020-12-14 18:01:40 UTC 2020-12-14 18:02:55 UTC
+3.623007    1:15  7:24.2 0.00000 5.84162 2020-12-14 18:03:26 UTC 2020-12-14 18:04:41 UTC
+3.765590    1:15  7:07.3 0.00000 7.34362 2020-12-14 18:05:10 UTC 2020-12-14 18:06:25 UTC
+3.765266    1:15  7:07.4 0.00000 3.37010 2020-12-14 18:06:57 UTC 2020-12-14 18:08:12 UTC
+3.655620    1:15  7:20.2 0.10941 2.68185 2020-12-14 18:08:42 UTC 2020-12-14 18:09:57 UTC
+Average: 7:52.4
+
+========================================================================
+These appear to be my best numbers ever.  On 10/15 of 2018, I have:
+
+"10/15 6:50(1:15.0) 7:33(1:15.0) 7:33(1:15.0) 6:52(1:15.0) 6:40(1:15.0) 6:19(1:15.0)
+      6:16(1:15.0) 6:16(1:15.0) 6:25(1:15.0) 7:06(1:15.0) 6:47(1:15.0) 6:41(1:15.0)  Average: 6:46
+
+This is my best Monday intervals to date. ..."
+
+but that was before I wrote int_ave and I was manually extracting the
+numbers.  I've since run int_ave on that date and I get "Average:
+6:52.4".  What I haven't done is run int_ave on all those other
+manually extracted dates, so maybe I'll do that sometime, although
+back then I didn't always start more or less in the same place.
+
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_12_21_06_31_41_Running.gpx 
+3.859098    1:15  6:57.0 6.73072 0.00000 2020-12-21 14:17:45 UTC 2020-12-21 14:19:00 UTC
+3.307565    1:15  8:06.5 6.08791 0.00000 2020-12-21 14:19:32 UTC 2020-12-21 14:20:47 UTC
+3.538369    1:15  7:34.8 5.26208 0.00000 2020-12-21 14:21:16 UTC 2020-12-21 14:22:31 UTC
+3.980478    1:15  6:44.3 0.94706 1.22020 2020-12-21 14:23:00 UTC 2020-12-21 14:24:15 UTC
+3.794438    1:15  7:04.1 3.68752 0.22120 2020-12-21 14:24:45 UTC 2020-12-21 14:26:00 UTC
+4.201342    1:15  6:23.0 0.00000 5.96831 2020-12-21 14:26:32 UTC 2020-12-21 14:27:47 UTC
+4.418115    1:15  6:04.2 0.00000 8.47997 2020-12-21 14:28:14 UTC 2020-12-21 14:29:29 UTC
+4.127289    1:15  6:29.9 0.00000 5.73860 2020-12-21 14:30:00 UTC 2020-12-21 14:31:15 UTC
+4.240472    1:15  6:19.5 0.00000 6.11464 2020-12-21 14:31:44 UTC 2020-12-21 14:32:59 UTC
+3.860554    1:15  6:56.8 0.00000 2.20953 2020-12-21 14:33:30 UTC 2020-12-21 14:34:45 UTC
+3.973067    1:15  6:45.0 0.00000 1.35333 2020-12-21 14:35:14 UTC 2020-12-21 14:36:29 UTC
+4.098276    1:15  6:32.6 0.23774 0.65694 2020-12-21 14:36:59 UTC 2020-12-21 14:38:14 UTC
+Average: 6:49.8
+
+========================================================================
+With 4??.? pound pack
+
+Ugh.  I miscounted and did 13 intervals instead of 12.  Actually, I
+didn't miscount; it's just that I was not as far from my starting
+point as I thought I should be when I finished my 12th, so I did
+another just to be sure.  Turns out that was because I was slower than
+two weeks ago...
+
+Unfortunately, if I run int_ave and let it find 12 intervals, it
+discards the first one which is slow (because it is uphill), so that
+isn't fair, but if I ask for all thirteen, then it includes the last
+one which is slightly faster than the average, so that also gives me
+slightly better stats.
+
+So, doing the math, the average for my first twelve intervals should
+be 7:58.1, which is 5.7 secs/mile slower than two weeks ago.  However,
+it was significantly hotter and today I weighed less in the morning
+than the previous day rather than more, so my guess is I didn't lose
+much fitness over the last two weeks, but I *may* not have gained
+much, either.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Documents/Running/Movescount/Move_2020_12_28_06_35_37_Running.gpx 
+2.755363    1:15  9:44.0 3.89356 0.00000 2020-12-28 14:29:28 UTC 2020-12-28 14:30:43 UTC
+2.985846    1:15  8:58.9 7.42269 0.00000 2020-12-28 14:31:11 UTC 2020-12-28 14:32:26 UTC
+3.047525    1:15  8:48.0 2.22363 0.00000 2020-12-28 14:32:55 UTC 2020-12-28 14:34:10 UTC
+3.463792    1:15  7:44.6 0.00000 1.89988 2020-12-28 14:34:44 UTC 2020-12-28 14:35:59 UTC
+3.125503    1:15  8:34.9 3.30334 0.72324 2020-12-28 14:36:23 UTC 2020-12-28 14:37:38 UTC
+3.585060    1:15  7:28.9 0.00000 5.64340 2020-12-28 14:38:08 UTC 2020-12-28 14:39:23 UTC
+3.834294    1:15  6:59.7 0.00000 5.38713 2020-12-28 14:39:56 UTC 2020-12-28 14:41:11 UTC
+3.857246    1:15  6:57.2 0.00000 6.93085 2020-12-28 14:41:39 UTC 2020-12-28 14:42:54 UTC
+3.709446    1:15  7:13.8 0.00000 7.28299 2020-12-28 14:43:25 UTC 2020-12-28 14:44:40 UTC
+3.694642    1:15  7:15.5 0.06868 2.76890 2020-12-28 14:45:10 UTC 2020-12-28 14:46:25 UTC
+3.607148    1:15  7:26.1 0.00000 1.10866 2020-12-28 14:46:55 UTC 2020-12-28 14:48:10 UTC
+3.381445    1:15  7:55.9 0.25421 0.93912 2020-12-28 14:48:40 UTC 2020-12-28 14:49:55 UTC
+Average: 7:55.6
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 13 ~/Documents/Running/Movescount/Move_2020_12_28_06_35_37_Running.gpx 
+3.185490    1:15  8:25.2 4.92731 0.00000 2020-12-28 14:27:39 UTC 2020-12-28 14:28:54 UTC
+2.755363    1:15  9:44.0 3.89356 0.00000 2020-12-28 14:29:28 UTC 2020-12-28 14:30:43 UTC
+2.985846    1:15  8:58.9 7.42269 0.00000 2020-12-28 14:31:11 UTC 2020-12-28 14:32:26 UTC
+3.047525    1:15  8:48.0 2.22363 0.00000 2020-12-28 14:32:55 UTC 2020-12-28 14:34:10 UTC
+3.463792    1:15  7:44.6 0.00000 1.89988 2020-12-28 14:34:44 UTC 2020-12-28 14:35:59 UTC
+3.125503    1:15  8:34.9 3.30334 0.72324 2020-12-28 14:36:23 UTC 2020-12-28 14:37:38 UTC
+3.585060    1:15  7:28.9 0.00000 5.64340 2020-12-28 14:38:08 UTC 2020-12-28 14:39:23 UTC
+3.834294    1:15  6:59.7 0.00000 5.38713 2020-12-28 14:39:56 UTC 2020-12-28 14:41:11 UTC
+3.857246    1:15  6:57.2 0.00000 6.93085 2020-12-28 14:41:39 UTC 2020-12-28 14:42:54 UTC
+3.709446    1:15  7:13.8 0.00000 7.28299 2020-12-28 14:43:25 UTC 2020-12-28 14:44:40 UTC
+3.694642    1:15  7:15.5 0.06868 2.76890 2020-12-28 14:45:10 UTC 2020-12-28 14:46:25 UTC
+3.607148    1:15  7:26.1 0.00000 1.10866 2020-12-28 14:46:55 UTC 2020-12-28 14:48:10 UTC
+3.381445    1:15  7:55.9 0.25421 0.93912 2020-12-28 14:48:40 UTC 2020-12-28 14:49:55 UTC
+Average: 7:57.9

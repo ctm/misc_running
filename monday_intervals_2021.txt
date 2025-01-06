@@ -1,0 +1,997 @@
+No pack
+
+I expected these numbers to suck, since I did a pack run yesterday
+(instead of Saturday) due to my running the Foothills Fat Ass 50k on
+Thursday, January first.  However, I cut my seventh interval short
+because my friend John, who walks around Albuquerque Academy picking
+up trash with his friend Larry and sometimes his wife Trudy, tripped
+and fell.  I stopped to pick him up and make sure he was OK.  That
+probably would have been a 6:30 rather than a 7:23, so knocking 53
+seconds divided by twelve intervals, suggests I might hae gotten
+closer to a 7:04 which is still pretty slow.
+
+On top of that, my heart-rate monitor was giving me bad readings, so I
+probably need to change the battery.
+
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Downloads/Move_2021_01_04_06_59_49_Running.gpx
+3.690827    1:15  7:16.0 6.40717 0.00000 2021-01-04 14:47:51 UTC 2021-01-04 14:49:06 UTC
+3.328747    1:15  8:03.4 5.07775 0.00000 2021-01-04 14:49:36 UTC 2021-01-04 14:50:51 UTC
+3.472645    1:15  7:43.4 5.46491 0.00000 2021-01-04 14:51:22 UTC 2021-01-04 14:52:37 UTC
+3.993117    1:15  6:43.0 0.84815 1.44685 2021-01-04 14:53:10 UTC 2021-01-04 14:54:25 UTC
+3.488453    1:15  7:41.3 3.77847 0.24490 2021-01-04 14:54:56 UTC 2021-01-04 14:56:11 UTC
+4.134861    1:15  6:29.2 0.00000 6.54257 2021-01-04 14:56:37 UTC 2021-01-04 14:57:52 UTC
+3.628093    1:15  7:23.5 0.00000 6.63619 2021-01-04 14:58:01 UTC 2021-01-04 14:59:16 UTC
+4.074472    1:15  6:34.9 0.00000 6.57528 2021-01-04 15:00:09 UTC 2021-01-04 15:01:24 UTC
+4.106517    1:15  6:31.9 0.00000 7.40955 2021-01-04 15:01:52 UTC 2021-01-04 15:03:07 UTC
+3.813373    1:15  7:02.0 0.11054 3.55786 2021-01-04 15:03:39 UTC 2021-01-04 15:04:54 UTC
+3.622428    1:15  7:24.2 0.15893 0.97348 2021-01-04 15:05:23 UTC 2021-01-04 15:06:38 UTC
+3.951767    1:15  6:47.2 0.06960 1.43407 2021-01-04 15:07:07 UTC 2021-01-04 15:08:22 UTC
+Average: 7:08.3
+
+========================================================================
+With 40.1 pound pack
+
+These are probably my best pack numbers ever, which is a little
+surprising because my iPod touch turned itself off before I started
+running them.  It was cold today and I thought to wear my iPod in my
+aquamarine running band so it would be next to my body and that worked
+initially, but when I switched from random tunes to Speed 3, I had to
+take it away from my body and it was probably around 17F at that point
+and it turned itself off.
+
+Eating a crap-ton of bread yesterday may have also helped top up my
+glycogen stores.  I didn't lose any weight between my morning reading
+yesterday and my morning reading today.  My overall pace for the
+entire 13.1 was pretty slow though in part because I needed to poop
+and that raises my HR, but I was trying to get an overall average of
+130bpm, so I had to walk quite a bit to bring the average down.
+
+I'm mighty curious as to what my average pace will be two days from
+now for my 10 mile speed pack run.  Two years ago I managed to pull
+off an 8:35 min/mile pace for that run (although it looks like I had
+no downtime at the first stoplight.
+
+bash-3.2[master]$ ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2021_01_11_07_02_03_Running.gpx 
+3.200986    1:15  8:22.7 5.88458 0.00000 2021-01-11 14:52:37 UTC 2021-01-11 14:53:52 UTC
+2.963212    1:15  9:03.1 5.13128 0.00000 2021-01-11 14:54:24 UTC 2021-01-11 14:55:39 UTC
+3.142841    1:15  8:32.0 6.73552 0.00000 2021-01-11 14:56:07 UTC 2021-01-11 14:57:22 UTC
+3.178358    1:15  8:26.3 2.61028 0.00000 2021-01-11 14:57:53 UTC 2021-01-11 14:59:08 UTC
+3.347414    1:15  8:00.7 0.64693 3.15074 2021-01-11 14:59:36 UTC 2021-01-11 15:00:51 UTC
+3.444456    1:15  7:47.2 0.71106 3.66570 2021-01-11 15:01:24 UTC 2021-01-11 15:02:39 UTC
+3.630215    1:15  7:23.3 0.00000 5.37055 2021-01-11 15:03:08 UTC 2021-01-11 15:04:23 UTC
+3.738051    1:15  7:10.5 0.00000 7.50418 2021-01-11 15:04:53 UTC 2021-01-11 15:06:08 UTC
+3.781962    1:15  7:05.5 0.00000 6.16670 2021-01-11 15:06:37 UTC 2021-01-11 15:07:52 UTC
+3.704785    1:15  7:14.3 0.00000 7.33078 2021-01-11 15:08:22 UTC 2021-01-11 15:09:37 UTC
+3.751823    1:15  7:08.9 0.00000 4.25909 2021-01-11 15:10:06 UTC 2021-01-11 15:11:21 UTC
+3.685382    1:15  7:16.6 0.26241 0.78646 2021-01-11 15:11:51 UTC 2021-01-11 15:13:06 UTC
+Average: 7:47.6
+
+========================================================================
+No pack
+
+
+bash-3.2[master]$ ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2021_01_18_07_11_16_Running.gpx 
+3.798419    1:15  7:03.6 4.53569 0.00000 2021-01-18 14:55:15 UTC 2021-01-18 14:56:30 UTC
+3.425755    1:15  7:49.7 6.01733 0.00000 2021-01-18 14:57:01 UTC 2021-01-18 14:58:16 UTC
+3.539281    1:15  7:34.7 6.96234 0.00000 2021-01-18 14:58:49 UTC 2021-01-18 15:00:04 UTC
+3.798385    1:15  7:03.6 2.26340 0.39803 2021-01-18 15:00:39 UTC 2021-01-18 15:01:54 UTC
+3.722788    1:15  7:12.2 4.18940 0.92603 2021-01-18 15:02:21 UTC 2021-01-18 15:03:36 UTC
+4.353889    1:15  6:09.6 0.00000 7.23932 2021-01-18 15:04:04 UTC 2021-01-18 15:05:19 UTC
+4.437451    1:15  6:02.6 0.00000 7.86940 2021-01-18 15:05:54 UTC 2021-01-18 15:07:09 UTC
+4.384497    1:15  6:07.0 0.00000 6.89046 2021-01-18 15:07:36 UTC 2021-01-18 15:08:51 UTC
+4.558280    1:15  5:53.0 0.00000 8.51361 2021-01-18 15:09:19 UTC 2021-01-18 15:10:34 UTC
+4.137828    1:15  6:28.9 0.20799 2.15021 2021-01-18 15:11:04 UTC 2021-01-18 15:12:19 UTC
+4.017371    1:15  6:40.5 0.05000 1.41221 2021-01-18 15:12:49 UTC 2021-01-18 15:14:04 UTC
+4.144434    1:15  6:28.3 0.13061 0.72613 2021-01-18 15:14:35 UTC 2021-01-18 15:15:50 UTC
+Average: 6:42.8
+
+These are my best interval numbers ever. There's a chance that I got a
+benefit by starting a little early and actually walking the last
+fifteen seconds of my second uphill interval.
+
+I started early because I wanted to start on the 00 and as it was, I was
+running into the sun.  It wasn't very far early and I really didn't want
+to kill 55 seconds or so waiting to start at the "proper" place.
+
+I think that when I should have run my second interval from the 45 to
+the 0, I may have started walking at 45.  I remember being a little
+confused and then looking at which hand I had my bottle in, which told
+me that I'd need to start my next run at the 30.  The graph I get from
+Movescount suggests that this is what happened, but the resolution
+isn't good enough for me to be sure.
+
+I don't think either of the two things above are particularly big
+factors in the gain that I made.  Overall, I really think I'm pretty
+fit since I ran my Saturday 24 mile 40.7# pack run the fastest I ever
+have.  Additionally, I had so much caffeine on Saturday that I slept
+in on Sunday and didn't run at all, so my rest day had 0 exercise
+rather than the usual two hours of light bike riding or light running.
+
+It may take a little time for me to figure out if the above analysis
+is correct, because I'll be in greater Phoenix two weeks from today
+and so any interval work I do there will be boosted by me being at a
+much lower elevation.  And of course four weeks from today will
+probably be *much* hotter.
+
+========================================================================
+With a 40.4# pack (and minorly sprained ankle)
+
+Took a low speed fall on Saturday when lost in thought while on one of
+the few rocky hairpin turns.  I scraped up my right shin and minorly
+sprained my left ankle.  So, when I did my intervals today, I tried to
+go as fast as I could without stressing either leg too much.  I
+actually *felt* fast, but was on average 2 seconds per mile slower
+than two weeks ago.
+
+After doing my intervals, I walked a lot, so my complete time for 13.1
+miles was probably around 2:28:08 (I don't know for sure, because I
+didn't start my GPS watch at the beginning, however, I know I started
+pretty darn close to 7:00 and the last GPS timestamp in my track is
+9:28:08.
+
+FWIW, I started with a bit of trepidation (which is probably why I
+forgot to start my watch) and finished with mild discomfort, I'm glad
+I did it.  I probably didn't get as big of a training effect as I
+would have had I not been injured, but I think I would have lost
+fitness had I not run at all.  With luck I'll be able to run full
+speed on Wednesday.
+
+bash-3.2[master]$ ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2021_01_25_07_50_03_Running.gpx 
+3.237019    1:15  8:17.1 6.11177 0.00000 2021-01-25 14:54:05 UTC 2021-01-25 14:55:20 UTC
+3.034167    1:15  8:50.4 4.62719 0.00000 2021-01-25 14:55:49 UTC 2021-01-25 14:57:04 UTC
+2.945820    1:15  9:06.3 6.27572 0.00000 2021-01-25 14:57:37 UTC 2021-01-25 14:58:52 UTC
+3.048931    1:15  8:47.8 1.50335 0.00000 2021-01-25 14:59:21 UTC 2021-01-25 15:00:36 UTC
+3.388464    1:15  7:54.9 0.46172 3.00567 2021-01-25 15:01:05 UTC 2021-01-25 15:02:20 UTC
+3.353260    1:15  7:59.9 1.36977 3.33217 2021-01-25 15:02:53 UTC 2021-01-25 15:04:08 UTC
+3.879431    1:15  6:54.8 0.08966 5.45204 2021-01-25 15:04:39 UTC 2021-01-25 15:05:54 UTC
+3.703217    1:15  7:14.5 0.00000 6.34675 2021-01-25 15:06:22 UTC 2021-01-25 15:07:37 UTC
+3.788475    1:15  7:04.7 0.00000 6.07494 2021-01-25 15:08:06 UTC 2021-01-25 15:09:21 UTC
+3.639194    1:15  7:22.2 0.00000 6.36300 2021-01-25 15:09:51 UTC 2021-01-25 15:11:06 UTC
+3.788024    1:15  7:04.8 0.00000 4.02158 2021-01-25 15:11:36 UTC 2021-01-25 15:12:51 UTC
+3.689379    1:15  7:16.2 0.01164 1.17931 2021-01-25 15:13:22 UTC 2021-01-25 15:14:37 UTC
+Average: 7:49.5
+
+o========================================================================
+Without pack and with my intervals being my 3rd AA loop rather than my second.
+
+Today was scheduled far in advance to be a pack interval, but I took a
+week off from running due to shin pain in my right leg.  The pain is
+due to the fall I took on La Luz slightly over two weeks ago.  I
+continued to train after that, but my 24 mile ruck "run" (where I had
+to walk the last seven miles due to excessive discomfort) pushed me
+over the edge.  I hiked with friends the following day and then took
+the next six days completely off, so this was my first time running
+since that disastrous pack run.
+
+Oh, I also ate like crap, drank a bunch and stayed up late Thursday,
+Friday and Saturday due to EMBARGO.
+
+My shin is definitely complaining.
+
+bash-3.2[master]$ ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2021_02_08_08_25_50_Running.gpx 
+3.725144    1:15  7:12.0 6.48050 0.00000 2021-02-08 16:53:57 UTC 2021-02-08 16:55:12 UTC
+3.208412    1:15  8:21.6 7.44447 0.00000 2021-02-08 16:55:44 UTC 2021-02-08 16:56:59 UTC
+3.382944    1:15  7:55.7 4.89685 0.00000 2021-02-08 16:57:25 UTC 2021-02-08 16:58:40 UTC
+3.434986    1:15  7:48.5 1.70703 1.31993 2021-02-08 16:59:15 UTC 2021-02-08 17:00:30 UTC
+3.221025    1:15  8:19.6 3.63808 0.12128 2021-02-08 17:00:56 UTC 2021-02-08 17:02:11 UTC
+3.922220    1:15  6:50.3 0.00000 5.52436 2021-02-08 17:02:44 UTC 2021-02-08 17:03:59 UTC
+3.801333    1:15  7:03.3 0.00000 6.11089 2021-02-08 17:04:27 UTC 2021-02-08 17:05:42 UTC
+3.812941    1:15  7:02.0 0.00000 7.58314 2021-02-08 17:06:13 UTC 2021-02-08 17:07:28 UTC
+3.888702    1:15  6:53.8 0.00000 7.40383 2021-02-08 17:07:54 UTC 2021-02-08 17:09:09 UTC
+3.728972    1:15  7:11.5 0.00000 4.73296 2021-02-08 17:09:42 UTC 2021-02-08 17:10:57 UTC
+3.687882    1:15  7:16.3 0.06464 2.30877 2021-02-08 17:11:26 UTC 2021-02-08 17:12:41 UTC
+3.690095    1:15  7:16.1 0.00000 1.56519 2021-02-08 17:13:13 UTC 2021-02-08 17:14:28 UTC
+Average: 7:25.9
+
+FWIW, when run against the convert-moves GPX (which probaby has more
+accurate numbers than what I get from downloading from Movescount), I
+get a second faster:
+
+bash-3.2[remove_gain_and_loss_fudge]$ cargo run --bin int_ave ~/moves-still-count/convert-moves/Move_2021_02_08_08_25_50_Running.gpx 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.05s
+     Running `target/debug/int_ave /Users/ctm/moves-still-count/convert-moves/Move_2021_02_08_08_25_50_Running.gpx`
+3.740282    1:15  7:10.2 6.50566 0.00000 2021-02-08 16:53:57.417 UTC 2021-02-08 16:55:12.446 UTC
+3.237321    1:15  8:17.1 7.50793 0.00000 2021-02-08 16:55:42.417 UTC 2021-02-08 16:56:57.417 UTC
+3.386835    1:15  7:55.1 4.82688 0.00000 2021-02-08 16:57:25.417 UTC 2021-02-08 16:58:40.509 UTC
+3.463013    1:15  7:44.7 1.80109 0.99266 2021-02-08 16:59:12.417 UTC 2021-02-08 17:00:27.451 UTC
+3.226101  1:15.8  8:18.8 3.70693 0.14681 2021-02-08 17:00:57.519 UTC 2021-02-08 17:02:13.417 UTC
+3.937192    1:15  6:48.7 0.00000 5.62958 2021-02-08 17:02:45.417 UTC 2021-02-08 17:04:00.483 UTC
+3.803289  1:15.1  7:03.1 0.00000 6.02922 2021-02-08 17:04:25.417 UTC 2021-02-08 17:05:40.522 UTC
+3.799170    1:15  7:03.6 0.00000 7.49874 2021-02-08 17:06:11.417 UTC 2021-02-08 17:07:26.417 UTC
+3.905203    1:15  6:52.1 0.00000 7.58222 2021-02-08 17:07:55.417 UTC 2021-02-08 17:09:10.417 UTC
+3.736207    1:15  7:10.7 0.00000 4.72421 2021-02-08 17:09:42.417 UTC 2021-02-08 17:10:57.417 UTC
+3.694234  1:15.1  7:15.6 0.09154 2.34925 2021-02-08 17:11:26.710 UTC 2021-02-08 17:12:41.823 UTC
+3.687657    1:15  7:16.4 0.00000 1.52564 2021-02-08 17:13:12.417 UTC 2021-02-08 17:14:27.417 UTC
+Average: 7:24.9
+========================================================================
+With a 40.2 pound pack
+
+I was still pretty hurting from a combination of the Bosque Bigfoot
+50k as well as all the drinking I did that day.  However, this is also
+the first time that the GPX file I'm using comes from my convert-moves
+app, rather than from Movescount, and my first use of int_ave gave
+me a reading of 9:10.6 due to int_ave not having a wide enough window
+to properly detect the intervals.  I've since made the window larger
+and rerun int_ave.
+
+bash-3.2[remove_gain_and_loss_fudge]$ cargo run --bin int_ave ~/moves-still-count/convert-moves/Move_2021_02_15_08_38_46_Running.gpx 
+   Compiling nom_fun v0.1.0 (/Users/ctm/playpens/rust/nom_fun)
+    Finished dev [unoptimized + debuginfo] target(s) in 1.38s
+     Running `target/debug/int_ave /Users/ctm/moves-still-count/convert-moves/Move_2021_02_15_08_38_46_Running.gpx`
+2.808016    1:15  9:33.1 4.07249 0.00000 2021-02-15 16:36:32.648 UTC 2021-02-15 16:37:47.680 UTC
+2.630083    1:15 10:11.8 6.81360 0.00000 2021-02-15 16:38:17.648 UTC 2021-02-15 16:39:32.648 UTC
+2.701199    1:15  9:55.7 2.58764 0.15104 2021-02-15 16:40:06.648 UTC 2021-02-15 16:41:21.648 UTC
+3.046195    1:15  8:48.3 0.00000 1.83955 2021-02-15 16:41:57.648 UTC 2021-02-15 16:43:12.648 UTC
+2.640015    1:15 10:09.5 3.33125 0.00000 2021-02-15 16:43:50.648 UTC 2021-02-15 16:45:05.648 UTC
+3.106282    1:15  8:38.0 0.00000 4.53501 2021-02-15 16:45:33.649 UTC 2021-02-15 16:46:48.660 UTC
+3.121478    1:15  8:35.5 0.00000 5.68670 2021-02-15 16:47:20.648 UTC 2021-02-15 16:48:35.648 UTC
+3.185485  1:15.1  8:25.2 0.00000 6.09893 2021-02-15 16:49:05.855 UTC 2021-02-15 16:50:20.967 UTC
+3.099116    1:15  8:39.2 0.00000 4.64852 2021-02-15 16:50:50.648 UTC 2021-02-15 16:52:05.648 UTC
+3.235412    1:15  8:17.4 0.00000 7.08117 2021-02-15 16:52:32.648 UTC 2021-02-15 16:53:47.648 UTC
+3.153186    1:15  8:30.3 0.00000 3.51622 2021-02-15 16:54:18.648 UTC 2021-02-15 16:55:33.649 UTC
+3.481431  1:15.2  7:42.2 0.13381 2.74523 2021-02-15 16:56:03.679 UTC 2021-02-15 16:57:18.959 UTC
+Average: 8:57.4
+
+========================================================================
+With 40.5 pound pack
+
+A lot better than last week.  Still not as good as 2021-01-25
+(7:49.5), much less 2021-01-11 (7:47.6), which is my personal best
+with a pack.  Pretty good, considering.
+
+bash-3.2[remove_gain_and_loss_fudge]$ cargo run --bin int_ave ~/moves-still-count/convert-moves/Move_2021_02_22_07_34_32_Running.gpx 
+   Compiling nom_fun v0.1.0 (/Users/ctm/playpens/rust/nom_fun)
+    Finished dev [unoptimized + debuginfo] target(s) in 1.37s
+     Running `target/debug/int_ave /Users/ctm/moves-still-count/convert-moves/Move_2021_02_22_07_34_32_Running.gpx`
+3.153063    1:15  8:30.4 6.43514 0.00000 2021-02-22 15:27:33.283 UTC 2021-02-22 15:28:48.363 UTC
+2.895437    1:15  9:15.8 4.48703 0.00000 2021-02-22 15:29:19.525 UTC 2021-02-22 15:30:34.614 UTC
+2.942805    1:15  9:06.8 7.18046 0.00000 2021-02-22 15:31:03.287 UTC 2021-02-22 15:32:18.294 UTC
+3.264035  1:15.1  8:13.0 2.61454 0.00000 2021-02-22 15:32:48.500 UTC 2021-02-22 15:34:03.613 UTC
+3.294966  1:15.1  8:08.4 0.50467 1.45861 2021-02-22 15:34:33.278 UTC 2021-02-22 15:35:48.391 UTC
+3.219275    1:15  8:19.9 1.18464 1.36772 2021-02-22 15:36:20.283 UTC 2021-02-22 15:37:35.365 UTC
+3.715374    1:15  7:13.1 0.00000 5.71529 2021-02-22 15:38:05.278 UTC 2021-02-22 15:39:20.278 UTC
+3.641147    1:15  7:21.9 0.00000 5.18935 2021-02-22 15:39:49.278 UTC 2021-02-22 15:41:04.320 UTC
+3.857448    1:15  6:57.2 0.00000 7.32548 2021-02-22 15:41:37.282 UTC 2021-02-22 15:42:52.296 UTC
+3.703109    1:15  7:14.5 0.00000 6.06829 2021-02-22 15:43:20.281 UTC 2021-02-22 15:44:35.282 UTC
+3.444652    1:15  7:47.2 0.39074 3.06560 2021-02-22 15:45:06.282 UTC 2021-02-22 15:46:21.282 UTC
+3.332852    1:15  8:02.8 0.62898 0.65245 2021-02-22 15:46:52.282 UTC 2021-02-22 15:48:07.365 UTC
+Average: 8:01.3
+
+========================================================================
+No pack
+
+Pretty good numbers.  I've gotten into the sixes a couple of times.
+Somewhere I screwed up though.  It looks like I gave myself an extra
+fifteen seconds of rest between my 3rd and 4th interval.  As such,
+that means I didn't do as well as the average suggests, because not
+only did that give me more time to rest, it also probably shifted my
+intervals to have less uphill and more downhill.
+
+On the other hand my first three intervals are better than my first
+three back on January 18th, which is when I got my best set of twelve
+intervals, so I'm pretty happy, considering.
+
+bash-3.2[master]$ ~/playpens/rust/nom_fun/target/release/int_ave ~/moves-still-count/convert-moves/Move_2021_03_01_08_30_19_Running.gpx 
+3.823230    1:15  7:00.9 6.61813 0.00000 2021-03-01 16:19:21.014 UTC 2021-03-01 16:20:36.014 UTC
+3.449681    1:15  7:46.5 7.13689 0.00000 2021-03-01 16:21:06.016 UTC 2021-03-01 16:22:21.068 UTC
+3.649363    1:15  7:20.9 4.43988 0.00000 2021-03-01 16:22:51.014 UTC 2021-03-01 16:24:06.014 UTC
+3.820061    1:15  7:01.2 0.94751 1.86558 2021-03-01 16:24:42.014 UTC 2021-03-01 16:25:57.014 UTC
+3.688207    1:15  7:16.3 0.30396 3.76405 2021-03-01 16:27:06.014 UTC 2021-03-01 16:28:21.014 UTC
+4.230400    1:15  6:20.4 0.00000 7.65458 2021-03-01 16:28:50.014 UTC 2021-03-01 16:30:05.054 UTC
+4.105192    1:15  6:32.0 0.00000 8.21827 2021-03-01 16:30:36.014 UTC 2021-03-01 16:31:51.032 UTC
+4.220589  1:15.2  6:21.3 0.00000 6.98824 2021-03-01 16:32:23.185 UTC 2021-03-01 16:33:38.439 UTC
+4.004426    1:15  6:41.8 0.00000 4.94522 2021-03-01 16:34:06.014 UTC 2021-03-01 16:35:21.015 UTC
+3.748712    1:15  7:09.3 0.24736 2.65633 2021-03-01 16:35:51.334 UTC 2021-03-01 16:37:06.367 UTC
+3.673756  1:15.2  7:18.0 0.11874 1.28619 2021-03-01 16:37:36.116 UTC 2021-03-01 16:38:51.328 UTC
+3.730303    1:15  7:11.4 0.00000 0.74874 2021-03-01 16:39:19.014 UTC 2021-03-01 16:40:34.014 UTC
+Average: 7:00.3
+
+========================================================================
+No pack.  On taper.  Should have done these yesterday, but with Sophie
+driving Jeanne home, I was tied up in the morning.  I suspect I did
+not run the entire 75 seconds in my fourth interval.  I think I got
+confused about when my ending should be.  I had a lot on my mind.
+
+FWIW, my first interval looks surprisingly slow.  I don't know what's
+up with that.  I didn't exercise on Sunday or Monday due to Jeanne's
+visit.
+
+bash-3.2[master]$ ~/playpens/rust/nom_fun/target/release/int_ave -c 6 ~/moves-still-count/convert-moves/Move_2021_03_09_07_35_45_Running.gpx 
+3.352854    1:15  7:59.9 6.05257 0.00000 2021-03-09 14:50:33.128 UTC 2021-03-09 14:51:48.148 UTC
+3.437731    1:15  7:48.1 3.39668 0.00000 2021-03-09 14:52:17.128 UTC 2021-03-09 14:53:32.128 UTC
+3.879977    1:15  6:54.7 0.29491 1.47041 2021-03-09 14:54:04.128 UTC 2021-03-09 14:55:19.139 UTC
+3.298552    1:15  8:07.8 3.05114 0.83582 2021-03-09 14:55:56.128 UTC 2021-03-09 14:57:11.128 UTC
+4.176442    1:15  6:25.3 0.00000 6.23021 2021-03-09 14:57:33.128 UTC 2021-03-09 14:58:48.129 UTC
+3.961011  1:15.1  6:46.2 0.00000 5.83177 2021-03-09 14:59:17.156 UTC 2021-03-09 15:00:32.256 UTC
+Average: 7:20.5
+
+Oops... turns out I did seven intervals, which I only realized after
+looking at my pace profile on Strava.  I definitely got confused
+somewhere.  So, although I got a little bit of a workout, it's hard
+for me to estimate my fitness due to the weird numbers.  At least I
+know why my first interval was so slow. With "-c 6" my first interval
+was not even being counted.  Turns out, that's the second fastest I've
+run my first interval, which makes me feel a lot better, since it
+seemed fast (and tiring!) at the tine.
+
+bash-3.2[master]$ ~/playpens/rust/nom_fun/target/release/int_ave -c 7 ~/moves-still-count/convert-moves/Move_2021_03_09_07_35_45_Running.gpx 
+3.850149    1:15  6:57.9 5.61829 0.00000 2021-03-09 14:48:47.128 UTC 2021-03-09 14:50:02.163 UTC
+3.352854    1:15  7:59.9 6.05257 0.00000 2021-03-09 14:50:33.128 UTC 2021-03-09 14:51:48.148 UTC
+3.437731    1:15  7:48.1 3.39668 0.00000 2021-03-09 14:52:17.128 UTC 2021-03-09 14:53:32.128 UTC
+3.879977    1:15  6:54.7 0.29491 1.47041 2021-03-09 14:54:04.128 UTC 2021-03-09 14:55:19.139 UTC
+3.298552    1:15  8:07.8 3.05114 0.83582 2021-03-09 14:55:56.128 UTC 2021-03-09 14:57:11.128 UTC
+4.176442    1:15  6:25.3 0.00000 6.23021 2021-03-09 14:57:33.128 UTC 2021-03-09 14:58:48.129 UTC
+3.961011  1:15.1  6:46.2 0.00000 5.83177 2021-03-09 14:59:17.156 UTC 2021-03-09 15:00:32.256 UTC
+Average: 7:17.3
+
+========================================================================
+With 40.6# pack (my weight was 164.1, the temp was 34.7F)
+
+The only other two times I've done 1/4 distance interval training with
+my pack are 20190311 (Average: 7:46.7, weight 163.9, temp unknown) and
+20200309 (Average: 8:08.5, weight 164.1, 37.4F but dropping).  So, I'm
+in between, but much closer to last year than two years ago.
+
+time ~/playpens/rust/nom_fun/target/release/int_ave -c 3 ~/Downloads/Move_2021_03_15_07_03_13_Running.gpx 
+3.327421    1:15  8:03.6 6.66614 0.00000 2021-03-15 13:18:14.800 UTC 2021-03-15 13:19:29.835 UTC
+3.050480    1:15  8:47.5 3.74607 0.00000 2021-03-15 13:19:58.800 UTC 2021-03-15 13:21:13.800 UTC
+3.719524  1:15.6  7:12.6 0.00000 5.86959 2021-03-15 13:21:44.133 UTC 2021-03-15 13:22:59.800 UTC
+Average: 8:02.6
+
+========================================================================
+No pack. Yesterday I ran a quick (for me) half marathon, averaging a
+7:46 min/mile pace.  The course was about 3/10ths of a mile short, but
+at that pace I would have finished a full 13.1 half in 1:41:45 which
+would have been a PR.  So, today I was not very fast at all, but I got
+out there and did my intervals anyway, if for no other reason than to
+practice counting to twelve.
+
+[master]% time ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2021_03_29_07_40_50_Running.gpx 
+3.519129  1:15.1  7:37.3 6.21662 0.00000 2021-03-29 14:36:54.269 UTC 2021-03-29 14:38:09.432 UTC
+3.193003    1:15  8:24.0 5.95450 0.00000 2021-03-29 14:38:39.108 UTC 2021-03-29 14:39:54.108 UTC
+3.071648    1:15  8:43.9 6.95241 0.00000 2021-03-29 14:40:24.409 UTC 2021-03-29 14:41:39.504 UTC
+3.309603    1:15  8:06.2 2.37799 0.00000 2021-03-29 14:42:09.108 UTC 2021-03-29 14:43:24.191 UTC
+3.378949  1:15.2  7:56.2 1.18268 1.42823 2021-03-29 14:43:53.205 UTC 2021-03-29 14:45:08.425 UTC
+3.505077    1:15  7:39.1 0.41000 3.32573 2021-03-29 14:45:38.108 UTC 2021-03-29 14:46:53.157 UTC
+3.830490    1:15  7:00.1 0.00000 6.45216 2021-03-29 14:47:24.108 UTC 2021-03-29 14:48:39.108 UTC
+3.865399    1:15  6:56.3 0.00000 6.87883 2021-03-29 14:49:08.108 UTC 2021-03-29 14:50:23.108 UTC
+3.757743    1:15  7:08.2 0.00000 5.95937 2021-03-29 14:50:54.108 UTC 2021-03-29 14:52:09.119 UTC
+3.836163    1:15  6:59.5 0.00000 4.84649 2021-03-29 14:52:39.108 UTC 2021-03-29 14:53:54.108 UTC
+3.392879    1:15  7:54.3 0.00000 2.56507 2021-03-29 14:54:25.108 UTC 2021-03-29 14:55:40.108 UTC
+3.662909    1:15  7:19.3 0.15304 0.56427 2021-03-29 14:56:08.108 UTC 2021-03-29 14:57:23.108 UTC
+Average: 7:39
+
+========================================================================
+No pack and done in a fastest state (i.e. my last calories were at
+8:45pm the previous day.  Additionally, I rode a (slow!) century
+yesterday also in a fasted state, so considering, I'm happy with these
+numbers, but I'm pretty sure I screwed up on the timing here and there
+but not in a way that gave me extra recovery.
+
+[master]% time ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2021_04_05_05_53_15_Running.gpx 
+3.604771    1:15  7:26.4 6.51176 0.00000 2021-04-05 12:47:13.804 UTC 2021-04-05 12:48:28.804 UTC
+3.033335  1:15.1  8:50.5 6.02068 0.00000 2021-04-05 12:49:01.610 UTC 2021-04-05 12:50:16.804 UTC
+3.457501    1:15  7:45.4 5.34685 0.00000 2021-04-05 12:50:45.804 UTC 2021-04-05 12:52:00.804 UTC
+3.415511    1:15  7:51.1 1.55453 0.68116 2021-04-05 12:52:33.804 UTC 2021-04-05 12:53:48.804 UTC
+3.738094    1:15  7:10.5 3.44667 0.00000 2021-04-05 12:54:16.804 UTC 2021-04-05 12:55:31.804 UTC
+4.080241  1:15.6  6:34.4 0.00000 5.62423 2021-04-05 12:56:01.161 UTC 2021-04-05 12:57:16.804 UTC
+4.091312    1:15  6:33.3 0.00000 8.42360 2021-04-05 12:57:46.804 UTC 2021-04-05 12:59:01.816 UTC
+4.070920    1:15  6:35.3 0.00000 7.55026 2021-04-05 12:59:33.804 UTC 2021-04-05 13:00:48.804 UTC
+3.889544    1:15  6:53.7 0.00000 6.09520 2021-04-05 13:01:24.804 UTC 2021-04-05 13:02:39.892 UTC
+3.617899    1:15  7:24.8 0.00000 3.40566 2021-04-05 13:03:04.804 UTC 2021-04-05 13:04:19.903 UTC
+4.105871    1:15  6:31.9 0.00000 1.33782 2021-04-05 13:04:45.810 UTC 2021-04-05 13:06:00.820 UTC
+3.852617  1:15.2  6:57.7 0.07000 1.48900 2021-04-05 13:06:42.011 UTC 2021-04-05 13:07:57.242 UTC
+Average: 7:13
+
+========================================================================
+No pack.  Fasted (final calories were at 5:30pm yesterday, *I THINK*).
+
+Pretty good, considering. Yesterday I helped support people doing the
+virtual Bataan Memorial Death March.  I was out in the sun a lot and
+drank a few beers, so I'm not suprised my stats aren't better.
+
+
+[master]% time ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2021_04_12_05_52_19_Running.gpx 
+3.704340    1:15  7:14.4 6.51655 0.00000 2021-04-12 12:47:19.585 UTC 2021-04-12 12:48:34.585 UTC
+3.398575    1:15  7:53.5 5.91885 0.00000 2021-04-12 12:49:06.592 UTC 2021-04-12 12:50:21.654 UTC
+3.346519  1:15.1  8:00.9 5.37883 0.00000 2021-04-12 12:50:50.585 UTC 2021-04-12 12:52:05.702 UTC
+3.900736    1:15  6:52.5 0.93404 0.17718 2021-04-12 12:52:35.585 UTC 2021-04-12 12:53:50.585 UTC
+3.444125  1:15.2  7:47.2 3.52279 0.14312 2021-04-12 12:54:23.671 UTC 2021-04-12 12:55:38.932 UTC
+3.937716    1:15  6:48.6 0.00000 5.39959 2021-04-12 12:56:07.585 UTC 2021-04-12 12:57:22.585 UTC
+4.024291    1:15  6:39.9 0.00000 6.55269 2021-04-12 12:57:50.585 UTC 2021-04-12 12:59:05.585 UTC
+4.254955  1:15.1  6:18.2 0.00000 7.42762 2021-04-12 12:59:35.585 UTC 2021-04-12 13:00:50.714 UTC
+3.946343  1:15.1  6:47.8 0.00000 7.81740 2021-04-12 13:01:22.585 UTC 2021-04-12 13:02:37.703 UTC
+3.975787    1:15  6:44.7 0.01015 3.60314 2021-04-12 13:03:04.600 UTC 2021-04-12 13:04:19.600 UTC
+3.835739    1:15  6:59.5 0.00000 1.20023 2021-04-12 13:04:52.585 UTC 2021-04-12 13:06:07.585 UTC
+3.836331    1:15  6:59.5 0.28950 0.32509 2021-04-12 13:06:38.597 UTC 2021-04-12 13:07:53.646 UTC
+Average: 7:05.9
+========================================================================
+No pack.  These are my third fastest stats, but I was in a fasted
+state and yesterday I ate at weird times and drank a lot of beer, so I
+had to take a poop after I got back.  My guess is I'll do better
+before too long, although I may be kidding myself because it was very
+cool this morning, so the temperature is only going to go up.
+
+[master]% time ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2021_04_19_05_47_03_Running.gpx 
+3.562724    1:15  7:31.7 6.73420 0.00000 2021-04-19 12:35:03.151 UTC 2021-04-19 12:36:18.151 UTC
+3.212867  1:15.1  8:20.9 6.21818 0.00000 2021-04-19 12:36:51.965 UTC 2021-04-19 12:38:07.151 UTC
+3.503474    1:15  7:39.3 6.79193 0.00000 2021-04-19 12:38:35.151 UTC 2021-04-19 12:39:50.152 UTC
+3.904004    1:15  6:52.2 1.24356 1.44421 2021-04-19 12:40:22.199 UTC 2021-04-19 12:41:37.241 UTC
+3.887867    1:15  6:53.9 3.50817 0.08000 2021-04-19 12:42:05.151 UTC 2021-04-19 12:43:20.151 UTC
+4.377211    1:15  6:07.6 0.00000 7.32557 2021-04-19 12:43:50.148 UTC 2021-04-19 12:45:05.151 UTC
+4.307385    1:15  6:13.6 0.00000 8.02938 2021-04-19 12:45:35.152 UTC 2021-04-19 12:46:50.152 UTC
+4.149104    1:15  6:27.8 0.00000 6.71398 2021-04-19 12:47:22.146 UTC 2021-04-19 12:48:37.210 UTC
+4.252638    1:15  6:18.4 0.00000 6.45100 2021-04-19 12:49:05.146 UTC 2021-04-19 12:50:20.223 UTC
+3.847599    1:15  6:58.2 0.00000 3.12001 2021-04-19 12:50:51.146 UTC 2021-04-19 12:52:06.212 UTC
+4.002830    1:15  6:42.0 0.35900 1.28277 2021-04-19 12:52:34.146 UTC 2021-04-19 12:53:49.151 UTC
+4.045714  1:15.1  6:37.7 0.06810 1.04565 2021-04-19 12:54:22.146 UTC 2021-04-19 12:55:37.256 UTC
+Average: 6:53.9
+
+========================================================================
+No pack.  Fasted.  Done after 5.6 (combined) miles of running rather
+than 4.4 and later in the day.
+
+I did not expect to do well this morning because my Saturday effort
+(Chimney Canyon Threepeat) was more grueling than normal.  However,
+today's intervals were further complicated by GI distress, which in
+and of itself was annoying but it also meant that I started my
+intervals later in the day so there was increased heat.
+
+OTOH, I didn't give up and next week I should be able to beat these
+numbers fairly easily.
+
+[master]% time ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2021_04_26_07_04_14_Running.gpx 
+3.572566    1:15  7:30.4 6.74835 0.00000 2021-04-26 13:21:13.582 UTC 2021-04-26 13:22:28.603 UTC
+3.272531    1:15  8:11.7 5.47609 0.00000 2021-04-26 13:23:02.583 UTC 2021-04-26 13:24:17.583 UTC
+3.185095  1:15.9  8:25.2 5.70949 0.00000 2021-04-26 13:24:46.618 UTC 2021-04-26 13:26:02.583 UTC
+3.776498  1:15.1  7:06.1 2.38031 0.38058 2021-04-26 13:26:33.584 UTC 2021-04-26 13:27:48.705 UTC
+3.484048  1:15.1  7:41.9 2.84722 0.14025 2021-04-26 13:28:19.908 UTC 2021-04-26 13:29:35.048 UTC
+4.087215    1:15  6:33.7 0.00000 6.11772 2021-04-26 13:30:04.583 UTC 2021-04-26 13:31:19.678 UTC
+4.187618    1:15  6:24.3 0.00000 6.87728 2021-04-26 13:31:46.584 UTC 2021-04-26 13:33:01.584 UTC
+3.927807    1:15  6:49.7 0.00000 6.64157 2021-04-26 13:33:32.583 UTC 2021-04-26 13:34:47.584 UTC
+4.206228    1:15  6:22.6 0.00000 7.21589 2021-04-26 13:35:17.858 UTC 2021-04-26 13:36:32.947 UTC
+3.977608    1:15  6:44.6 0.00000 3.54263 2021-04-26 13:37:02.584 UTC 2021-04-26 13:38:17.600 UTC
+3.678331  1:15.3  7:17.5 0.15044 0.67858 2021-04-26 13:38:48.583 UTC 2021-04-26 13:40:03.916 UTC
+3.726572    1:15  7:11.8 0.11158 0.74490 2021-04-26 13:40:34.637 UTC 2021-04-26 13:41:49.660 UTC
+Average: 7:12.1
+
+========================================================================
+No pack.  Fasted.  I did better on 4/19, but the previous day I hadn't
+ridden 100 miles on my bike, although I did do 71 miles with about 17
+of that with a flat tire.
+
+I had minor GI distress today and I think that has to do with how I
+eat on Sunday now that I'm riding a slow 100 miles in a fasted state.
+The issue is that I don't start eating until close to 2pm but then I
+remain hungry long enough that I eat late (e.g., 8:30pm last night).
+I tried to improve things by having all my final calories be pasta,
+but I still had some trouble.  This coming weekend is Elevation
+Insanity, so I probably won't be riding my bike 100 miles on Sunday,
+but in the future I think I need to cut out the Tabasco totally and
+also not pre-drink 20 oz. before heading out.
+
+Overall my pace was my JJ100 pace and that included a bit of walking
+so I could chat with John (he's 77).
+
+Pretty happy with these results, considering.
+
+
+[master]% time ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2021_05_03_05_35_50_Running.gpx 
+3.611342    1:15  7:25.6 5.93427 0.00000 2021-05-03 12:31:52.134 UTC 2021-05-03 12:33:07.176 UTC
+3.171413    1:15  8:27.4 5.03628 0.00000 2021-05-03 12:33:42.134 UTC 2021-05-03 12:34:57.134 UTC
+3.309620  1:15.2  8:06.2 6.48365 0.00000 2021-05-03 12:35:23.274 UTC 2021-05-03 12:36:38.545 UTC
+3.728796    1:15  7:11.5 1.65539 0.44000 2021-05-03 12:37:10.134 UTC 2021-05-03 12:38:25.134 UTC
+3.520765  1:15.2  7:37.1 3.44456 0.79750 2021-05-03 12:38:52.246 UTC 2021-05-03 12:40:07.448 UTC
+4.215095    1:15  6:21.8 0.00000 5.52931 2021-05-03 12:40:41.134 UTC 2021-05-03 12:41:56.134 UTC
+4.261460    1:15  6:17.6 0.00000 7.39984 2021-05-03 12:42:24.134 UTC 2021-05-03 12:43:39.185 UTC
+4.287320    1:15  6:15.3 0.00000 7.30440 2021-05-03 12:44:10.134 UTC 2021-05-03 12:45:25.134 UTC
+4.306198    1:15  6:13.7 0.00000 7.26765 2021-05-03 12:45:53.141 UTC 2021-05-03 12:47:08.173 UTC
+3.946795    1:15  6:47.7 0.00000 3.37463 2021-05-03 12:47:37.134 UTC 2021-05-03 12:48:52.147 UTC
+3.871695    1:15  6:55.6 0.55013 1.79788 2021-05-03 12:49:26.134 UTC 2021-05-03 12:50:41.134 UTC
+3.838251    1:15  6:59.2 0.06214 0.52883 2021-05-03 12:51:10.134 UTC 2021-05-03 12:52:25.134 UTC
+Average: 7:03.5
+
+========================================================================
+No pack.  Fasted.  Got off to a late start.  Had a lense pop out of my
+sunglasses on second interval.  However, the biggest thing that held
+me back is that I'm not fully recovered from Elevation Insanity XI on
+Saturday and the associated sleep deficits.
+
+I got much better stats on 2019_05_13 (average: 7:12.3), which was
+also a Monday after Elevation Insanity, *but* that year we only
+managed five ascents, not six.
+
+So, I'm disappointed, but not too surprised with how I did this
+morning.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2021_05_10_06_52_07_Running.gpx 
+3.353369    1:15  7:59.9 5.49617 0.00000 2021-05-10 13:50:08.612 UTC 2021-05-10 13:51:23.613 UTC
+3.053145    1:15  8:47.1 5.13075 0.00000 2021-05-10 13:51:56.612 UTC 2021-05-10 13:53:11.629 UTC
+3.124421    1:15  8:35.0 6.09814 0.00000 2021-05-10 13:53:36.612 UTC 2021-05-10 13:54:51.612 UTC
+3.651163    1:15  7:20.7 1.92965 0.00000 2021-05-10 13:55:25.612 UTC 2021-05-10 13:56:40.612 UTC
+3.520001    1:15  7:37.1 2.25449 0.43072 2021-05-10 13:57:08.612 UTC 2021-05-10 13:58:23.613 UTC
+3.564575    1:15  7:31.4 0.01364 4.74437 2021-05-10 13:58:55.612 UTC 2021-05-10 14:00:10.612 UTC
+3.993603    1:15  6:42.9 0.00000 6.06719 2021-05-10 14:00:38.689 UTC 2021-05-10 14:01:53.693 UTC
+4.001151    1:15  6:42.2 0.00000 8.51395 2021-05-10 14:02:23.613 UTC 2021-05-10 14:03:38.634 UTC
+4.086782    1:15  6:33.7 0.00000 7.29492 2021-05-10 14:04:10.612 UTC 2021-05-10 14:05:25.612 UTC
+3.976460  1:15.2  6:44.7 0.00000 4.98410 2021-05-10 14:05:53.701 UTC 2021-05-10 14:07:08.932 UTC
+3.453264    1:15  7:46.0 0.00000 1.14782 2021-05-10 14:07:38.612 UTC 2021-05-10 14:08:53.681 UTC
+3.896094  1:15.1  6:53.0 0.33834 1.57176 2021-05-10 14:09:24.875 UTC 2021-05-10 14:10:40.010 UTC
+Average: 7:26.4
+
+========================================================================
+Without a pack.  Fasted.
+
+Easily my best fasted intervals ever, but these are actually my 3rd
+fastest intervals and the two faster ones were both done in winter
+when it's cooler and I probably was running with no water bottles. or
+perhaps one.  Today I had two water bottles, and I believe they slow
+me down (unless it's hot enough, like today, for the sips of water to
+be necessary).
+
+So, I'm super pleased with these stats, although to be fair, my
+Saturday was comparatively easy (just the first loop of the Chimney
+Melon 50k) and I only rode my bike 71 miles yesterday (because it was
+my mother's birthday and I wanted to take her to a Team RWB event that
+started at noon).
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2021_05_17_05_45_19_Running.gpx 
+3.773004    1:15  7:06.5 6.14611 0.00000 2021-05-17 12:40:20.407 UTC 2021-05-17 12:41:35.423 UTC
+3.362113    1:15  7:58.6 6.59812 0.00000 2021-05-17 12:42:05.395 UTC 2021-05-17 12:43:20.399 UTC
+3.526223    1:15  7:36.3 5.21833 0.00000 2021-05-17 12:43:50.395 UTC 2021-05-17 12:45:05.416 UTC
+3.848293  1:15.1  6:58.1 2.63515 2.84235 2021-05-17 12:45:36.395 UTC 2021-05-17 12:46:51.515 UTC
+3.808344    1:15  7:02.5 3.54907 0.73680 2021-05-17 12:47:22.731 UTC 2021-05-17 12:48:37.731 UTC
+4.367490    1:15  6:08.4 0.00000 6.58832 2021-05-17 12:49:07.430 UTC 2021-05-17 12:50:22.479 UTC
+4.357801    1:15  6:09.3 0.00000 8.21320 2021-05-17 12:50:53.395 UTC 2021-05-17 12:52:08.395 UTC
+4.251168    1:15  6:18.5 0.00000 6.45693 2021-05-17 12:52:36.395 UTC 2021-05-17 12:53:51.395 UTC
+4.210936  1:15.1  6:22.1 0.00000 4.76375 2021-05-17 12:54:21.464 UTC 2021-05-17 12:55:36.593 UTC
+3.671863    1:15  7:18.2 0.26551 2.53975 2021-05-17 12:55:59.396 UTC 2021-05-17 12:57:14.435 UTC
+4.152415  1:15.2  6:27.5 0.13072 1.28664 2021-05-17 12:57:50.395 UTC 2021-05-17 12:59:05.628 UTC
+4.012296    1:15  6:41.1 0.00000 0.20962 2021-05-17 12:59:37.395 UTC 2021-05-17 13:00:52.395 UTC
+Average: 6:50.9
+
+========================================================================
+Without a pack.  Fasted.  Trashed from the weekend (JMTR 50M on
+Saturday, fasted 100 mile bike ride on Sunday, plenty of celebratory
+drinking and little sleep Saturday night and poor sleep last night).
+
+Next week has to be better!
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2021_04_10_05_25_01_Running.gpx 
+3.089293    1:15  8:40.9 0.00000 21.75662 2021-04-10 18:18:38.435 UTC 2021-04-10 18:19:53.437 UTC
+3.685124    1:15  7:16.7 0.00000 22.72202 2021-04-10 18:19:54.435 UTC 2021-04-10 18:21:09.435 UTC
+3.008849    1:15  8:54.8 0.00000 12.29221 2021-04-10 18:21:09.435 UTC 2021-04-10 18:22:24.435 UTC
+3.033614    1:15  8:50.5 0.00000 16.04730 2021-04-10 18:23:37.435 UTC 2021-04-10 18:24:52.435 UTC
+2.945142    1:15  9:06.4 0.00000 11.10993 2021-04-10 18:24:52.435 UTC 2021-04-10 18:26:07.435 UTC
+2.612069    1:15 10:16.1 0.00000 4.38348 2021-04-10 18:26:07.435 UTC 2021-04-10 18:27:22.471 UTC
+2.636528    1:15 10:10.4 0.05000 2.02271 2021-04-10 18:27:49.435 UTC 2021-04-10 18:29:04.468 UTC
+2.678269    1:15 10:00.8 0.04250 4.08096 2021-04-10 18:30:03.435 UTC 2021-04-10 18:31:18.435 UTC
+2.743819    1:15  9:46.5 0.00000 1.90969 2021-04-10 18:32:07.435 UTC 2021-04-10 18:33:22.435 UTC
+2.623416    1:15 10:13.4 0.00000 0.71988 2021-04-10 18:33:43.435 UTC 2021-04-10 18:34:58.435 UTC
+3.145439    1:15  8:31.6 0.00000 1.33042 2021-04-10 18:34:59.435 UTC 2021-04-10 18:36:14.435 UTC
+2.853017  1:15.1  9:24.0 0.00000 6.80453 2021-04-10 18:36:40.435 UTC 2021-04-10 18:37:55.580 UTC
+Average: 9:16.1
+
+========================================================================
+Without a pack. Fasted. A bit windy, but cool.  Probably would have
+done better if I hadn't had so much beer yesterday.  Not bad, considering.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2021_05_31_06_22_05_Running.gpx 
+3.419125    1:15  7:50.6 6.26814 0.00000 2021-05-31 13:22:05.188 UTC 2021-05-31 13:23:20.234 UTC
+3.141835    1:15  8:32.2 4.68632 0.00000 2021-05-31 13:23:54.188 UTC 2021-05-31 13:25:09.188 UTC
+3.208894  1:15.8  8:21.5 6.09340 0.00000 2021-05-31 13:25:35.301 UTC 2021-05-31 13:26:51.188 UTC
+3.701473  1:15.1  7:14.7 2.42829 0.00000 2021-05-31 13:27:23.198 UTC 2021-05-31 13:28:38.306 UTC
+3.706103    1:15  7:14.2 3.08205 1.35607 2021-05-31 13:29:05.246 UTC 2021-05-31 13:30:20.319 UTC
+4.281198    1:15  6:15.9 0.00000 6.27373 2021-05-31 13:30:54.188 UTC 2021-05-31 13:32:09.188 UTC
+4.442535  1:15.1  6:02.2 0.00000 6.44153 2021-05-31 13:32:37.188 UTC 2021-05-31 13:33:52.301 UTC
+4.383222    1:15  6:07.1 0.00000 7.11060 2021-05-31 13:34:23.188 UTC 2021-05-31 13:35:38.223 UTC
+4.108120    1:15  6:31.7 0.00000 6.76455 2021-05-31 13:36:08.188 UTC 2021-05-31 13:37:23.188 UTC
+4.060552    1:15  6:36.3 0.00000 2.73272 2021-05-31 13:37:53.188 UTC 2021-05-31 13:39:08.224 UTC
+3.770083    1:15  7:06.8 0.10802 0.60136 2021-05-31 13:39:38.188 UTC 2021-05-31 13:40:53.188 UTC
+3.846050    1:15  6:58.4 0.00000 0.67516 2021-05-31 13:41:22.188 UTC 2021-05-31 13:42:37.245 UTC
+Average: 7:04.5
+
+========================================================================
+No pack. Fasted.  Fastest fasted intervals and second fastest intervals
+overall.  Considering my fastest intervals (6:42.8) were in January,
+when it was 29.7F at start and 48.5F at end, this is really my best
+time ever, since it was 60.4F at 5:42 and above well above that by the
+time I started the intervals,
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2021_06_07_05_59_06_Running.gpx 
+3.748302    1:15  7:09.3 6.17339 2.86160 2021-06-07 13:00:04.544 UTC 2021-06-07 13:01:19.544 UTC
+3.450579    1:15  7:46.3 0.00945 3.92862 2021-06-07 13:01:52.544 UTC 2021-06-07 13:03:07.544 UTC
+3.510568    1:15  7:38.4 8.23151 1.27364 2021-06-07 13:03:37.544 UTC 2021-06-07 13:04:52.544 UTC
+4.116602    1:15  6:30.9 2.27906 0.35288 2021-06-07 13:05:23.544 UTC 2021-06-07 13:06:38.577 UTC
+3.704519    1:16  7:14.4 5.79789 1.58073 2021-06-07 13:07:10.865 UTC 2021-06-07 13:08:26.879 UTC
+4.438305    1:15  6:02.6 6.45200 0.61397 2021-06-07 13:08:52.544 UTC 2021-06-07 13:10:07.544 UTC
+4.313382    1:15  6:13.1 7.62490 3.53914 2021-06-07 13:10:38.544 UTC 2021-06-07 13:11:53.544 UTC
+4.304585    1:15  6:13.8 0.88327 3.99925 2021-06-07 13:12:24.544 UTC 2021-06-07 13:13:39.544 UTC
+4.353041    1:15  6:09.7 2.10499 4.33766 2021-06-07 13:14:07.544 UTC 2021-06-07 13:15:22.627 UTC
+3.939724  1:15.1  6:48.4 1.33166 5.00321 2021-06-07 13:15:51.544 UTC 2021-06-07 13:17:06.663 UTC
+3.967015  1:15.2  6:45.6 1.47409 4.62574 2021-06-07 13:17:38.691 UTC 2021-06-07 13:18:53.974 UTC
+3.948512    1:15  6:47.5 0.10681 5.60016 2021-06-07 13:19:24.544 UTC 2021-06-07 13:20:39.544 UTC
+Average: 6:46.9 (Average: 6:43.1 using algorithm that uses elevation)
+
+========================================================================
+No pack.  Fasted.  Only 6 due to taper.  Slow due to Chimney Melon 50k
+on Saturday and my lack of sleep last night due to stomach ache
+(probably due to the dodgy nectarine I ate earlier in the day) as well
+as today's heat and my choice to only take 20 oz. of water with me.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave -c 6 ~/Downloads/Move_2021_06_14_06_54_50_Running.gpx 
+3.474534  1:15.1  7:43.1 10.11561 5.82202 2021-06-14 14:05:52.054 UTC 2021-06-14 14:07:07.171 UTC
+3.223522  1:15.2  8:19.2 1.51024 6.15465 2021-06-14 14:07:37.843 UTC 2021-06-14 14:08:53.054 UTC
+3.150280    1:16  8:30.8 19.27451 0.00000 2021-06-14 14:09:24.056 UTC 2021-06-14 14:10:40.134 UTC
+3.516250  1:15.1  7:37.6 3.68837 0.92758 2021-06-14 14:11:10.203 UTC 2021-06-14 14:12:25.375 UTC
+3.467389    1:15  7:44.1 8.80899 0.13000 2021-06-14 14:12:53.054 UTC 2021-06-14 14:14:08.070 UTC
+3.726063  1:15.1  7:11.9 7.12872 2.18365 2021-06-14 14:14:39.199 UTC 2021-06-14 14:15:54.398 UTC
+Average: 7:52
+
+========================================================================
+No pack. Fasted. Coming back from Affordable Automotive, so can't be
+compared to normal intervals.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave -c 3 ~/Downloads/Move_2021_06_21_05_51_40_Running.gpx 
+3.906889    1:15  6:51.9 4.77614 0.00000 2021-06-21 11:59:40.887 UTC 2021-06-21 12:00:55.901 UTC
+3.509707    1:15  7:38.5 3.77904 0.00000 2021-06-21 12:01:24.887 UTC 2021-06-21 12:02:39.887 UTC
+3.303417  1:15.1  8:07.1 4.25851 0.00000 2021-06-21 12:03:09.887 UTC 2021-06-21 12:04:25.011 UTC
+Average: 7:32.8
+
+========================================================================
+No pack.  Fasted.  Done on the Silverton track.  1/4 distance taper since
+Hardrock is on Friday.  Completely gassed from the altitude.
+
+I don't think I have any other Silverton intervals to compare it to,
+but my guess is I'm doing well, considering.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave -c 3 ~/Downloads/Move_2021_07_12_05_48_09_Running.gpx 
+4.336757    1:15  6:11.0 0.00000 0.00000 2021-07-12 12:00:08.304 UTC 2021-07-12 12:01:23.304 UTC
+3.829000    1:15  7:00.3 0.00000 0.00000 2021-07-12 12:01:55.304 UTC 2021-07-12 12:03:10.304 UTC
+3.597795    1:15  7:27.3 0.00000 0.00000 2021-07-12 12:03:41.304 UTC 2021-07-12 12:04:56.340 UTC
+Average: 6:52.9
+
+========================================================================
+No pack. Fasted. Still haven't recovered from HRH
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2021_07_26_06_22_10_Running.gpx 
+3.284105    1:15  8:10.0 6.33120 0.00000 2021-07-26 13:19:10.746 UTC 2021-07-26 13:20:25.778 UTC
+3.023514    1:15  8:52.2 4.60276 0.00000 2021-07-26 13:20:55.552 UTC 2021-07-26 13:22:10.563 UTC
+2.985719  1:15.1  8:59.0 6.08927 0.00000 2021-07-26 13:22:40.527 UTC 2021-07-26 13:23:55.650 UTC
+3.209538    1:15  8:21.4 1.99193 0.00000 2021-07-26 13:24:25.556 UTC 2021-07-26 13:25:40.559 UTC
+3.428516  1:15.1  7:49.3 0.02319 1.84925 2021-07-26 13:26:10.490 UTC 2021-07-26 13:27:25.639 UTC
+3.402718    1:15  7:52.9 2.40964 1.29000 2021-07-26 13:27:56.490 UTC 2021-07-26 13:29:11.490 UTC
+3.718866    1:15  7:12.7 0.00000 5.33924 2021-07-26 13:29:40.490 UTC 2021-07-26 13:30:55.490 UTC
+4.148176    1:15  6:27.9 0.00000 6.34819 2021-07-26 13:31:24.490 UTC 2021-07-26 13:32:39.504 UTC
+3.839558    1:15  6:59.1 0.00000 4.94504 2021-07-26 13:33:11.490 UTC 2021-07-26 13:34:26.548 UTC
+3.739331    1:15  7:10.3 0.00000 6.14978 2021-07-26 13:34:56.490 UTC 2021-07-26 13:36:11.490 UTC
+3.628208    1:15  7:23.5 0.15107 3.05213 2021-07-26 13:36:41.490 UTC 2021-07-26 13:37:56.490 UTC
+3.444757    1:15  7:47.1 0.10716 0.32160 2021-07-26 13:38:25.490 UTC 2021-07-26 13:39:40.490 UTC
+Average: 7:45.7
+
+========================================================================
+No pack. Fasted. Horrible. I've done faster while wearing a thirty
+five pound pack.  Baldy 50k was on Saturday, but that alone doesn't
+explain this. However, I didn't get much sleep Saturday night.  OTOH,
+because of my lack of sleep I didn't exercise at all yesterday, so ...
+
+I think the biggest contributing factor is that my lungs are probably
+still not recovered from all the forest fire smoke I inhaled on my
+bike ride eight days ago.  I think the next big factor is that I chose
+to do these much later in the day than I normally do, which made it
+hotter and also allowed much of my caffeine to have worn off.
+
+Oh well, this leaves plenty of room for improvement next week,
+although I'm going to be on the east coast from Wednesday through
+Sunday and as such my diet, sleep schedule and exercise regimen will
+all be sub-optimal, so who knows what will happen?
+
+[bike]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Documents/Running/Movescount/Move_2021_08_16_09_37_24_Running.gpx 
+3.233115    1:15  8:17.7 23.11990 0.00000 2021-08-16 16:36:25.332 UTC 2021-08-16 16:37:40.332 UTC
+2.949368  1:15.6  9:05.6 31.17082 5.40132 2021-08-16 16:38:10.695 UTC 2021-08-16 16:39:26.333 UTC
+3.008659    1:15  8:54.9 0.04993 4.89319 2021-08-16 16:39:56.332 UTC 2021-08-16 16:41:11.332 UTC
+3.300567  1:15.2  8:07.5 7.21395 0.00686 2021-08-16 16:41:42.332 UTC 2021-08-16 16:42:57.610 UTC
+3.547423    1:15  7:33.6 13.16646 0.00000 2021-08-16 16:43:27.332 UTC 2021-08-16 16:44:42.332 UTC
+3.279194    1:15  8:10.7 2.84730 2.58973 2021-08-16 16:45:12.332 UTC 2021-08-16 16:46:27.386 UTC
+3.461056    1:15  7:44.9 4.87002 2.29046 2021-08-16 16:46:56.332 UTC 2021-08-16 16:48:11.373 UTC
+3.420035  1:15.6  7:50.5 0.32984 4.58531 2021-08-16 16:48:43.651 UTC 2021-08-16 16:49:59.332 UTC
+3.687790    1:15  7:16.3 2.68980 0.06598 2021-08-16 16:50:24.332 UTC 2021-08-16 16:51:39.332 UTC
+3.360752    1:15  7:58.8 0.96636 7.85386 2021-08-16 16:52:10.332 UTC 2021-08-16 16:53:25.332 UTC
+3.271521    1:15  8:11.9 1.08792 3.36287 2021-08-16 16:53:56.391 UTC 2021-08-16 16:55:11.468 UTC
+3.356721    1:15  7:59.4 0.09247 6.22145 2021-08-16 16:55:41.432 UTC 2021-08-16 16:56:56.457 UTC
+Average: 8:06.5
+
+========================================================================
+No pack. Fasted. Not sure why int_ave can only find 10
+intervals. Twelve show up when looking at my tracks on Strava.  I
+thought it might be a matter of my downhill running at the end
+(I ran to Michael Thomas and ran a BQ pace downhill on Alameda)
+confusing it, but clipping out the end didn't help.
+
+I've also tried clipping out the beginning and the end (but not
+uploading it to Strava where I can see it) and I still only got ten
+intervals.  As such, I can't compare it to any other date though
+because it may be clipping out two slow intervals.
+
+Overall I think I improved from last week's horrible intervals.
+
+[master]% time ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2021_08_23_06_40_46_Running.gpx 
+3.270908    1:15  8:12.0 5.94253 0.00000 2021-08-23 13:34:15.144 UTC 2021-08-23 13:35:30.144 UTC
+3.415281    1:15  7:51.2 1.97336 0.00000 2021-08-23 13:36:02.144 UTC 2021-08-23 13:37:17.144 UTC
+3.453083    1:15  7:46.0 1.53826 2.01705 2021-08-23 13:37:45.144 UTC 2021-08-23 13:39:00.147 UTC
+3.647583  1:15.1  7:21.2 0.31000 3.96030 2021-08-23 13:39:35.144 UTC 2021-08-23 13:40:50.249 UTC
+3.836339    1:15  6:59.4 0.00000 5.71572 2021-08-23 13:41:17.144 UTC 2021-08-23 13:42:32.144 UTC
+3.962793    1:15  6:46.1 0.00000 7.86554 2021-08-23 13:43:05.144 UTC 2021-08-23 13:44:20.194 UTC
+3.857396    1:15  6:57.2 0.00000 5.57776 2021-08-23 13:44:48.166 UTC 2021-08-23 13:46:03.201 UTC
+4.473045    1:15  5:59.7 0.00000 10.41385 2021-08-23 13:46:34.144 UTC 2021-08-23 13:47:49.144 UTC
+3.745352    1:15  7:09.6 1.66529 2.27322 2021-08-23 13:48:16.144 UTC 2021-08-23 13:49:31.188 UTC
+3.878479  1:15.1  6:54.9 0.56304 10.16569 2021-08-23 13:50:03.144 UTC 2021-08-23 13:51:18.258 UTC
+Average: 7:11.9
+
+========================================================================
+No pack.  Fasted.  Only 6 intervals because I'm on my taper. Times
+ruined by havng a tree branch knock my sunglasses off my head on the
+second interval.  On the other hand, my 6:46.3 on my first interval is
+easily the fastest I've done that interval in a fasted state, although
+I didn't do an AA lap prior to it and I had twice my normal caffeine.
+
+So, it's hard to be sure where I stand w.r.t. my upcoming BQ marathon,
+but I'm still very optimistic.
+
+
+[master]% time ~/playpens/rust/nom_fun/target/release/int_ave -c 6 ~/Downloads/Move_2021_08_30_06_48_59_Running.gpx 
+3.960069  1:15.1  6:46.3 6.86000 0.00000 2021-08-30 13:04:57.587 UTC 2021-08-30 13:06:12.742 UTC
+2.899582  1:15.1  9:15.0 5.36476 0.00000 2021-08-30 13:06:44.587 UTC 2021-08-30 13:07:59.722 UTC
+3.599436    1:15  7:27.1 5.66212 0.00000 2021-08-30 13:08:29.587 UTC 2021-08-30 13:09:44.587 UTC
+3.828025    1:15  7:00.4 1.34920 1.90885 2021-08-30 13:10:16.587 UTC 2021-08-30 13:11:31.587 UTC
+3.672245    1:15  7:18.2 3.80271 0.17000 2021-08-30 13:12:01.587 UTC 2021-08-30 13:13:16.587 UTC
+3.926693    1:15  6:49.8 0.00000 5.70474 2021-08-30 13:13:47.587 UTC 2021-08-30 13:15:02.587 UTC
+Average: 7:26.4
+
+========================================================================
+No pack.  Fasted.
+
+[master]% time ~/playpens/rust/nom_fun/target/release/int_ave -c 3 ~/Downloads/Move_2021_09_06_07_06_53_Running.gpx 
+3.896547  1:15.3  6:53.0 6.53429 0.00000 2021-09-06 13:19:52.752 UTC 2021-09-06 13:21:08.096 UTC
+3.623700    1:15  7:24.1 6.20811 0.00000 2021-09-06 13:21:38.686 UTC 2021-09-06 13:22:53.721 UTC
+4.585623    1:15  5:50.9 0.00000 11.00199 2021-09-06 13:23:22.686 UTC 2021-09-06 13:24:37.686 UTC
+Average: 6:43.3 (Average: 6:37.8 taking elevation into account)
+
+These are my fastest "-c 3" intervals yet.  OTOH, I don't have many of
+them to compare to.  OTOOH, most of the others were not done when I
+was fasted.  Additionally, my first mile was at an 8:33 pace and my HR
+was probably around 130bpm, so I do think these numbers bode well my
+BQ attempt coming up on Saturday.
+
+========================================================================
+No pack.  Fasted.
+
+Not very fast, but still recovering from Big Cottonwood.
+
+Looks to me better than 2018_09_24 (9/24 in the 2018 section), but that year
+I did Tahoe 200 earlier in the month and didn't do Big Cottonwood.
+
+2019_09_23 was clearly worse, so I think it's likely that I'll run the
+Mt. Taylor 50k faster this year than 2019, but I just don't have enough
+data to speculate on beating my 2018 time.
+
+[bike]% time ~/playpens/rust/nom_fun/target/release/int_ave -c 3 ~/Downloads/Move_2021_09_20_07_12_41_Running.gpx 
+3.698496    1:15  7:15.1 5.65270 0.00000 2021-09-20 13:25:42.209 UTC 2021-09-20 13:26:57.209 UTC
+3.245702    1:15  8:15.8 4.91019 0.00000 2021-09-20 13:27:28.209 UTC 2021-09-20 13:28:43.209 UTC
+4.289140  1:15.5  6:15.2 0.23178 8.65647 2021-09-20 13:29:16.622 UTC 2021-09-20 13:30:32.209 UTC
+Average: 7:16.3
+
+========================================================================
+No pack.  Fasted.  Stopped one of my intervals short due to seeing
+Tobias and David coming the other way.  Looked at my watch and it was
+on the 45, so I slowed down then realized I was supposed to have run
+to the 00.  A bit beaten up from Mt. Taylor 50k on Saturday.
+
+[master]% time ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2021_09_27_06_00_38_Running.gpx 
+3.547088    1:15  7:33.7 4.93480 0.00000 2021-09-27 13:00:37.562 UTC 2021-09-27 13:01:52.562 UTC
+2.694944    1:15  9:57.1 4.61834 0.00000 2021-09-27 13:02:28.562 UTC 2021-09-27 13:03:43.562 UTC
+2.888591    1:15  9:17.1 5.30783 0.00000 2021-09-27 13:04:13.562 UTC 2021-09-27 13:05:28.562 UTC
+3.497001    1:15  7:40.2 2.39765 0.00000 2021-09-27 13:05:54.847 UTC 2021-09-27 13:07:09.877 UTC
+3.534367    1:15  7:35.3 0.52000 1.82000 2021-09-27 13:07:39.562 UTC 2021-09-27 13:08:54.562 UTC
+3.313806    1:15  8:05.6 1.22991 3.20734 2021-09-27 13:09:26.562 UTC 2021-09-27 13:10:41.562 UTC
+3.680899    1:15  7:17.2 0.00000 5.08353 2021-09-27 13:11:12.612 UTC 2021-09-27 13:12:27.627 UTC
+3.716860    1:15  7:12.9 0.00000 5.94569 2021-09-27 13:12:57.658 UTC 2021-09-27 13:14:12.723 UTC
+3.666098    1:15  7:18.9 0.00000 5.34288 2021-09-27 13:14:44.562 UTC 2021-09-27 13:15:59.562 UTC
+3.593615    1:15  7:27.8 0.00000 5.69852 2021-09-27 13:16:35.562 UTC 2021-09-27 13:17:50.562 UTC
+3.486858  1:15.1  7:41.5 0.00000 3.72597 2021-09-27 13:18:11.562 UTC 2021-09-27 13:19:26.699 UTC
+3.282098  1:15.9  8:10.3 0.09735 0.15158 2021-09-27 13:19:57.614 UTC 2021-09-27 13:21:13.562 UTC
+Average: 7:56.6
+
+========================================================================
+No pack.  Fasted.  Not on normal course.  This was started on Wyoming headed
+toward Alameda, then down Alameda.  However, between crossing roads and
+dealing with other issues, I lost track of time here and there and some of
+the intervals have well more than thirty seconds of rest between them.
+
+So, today was fun, but those horrible numbers are a combination of
+tiredness from the weekend antics as well as traffic issues.  I
+suspect I still got *some* benefit from doing them.
+
+[master]% time ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2021_10_04_06_06_30_Running.gpx 
+3.256019    1:15  8:14.2 0.00000 5.28480 2021-10-04 12:14:08.568 UTC 2021-10-04 12:15:23.568 UTC
+3.168226    1:15  8:27.9 0.00000 5.57532 2021-10-04 12:15:56.568 UTC 2021-10-04 12:17:11.568 UTC
+3.067238  1:15.2  8:44.6 0.00000 6.48390 2021-10-04 12:17:11.568 UTC 2021-10-04 12:18:26.860 UTC
+3.026497    1:15  8:51.7 0.37391 0.07028 2021-10-04 12:19:14.568 UTC 2021-10-04 12:20:29.568 UTC
+4.131293    1:16  6:29.5 0.34016 1.56627 2021-10-04 12:21:33.588 UTC 2021-10-04 12:22:49.631 UTC
+4.179422    1:15  6:25.0 0.00000 9.87059 2021-10-04 12:23:17.819 UTC 2021-10-04 12:24:32.901 UTC
+3.735656    1:15  7:10.8 0.00000 7.05795 2021-10-04 12:25:04.568 UTC 2021-10-04 12:26:19.568 UTC
+3.877743    1:15  6:55.0 0.00000 6.41534 2021-10-04 12:27:32.568 UTC 2021-10-04 12:28:47.569 UTC
+3.949806    1:15  6:47.4 0.00000 8.23940 2021-10-04 12:29:23.678 UTC 2021-10-04 12:30:38.694 UTC
+4.034138    1:15  6:38.9 0.00000 3.70258 2021-10-04 12:31:47.568 UTC 2021-10-04 12:33:02.568 UTC
+3.275366    1:15  8:11.3 0.22274 1.62991 2021-10-04 12:33:10.568 UTC 2021-10-04 12:34:25.568 UTC
+3.955199    1:15  6:46.8 0.00000 4.41769 2021-10-04 12:34:47.568 UTC 2021-10-04 12:36:02.568 UTC
+Average: 7:28.8
+
+========================================================================
+No pack. Fasted.  I don't have a lot of -c 3 to compare this to.  It's
+certainly not my fastest, but I did ride (slowly!) the Day of the
+Tread century yesterday and the caffeine I took during the ride and
+the alcohol I consumed after did interfere with my sleep, so I'm
+pretty happy averaging "only" 14.6 secs / mile slower than my fastest.
+
+[master]% time ~/playpens/rust/nom_fun/target/release/int_ave -c 3 ~/Downloads/Move_2021_10_25_07_53_23_Running.gpx 
+3.826885  1:15.1  7:00.5 6.52545 0.00000 2021-10-25 14:07:22.594 UTC 2021-10-25 14:08:37.720 UTC
+3.434525    1:15  7:48.5 6.48442 0.00000 2021-10-25 14:09:08.594 UTC 2021-10-25 14:10:23.594 UTC
+4.424429    1:15  6:03.7 0.00000 10.14323 2021-10-25 14:10:55.610 UTC 2021-10-25 14:12:10.695 UTC
+Average: 6:57.9
+
+========================================================================
+37.7# pack. Fasted. Only downhill and half-hearted. Not even a Monday.
+
+I wasn't planning on doing intervals today, but I did a lot of walking
+so I could chat first with Dave and Tobias and then later with Peggy.
+As such I had a fair amount of oomph in me (considering the fact that
+I had done DPTR106M on Saturday an JJ100M the previous Saturday) and
+figured doing three downhill intervals would at least somewhat remind
+my body of what intervals with a pack are like.
+
+So, I can't compare these numbers to any other set of intervals, but I
+do think they served a useful purpose.
+
+[bike]% ~/playpens/rust/nom_fun/target/release/int_ave -c 3 ~/Downloads/Move_2021_11_10_06_51_55_Running.gpx 
+3.747216    1:15  7:09.4 0.00000 5.29408 2021-11-10 15:17:57.833 UTC 2021-11-10 15:19:12.881 UTC
+3.541727    1:15  7:34.3 0.00000 6.19391 2021-11-10 15:19:42.833 UTC 2021-11-10 15:20:57.833 UTC
+3.515075    1:15  7:37.8 0.00000 6.52261 2021-11-10 15:21:30.833 UTC 2021-11-10 15:22:45.833 UTC
+Average: 7:27.3
+
+========================================================================
+42.2# pack. Fasted. Did two AA laps prior to doing my intervals.  Got
+off to a late start, so it was a bit warm.  I was basically in no
+shape to do intervals of any sort today, but I was too tired yesterday
+to figure out just when to start my BMDM training, then I got up this
+morning and decided doing a crappy job of intervals was better than
+putting off my BMDM start until later.
+
+Pre-intervals I was very slowly running until I came across Dave
+(whose name I just learned today).  I stopped and chatted with him a
+little bit.
+
+I wound up doing 13 intervals because I swung my arms into my ibud
+wire and yanked it out of my iPod on my second (or third) interval.  I
+waited until my 30 second inter-interval slowdown to try to fix it,
+but couldn't get evertying right in 30 seconds, so I started an
+interval late and ...  thought I might have lost count, so after I had
+done what I thought was twelve, I did another.  FWIW, I haven't yet
+counted them on Strava, but my software was able to find thirteen (and
+couldn't find fourteen), so my guess is I did thirteen.
+
+This is the first time I've done a full twelve intervals with my pack
+in a fasted state.  After I was done with my intervals I was cooked,
+but I still walked to the turnaround, did another AA lap and head
+home.  As such I put 15.5 miles on my feet, but very slowly.
+
+I have a ton of room to improve.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave -c 13 ~/Downloads/Move_2021_11_15_06_58_19_Running.gpx 
+2.879186    1:15  9:18.9 0.00000 3.53388 2021-11-15 15:50:20.836 UTC 2021-11-15 15:51:35.836 UTC
+2.760937    1:15  9:42.8 0.00925 1.53608 2021-11-15 15:52:06.836 UTC 2021-11-15 15:53:21.836 UTC
+2.627987    1:15 10:12.3 2.54192 0.00000 2021-11-15 15:53:59.836 UTC 2021-11-15 15:55:14.860 UTC
+2.813035    1:15  9:32.1 0.46014 0.22364 2021-11-15 15:55:37.836 UTC 2021-11-15 15:56:52.838 UTC
+2.664449  1:15.1 10:04.0 0.00000 1.93936 2021-11-15 15:57:23.836 UTC 2021-11-15 15:58:38.966 UTC
+2.548298    1:15 10:31.5 0.30232 5.40472 2021-11-15 15:59:06.836 UTC 2021-11-15 16:00:21.836 UTC
+2.913592  1:15.1  9:12.3 0.00000 17.47169 2021-11-15 16:00:52.836 UTC 2021-11-15 16:02:07.981 UTC
+3.027583    1:15  8:51.5 0.00000 10.65002 2021-11-15 16:02:37.836 UTC 2021-11-15 16:03:52.838 UTC
+3.426671  1:15.1  7:49.6 7.31777 4.94265 2021-11-15 16:04:21.039 UTC 2021-11-15 16:05:36.156 UTC
+3.397515    1:15  7:53.6 0.33959 5.90714 2021-11-15 16:06:05.867 UTC 2021-11-15 16:07:20.940 UTC
+3.192680    1:15  8:24.0 28.36018 4.38301 2021-11-15 16:07:53.843 UTC 2021-11-15 16:09:08.872 UTC
+3.118261    1:15  8:36.1 0.00000 8.55885 2021-11-15 16:09:38.836 UTC 2021-11-15 16:10:53.877 UTC
+3.088343    1:15  8:41.1 0.00000 7.43594 2021-11-15 16:11:22.836 UTC 2021-11-15 16:12:37.903 UTC
+Average: 9:08.8
+
+========================================================================
+42.1# pack. Fasted. Did two AA laps prior to doing my intervals.  Once
+again I got off to a late start, but worse than that, I had 16 oz. of
+water and another double espresso before heading out. That, combined
+with the extra fiber and snacking I did late yesterday afternoon,
+caused mild GI distress which necessitated me having to take a leak
+(to release some of my abdominal pressure) before doing the intervals.
+
+So, although I made progress vs. last week, I think I can still get an
+easy gain the next time I do pack intervals by having all my gear
+weighed and laid out the night before, then having a quad espresso at
+5:15 and no extra water.  OTOH, that won't happen until December 13th
+and by then I should also get gains just from the training I do
+between now and then.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2021_11_22_06_30_25_Running.gpx 
+3.107334    1:15  8:37.9 5.25231 0.00000 2021-11-22 15:10:25.879 UTC 2021-11-22 15:11:40.898 UTC
+2.857708    1:15  9:23.1 4.38812 0.00000 2021-11-22 15:12:10.879 UTC 2021-11-22 15:13:25.879 UTC
+2.685407    1:15  9:59.2 5.90900 0.00000 2021-11-22 15:13:58.879 UTC 2021-11-22 15:15:13.879 UTC
+3.093811  1:15.1  8:40.1 3.05880 0.00000 2021-11-22 15:15:41.879 UTC 2021-11-22 15:16:56.990 UTC
+3.321702  1:15.1  8:04.4 0.27245 2.60161 2021-11-22 15:17:26.119 UTC 2021-11-22 15:18:41.294 UTC
+3.146291    1:15  8:31.5 1.52901 1.37278 2021-11-22 15:19:13.879 UTC 2021-11-22 15:20:28.879 UTC
+3.588740    1:15  7:28.4 0.00000 4.61026 2021-11-22 15:20:57.879 UTC 2021-11-22 15:22:12.879 UTC
+3.569502    1:15  7:30.8 0.88112 1.23897 2021-11-22 15:22:44.879 UTC 2021-11-22 15:23:59.879 UTC
+3.527654    1:15  7:36.2 0.00000 6.55967 2021-11-22 15:24:26.879 UTC 2021-11-22 15:25:41.879 UTC
+3.347946    1:15  8:00.6 0.00000 8.20933 2021-11-22 15:26:12.879 UTC 2021-11-22 15:27:27.891 UTC
+3.337829    1:15  8:02.1 6.00594 0.00000 2021-11-22 15:27:56.879 UTC 2021-11-22 15:29:11.879 UTC
+3.382370    1:15  7:55.8 7.09361 0.00000 2021-11-22 15:29:41.879 UTC 2021-11-22 15:30:56.879 UTC
+Average: 8:19.4
+
+========================================================================
+No pack. Had about 300 calories (leftover from Saturday) in my 20
+oz. water bottle, some of it was caffeinated, so about 100mg caffeine.
+
+Best intervals since June 7th, but I didn't exercise yesterday and it
+was cool today.  The calories and caffeine also contributed to my
+speed, so...  considering my excess weight and how recently I had
+covid, I'm happy with these numbers, but not at all complacent.
+
+[master]% target/release/int_ave ~/Downloads/Move_2021_12_20_07_01_04_Running.gpx 
+3.633504    1:15  7:22.9 6.67540 0.00000 2021-12-20 15:35:03.606 UTC 2021-12-20 15:36:18.606 UTC
+3.327269    1:15  8:03.6 7.03225 0.00000 2021-12-20 15:36:52.606 UTC 2021-12-20 15:38:07.606 UTC
+3.506403  1:15.7  7:38.9 4.78961 0.00000 2021-12-20 15:38:36.823 UTC 2021-12-20 15:39:52.606 UTC
+3.612440    1:15  7:25.5 1.17543 1.92712 2021-12-20 15:40:22.606 UTC 2021-12-20 15:41:37.615 UTC
+3.662639  1:15.1  7:19.3 2.91126 0.00000 2021-12-20 15:42:08.606 UTC 2021-12-20 15:43:23.706 UTC
+4.328789    1:15  6:11.7 0.00000 6.15143 2021-12-20 15:43:53.606 UTC 2021-12-20 15:45:08.606 UTC
+4.079620  1:15.2  6:34.4 0.00000 7.86246 2021-12-20 15:45:37.606 UTC 2021-12-20 15:46:52.829 UTC
+3.990022    1:15  6:43.3 0.00000 6.30527 2021-12-20 15:47:23.606 UTC 2021-12-20 15:48:38.606 UTC
+4.157098    1:15  6:27.1 0.00000 7.96038 2021-12-20 15:49:07.606 UTC 2021-12-20 15:50:22.606 UTC
+3.854818    1:15  6:57.4 0.00000 4.14799 2021-12-20 15:50:52.606 UTC 2021-12-20 15:52:07.606 UTC
+3.758299    1:15  7:08.2 0.21000 0.58490 2021-12-20 15:52:38.606 UTC 2021-12-20 15:53:53.639 UTC
+4.128332    1:15  6:29.8 0.62495 0.25064 2021-12-20 15:54:21.606 UTC 2021-12-20 15:55:36.705 UTC
+Average: 7:02
+
+========================================================================
+No pack. Fasted. Only caffeine was my double espresso at 5:15.
+
+Yesterday was supposed to be intervals with my pack.  I was not
+feeling particularly well yesterday morning even having had a quad
+espresso at 5:15.  However, I got everything ready and then when I was
+adjusting the straps on my Tioga, I noticed that the bottom-most
+connecting bar was broken.  I decided to work on a particular problem
+and then reevaluate my exercise plans after I got it done, however I
+didn't actually wrap it up until lunchtime and by then I had no
+motivation to run.
+
+Today I left with only a single water bottle and was not planning on
+doing intervals.  In fact, I thought I might only do one lap around
+Albuquerque Academy, but as I ran I changed my mind.  I decided to do
+non-pack intervals today and to accept that I wouldn't do particularly
+well.
+
+FWIW, I think I'd have done much better if I hadn't had so much to
+drink on Christmas, but I'm OK with my slower recovery.  I had fun
+with my family, my Zoom friends and on my slightly drunken Christmas
+night run.
+
+[master]% time ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2021_12_28_06_29_14_Running.gpx 
+3.615468    1:15  7:25.1 6.18524 0.00000 2021-12-28 15:08:13.035 UTC 2021-12-28 15:09:28.035 UTC
+3.110604    1:15  8:37.3 5.70364 0.00000 2021-12-28 15:10:02.035 UTC 2021-12-28 15:11:17.035 UTC
+3.328346    1:15  8:03.5 5.43400 0.00000 2021-12-28 15:12:06.035 UTC 2021-12-28 15:13:21.035 UTC
+3.625117    1:15  7:23.9 1.12137 1.34582 2021-12-28 15:13:37.035 UTC 2021-12-28 15:14:52.132 UTC
+3.436957  1:15.2  7:48.2 3.20705 0.00000 2021-12-28 15:15:19.151 UTC 2021-12-28 15:16:34.354 UTC
+3.957828    1:15  6:46.6 0.00000 6.34928 2021-12-28 15:17:05.035 UTC 2021-12-28 15:18:20.035 UTC
+3.896167    1:15  6:53.0 0.00000 7.08948 2021-12-28 15:18:49.035 UTC 2021-12-28 15:20:04.057 UTC
+3.913048    1:15  6:51.2 0.00000 6.60301 2021-12-28 15:20:33.035 UTC 2021-12-28 15:21:48.106 UTC
+4.228420    1:15  6:20.6 0.00000 6.40135 2021-12-28 15:22:20.035 UTC 2021-12-28 15:23:35.035 UTC
+3.506058    1:15  7:39.0 0.00000 2.76744 2021-12-28 15:23:49.035 UTC 2021-12-28 15:25:04.035 UTC
+3.377412  1:15.1  7:56.5 0.29299 1.10284 2021-12-28 15:25:32.035 UTC 2021-12-28 15:26:47.149 UTC
+3.923678    1:15  6:50.1 0.03000 1.52354 2021-12-28 15:27:17.035 UTC 2021-12-28 15:28:32.035 UTC
+Average: 7:23.2

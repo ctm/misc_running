@@ -1,0 +1,892 @@
+ 1/ 7
+
+bash-3.2[master]$ target/release/nom_fun ~/Downloads/Move_2019_01_07_06_52_08_Running.gpx 
+3.842569   50:19  8:01.6 7.22471 0.00000
+3.504275   52:02  8:48.1 6.24940 0.00000
+3.361554   53:51  9:10.5 5.16510 0.00000
+3.537158   55:34  7:58.5 1.62117 0.71299
+3.629252   57:22  8:19.9 3.98097 0.12590
+3.677227   59:06  7:17.6 0.00000 4.91202
+3.989542 1:00:49  6:43.3 0.00000 5.92791
+3.670351 1:02:34  7:18.4 0.00000 7.62619
+3.852998 1:04:20  6:57.6 0.00000 6.86522
+3.759411 1:06:20  7:08.0 0.00000 2.88267
+3.508205 1:08:06  7:38.7 0.00000 1.29304
+3.706030 1:10:20  7:16.3 0.15049 0.66714
+Average: 7:43.2
+
+ 1/14
+
+bash-3.2[master]$ target/release/nom_fun ~/Downloads/Move_2019_01_14_06_50_44_Running.gpx -c 11
+3.847384   50:03  8:01.0 7.16597 0.00000
+3.591990   51:49  8:35.2 6.69935 0.00000
+3.426480   53:35  9:00.1 6.20122 0.00000
+3.564548   55:19  7:55.3 1.64951 0.25556
+3.547967   57:08  8:20.0 3.19751 0.32069
+3.633839   58:50  7:22.8 0.00000 4.72458
+3.860129 1:00:34  6:56.9 0.00000 6.37543
+3.741073 1:02:27  7:10.1 0.00000 5.88136
+3.836860 1:04:04  6:59.4 0.00000 6.42183
+3.579605 1:05:49  7:29.5 0.00000 4.80673
+3.520365 1:07:34  7:39.2 0.14587 2.14642
+Average: 7:46.3
+
+ 1/21
+
+bash-3.2[master]$ target/release/nom_fun ~/Downloads/Move_2019_01_21_06_50_27_Running.gpx 
+3.772677   50:03  8:10.5 6.49680 0.00000
+3.564193   51:48  8:37.2 4.54806 0.00000
+3.410295   53:37  9:02.6 5.56531 0.00000
+3.611770   55:19  7:59.4 2.37611 0.00000
+3.620881   57:05  8:07.9 3.06158 0.71974
+3.587852   58:34  7:37.6 0.63580 3.93930
+3.831302 1:00:20  7:00.0 0.00000 6.13289
+3.785262 1:02:03  7:05.1 0.00000 6.20807
+3.756723 1:03:49  7:08.3 0.00000 6.88753
+3.722421 1:05:32  7:12.3 0.00000 5.09435
+3.673536 1:07:19  7:27.5 0.67368 1.34059
+3.586482 1:09:02  7:30.0 0.08943 1.62866
+Average: 7:44.9
+
+ 1/28
+
+bash-3.2[master]$ target/release/nom_fun ~/Downloads/Move_2019_01_28_06_33_38_Running.gpx 
+3.724073   50:04  8:16.9 7.19063 0.00000
+3.408287   51:48  9:01.0 4.55911 0.00000
+3.222502   53:35  9:34.3 6.42989 0.00000
+3.521598   55:19  8:18.5 2.84525 0.00000
+3.396211   57:04  8:07.3 0.88848 2.70213
+3.709275   58:49  7:26.4 0.90345 3.00550
+3.715109 1:00:34  7:13.1 0.00000 6.50813
+3.208015 1:01:54  8:21.6 0.00000 6.16800
+3.734329 1:03:33  7:10.9 0.00000 5.58853
+3.763459 1:05:19  7:07.6 0.00000 6.59453
+3.506218 1:07:03  7:38.9 0.00000 3.87648
+3.409255 1:08:48  7:52.0 0.00000 1.09110
+Average: 8:00.7
+
+ 2/ 4
+
+bash-3.2[master]$ target/release/nom_fun ~/Downloads/Move_2019_02_04_06_28_56_Running.gpx -c 11
+3.729611   50:33  8:16.2 6.90012 0.00000
+3.418497   52:19  9:01.3 5.34310 0.00000
+3.259281   54:04  9:27.8 6.19034 0.00000
+3.364313   55:52  8:35.7 2.44115 0.20182
+3.508211   57:38  8:07.5 1.96217 1.12705
+3.651996   59:20  7:20.6 0.00000 3.18544
+3.784107 1:01:03  7:05.9 0.04905 6.07715
+3.775057 1:02:53  7:06.3 0.00000 9.13256
+3.689506 1:04:35  7:16.1 0.00000 4.98580
+3.635285 1:06:19  7:22.7 0.00000 4.36670
+3.561074 1:08:02  7:32.2 0.02000 2.56647
+Average: 7:55.7
+
+ 2/11
+
+bash-3.2[master]$ target/release/nom_fun ~/Downloads/Move_2019_02_11_06_54_50_Running.gpx -c 7
+3.913406   14:47  7:52.9 6.18534 0.00000
+3.529549   16:32  8:44.3 5.11915 0.00000
+3.486575   18:18  8:50.8 5.08011 0.00000
+3.247196   20:10  8:43.0 1.73312 0.15505
+3.478913   21:49  8:12.9 2.04787 0.84277
+3.683323   23:33  7:16.9 0.00000 4.12437
+3.734336   25:18  7:10.9 0.00000 5.76660
+Average: 8:07.4
+
+bash-3.2[master]$ time target/release/nom_fun -c 6 ~/Downloads/Move_2019_02_18_06_52_54_Running.gpx 
+3.919461    1:15  7:52.1 7.75058 0.00000
+3.570398    1:15  8:38.3 5.18167 0.00000
+3.306427    1:15  9:19.7 6.04674 0.00000
+3.319746    1:15  8:41.0 2.34098 0.00000
+3.385876    1:15  8:06.9 0.76436 2.15651
+3.625793    1:15  7:29.3 0.38462 3.96713
+Average: 8:21.2
+
+bash-3.2[master]$ time target/release/nom_fun ~/Downloads/Move_2019_02_25_07_00_46_Running.gpx 
+3.900909    1:15  7:54.4 6.72303 0.00000
+3.532259    1:15  8:43.9 5.85088 0.00000
+3.494405    1:15  8:49.6 5.80228 0.00000
+3.509414    1:15  8:15.1 2.49596 0.00000
+3.676579    1:15  8:16.2 4.17541 0.40505
+3.449724    1:15  7:46.5 0.00000 4.04581
+3.664924    1:15  7:19.1 0.00000 6.41155
+3.728939    1:15  7:11.5 0.00000 6.70674
+3.558884    1:15  7:32.2 0.00000 7.41198
+3.542010    1:15  7:34.3 0.00000 3.33293
+3.543647    1:15  7:39.0 0.33977 2.28662
+3.398837    1:15  7:53.4 0.00000 1.29584
+Average: 7:54.6
+
+bash-3.2[master]$ time target/release/nom_fun -c 6 ~/Downloads/Move_2019_03_04_07_00_02_Running.gpx 
+4.026207    1:15  7:39.6 6.78364 0.00000
+3.514015    1:15  8:46.6 5.25806 0.00000
+3.295778    1:15  9:09.8 3.93755 0.00000
+3.234761    1:15  8:41.8 1.53149 0.44063
+3.467222    1:15  7:56.5 0.83744 2.04507
+3.761973    1:15  7:12.7 0.35937 3.92822
+Average: 8:14.5 (NOTE: Average: 8:09.1 when elevation is taken into account)
+
+========================================================================
+With 40# pack
+
+bash-3.2[master]$ time target/release/nom_fun -c 3 ~/Downloads/Move_2019_03_11_07_01_58_Running.gpx 
+4.106348    1:15  7:30.7 5.62751 0.00000
+3.522309    1:15  8:43.7 4.57222 0.00000
+3.778439    1:15  7:05.9 0.00000 8.93982
+Average: 7:46.7 (7:48.3 taking elevation into account)
+
+------------------------------------------------------------------------
+
+Post BMDM, I've been doing intervals (when I've done them at all) without a
+pack.
+
+bash-3.2[master]$ time target/release/nom_fun -c 3 ~/Downloads/Move_2019_04_08_07_37_02_Running.gpx 
+4.669459    1:15  6:36.3 6.22496 0.00000
+3.912589    1:15  7:53.0 6.94419 0.00000
+4.244742    1:15  6:19.1 0.00000 8.67699
+Average: 6:56.1
+
+------------------------------------------------------------------------
+
+Without pack, but after 3 AA laps
+bash-3.2[master]$ time target/release/nom_fun ~/Downloads/Move_2019_05_01_06_14_47_Running.gpx 
+3.693590    1:15  7:27.5 0.84793 1.14640
+3.444603    1:15  8:13.0 1.73008 0.05067
+3.342341    1:15  8:14.1 0.82100 0.09977
+3.583380    1:15  7:30.6 0.10680 3.71916
+3.606813    1:15  7:47.7 1.50804 0.88044
+3.944849    1:15  6:47.9 0.00000 9.12866
+3.819953    1:15  7:01.2 0.00000 9.14129
+3.957862    1:15  6:46.6 0.00000 9.56483
+4.056223    1:15  6:36.7 0.00000 9.09369
+3.562954    1:15  7:31.6 0.00000 6.54701
+3.562785    1:15  7:31.7 0.00000 1.90834
+3.656039    1:15  7:20.1 0.00000 2.78366
+Average: 7:24.1
+
+------------------------------------------------------------------------
+
+Without pack, but after a morning where I ran 1 AA lap then back to
+the house to poop, then came back and ran an AA lap and an extra mile
+before running the intervals.  All told I wound up doing 15.42 miles
+(close to my new normal 15.50 Monday miles), with the intervals as the
+first part of my final AA lap.  My GI distress was due to a
+combination of me doing a low fiber Saturday in preparation for Run
+for the Zoo on Sunday as well as celebratory eating and drinking after
+RFTZ.
+
+The funny thing is that @ RFTZ, my average pace was 7:25 according to
+my Ambit 3 (and 7:27 according to the chip timing), which basically
+shows that by doing my intervals when I'm doing them (i.e., as my
+fourth and final AA lap), I'm probably not getting anywhere near as
+fast as I would if I were doing them after a brief warm-up on a day
+after a rest day.  OTOH, I don't think faster intervals are as
+important as high volume for HR, but I do think the intervals help.
+
+bash-3.2[master]$ time target/release/nom_fun ~/Downloads/Move_2019_05_06_07_32_43_Running.gpx 
+4.042513    1:15  7:37.0 4.62849 7.08971
+3.872775    1:15  7:57.8 4.83961 1.76892
+3.796524    1:15  8:07.4 9.43786 0.00000
+4.010310    1:15  7:13.2 2.48717 1.38393
+3.921758    1:15  7:44.4 4.12197 3.34563
+4.558795    1:15  6:45.9 7.57914 1.49626
+4.648446    1:15  6:38.1 10.21697 7.15989
+4.044672    1:15  6:37.8 0.00000 6.45882
+4.068284    1:15  6:35.5 0.00000 8.71198
+3.796476    1:15  7:03.9 0.00000 5.76247
+3.716603    1:15  7:13.0 0.00000 4.96672
+3.813832    1:15  7:01.9 0.00000 2.48759
+Average: 7:13
+
+------------------------------------------------------------------------
+
+Without pack, and only the second time I've done my intervals at the
+end of a 15.5 mile run, even though that has been my *intent* for the
+last few weeks (pooping has gotten in the way).  Today was my fastest
+15.5 miles @ *approximately* 130bpm so far.  The whole thing averaged
+9:21 min/mi, 132bpm.
+
+So, although I only improved by .7 seconds a mile, my legs had more
+immediate mileage on them before starting the intervals than ever
+before.  I also wound up starting *right* on the road into the east
+entrance to AA (i.e. I started as far west as I ever do, which meant
+slightly more uphill).  OTOH, compared to last week it was cooler
+simply because I got to the intervals earlier in the day.  It was not,
+however, particularly cool.
+
+bash-3.2[master]$ time target/release/nom_fun ~/Downloads/Move_2019_05_13_06_38_30_Running.gpx 
+4.139754    1:15  7:27.0 6.24929 0.00000
+3.676517    1:15  8:23.3 6.02581 0.00000
+3.944487    1:15  7:49.1 5.22463 0.00000
+3.984125    1:15  6:51.8 0.61210 1.07275
+3.849118    1:15  7:33.2 2.62513 0.19257
+4.099446    1:15  6:32.5 0.00000 6.87779
+3.961541    1:15  6:46.2 0.00000 7.85858
+3.943988    1:15  6:48.0 0.00000 6.83347
+3.889279    1:15  6:53.7 0.00000 5.28058
+3.743825    1:15  7:09.8 0.00000 2.95138
+3.847131    1:15  7:01.6 0.24745 1.50261
+3.749711    1:15  7:11.2 0.15310 0.66086
+Average: 7:12.3
+
+------------------------------------------------------------------------
+
+Kind of hard to interpret today's intervals, because I doubled up on
+the caffeine and didn't have breakfast.  I chose to do it that way
+because I ate weird yesterday due to the Santa Fe Century and ate
+weird the day before due to the SAR mission and ate weird the day
+before that due to ESCAPE.  This morning I was really afraid I
+wouldn't be able to do my entire run w/o having to return for a potty
+break, but I figured if I skipped breakfast, and then had a second
+dose of caffeine and waited around, I might be able to get through it,
+and I did.
+
+The weather was slightly (1.5F on average) cooler than last week, but
+there was more humidity in the air.  I think the extra humidity was
+cooling, but it's hard for me to say.  Normally my "big" weekend
+effort is on a Saturday and I relax by riding my bike on Sunday.  This
+past weekend, my "big" effort *was* a bike ride and it was on Sunday,
+so my legs didn't have the extra day to recover, but I did not ride my
+bike anywhere nearly as hard as most of my big Saturday efforts.
+
+My second hand hit a fifteen second start a little later than last
+week, so I started slightly further uphill.  I haven't previously
+tried to analyze how much of a difference that makes, but when I took
+a poke just now it appears that the logging granularity is too course
+for me to get a feel for how much time or distance elapsed.
+
+Oh, and I didn't sleep particularly well last night due to the
+caffeine and perhaps even a little due to the jalapenos I ate as part
+of my post-ride meal @ SFC.
+
+bash-3.2[insanity]$ time target/release/nom_fun ~/Downloads/Move_2019_05_20_06_47_14_Running.gpx 
+4.153415    1:15  7:25.5 5.79172 0.00000
+3.885403    1:15  7:56.3 6.05697 0.00000
+3.866104    1:15  7:58.7 5.93715 0.00000
+3.838089    1:15  7:12.9 1.01697 1.76111
+4.059117    1:15  7:21.8 3.57462 0.70002
+4.140231    1:15  6:28.7 0.00000 6.37098
+4.139491    1:15  6:28.7 0.00000 7.68919
+4.030799    1:15  6:39.2 0.00000 6.32725
+4.198348    1:15  6:23.3 0.00000 5.50989
+3.871034    1:15  6:56.4 0.05155 1.87562
+3.904806    1:15  6:56.2 0.31250 1.05167
+3.904246    1:15  6:52.2 0.00000 0.63144
+Average: 7:03.3
+
+------------------------------------------------------------------------
+
+These were done on a Friday, because I didn't run on Monday due to
+still being tired from JMTR50M.  I didn't do intervals on Wednesday,
+because I chose to do a speed 5k pack run in preparation for the
+Believe in Heroes ruck 5k, but I used my Trekker and wasn't really
+able to run as fast as I should have due to bad resonance.  So, my
+compromise was to do 12 intervals on Friday (the day before BiH5k),
+but in the middle of a 5.6 mile (i.e., from home, to AA, one lap
+around AA and back) 35# pack run, using George's pack, which I also
+borrowed for BiH.
+
+bash-3.2[insanity]$ time target/release/nom_fun ~/Downloads/Move_2019_05_31_07_08_34_Running.gpx 
+3.665582    1:15  8:24.8 6.03859 0.00000
+3.324680    1:15  9:16.6 4.72503 0.00000
+3.219776    1:15  9:34.8 5.72082 0.00000
+3.360789    1:15  8:46.9 3.14005 0.00000
+3.590151    1:15  8:00.5 2.25277 1.23837
+3.531540    1:15  7:43.5 0.54096 3.32442
+3.754586    1:15  7:08.6 0.00000 6.85491
+3.670872    1:15  7:18.4 0.00000 7.96987
+3.584665    1:15  7:28.9 0.00000 5.84621
+3.457944    1:15  7:46.1 0.05166 3.75045
+3.512453    1:15  7:38.1 0.00000 2.09945
+3.660081    1:15  7:19.7 0.00000 1.24827
+Average: 8:02.2
+
+------------------------------------------------------------------------
+
+Forgot to have breakfast, even though that was my tentative plan for
+today.  Chose to take a double espresso to have after my second AA
+loop, so it would have about a half hour to kick in before I started
+my intervals.  A guy driving out of AA didn't immediately stop at the
+stop sign even though I was running right toward him.  He saw me and
+suddenly slammed on his brakes (and luckily didn't get rear-ended; my
+guess is the person behind him saw me), but that prevented me from
+starting my interval when/where I had planned, so I waited for the
+next increment of 15 seconds to hit before I started.
+
+Today was *hot* (74.5F when I finally got home).  I had to ration my
+chia-seed water.  I think skipping breakfast probably held me back,
+especially since I went down 1.7 pounds from yesterday morning to this
+morning in part due to my messed up eating schedule due to me
+misremembering when the Team RWB Leadership meeting was being held.
+
+I expected to make gains, considering I didn't really do much over the
+weekend (although I do admit that BiH was intense, even though brief),
+but today was the first Monday where it started out warm and sunny and
+just got warmer.  When doing 11.5 miles before my first interval, heat
+is probably a big factor.  My guess is my body got some good stress
+though and will make some useful adaptations.
+
+bash-3.2[insanity]$ time target/release/nom_fun ~/Downloads/Move_2019_06_03_06_15_07_Running.gpx 
+3.732994    1:15  7:11.1 0.00000 8.00817
+3.395745    1:15  7:54.0 0.00910 4.61095
+3.908926    1:15  7:53.4 13.92317 0.00000
+4.352446    1:15  7:05.0 4.67212 0.31184
+3.594901    1:15  7:28.6 0.06899 2.23936
+4.582917    1:15  6:43.8 10.89453 0.64712
+4.619081    1:15  6:40.6 13.42821 0.00000
+4.341401    1:15  6:45.2 2.91342 0.32743
+4.538830    1:15  6:47.6 4.68076 1.87757
+4.309218    1:15  6:59.6 3.86393 1.49540
+4.035301    1:15  7:10.7 2.50019 3.34655
+3.978823    1:15  7:26.6 3.26010 1.77963
+Average: 7:10.5
+
+------------------------------------------------------------------------
+
+Big change this week.  Did intervals before any laps around AA, then
+chose not to do any more laps around AA.  W/o Hardrock looming, I'm
+de-emphasizing mileage and trying to up speed and heat tolerance.
+
+I accidentally ran my 8th interval for only 60 seconds, so the 6:55.3
+is much slower because it includes fifteen seconds of rest.  It was a
+downhill interval, so it should have been closer to 6:25.  However,
+that means that my intervals after that were all done in a slightly
+less taxed state, so I can't just subtract 2.5 seconds (30 seconds /
+12 intervals) off my overall average.
+
+FWIW, when I run my interval averaging app against my July 2nd, 2018
+GPX file I get "Average: 7:06.7", which is more than a couple seconds
+per mile slower than what I hand calculated last year (7:04) and gives
+me a three second per mile improvement over last year.  However, there
+were four notable differences between last year's run and today's:
+
+  1) I had run a lap around AA last year before I did my intervals
+  2) It was slightly cooler last year
+  3) I only had one hand-held last year
+  4) The day before I did a two hour leisurely bike ride, rather than
+     a relatively tough one hour ruck run.
+
+Bottom line is I don't think today's interval training shows that I'm
+significantly more or less fit than I was one year ago.
+
+bash-3.2[master]$ time target/release/int_ave ~/Downloads/Move_2019_07_01_07_22_18_Running.gpx 
+4.302781    1:15  7:10.1 7.50671 0.00000
+4.040238    1:15  7:38.0 6.95619 0.00000
+3.955644    1:15  7:41.8 4.22766 0.00000
+3.931500    1:15  6:57.5 0.62904 1.63790
+3.986083    1:15  7:16.3 2.52770 1.51635
+4.272430    1:15  6:16.6 0.00000 7.08542
+4.114844    1:15  6:31.1 0.00000 7.16031
+3.874495    1:15  6:55.3 0.00000 6.29005
+3.930328    1:15  6:49.4 0.00000 4.43931
+3.729495    1:15  7:13.4 0.13911 0.38466
+4.352148    1:15  7:05.2 7.01230 5.90101
+4.114592    1:15  7:08.5 2.98731 4.36862
+Average: 7:03.6
+
+========================================================================
+
+Today's interval training started after one AA lap. I didn't have any
+non-caffeine calories before or during, and it was muggy, although a
+fairly consistent 75F.
+
+I'm in a rush, so this is the output from int_ave as I left it last time
+I was experimenting with it.  The fudges that I've removed don't change
+the paces, but they can change which 75-second spans were chosen as
+intervals.
+
+TODO: use fantoccini to scrape all the dates that I mention in this file
+and then run a "good" version of int_ave over all of them.
+
+
+bash-3.2[remove_gain_and_loss_fudge]$ cargo run --bin int_ave ~/Desktop/Move_2019_07_29_06_25_30_Running.gpx 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.04s
+     Running `target/debug/int_ave /Users/ctm/Desktop/Move_2019_07_29_06_25_30_Running.gpx`
+3.681996    1:15  7:17.0 6.41271 0.00000 2019-07-29 13:17:18 UTC 2019-07-29 13:18:33 UTC
+3.389719    1:15  7:54.7 5.59480 0.00000 2019-07-29 13:19:03 UTC 2019-07-29 13:20:18 UTC
+3.390903    1:15  7:54.6 4.95757 0.00000 2019-07-29 13:20:49 UTC 2019-07-29 13:22:04 UTC
+3.775228    1:15  7:06.2 0.90298 2.11463 2019-07-29 13:22:34 UTC 2019-07-29 13:23:49 UTC
+3.562422    1:15  7:31.7 3.27244 0.58008 2019-07-29 13:24:20 UTC 2019-07-29 13:25:35 UTC
+3.900504    1:15  6:52.5 0.00000 6.11971 2019-07-29 13:26:06 UTC 2019-07-29 13:27:21 UTC
+3.865276    1:15  6:56.3 0.00000 5.95446 2019-07-29 13:27:49 UTC 2019-07-29 13:29:04 UTC
+3.964508    1:15  6:45.9 0.36889 3.59986 2019-07-29 13:29:33 UTC 2019-07-29 13:30:48 UTC
+3.748719    1:15  7:09.3 0.93370 7.66618 2019-07-29 13:31:22 UTC 2019-07-29 13:32:37 UTC
+3.533832    1:15  7:35.4 1.37916 3.63330 2019-07-29 13:33:02 UTC 2019-07-29 13:34:17 UTC
+3.696478    1:15  7:15.3 3.68687 2.90144 2019-07-29 13:34:50 UTC 2019-07-29 13:36:05 UTC
+3.666422    1:15  7:18.9 0.67780 6.20652 2019-07-29 13:36:35 UTC 2019-07-29 13:37:50 UTC
+Average: 7:18.2
+
+========================================================================
+
+Ugh.  Worst intervals in a long time.  I hope that's due to me doing them in
+a fasted state, but still these stats are horrible.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Desktop/Move_2019_08_19_06_19_50_Running.gpx 
+3.511002    1:15  7:38.3 5.67416 0.00000 2019-08-19 13:10:52 UTC 2019-08-19 13:12:07 UTC
+3.156815    1:15  8:29.7 5.08746 0.00000 2019-08-19 13:12:37 UTC 2019-08-19 13:13:52 UTC
+3.061163    1:15  8:45.7 4.41402 0.00000 2019-08-19 13:14:27 UTC 2019-08-19 13:15:42 UTC
+3.302602    1:15  8:07.2 1.25099 0.14064 2019-08-19 13:16:14 UTC 2019-08-19 13:17:29 UTC
+3.423273    1:15  7:50.1 4.01372 1.13665 2019-08-19 13:17:55 UTC 2019-08-19 13:19:10 UTC
+4.009154    1:15  6:41.4 0.00000 6.11940 2019-08-19 13:19:41 UTC 2019-08-19 13:20:56 UTC
+3.833317    1:15  6:59.8 0.00000 6.39736 2019-08-19 13:21:24 UTC 2019-08-19 13:22:39 UTC
+3.755668    1:15  7:08.5 0.00000 6.81542 2019-08-19 13:23:08 UTC 2019-08-19 13:24:23 UTC
+3.555642    1:15  7:32.6 0.00000 6.77742 2019-08-19 13:24:59 UTC 2019-08-19 13:26:14 UTC
+3.360609    1:15  7:58.8 0.00000 3.83653 2019-08-19 13:26:39 UTC 2019-08-19 13:27:54 UTC
+3.489615    1:15  7:41.1 0.00000 1.54647 2019-08-19 13:28:24 UTC 2019-08-19 13:29:39 UTC
+3.423080    1:15  7:50.1 0.00000 2.01599 2019-08-19 13:30:07 UTC 2019-08-19 13:31:22 UTC
+Average: 7:43.6
+
+========================================================================
+
+Decided to do intervals on a Wednesday, two days after previous
+intervals.  I'm going to try this next week, too.  I would normally be
+doing pack runs on Wednesday but I haven't even sent my Rucker 20L
+back yet, and I'm still recovering (I think) from some hip issues.
+Anyway, today was a small step up from two days ago, which is pretty
+good since I didn't sleep well last night (repeated SAR calls, but I
+can't attend the mission due to my truck being in the shop) and my
+late start and the consequent heat.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Desktop/Move_2019_08_21_07_25_07_Running.gpx 
+3.764393    1:15  7:07.5 1.17917 6.85643 2019-08-21 14:17:08 UTC 2019-08-21 14:18:23 UTC
+3.279264    1:15  8:10.7 0.39850 4.63075 2019-08-21 14:18:54 UTC 2019-08-21 14:20:09 UTC
+3.178165    1:15  8:26.3 6.48833 0.10995 2019-08-21 14:20:43 UTC 2019-08-21 14:21:58 UTC
+3.697692    1:15  7:15.2 0.15845 1.69310 2019-08-21 14:22:27 UTC 2019-08-21 14:23:42 UTC
+3.407902    1:15  7:52.2 0.00000 12.13788 2019-08-21 14:24:13 UTC 2019-08-21 14:25:28 UTC
+4.035272    1:15  6:38.8 7.03557 0.91114 2019-08-21 14:25:56 UTC 2019-08-21 14:27:11 UTC
+3.839740    1:15  6:59.1 8.77870 0.96412 2019-08-21 14:27:42 UTC 2019-08-21 14:28:57 UTC
+3.460511    1:15  7:45.0 8.00687 2.42580 2019-08-21 14:29:30 UTC 2019-08-21 14:30:45 UTC
+3.808518    1:15  7:02.5 6.53458 3.08905 2019-08-21 14:31:12 UTC 2019-08-21 14:32:27 UTC
+3.447385    1:15  7:46.8 10.74145 0.00000 2019-08-21 14:32:56 UTC 2019-08-21 14:34:11 UTC
+3.339992    1:15  8:01.8 7.99704 0.13011 2019-08-21 14:34:43 UTC 2019-08-21 14:35:58 UTC
+3.480337    1:15  7:42.4 6.24665 0.00000 2019-08-21 14:36:23 UTC 2019-08-21 14:37:38 UTC
+Average: 7:34
+
+========================================================================
+
+Ugh.  A firmware update has my QNap sidelined.  For whatever reason, I
+hadn't pushed Monday_Intervals in a while, so I don't have my notes
+for the various dates I ran them. 
+
+bash-3.2[remove_gain_and_loss_fudge]$ for f in ~/Desktop/Move_2019_0*.gpx; do echo $f; target/release/int_ave $f; done
+/Users/ctm/Desktop/Move_2019_07_29_06_25_30_Running.gpx
+3.681996    1:15  7:17.0 6.41271 0.00000 2019-07-29 13:17:18 UTC 2019-07-29 13:18:33 UTC
+3.389719    1:15  7:54.7 5.59480 0.00000 2019-07-29 13:19:03 UTC 2019-07-29 13:20:18 UTC
+3.390903    1:15  7:54.6 4.95757 0.00000 2019-07-29 13:20:49 UTC 2019-07-29 13:22:04 UTC
+3.775228    1:15  7:06.2 0.90298 2.11463 2019-07-29 13:22:34 UTC 2019-07-29 13:23:49 UTC
+3.562422    1:15  7:31.7 3.27244 0.58008 2019-07-29 13:24:20 UTC 2019-07-29 13:25:35 UTC
+3.900504    1:15  6:52.5 0.00000 6.11971 2019-07-29 13:26:06 UTC 2019-07-29 13:27:21 UTC
+3.865276    1:15  6:56.3 0.00000 5.95446 2019-07-29 13:27:49 UTC 2019-07-29 13:29:04 UTC
+3.964508    1:15  6:45.9 0.36889 3.59986 2019-07-29 13:29:33 UTC 2019-07-29 13:30:48 UTC
+3.748719    1:15  7:09.3 0.93370 7.66618 2019-07-29 13:31:22 UTC 2019-07-29 13:32:37 UTC
+3.533832    1:15  7:35.4 1.37916 3.63330 2019-07-29 13:33:02 UTC 2019-07-29 13:34:17 UTC
+3.696478    1:15  7:15.3 3.68687 2.90144 2019-07-29 13:34:50 UTC 2019-07-29 13:36:05 UTC
+3.666422    1:15  7:18.9 0.67780 6.20652 2019-07-29 13:36:35 UTC 2019-07-29 13:37:50 UTC
+Average: 7:18.2
+/Users/ctm/Desktop/Move_2019_08_19_06_19_50_Running.gpx
+3.511002    1:15  7:38.3 5.67416 0.00000 2019-08-19 13:10:52 UTC 2019-08-19 13:12:07 UTC
+3.156815    1:15  8:29.7 5.08746 0.00000 2019-08-19 13:12:37 UTC 2019-08-19 13:13:52 UTC
+3.061163    1:15  8:45.7 4.41402 0.00000 2019-08-19 13:14:27 UTC 2019-08-19 13:15:42 UTC
+3.302602    1:15  8:07.2 1.25099 0.14064 2019-08-19 13:16:14 UTC 2019-08-19 13:17:29 UTC
+3.423273    1:15  7:50.1 4.01372 1.13665 2019-08-19 13:17:55 UTC 2019-08-19 13:19:10 UTC
+4.009154    1:15  6:41.4 0.00000 6.11940 2019-08-19 13:19:41 UTC 2019-08-19 13:20:56 UTC
+3.833317    1:15  6:59.8 0.00000 6.39736 2019-08-19 13:21:24 UTC 2019-08-19 13:22:39 UTC
+3.755668    1:15  7:08.5 0.00000 6.81542 2019-08-19 13:23:08 UTC 2019-08-19 13:24:23 UTC
+3.555642    1:15  7:32.6 0.00000 6.77742 2019-08-19 13:24:59 UTC 2019-08-19 13:26:14 UTC
+3.360609    1:15  7:58.8 0.00000 3.83653 2019-08-19 13:26:39 UTC 2019-08-19 13:27:54 UTC
+3.489615    1:15  7:41.1 0.00000 1.54647 2019-08-19 13:28:24 UTC 2019-08-19 13:29:39 UTC
+3.423080    1:15  7:50.1 0.00000 2.01599 2019-08-19 13:30:07 UTC 2019-08-19 13:31:22 UTC
+Average: 7:43.6
+/Users/ctm/Desktop/Move_2019_08_21_07_25_07_Running.gpx
+3.764393    1:15  7:07.5 1.17917 6.85643 2019-08-21 14:17:08 UTC 2019-08-21 14:18:23 UTC
+3.279264    1:15  8:10.7 0.39850 4.63075 2019-08-21 14:18:54 UTC 2019-08-21 14:20:09 UTC
+3.178165    1:15  8:26.3 6.48833 0.10995 2019-08-21 14:20:43 UTC 2019-08-21 14:21:58 UTC
+3.697692    1:15  7:15.2 0.15845 1.69310 2019-08-21 14:22:27 UTC 2019-08-21 14:23:42 UTC
+3.407902    1:15  7:52.2 0.00000 12.13788 2019-08-21 14:24:13 UTC 2019-08-21 14:25:28 UTC
+4.035272    1:15  6:38.8 7.03557 0.91114 2019-08-21 14:25:56 UTC 2019-08-21 14:27:11 UTC
+3.839740    1:15  6:59.1 8.77870 0.96412 2019-08-21 14:27:42 UTC 2019-08-21 14:28:57 UTC
+3.460511    1:15  7:45.0 8.00687 2.42580 2019-08-21 14:29:30 UTC 2019-08-21 14:30:45 UTC
+3.808518    1:15  7:02.5 6.53458 3.08905 2019-08-21 14:31:12 UTC 2019-08-21 14:32:27 UTC
+3.447385    1:15  7:46.8 10.74145 0.00000 2019-08-21 14:32:56 UTC 2019-08-21 14:34:11 UTC
+3.339992    1:15  8:01.8 7.99704 0.13011 2019-08-21 14:34:43 UTC 2019-08-21 14:35:58 UTC
+3.480337    1:15  7:42.4 6.24665 0.00000 2019-08-21 14:36:23 UTC 2019-08-21 14:37:38 UTC
+Average: 7:34
+/Users/ctm/Desktop/Move_2019_09_23_05_57_34_Running.gpx
+3.409647    1:15  7:51.9 6.05587 0.00000 2019-09-23 12:53:36 UTC 2019-09-23 12:54:51 UTC
+2.770846    1:15  9:40.8 4.65255 0.00000 2019-09-23 12:55:23 UTC 2019-09-23 12:56:38 UTC
+2.812384    1:15  9:32.2 5.38512 0.00000 2019-09-23 12:57:11 UTC 2019-09-23 12:58:26 UTC
+3.003667    1:15  8:55.7 1.57049 0.00000 2019-09-23 12:58:54 UTC 2019-09-23 13:00:09 UTC
+3.241495    1:15  8:16.4 0.66016 2.95544 2019-09-23 13:00:35 UTC 2019-09-23 13:01:50 UTC
+3.826881    1:15  7:00.5 0.67795 3.21000 2019-09-23 13:02:23 UTC 2019-09-23 13:03:38 UTC
+3.827651    1:15  7:00.4 0.00000 6.15000 2019-09-23 13:04:07 UTC 2019-09-23 13:05:22 UTC
+3.578495    1:16  7:29.7 0.00000 6.59619 2019-09-23 13:05:54 UTC 2019-09-23 13:07:10 UTC
+3.348920    1:15  8:00.5 0.00000 5.29920 2019-09-23 13:07:41 UTC 2019-09-23 13:08:56 UTC
+3.508670    1:15  7:38.6 0.00000 5.65260 2019-09-23 13:09:23 UTC 2019-09-23 13:10:38 UTC
+3.229177    1:15  8:18.3 0.00000 2.56919 2019-09-23 13:11:09 UTC 2019-09-23 13:12:24 UTC
+3.277727    1:15  8:10.9 0.00000 0.76016 2019-09-23 13:12:54 UTC 2019-09-23 13:14:09 UTC
+Average: 8:09.6
+
+
+My training since the beginning of June has been pretty poor.  I know
+I've been embarrassed by my injuries and performance, *but* I did
+manage to BQ @ Cottonwood. Furthermore, this many days after BQ'ing @
+Tucson in December 2017, I had a bunch of junk in my lungs from either
+a bad cold or the flu.  So in one respect I'm doing much better than
+last time.
+
+My interval stats two days ago were absolutely horrible, although
+IIRC, I started off on the wrong foot (so to speak) by running my
+first interval longer than 75 seconds and then simply shortening my 30
+second rest.  So, it's nice to see significant improvement two days
+later, but 7:42 is still pretty bad.  Last year, the Monday before
+Mt. Taylor 50k, I was at 7:11, and I ran the entire 13.1 mile training
+run at a 9:45 min/mile pace @ 130bpm.  Today, the 13.1 was 11:16
+min/mile @ 130bpm.
+
+I don't think I'm fit enough to want to enlist a pacer or crew to help
+me beat 20 hours @ JJ100 this year.  After getting close last year w/o
+crew and pacer I figured I could simply knock the eleven minutes off
+my time by adding support, but now the race is close enough that I
+think that it's an unrealistic goal and that I should simply be happy
+with whatever time I get and just take it easy to be as recovered as
+possible going into BMDM training in mid November.
+
+/Users/ctm/Desktop/Move_2019_09_25_06_03_31_Running.gpx
+3.139985    1:15  8:32.5 3.91701 0.00000 2019-09-25 13:00:49 UTC 2019-09-25 13:02:04 UTC
+2.993981    1:15  8:57.5 5.68307 0.00000 2019-09-25 13:02:41 UTC 2019-09-25 13:03:56 UTC
+3.230568    1:15  8:18.1 1.65087 0.06984 2019-09-25 13:04:22 UTC 2019-09-25 13:05:37 UTC
+3.375227    1:15  7:56.8 0.90774 1.57048 2019-09-25 13:06:03 UTC 2019-09-25 13:07:18 UTC
+3.825147    1:15  7:00.7 0.21767 4.78519 2019-09-25 13:07:50 UTC 2019-09-25 13:09:05 UTC
+3.888244    1:15  6:53.8 0.00000 5.44779 2019-09-25 13:09:35 UTC 2019-09-25 13:10:50 UTC
+3.821558    1:15  7:01.1 0.00000 7.22488 2019-09-25 13:11:23 UTC 2019-09-25 13:12:38 UTC
+3.740941    1:15  7:10.1 0.00000 5.89752 2019-09-25 13:13:08 UTC 2019-09-25 13:14:23 UTC
+3.675176    1:15  7:17.8 0.00000 5.19724 2019-09-25 13:14:51 UTC 2019-09-25 13:16:06 UTC
+3.364384    1:15  7:58.3 0.11127 1.10231 2019-09-25 13:16:37 UTC 2019-09-25 13:17:52 UTC
+3.540870    1:15  7:34.5 0.00000 1.60952 2019-09-25 13:18:26 UTC 2019-09-25 13:19:41 UTC
+3.476912    1:15  7:42.8 0.00000 0.02255 2019-09-25 13:20:20 UTC 2019-09-25 13:21:35 UTC
+Average: 7:42
+bash-3.2[remove_gain_and_loss_fudge]$
+
+These 10/21 stats aren't that good, but I did run the Duke City
+Marathon as the five hour pace group leader (in 5:00:19) yesterday and
+did "run" the Sandia Crossing Marathon (5,600 ft. gain, dodgy footing,
+higher altitude and I stopped to chat with people and to drink a pint
+of beer) the day before in 7:24:30.  Last year my average was 7:10.5
+the day after DCM, which was the day after the White Mesa Fat Ass 50k
+(which I ran in 6:45:54, but only had 4,600 ft. gain, fairly good
+footing and no distractions).
+
+I'm definitely not as fit as I was a year ago. I should, however, be
+able to run JJ100 sub-24 w/o any distress.  I think going sub-20 is
+exceedingly unlikely, although it does look like it might be a
+relatively cool year.  I don't think sub-20 is sufficiently doable to
+merit trying to scare up a crew and one or more pacers, especially
+with me being on a tight budget, so I'll have to leave that for next
+year.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Desktop/Move_2019_10_21_07_55_15_Running.gpx 
+3.396755    1:15  7:53.7 5.33612 0.00000 2019-10-21 14:45:46 UTC 2019-10-21 14:47:01 UTC
+2.989601    1:15  8:58.3 5.30787 0.00000 2019-10-21 14:47:34 UTC 2019-10-21 14:48:49 UTC
+2.943040    1:15  9:06.8 7.01641 0.00000 2019-10-21 14:49:18 UTC 2019-10-21 14:50:33 UTC
+3.320804    1:15  8:04.6 2.46840 0.08298 2019-10-21 14:51:07 UTC 2019-10-21 14:52:22 UTC
+3.211559    1:15  8:21.1 0.03372 2.21914 2019-10-21 14:52:22 UTC 2019-10-21 14:53:37 UTC
+3.868916    1:15  6:55.9 0.11911 3.97910 2019-10-21 14:54:35 UTC 2019-10-21 14:55:50 UTC
+3.863547    1:15  6:56.5 0.00000 6.62850 2019-10-21 14:56:18 UTC 2019-10-21 14:57:33 UTC
+3.778553    1:15  7:05.9 0.00000 7.13090 2019-10-21 14:58:07 UTC 2019-10-21 14:59:22 UTC
+3.787586    1:15  7:04.8 0.00000 6.55816 2019-10-21 14:59:52 UTC 2019-10-21 15:01:07 UTC
+3.486998    1:15  7:41.5 0.00000 5.20663 2019-10-21 15:01:32 UTC 2019-10-21 15:02:47 UTC
+3.273424    1:15  8:11.6 0.02118 1.70454 2019-10-21 15:03:20 UTC 2019-10-21 15:04:35 UTC
+3.376258    1:15  7:56.6 0.00000 2.07969 2019-10-21 15:05:03 UTC 2019-10-21 15:06:18 UTC
+Average: 7:51.4
+
+========================================================================
+Today I chose to run my intervals within only one AA lap, so all told I
+ran 5.56 miles instead of 13.1.  Last year on the Wednesday between DCM
+and JJ100 I didn't run at all, because of a combination of the weather and
+my catching a flight to PHX.  I wanted to do more speed work today, but
+decided 13.1 miles was perhaps a bit too much this close to JJ100.
+
+Unfortunately, I forgot when I was supposed to stop running on my 
+eleventh interval, so I in between a 7:51 and a 7:40 I posted an 8:20.
+To make up for it, I ran 13 intervals total (deliberately this time).
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Desktop/Move_2019_10_23_08_57_29_Running.gpx 
+3.649999    1:15  7:20.9 4.85751 0.00000 2019-10-23 15:11:31 UTC 2019-10-23 15:12:46 UTC
+3.261653    1:15  8:13.4 5.94449 0.00000 2019-10-23 15:13:17 UTC 2019-10-23 15:14:32 UTC
+3.274338    1:15  8:11.5 4.96902 0.00000 2019-10-23 15:15:03 UTC 2019-10-23 15:16:18 UTC
+3.653429    1:15  7:20.5 0.71401 1.06560 2019-10-23 15:16:50 UTC 2019-10-23 15:18:05 UTC
+3.552403    1:15  7:33.0 3.86991 0.01752 2019-10-23 15:18:34 UTC 2019-10-23 15:19:49 UTC
+4.181123    1:15  6:24.9 0.00000 7.37139 2019-10-23 15:20:17 UTC 2019-10-23 15:21:32 UTC
+3.924207    1:15  6:50.1 0.00000 6.73772 2019-10-23 15:22:03 UTC 2019-10-23 15:23:18 UTC
+3.877312    1:15  6:55.0 0.00000 5.63069 2019-10-23 15:23:48 UTC 2019-10-23 15:25:03 UTC
+3.828602    1:15  7:00.3 0.00000 6.47005 2019-10-23 15:25:33 UTC 2019-10-23 15:26:48 UTC
+3.411409    1:15  7:51.7 0.00000 3.96117 2019-10-23 15:27:06 UTC 2019-10-23 15:28:21 UTC
+3.218197    1:15  8:20.0 0.48402 1.01802 2019-10-23 15:28:47 UTC 2019-10-23 15:30:02 UTC
+3.492853    1:15  7:40.7 0.00000 1.35070 2019-10-23 15:30:46 UTC 2019-10-23 15:32:01 UTC
+Average: 7:28.5
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 13 ~/Desktop/Move_2019_10_23_08_57_29_Running.gpx 
+3.649999    1:15  7:20.9 4.85751 0.00000 2019-10-23 15:11:31 UTC 2019-10-23 15:12:46 UTC
+3.261653    1:15  8:13.4 5.94449 0.00000 2019-10-23 15:13:17 UTC 2019-10-23 15:14:32 UTC
+3.274338    1:15  8:11.5 4.96902 0.00000 2019-10-23 15:15:03 UTC 2019-10-23 15:16:18 UTC
+3.653429    1:15  7:20.5 0.71401 1.06560 2019-10-23 15:16:50 UTC 2019-10-23 15:18:05 UTC
+3.552403    1:15  7:33.0 3.86991 0.01752 2019-10-23 15:18:34 UTC 2019-10-23 15:19:49 UTC
+4.181123    1:15  6:24.9 0.00000 7.37139 2019-10-23 15:20:17 UTC 2019-10-23 15:21:32 UTC
+3.924207    1:15  6:50.1 0.00000 6.73772 2019-10-23 15:22:03 UTC 2019-10-23 15:23:18 UTC
+3.877312    1:15  6:55.0 0.00000 5.63069 2019-10-23 15:23:48 UTC 2019-10-23 15:25:03 UTC
+3.828602    1:15  7:00.3 0.00000 6.47005 2019-10-23 15:25:33 UTC 2019-10-23 15:26:48 UTC
+3.411409    1:15  7:51.7 0.00000 3.96117 2019-10-23 15:27:06 UTC 2019-10-23 15:28:21 UTC
+3.218197    1:15  8:20.0 0.48402 1.01802 2019-10-23 15:28:47 UTC 2019-10-23 15:30:02 UTC
+3.492853    1:15  7:40.7 0.00000 1.35070 2019-10-23 15:30:46 UTC 2019-10-23 15:32:01 UTC
+3.534099    1:15  7:35.3 0.00000 0.64866 2019-10-23 15:32:31 UTC 2019-10-23 15:33:46 UTC
+Average: 7:29
+
+So, even w/o the extra 3.3 miles before, I'm still not particularly
+fast when doing my intervals, but I believe at this point it's
+basically due to the fitness that I lost when I was injured rather the
+injury itself holding me back.
+========================================================================
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave -c 10 ~/Desktop/Move_2019_11_04_06_14_25_Running.gpx 
+3.132174    1:15  8:33.8 5.60464 0.00000 2019-11-04 13:04:58 UTC 2019-11-04 13:06:13 UTC
+3.118398    1:15  8:36.0 1.09437 0.56189 2019-11-04 13:07:02 UTC 2019-11-04 13:08:17 UTC
+3.466517    1:15  7:44.2 2.70732 1.03643 2019-11-04 13:08:27 UTC 2019-11-04 13:09:42 UTC
+3.915664    1:15  6:51.0 0.00000 6.38298 2019-11-04 13:10:14 UTC 2019-11-04 13:11:29 UTC
+3.924915    1:15  6:50.0 0.00000 7.19372 2019-11-04 13:11:57 UTC 2019-11-04 13:13:12 UTC
+3.944017    1:15  6:48.0 0.00000 7.05921 2019-11-04 13:13:44 UTC 2019-11-04 13:14:59 UTC
+4.096836    1:15  6:32.8 0.00000 8.19581 2019-11-04 13:15:27 UTC 2019-11-04 13:16:42 UTC
+3.751627    1:15  7:08.9 0.10697 3.94120 2019-11-04 13:17:15 UTC 2019-11-04 13:18:30 UTC
+3.556060    1:15  7:32.5 0.00820 0.94801 2019-11-04 13:18:58 UTC 2019-11-04 13:20:13 UTC
+3.735834    1:15  7:10.7 0.00000 1.20498 2019-11-04 13:20:37 UTC 2019-11-04 13:21:52 UTC
+Average: 7:22.8
+
+Last year, my average was 6:54.2 on the Monday after Deadman Peaks 53
+miler, so I'm 28.6 seconds slower than last year, which isn't
+suprising but is a little annoying.  Oh well, at least I have plenty
+of room for improvement.
+
+========================================================================
+Was 8 seconds past the top of the minute when I crossed the earliest
+spot I start my intervals.  Decided to jog for 52 seconds uphill
+instead of only 7, so I started at :00 instead of :15.  That helped me
+remember when to start, rest and stop, but it did give me less uphill
+which surely helped my stats.
+
+FWIW, my interval stats are better than a year ago, but in addition to
+the shorter uphill, last year I ran the Ghost Town 50k the day before
+my intervals, rather than the WMFA 50 two days before.
+
+The big experiment is coming up in that I'm going to alternate pack
+and non-pack intervals starting my first pack intervals of the
+training season a week from today.  Last year I switched to pack
+intervals every Monday while in the serious portion of my BMDM
+training and I think that was too much.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Desktop/Move_2019_11_11_06_28_49_Running.gpx 
+3.583114    1:15  7:29.1 5.63495 0.00000 2019-11-11 13:14:48 UTC 2019-11-11 13:16:03 UTC
+3.268074    1:15  8:12.4 6.91056 0.00000 2019-11-11 13:16:30 UTC 2019-11-11 13:17:45 UTC
+3.437672    1:15  7:48.1 3.21291 0.00000 2019-11-11 13:18:23 UTC 2019-11-11 13:19:38 UTC
+3.798654    1:15  7:03.6 0.78379 2.00378 2019-11-11 13:20:08 UTC 2019-11-11 13:21:23 UTC
+3.595466    1:15  7:27.6 2.26517 1.92644 2019-11-11 13:21:56 UTC 2019-11-11 13:23:11 UTC
+4.186995    1:15  6:24.3 0.00000 7.68112 2019-11-11 13:23:40 UTC 2019-11-11 13:24:55 UTC
+4.121576    1:15  6:30.4 0.00000 7.85373 2019-11-11 13:25:22 UTC 2019-11-11 13:26:37 UTC
+3.904484    1:15  6:52.1 0.00000 6.93918 2019-11-11 13:27:11 UTC 2019-11-11 13:28:26 UTC
+3.838260    1:15  6:59.2 0.00000 5.21273 2019-11-11 13:28:52 UTC 2019-11-11 13:30:07 UTC
+3.587419    1:15  7:28.6 0.00000 2.15378 2019-11-11 13:30:39 UTC 2019-11-11 13:31:54 UTC
+3.725316    1:15  7:12.0 0.00000 1.78797 2019-11-11 13:32:22 UTC 2019-11-11 13:33:37 UTC
+3.780336    1:15  7:05.7 0.63089 0.29198 2019-11-11 13:34:08 UTC 2019-11-11 13:35:23 UTC
+Average: 7:12.8
+
+========================================================================
+
+Today was my first 40# 13.1 mile interval training since February
+25th.  I experimented with having three slices of bread instead of
+oatmeal pre-run, but then I spilled some cous-cous in our bread
+cabinet and while cleaning it I found a few old stale small tortillas,
+both corn and flour, so ... I ate them.  Then, right before leaving I
+decided to have two gels.  I don't think I gained any power or stamina
+by all of that.  I suspect I lost some speed, however, the valve on my
+bladder didn't work, so after I went through my first two 20
+oz. bottles of water, I couldn't get more water, so I was parched at
+the end, especially with the temperature getting up to 55.8F at the
+end.
+
+So, last year, 2018_11_19: Average: 8:14.7
+               2019_02_25: Average: 7:54.4
+
+Being down 21.2 seconds/mile from last year at this time isn't
+horrible, considering how much fitness I lost due to injury in my
+off-season, especially considering the temperature difference (last
+year the average by my Ambit3 was 51.6F, this year 61.9F, although
+that could be skewed by my lack of water slowdown at the end).
+
+It will be interesting to see if the various tweaks I make during this
+year's training will allow me to catch up to where I was last year by
+race day.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Desktop/Move_2019_11_18_07_10_33_Running.gpx 
+3.174191    1:15  8:27.0 21.68478 0.00000 2019-11-18 14:09:36 UTC 2019-11-18 14:10:51 UTC
+2.801022    1:15  9:34.5 16.23986 0.00000 2019-11-18 14:11:22 UTC 2019-11-18 14:12:37 UTC
+2.621596    1:15 10:13.8 12.96787 0.00000 2019-11-18 14:13:11 UTC 2019-11-18 14:14:26 UTC
+2.882376    1:15  9:18.3 9.46248 0.17279 2019-11-18 14:14:54 UTC 2019-11-18 14:16:09 UTC
+3.238360    1:15  8:16.9 0.13009 6.25854 2019-11-18 14:16:35 UTC 2019-11-18 14:17:50 UTC
+3.070049    1:15  8:44.2 0.00000 21.74852 2019-11-18 14:18:33 UTC 2019-11-18 14:19:48 UTC
+3.558855    1:15  7:32.2 0.00000 10.78826 2019-11-18 14:20:06 UTC 2019-11-18 14:21:21 UTC
+3.344535    1:15  8:01.1 6.21253 6.55649 2019-11-18 14:21:54 UTC 2019-11-18 14:23:09 UTC
+3.407582    1:15  7:52.2 9.64412 0.48935 2019-11-18 14:23:36 UTC 2019-11-18 14:24:51 UTC
+3.308191    1:15  8:06.4 4.07572 2.60278 2019-11-18 14:25:22 UTC 2019-11-18 14:26:37 UTC
+3.225129    1:15  8:19.0 26.10782 0.00000 2019-11-18 14:27:07 UTC 2019-11-18 14:28:22 UTC
+3.061002    1:15  8:45.7 15.93233 0.00000 2019-11-18 14:28:53 UTC 2019-11-18 14:30:08 UTC
+Average: 8:35.9
+
+========================================================================
+Done without a pack. This is my best time since June 3rd (technically,
+I ran faster intervals on July 1st, but I didn't run as far before I
+started the intervals, so it doesn't count), although it's only
+slightly better than 11/11, and on both that day and today I started
+fairly high up the hill due to needing to get to :00 to start.
+
+I walked with Roy a bunch of time after I had done my intervals, so my
+overall 13.1 mile time wasn't particularly quick, but my first 9 miles
+averaged a 9:08 pace, which is pretty good.
+
+Still, I'm hoping to get back under 7:00 as I continue my BMDM
+training.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Desktop/Move_2019_11_25_06_29_34_Running.gpx 
+3.738000    1:15  7:10.5 5.56406 0.00000 2019-11-25 13:15:37 UTC 2019-11-25 13:16:52 UTC
+3.259307    1:15  8:13.7 7.30694 0.00000 2019-11-25 13:17:22 UTC 2019-11-25 13:18:37 UTC
+3.418563    1:15  7:50.7 2.77810 0.00000 2019-11-25 13:19:10 UTC 2019-11-25 13:20:25 UTC
+3.227281    1:15  8:18.6 1.73834 1.38563 2019-11-25 13:20:25 UTC 2019-11-25 13:21:40 UTC
+3.567093    1:15  7:31.1 3.92114 0.62332 2019-11-25 13:21:54 UTC 2019-11-25 13:23:09 UTC
+4.277466    1:16  6:16.2 0.00000 6.82415 2019-11-25 13:23:37 UTC 2019-11-25 13:24:53 UTC
+4.232876    1:15  6:20.2 0.00000 7.71218 2019-11-25 13:25:23 UTC 2019-11-25 13:26:38 UTC
+4.077782    1:15  6:34.6 0.00000 7.15959 2019-11-25 13:27:04 UTC 2019-11-25 13:28:19 UTC
+4.074954    1:15  6:34.9 0.00000 7.43209 2019-11-25 13:28:52 UTC 2019-11-25 13:30:07 UTC
+3.817861    1:15  7:01.5 0.00000 3.27020 2019-11-25 13:30:37 UTC 2019-11-25 13:31:52 UTC
+3.748046    1:15  7:09.3 0.00000 1.24081 2019-11-25 13:32:23 UTC 2019-11-25 13:33:38 UTC
+3.715529    1:15  7:13.1 1.06389 0.94937 2019-11-25 13:34:07 UTC 2019-11-25 13:35:22 UTC
+Average: 7:11.1
+
+========================================================================
+I chose not to run at all Monday 12/2/2019.  I had a quad espresso in
+the morning, but that didn't really wake me up.  The Bosque Boogie 50k
+took *much* more out of me than I expected.  Slipping and sliding as
+well as carrying around a bunch of extra mud (weight!) on the bottom
+of my shoes wound up using muscles in different amounts than normal.
+I'm not the most efficient runner by any means, but I'm still *much*
+more efficient when running that course mud-free than I was on
+Saturday.
+
+Oh yeah, and I fell and hit the ground once during that run, too.  I
+think I tripped on the same stump I did last year (or the year
+before).  It's toward the end of the first loop, right as we have to
+go slightly to the left before we have to go under the Montano bridge.
+There's about a four inch diameter stump that sticks up about an inch
+that is easy to overlook when the sun is still in the east. *MAYBE*
+I'll remember it next year.
+
+I still felt guilty not running on Monday, but at least I don't appear
+to be getting a cold, and my Wednesday (12/4) speed pack run went
+fairly well.
+
+========================================================================
+Ugh!  I wound up getting called out on a SAR mission last night and my
+pack got completely discombobulated, in part due to proper use but
+also due to me losing my keys and then pulling everything out of it.
+Furthermore, lots of stuff got wet slightly because I made a mistake
+with the Jet Boil and introduced a tiny amount of snow into my pack,
+but mostly because I volunteered to lug the subject's frozen pants and
+frozen shoes in my pack.  So ...
+
+... I got back home, brought everything in from the Sienna, had
+breakfast and a very strong beer and decided to count my SAR mission
+as my exercise, even though it was only vaguely comparable.
+========================================================================
+Without a pack and on a Tuesday after core exercises, but with only
+one bottle of water and only a half a brick of tempeh and a green
+drink as calories since 5pm yesterday evening.
+
+Tuesdays are supposed to be rest days, where I only run 8.9 miles at a 130bpm
+HR, but due to the SAR mission I missed doing intervals yesterday which made
+two weeks in a row, so I decided to compromise and run 8.9 miles but add my
+intervals to it.  Since it was only going to be 8.9, I chose not to run with
+calories in my water, but once I had done my second lap I decide that if I
+felt good after doing my intervals I'd run the third lap and the loop around
+the block that brings it up to 13.1, which is what I did.  My average HR was
+135 after doing intervals so rather than run super slowly to try to bring my
+total average HR to 130, I chose to run faster than normal to see if I could
+finish my 13.1 with an average pace faster than 8:00 min/mi, which I did:
+
+13.12 miles, 1:57:12.5, 8:56 min/mi, 137bpm average HR
+
+At this point I think I'll do all my 13.1 mile or less non-pack runs w/o
+calories, but I'll still use calories on my pack runs.
+
+Since today was not a pack run interval training session, I'll use my
+pack a this coming Monday.  Normally I don't do that after a Bosque
+Bike Path Saturday pack run, but due to a Cibola SAR evaluation, I'm
+doing my Bosque Bike Path pack run this Friday anyway.
+
+Although these are my best numbers since 10/15/2018, I did start
+further up the hill than most times.  I crossed the driveway across
+Albuquerque Academy at about 8 seconds after the top of the minute.
+There was too much sun and traffic for me to have tried to hurry
+across fast enough to start a minute earlier, so I ran *very* slowly
+those 52 seconds to the top of the minute, but that still put me
+further up the hill.
+
+Oh, my rest between intervals 10 and 11 was 45 seconds instead of 30
+due to a stoplight at the western entrance to AA.  I made up for it by
+taking only a 15 second rest between intervals 11 and 12.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Desktop/Move_2019_12_10_06_52_38_Running.gpx 
+3.570958    1:15  7:30.6 5.70488 0.00000 2019-12-10 13:37:41 UTC 2019-12-10 13:38:56 UTC
+3.368660    1:15  7:57.7 7.86869 0.00000 2019-12-10 13:39:26 UTC 2019-12-10 13:40:41 UTC
+3.516105    1:15  7:37.7 2.58329 0.00000 2019-12-10 13:41:11 UTC 2019-12-10 13:42:26 UTC
+4.047325    1:15  6:37.6 0.50454 2.97889 2019-12-10 13:42:56 UTC 2019-12-10 13:44:11 UTC
+3.939165    1:15  6:48.5 0.72567 4.55535 2019-12-10 13:44:43 UTC 2019-12-10 13:45:58 UTC
+4.054113    1:15  6:36.9 0.00000 7.01607 2019-12-10 13:46:29 UTC 2019-12-10 13:47:44 UTC
+4.096339    1:15  6:32.8 0.00000 7.78723 2019-12-10 13:48:12 UTC 2019-12-10 13:49:27 UTC
+4.008964    1:15  6:41.4 0.00000 8.29636 2019-12-10 13:50:00 UTC 2019-12-10 13:51:15 UTC
+4.078572    1:15  6:34.5 0.00000 4.09827 2019-12-10 13:51:42 UTC 2019-12-10 13:52:57 UTC
+3.812127    1:15  7:02.1 0.01966 0.85273 2019-12-10 13:53:30 UTC 2019-12-10 13:54:45 UTC
+3.797266    1:15  7:03.8 0.14900 1.12753 2019-12-10 13:55:26 UTC 2019-12-10 13:56:41 UTC
+3.855965    1:15  6:57.3 0.02271 0.59282 2019-12-10 13:56:58 UTC 2019-12-10 13:58:13 UTC
+Average: 7:00.1
+
+========================================================================
+
+With 40# pack.  Was supposed to be 13.1 miles, but I had to cut it
+short *after* I did my intervals, due to potentially explosive GI
+distress.  Nice improvement over 11/18, especially since I'm getting
+over a bad cold or mild flu.  My suspicion is that my GI distress was
+due to the residual effects of my sickness, although the way I
+staggered my caffeine may have contributed, too.
+
+Last year on 12/17, my average 8:03.4, but I had a chest cold.  Today
+I had very little in my lungs and basically felt great, but as
+recently as Thursday evening I skipped two social activities due to
+sickness and my Friday 18 mile 40# pack run was definitely slower due
+to sickness, so ... I'm happy with the progress I'm making and hope I
+can sustain my momentum.
+
+Oh, and I started further down the hill than usual, *before* the AA
+driveway.  I normally don't start my intervals that early, but there
+was no traffic and I didn't want to travel up hill for almost a minute
+before starting.  So that makes my stats a little better than they
+appear.
+
+bash-3.2[remove_gain_and_loss_fudge]$ target/release/int_ave ~/Desktop/Move_2019_12_16_07_17_39_Running.gpx 
+3.094504    1:15  8:40.0 5.47950 0.00000 2019-12-16 14:07:42 UTC 2019-12-16 14:08:57 UTC
+2.920416    1:15  9:11.0 5.63510 0.00000 2019-12-16 14:09:28 UTC 2019-12-16 14:10:43 UTC
+2.876504    1:15  9:19.4 6.90899 0.00000 2019-12-16 14:11:14 UTC 2019-12-16 14:12:29 UTC
+2.881156    1:15  9:18.5 3.17393 0.00000 2019-12-16 14:12:59 UTC 2019-12-16 14:14:14 UTC
+3.409055    1:15  7:52.0 0.00000 1.78822 2019-12-16 14:14:43 UTC 2019-12-16 14:15:58 UTC
+3.229415    1:15  8:18.3 0.96153 1.58693 2019-12-16 14:16:39 UTC 2019-12-16 14:17:54 UTC
+3.594213    1:15  7:27.7 0.00000 5.74048 2019-12-16 14:18:13 UTC 2019-12-16 14:19:28 UTC
+3.670956    1:15  7:18.3 0.00000 6.64836 2019-12-16 14:19:58 UTC 2019-12-16 14:21:13 UTC
+3.476379    1:15  7:42.9 0.00000 5.77268 2019-12-16 14:21:44 UTC 2019-12-16 14:22:59 UTC
+3.512692    1:15  7:38.1 0.00000 5.46677 2019-12-16 14:23:28 UTC 2019-12-16 14:24:43 UTC
+3.571661    1:15  7:30.5 0.00000 3.52694 2019-12-16 14:25:11 UTC 2019-12-16 14:26:26 UTC
+3.338191    1:15  8:02.1 0.58533 0.72176 2019-12-16 14:26:58 UTC 2019-12-16 14:28:13 UTC
+Average: 8:11.6

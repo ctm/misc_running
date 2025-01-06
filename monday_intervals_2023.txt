@@ -1,0 +1,686 @@
+No pack. Fasted. Late start.  Did not do any extra AA laps (i.e., none
+before or after).
+
+I'm not sure how valid the numbers are here.  For one thing, I changed
+nom_fun to take elevation into account, so pretty much all my
+intervals from now on will show as being slightly faster than
+previously.  For example, 2022_12_05_08 using the old algorithm was
+7:00.6 and now it's 6:59.2.  Additionally, I did not start where I
+normally start.  As I was approaching the Albuquerque Academy
+driveway, it was clear that I either needed to start early or kill
+almost a minute to start where I normally start.  I chose to start
+early, and I don't know if that should give me better or worse times.
+I also may have screwed up at least one of the intervals, although
+looking at the graph suggests I didn't do so in a big way.
+
+I was a bit distracted, because I'm going to have our dog euthanized
+"soon" (i.e., today or tomorrow, probably today) and it's a tough
+decision to make.
+
+All things considered, these numbers are better than I expected and
+suggest that I'm more fit than I gave myself credit for after
+Saturday's absolutely horrible pack run.  I took no ibuprofen this
+morning and my hot-spot didn't flare up enough to slow me down AFAICT,
+but my suspicion is I'm dealing with a (hopefully minor) case of
+morton's neuroma.  If true, that's going to be annoying, but at least
+I'm not being taken out to the farm to play with all the other dogs.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2023_01_09_08_39_00.gpx 
+3.789499    1:15  7:04.6 0.00000 0.00000 2023-01-09 15:54:54 UTC 2023-01-09 15:56:09 UTC
+3.404140    1:15  7:52.7 0.00000 0.00000 2023-01-09 15:56:40 UTC 2023-01-09 15:57:55 UTC
+3.529441    1:15  7:35.9 0.00000 0.00000 2023-01-09 15:58:27 UTC 2023-01-09 15:59:42 UTC
+3.753997    1:15  7:08.7 0.00000 0.00000 2023-01-09 16:00:13 UTC 2023-01-09 16:01:28 UTC
+3.598851    1:15  7:27.1 0.00000 0.00000 2023-01-09 16:02:01 UTC 2023-01-09 16:03:16 UTC
+4.204389    1:15  6:22.7 0.00000 0.00000 2023-01-09 16:03:42 UTC 2023-01-09 16:04:57 UTC
+4.003533    1:15  6:41.9 0.00000 0.00000 2023-01-09 16:05:28 UTC 2023-01-09 16:06:43 UTC
+4.163296    1:15  6:26.5 0.00000 0.00000 2023-01-09 16:07:13 UTC 2023-01-09 16:08:28 UTC
+4.169205    1:15  6:26.0 0.00000 0.00000 2023-01-09 16:08:56 UTC 2023-01-09 16:10:11 UTC
+3.868751    1:15  6:55.9 0.00000 0.00000 2023-01-09 16:10:42 UTC 2023-01-09 16:11:57 UTC
+3.943327    1:15  6:48.1 0.00000 0.00000 2023-01-09 16:12:25 UTC 2023-01-09 16:13:40 UTC
+3.993212    1:15  6:43.0 0.00000 0.00000 2023-01-09 16:14:12 UTC 2023-01-09 16:15:27 UTC
+Average: 6:57.8
+
+========================================================================
+Not fasted. No pack. No ibuprofen. Today was supposed to be a pack
+interval training day, but the weather (or at least my perception of
+it) didn't cooperate.  Although I have a rain cover, I prefer not to
+use it when I'm doing pack intervals.
+
+In the past, the aluminum pins that are used to adjust my pack have
+worn through after running with my pack in the rain, so these days,
+due to that and the fact that I'm using rice as weight, I'm a big baby
+and normally (not counting the Feral Hog 50k!) avoid using my pack in
+the rain.  However, there was no precipitation while I was running, so
+I felt like the big baby that I am.
+
+I chose not to bring any water with me and to wear a T-shirt.  It's
+nice to run without a handheld, but I switch it from side to side to
+help me know which interval I'm on and that tells me when to stop and
+start.  Based on my pace graph on Strava, I lost track during my ninth
+interval, which led to me not running it and my tenth as hard as I
+could have, I think.
+
+FWIW, it doesn't look like I rested extra long, but the way the GPS
+watch and software works, I may have got an unfair bonus due to my
+confusion over my start and stop times.  Additionally, this was not in
+a fasted state and I didn't run any AA laps before or after.  As such,
+I don't think these numbers suggest I'm any more fit than last week,
+but I'm probably not less fit, either.
+
+My hot spot never bothered me, although I can feel it now that my shoes
+are off and I'm resting.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2023_01_16_09_52_00_Running.gpx 
+3.901396    1:15  6:52.5 0.00000 0.00000 2023-01-16 17:05:58 UTC 2023-01-16 17:07:13 UTC
+3.412032    1:15  7:51.6 0.00000 0.00000 2023-01-16 17:07:44 UTC 2023-01-16 17:08:59 UTC
+3.463145    1:15  7:44.7 0.00000 0.00000 2023-01-16 17:09:30 UTC 2023-01-16 17:10:45 UTC
+3.891055    1:15  6:53.6 0.00000 0.00000 2023-01-16 17:11:15 UTC 2023-01-16 17:12:30 UTC
+3.918704    1:15  6:50.6 0.00000 0.00000 2023-01-16 17:13:01 UTC 2023-01-16 17:14:16 UTC
+4.194761    1:15  6:23.6 0.00000 0.00000 2023-01-16 17:14:45 UTC 2023-01-16 17:16:00 UTC
+4.375696    1:15  6:07.7 0.00000 0.00000 2023-01-16 17:16:29 UTC 2023-01-16 17:17:44 UTC
+4.263688    1:15  6:17.4 0.00000 0.00000 2023-01-16 17:18:16 UTC 2023-01-16 17:19:31 UTC
+4.001374    1:15  6:42.1 0.00000 0.00000 2023-01-16 17:19:58 UTC 2023-01-16 17:21:13 UTC
+3.648446    1:15  7:21.1 0.00000 0.00000 2023-01-16 17:21:25 UTC 2023-01-16 17:22:40 UTC
+3.728712    1:15  7:11.6 0.00000 0.00000 2023-01-16 17:23:14 UTC 2023-01-16 17:24:29 UTC
+4.424287    1:15  6:03.7 0.00000 0.00000 2023-01-16 17:25:01 UTC 2023-01-16 17:26:16 UTC
+Average: 6:51.7
+
+========================================================================
+Fasted. 40.4# pack. No AA laps prior. Windy AF. Did not take
+ibuprofen, even though I still have a hot-spot on my right foot.  I
+wanted to see where I stand (so to speak).  Did not wear my ice hat,
+because I didn't want it blowing off.  Only took 10 oz. of Tailwind
+water, because that's how much I had left over and I didn't think
+today's effort was going to require a lot.
+
+Running in high winds is annoying, especially with a pack on one's
+back.  The wind was mostly from the east, which meant that my first
+few intervals were both uphill and into the wind.  When I look at the
+graph of my pace on Strava, I can see that I did 12 intervals,
+however, they were so pitiful that the heuristic that "nom_fun" (my
+interval extracting software) is not able to find all of them.
+
+So, I can't compare today's intervals to any other intervals, but even
+if I could, they would be ridiculously slow.  I do suspect that I got
+a nice training effect for my effort, and I definitely learned that my
+hot-spot is bad enough that I'll be taking ibuprofen for my speed run
+this Wednesday.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2023_01_23_08_35_00_Running.gpx 
+2.578771    1:15 10:24.0 0.00000 0.00000 2023-01-23 15:54:23 UTC 2023-01-23 15:55:38 UTC
+2.595988    1:15 10:19.9 0.00000 0.00000 2023-01-23 15:56:10 UTC 2023-01-23 15:57:25 UTC
+2.913229    1:15  9:12.4 0.00000 0.00000 2023-01-23 15:57:53 UTC 2023-01-23 15:59:08 UTC
+2.855008    1:15  9:23.6 0.00000 0.00000 2023-01-23 15:59:36 UTC 2023-01-23 16:00:51 UTC
+3.476202    1:15  7:42.9 0.00000 0.00000 2023-01-23 16:01:24 UTC 2023-01-23 16:02:39 UTC
+3.615576    1:15  7:25.1 0.00000 0.00000 2023-01-23 16:03:09 UTC 2023-01-23 16:04:24 UTC
+3.631521    1:15  7:23.1 0.00000 0.00000 2023-01-23 16:04:53 UTC 2023-01-23 16:06:08 UTC
+3.625314    1:15  7:23.9 0.00000 0.00000 2023-01-23 16:06:38 UTC 2023-01-23 16:07:53 UTC
+3.472722    1:15  7:43.4 0.00000 0.00000 2023-01-23 16:08:22 UTC 2023-01-23 16:09:37 UTC
+3.493333    1:15  7:40.6 0.00000 0.00000 2023-01-23 16:10:10 UTC 2023-01-23 16:11:25 UTC
+Average: 8:27.9
+thread 'main' panicked at 'Was told to find 12 intervals, but found 10', src/gpx.rs:331:13
+
+========================================================================
+40.3# pack. *Not* fasted.  I had my "normal" (i.e. fortified) oatmeal,
+albeit without Udo's Oil, at 5:40am. I also consumed 600 calories
+during my entire time out, although probably around 300 during the
+intervals themselves.  Did no AA lap prior, but walked with John a bit
+after.  I had a quad espresso to wake up and another quad espresso
+before leaving the house.
+
+No ibuprofen or acetaminophen and wore my ice hat (although I dumped
+the ice after I finished my intervals).  These are slower than what I did
+on December 26th and I don't have an explanation for it.  I don't
+*think* my hot-spot was slowing me down, but I did have 200mg ibuprofen
+on December 26th, so perhaps that helps speed me up.  I would like
+to believe I'm more fit now than I was six weeks ago, but perhaps not.
+
+My hot-spot did chirp after I finished my intervals.  I'll be taking
+analgesics for my speed run on Wednesday.  I'm cautiously optimistic
+that I'll get some relief between now and my pre-race two week taper
+and that I'll get even more relief during the two week taper.
+
+Next week will be my final full set of twelve pack intervals before
+BMDM.  In theory it'll be cooler, so perhaps I'll get better numbers
+then.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2023_02_06_06_56_00_Running..gpx 
+3.208752    1:15  8:21.5 0.00000 0.00000 2023-02-06 14:13:28 UTC 2023-02-06 14:14:43 UTC
+2.920125    1:15  9:11.1 0.00000 0.00000 2023-02-06 14:15:14 UTC 2023-02-06 14:16:29 UTC
+2.782890    1:15  9:38.2 0.00000 0.00000 2023-02-06 14:17:01 UTC 2023-02-06 14:18:16 UTC
+2.970171    1:15  9:01.8 0.00000 0.00000 2023-02-06 14:18:44 UTC 2023-02-06 14:19:59 UTC
+3.176391    1:15  8:26.6 0.00000 0.00000 2023-02-06 14:20:27 UTC 2023-02-06 14:21:42 UTC
+3.218123    1:15  8:20.0 0.00000 0.00000 2023-02-06 14:22:15 UTC 2023-02-06 14:23:30 UTC
+3.379385    1:15  7:56.2 0.00000 0.00000 2023-02-06 14:24:00 UTC 2023-02-06 14:25:15 UTC
+3.412978    1:15  7:51.5 0.00000 0.00000 2023-02-06 14:25:45 UTC 2023-02-06 14:27:00 UTC
+3.477230    1:15  7:42.8 0.00000 0.00000 2023-02-06 14:27:31 UTC 2023-02-06 14:28:46 UTC
+3.460387    1:15  7:45.0 0.00000 0.00000 2023-02-06 14:29:15 UTC 2023-02-06 14:30:30 UTC
+3.291254    1:15  8:08.9 0.00000 0.00000 2023-02-06 14:31:00 UTC 2023-02-06 14:32:15 UTC
+3.368138    1:15  7:57.8 0.00000 0.00000 2023-02-06 14:33:10 UTC 2023-02-06 14:34:25 UTC
+Average: 8:21.8
+
+========================================================================
+41.0# pack. Not fasted. Only 6 intervals because I'm tapering for The
+Quad, not because I want to do well in The Quad, but because my right
+hot-spot has not gotten better over the last several weeks and so I'm
+trying to find the right balance between still doing the trainings I
+need to do to gain fitness for BMDM, but without as much pack running
+junk miles in an effort to let my foot heal.
+
+So, I didn't even jog from my house to the intersection of Barstow and
+Harper.  I drove my truck down to the library.  Similarly, after I did
+my six intervals, I didn't even complete the Albuquerque Academy loop;
+I turned around and ran/walked back to my truck.
+
+Doing it this way is frustrating, but I think it's the best way to
+proceed.  I can't help but think of this exchange captured in Running
+America https://www.youtube.com/watch?v=NBuR9aNRbI8&t=110s
+
+  "The best advice is rest and time."
+
+  "If I do... say, 40 miles instead of 60, would that constitute rest?"
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave -c 6 ~/Downloads/Move_2023_02_13_07_15_00_Running.gpx 
+3.141051    1:15  8:32.3 0.00000 0.00000 2023-02-13 14:20:58 UTC 2023-02-13 14:22:13 UTC
+2.867505    1:15  9:21.2 0.00000 0.00000 2023-02-13 14:22:44 UTC 2023-02-13 14:23:59 UTC
+2.860896    1:15  9:22.5 0.00000 0.00000 2023-02-13 14:24:29 UTC 2023-02-13 14:25:44 UTC
+3.075366    1:15  8:43.3 0.00000 0.00000 2023-02-13 14:26:14 UTC 2023-02-13 14:27:29 UTC
+3.241461    1:15  8:16.4 0.00000 0.00000 2023-02-13 14:27:59 UTC 2023-02-13 14:29:14 UTC
+3.182015    1:15  8:25.7 0.00000 0.00000 2023-02-13 14:29:44 UTC 2023-02-13 14:30:59 UTC
+Average: 8:46.9
+
+FWIW, the last time I did 6 intervals with my pack was on March 2nd,
+2020 and using the latest version of int_ave, my average pace was
+8:24.2 and I was lamenting then that my pace was slower than the
+previous year.  So, these numbers just aren't very good.  OTOH, those
+were my top-of-taper for BMDM numbers.  My taper for The Quad average
+was 8:40.0, only 7 seconds per mile slower than 2020, although still
+26 seconds slower than my taper for The Quad in 2019 (8:21).
+
+========================================================================
+40.3# pack. Not fasted. No analgesics. No ice hat.  No panty liners.
+
+Only 6 intervals, because I'm recovering from The Quad.  Normally, I'd
+do all twelve, but I still have this lingering hot-spot, It did indeed
+chirp at me on The Quad, but only toward the end of the run up and all
+the way on the ski up and toward the end of the run down.  I took
+400mg of ibuprofen and 500mg of acetaminophen at the run/ski
+transition.  I note all of that here to explain to myself next year
+why I did my intervals this way.
+
+I did these a little late and without taking the time to put panty
+liners on my back for padding.  I had been working on some software
+that computes running times for people who do multiple events.
+Specifically, I want to be able to compute the doublers' times,
+ostensibly for Ken Gordon, but it's a little late for that for this
+year.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave -c 6 ~/Downloads/Move_2023_02_20_08_26_00_Running.gpx 
+3.188207    1:15  8:24.7 0.00000 0.00000 2023-02-20 15:32:01 UTC 2023-02-20 15:33:16 UTC
+2.970740    1:15  9:01.7 0.00000 0.00000 2023-02-20 15:33:46 UTC 2023-02-20 15:35:01 UTC
+2.891727    1:15  9:16.5 0.00000 0.00000 2023-02-20 15:35:31 UTC 2023-02-20 15:36:46 UTC
+3.064369    1:15  8:45.1 0.00000 0.00000 2023-02-20 15:37:18 UTC 2023-02-20 15:38:33 UTC
+3.299595    1:15  8:07.7 0.00000 0.00000 2023-02-20 15:39:01 UTC 2023-02-20 15:40:16 UTC
+3.388689    1:15  7:54.9 0.00000 0.00000 2023-02-20 15:40:48 UTC 2023-02-20 15:42:03 UTC
+Average: 8:35.1
+
+These numbers are better than last week, but not as good as my post Quad
+pack intervals of 2019, where my average was 8:21.
+
+========================================================================
+41.1# pack. Not fasted. No analgesics. Ice hat. Panty liners. Parked
+at library, didn't do an AA lap before or after.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2023_02_27_07_22_00_Running.gpx 
+3.066009    1:15  8:44.8 0.00000 0.00000 2023-02-27 14:27:39 UTC 2023-02-27 14:28:54 UTC
+2.818878    1:15  9:30.9 0.00000 0.00000 2023-02-27 14:29:22 UTC 2023-02-27 14:30:37 UTC
+2.808786    1:15  9:32.9 0.00000 0.00000 2023-02-27 14:31:06 UTC 2023-02-27 14:32:21 UTC
+3.032661    1:15  8:50.6 0.00000 0.00000 2023-02-27 14:32:54 UTC 2023-02-27 14:34:09 UTC
+3.274937    1:15  8:11.4 0.00000 0.00000 2023-02-27 14:34:37 UTC 2023-02-27 14:35:52 UTC
+3.176723    1:15  8:26.6 0.00000 0.00000 2023-02-27 14:36:23 UTC 2023-02-27 14:37:38 UTC
+3.468012    1:15  7:44.0 0.00000 0.00000 2023-02-27 14:38:06 UTC 2023-02-27 14:39:21 UTC
+3.574382    1:15  7:30.2 0.00000 0.00000 2023-02-27 14:39:53 UTC 2023-02-27 14:41:08 UTC
+3.404766    1:15  7:52.6 0.00000 0.00000 2023-02-27 14:41:39 UTC 2023-02-27 14:42:54 UTC
+3.470019    1:15  7:43.7 0.00000 0.00000 2023-02-27 14:43:24 UTC 2023-02-27 14:44:39 UTC
+3.366554    1:15  7:58.0 0.00000 0.00000 2023-02-27 14:45:10 UTC 2023-02-27 14:46:25 UTC
+3.275016    1:15  8:11.4 0.00000 0.00000 2023-02-27 14:46:54 UTC 2023-02-27 14:48:09 UTC
+Average: 8:21.4
+
+In 2019, my average was 7:52.4 when taking elevation into account
+(earlier in this file it says 7:54.6, but that's because I wasn't
+taking elevation into account then). However, on that date, I ran from
+my house and did an AA lap before my intervals (and after them, I did
+another AA lap, ran home and ran some extra mileage to do 13.1 all
+told).  To be fair, in 2019 it was slightly cooler, I got off to an
+earlier start and I drank three double espressos before my run instead
+of one.  However, my plan today was to do one or more extra AA laps
+after my intervals if my foot wasn't chirping, but it was.
+
+My Wednesday speed run is going to be "interesting".
+
+========================================================================
+40.2# pack. Not fasted. No analgesics. No ice hat. Panty
+Liners. Jogged from my house, did my intervals, jogged back, then
+jogged around the block to get up to my 6.55 mile goal. IOW, the same
+exercise I did this time of year in 2019.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave -c 6 ~/Downloads/Move_2023_03_06_07_00_Running.gpx 
+3.387672    1:15  7:55.0 0.00000 0.00000 2023-03-06 14:16:22 UTC 2023-03-06 14:17:37 UTC
+2.980245    1:15  9:00.0 0.00000 0.00000 2023-03-06 14:18:10 UTC 2023-03-06 14:19:25 UTC
+2.893083    1:15  9:16.2 0.00000 0.00000 2023-03-06 14:19:54 UTC 2023-03-06 14:21:09 UTC
+3.032362    1:15  8:50.7 0.00000 0.00000 2023-03-06 14:21:41 UTC 2023-03-06 14:22:56 UTC
+3.165789    1:15  8:28.3 0.00000 0.00000 2023-03-06 14:23:23 UTC 2023-03-06 14:24:38 UTC
+3.324304    1:15  8:04.1 0.00000 0.00000 2023-03-06 14:25:12 UTC 2023-03-06 14:26:27 UTC
+Average: 8:35.7
+
+This is 26.6 seconds per mile slower than 2019, although some of that
+is due to the temperature difference.  It was between 24.8F and 30.6F
+in 2019, but was 47.8F to 53.2F today, and I deliberately chose not to
+run with an ice hat.
+
+I do not think my hot-spot slowed me down, pre-intervals or during the
+intervals, but I do think it slowed me down considerably after.  I see
+the podiatrist Friday, but I race King of the Hill Saturday, so even
+if he thinks cortisone makes sense, I'll try to do it after KotH.
+
+So, I'm cautiously optimistic.
+
+========================================================================
+40.0# pack. Fasted until, 150 calories during. No analgesics. No ice hat. Panty
+Liners.  This is basically the same route I did the Monday before BMDM in 2019,
+when my average was 7:48.3 (taking elevation into account, like it is here).
+
+If I'm only 18.3 seconds per mile slower than 2019 and I don't fall
+apart at the end (due to, e.g., a broken upright or my hot-spot), I
+should break five hours, but I don't think I'm in the running to break
+four and a half.
+
+[master]% target/release/int_ave -c 3 ~/Downloads/Move_2023_03_13_08_00_00_Running.gpx 
+3.332642    1:15  8:02.9 0.00000 0.00000 2023-03-13 14:17:02 UTC 2023-03-13 14:18:17 UTC
+2.999143    1:15  8:56.6 0.00000 0.00000 2023-03-13 14:18:48 UTC 2023-03-13 14:20:03 UTC
+3.653317    1:15  7:20.5 0.00000 0.00000 2023-03-13 14:20:34 UTC 2023-03-13 14:21:49 UTC
+Average: 8:06.6
+
+========================================================================
+No pack. Not fasted. No analgesics. Late start. Kind of warm. Minor
+right foot hot-spot discomfort. Started just a little further downhill
+than normal, due to talking with John.  I did, however, "run" one AA
+lap prior to my intervals, which is something I haven't done in a while.
+
+This is the first set of twelve intervals that I've done since April
+10th.  This is almost as slow as February 27th, when I did them with a
+41.1 pound pack.  In 2018, when I was in my best shape, I ran these
+same intervals *after* jogging an AA lap first at a 7:06 minute
+per/mile pace on October 22nd, which was also the day after the Duke
+City Marathon, but I had done the White Mesa Fat Ass 50k the day
+before that...
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2023_04_10_08_00_00_Running.gpx 
+3.776243    1:15  7:06.1 0.00000 0.00000 2023-04-10 15:02:40 UTC 2023-04-10 15:03:55 UTC
+3.153623    1:15  8:30.3 0.00000 0.00000 2023-04-10 15:04:27 UTC 2023-04-10 15:05:42 UTC
+3.454241    1:15  7:45.9 0.00000 0.00000 2023-04-10 15:06:10 UTC 2023-04-10 15:07:25 UTC
+3.731305    1:15  7:11.3 0.00000 0.00000 2023-04-10 15:07:58 UTC 2023-04-10 15:09:13 UTC
+3.501596    1:15  7:39.6 0.00000 0.00000 2023-04-10 15:09:43 UTC 2023-04-10 15:10:58 UTC
+3.909505    1:15  6:51.6 0.00000 0.00000 2023-04-10 15:11:28 UTC 2023-04-10 15:12:43 UTC
+3.980323    1:15  6:44.3 0.00000 0.00000 2023-04-10 15:13:12 UTC 2023-04-10 15:14:27 UTC
+3.855071    1:15  6:57.4 0.00000 0.00000 2023-04-10 15:14:58 UTC 2023-04-10 15:16:13 UTC
+3.929643    1:15  6:49.5 0.00000 0.00000 2023-04-10 15:16:42 UTC 2023-04-10 15:17:57 UTC
+3.641217    1:15  7:21.9 0.00000 0.00000 2023-04-10 15:18:26 UTC 2023-04-10 15:19:41 UTC
+3.524432    1:15  7:36.6 0.00000 0.00000 2023-04-10 15:20:12 UTC 2023-04-10 15:21:27 UTC
+3.634178    1:15  7:22.8 0.00000 0.00000 2023-04-10 15:21:58 UTC 2023-04-10 15:23:13 UTC
+Average: 7:19.8
+
+FWIW, a year ago, I did mostly this same exercise and my average was
+7:20.4, although I did two AA laps prior to my intervals.  I did,
+however, start earlier in the day.  Offhand, I'd say I'm at least as
+fit as I was then, with the exception of my hot-spot.
+
+========================================================================
+Fasted. No pack. 1/4 distance taper for Cocodona 250.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave -c 3 ~/Downloads/Move_2023_04_24_08_00_Running.gpx 
+4.039896    1:15  6:38.3 0.00000 0.00000 2023-04-24 14:15:04 UTC 2023-04-24 14:16:19 UTC
+3.429328    1:15  7:49.2 0.00000 0.00000 2023-04-24 14:16:48 UTC 2023-04-24 14:18:03 UTC
+4.570009    1:15  5:52.1 0.00000 0.00000 2023-04-24 14:18:34 UTC 2023-04-24 14:19:49 UTC
+Average: 6:46.6
+
+This is better than my same 3 interval taper last year, but I didn't run the
+Cedro 50k on Saturday, so I'm not recovering from anything. Today was also
+probably much cooler than a year ago.  I didn't write the temperature down
+for a few days last year, but the temperatures on the day after and a few
+days before were both warmer.
+
+FWIW, the cooler temperatures *might* make the first day of C250 easier than
+it was two years ago (when I didn't run it).
+========================================================================
+No pack. Fasted.
+
+This isn't exactly the same route, because they're still doing construction
+where I normally do my intervals. So, I did them on the north portion of
+Harper, rather than the south. So it's comparable.
+
+Taper for Mt. Taylor 50k / Recovery from AA 50k & Tour of the Rio Grande
+
+Not particularly fast, especially compared to last year.  However,
+this was my first interval training since late April and I took a lot
+of time off from running after Western States, so I'm not at all
+surprised, especially since I'm 13.7 pounds heavier than a year ago.
+
+Oh well, at least my foot didn't slow me down.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave -c 3 ~/Downloads/Move_2023_09_25_08_32_00_Running.gpx 
+3.512035    1:15  7:38.2 0.00000 0.00000 2023-09-25 14:48:27 UTC 2023-09-25 14:49:42 UTC
+3.050452    1:15  8:47.5 0.00000 0.00000 2023-09-25 14:50:09 UTC 2023-09-25 14:51:24 UTC
+4.111517    1:15  6:31.4 0.00000 0.00000 2023-09-25 14:51:57 UTC 2023-09-25 14:53:12 UTC
+Average: 7:39
+
+========================================================================
+No pack. Fasted until I started consuming the three tablespoons of chia in
+my 20 oz. of water.
+
+I did not run an AA lap before or after the lap that included my
+intervals.  I probably would have, had we not already had an
+appointment to get our air switched from the swamp cooler to the
+heater. I had to be back in time to let Isaac in.
+
+
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2023_10_23_08_13_00_Running.gpx 
+3.342049    1:15  8:01.5 0.00000 0.00000 2023-10-23 14:29:52 UTC 2023-10-23 14:31:07 UTC
+2.861283    1:15  9:22.4 0.00000 0.00000 2023-10-23 14:31:37 UTC 2023-10-23 14:32:52 UTC
+3.041326    1:15  8:49.1 0.00000 0.00000 2023-10-23 14:33:23 UTC 2023-10-23 14:34:38 UTC
+3.223456    1:15  8:19.2 0.00000 0.00000 2023-10-23 14:35:06 UTC 2023-10-23 14:36:21 UTC
+3.126164    1:15  8:34.7 0.00000 0.00000 2023-10-23 14:36:46 UTC 2023-10-23 14:38:01 UTC
+3.653314    1:15  7:20.5 0.00000 0.00000 2023-10-23 14:38:38 UTC 2023-10-23 14:39:53 UTC
+3.742436    1:15  7:10.0 0.00000 0.00000 2023-10-23 14:40:22 UTC 2023-10-23 14:41:37 UTC
+3.688038    1:15  7:16.3 0.00000 0.00000 2023-10-23 14:42:07 UTC 2023-10-23 14:43:22 UTC
+3.538186    1:15  7:34.8 0.00000 0.00000 2023-10-23 14:43:53 UTC 2023-10-23 14:45:08 UTC
+3.534892    1:15  7:35.2 0.00000 0.00000 2023-10-23 14:45:36 UTC 2023-10-23 14:46:51 UTC
+3.366361    1:15  7:58.0 0.00000 0.00000 2023-10-23 14:47:21 UTC 2023-10-23 14:48:36 UTC
+3.347687    1:15  8:00.7 0.00000 0.00000 2023-10-23 14:49:07 UTC 2023-10-23 14:50:22 UTC
+Average: 8:00.2
+
+I understand why I'm so slow. I took a ridiculous amount of time off
+from running in general and an even greater time off from doing
+interval training.  On the other hand, I was able to count to twelve
+today, and it's nice to get back on the horse. And of course the worse
+I do, the more room for improvement I have.
+
+========================================================================
+No pack. Not fasted.
+
+I ran DPTR 53M on Saturday, so I didn't expect (or get!) good stats here.
+Still, it's nice to be back in the saddle.  Only ran one lap before doing
+the intervals because I'm still out of shape and ramping up.  I also didn't
+run a lap after.  Instead, I ran back to John and then walked and chatted
+with him until we got back to his truck.  I then walked and ran back home.
+I didn't have enough water with me to want to run the entire time.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2023_11_06_07_33_00_Running.gpx 
+3.080321    1:15  8:42.4 0.00000 0.00000 2023-11-06 15:34:23 UTC 2023-11-06 15:35:38 UTC
+2.988534    1:15  8:58.5 0.00000 0.00000 2023-11-06 15:36:07 UTC 2023-11-06 15:37:22 UTC
+2.930181    1:15  9:09.2 0.00000 0.00000 2023-11-06 15:37:52 UTC 2023-11-06 15:39:07 UTC
+3.052752    1:15  8:47.1 0.00000 0.00000 2023-11-06 15:39:37 UTC 2023-11-06 15:40:52 UTC
+3.290405    1:15  8:09.1 0.00000 0.00000 2023-11-06 15:41:18 UTC 2023-11-06 15:42:33 UTC
+3.201025    1:15  8:22.7 0.00000 0.00000 2023-11-06 15:43:09 UTC 2023-11-06 15:44:24 UTC
+3.641637    1:15  7:21.9 0.00000 0.00000 2023-11-06 15:44:52 UTC 2023-11-06 15:46:07 UTC
+3.420975    1:15  7:50.4 0.00000 0.00000 2023-11-06 15:46:40 UTC 2023-11-06 15:47:55 UTC
+3.642374    1:15  7:21.8 0.00000 0.00000 2023-11-06 15:48:25 UTC 2023-11-06 15:49:40 UTC
+3.801891    1:15  7:03.3 0.00000 0.00000 2023-11-06 15:50:08 UTC 2023-11-06 15:51:23 UTC
+3.717934    1:15  7:12.8 0.00000 0.00000 2023-11-06 15:51:54 UTC 2023-11-06 15:53:09 UTC
+3.367179    1:15  7:57.9 0.00000 0.00000 2023-11-06 15:53:38 UTC 2023-11-06 15:54:53 UTC
+Average: 8:04.7
+
+FWIW, this is better than November 9th, 2020, which was the Monday
+after DPTR 53M. In 2021 and 2022 I did the 106 M, so I'm not comparing
+myself to those years.  This year 106 M wasn't an option, but it
+should be in 2024.
+
+========================================================================
+42.3# pack. Not fasted.  Ice Hat. Panty liners.
+
+Ran one AA loop before starting my intervals and ran enough afterward
+to bring my total up to 13.1 miles.  I was sick enough yesterday that
+I stayed in bed all day, although part of that was due to the fact
+that I was in no shape to safely ride my unicycle and I was too
+stubborn to ride my bicycle instead.  Additionally, Sophie was much
+sicker and I wanted to be nearby in case she needed anything.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2023_11_13_06_44_00_Running.gpx 
+2.830200    1:15  9:28.6 0.00000 0.00000 2023-11-13 14:42:49 UTC 2023-11-13 14:44:04 UTC
+2.749426    1:15  9:45.3 0.00000 0.00000 2023-11-13 14:44:34 UTC 2023-11-13 14:45:49 UTC
+2.731474    1:15  9:49.1 0.00000 0.00000 2023-11-13 14:46:19 UTC 2023-11-13 14:47:34 UTC
+2.851636    1:15  9:24.3 0.00000 0.00000 2023-11-13 14:48:04 UTC 2023-11-13 14:49:19 UTC
+3.091899    1:15  8:40.5 0.00000 0.00000 2023-11-13 14:49:50 UTC 2023-11-13 14:51:05 UTC
+2.810579    1:15  9:32.6 0.00000 0.00000 2023-11-13 14:51:35 UTC 2023-11-13 14:52:50 UTC
+3.198780    1:15  8:23.1 0.00000 0.00000 2023-11-13 14:53:18 UTC 2023-11-13 14:54:33 UTC
+3.288445    1:15  8:09.3 0.00000 0.00000 2023-11-13 14:55:04 UTC 2023-11-13 14:56:19 UTC
+3.366303    1:15  7:58.0 0.00000 0.00000 2023-11-13 14:56:50 UTC 2023-11-13 14:58:05 UTC
+3.242199    1:15  8:16.3 0.00000 0.00000 2023-11-13 14:58:34 UTC 2023-11-13 14:59:49 UTC
+3.251014    1:15  8:15.0 0.00000 0.00000 2023-11-13 15:00:19 UTC 2023-11-13 15:01:34 UTC
+3.145188    1:15  8:31.6 0.00000 0.00000 2023-11-13 15:02:06 UTC 2023-11-13 15:03:21 UTC
+Average: 8:51.1
+
+So, the last time I did a full 12 intervals with a pack was February
+27th of this year.  By then I had been doing a lot of BMDM training,
+but my foot was starting to give me trouble.  Additionally, that was
+post Mount Taylor Winter Quadrathlon.  My average then was 8:21.4, so
+I'm 30 seconds per mile slower than when I was fairly slow.  However,
+it was probably cooler then and I didn't even run out to AA, much less
+do a loop around AA first, instead I parked at the library.
+
+Last year I skipped this training (i.e. pack intervals two days after
+the White Mesa Fat Ass 50k) entirely ("did not do: worked instead").
+
+Two years ago, I did this training, but "I was basically in no shape
+to do intervals of any sort today..." and my average was 9:08, but I
+did two AA laps before and I also wound up doing 13 intervals because
+I yanked my ear buds out of my ears.
+
+So, I'm actually very happy with my numbers from today, because my
+right foot didn't chirp at all and so I have plenty of room for
+improvement.
+
+========================================================================
+No pack. Fasted.
+
+Ran two AA loops before starting my intervals and ran one afterward,
+for a total of 15.55 miles.  This is the first time I've run two AA
+laps before since August 1st, 2022.  I also started just a little to
+the west of the north AA entrance, because that's when my watch ticked
+over to a new minute.
+
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2023_11_20_07_08_00_Running.gpx 
+3.306028    1:15  8:06.7 0.00000 0.00000 2023-11-20 15:56:11 UTC 2023-11-20 15:57:26 UTC
+3.087676    1:15  8:41.2 0.00000 0.00000 2023-11-20 15:57:55 UTC 2023-11-20 15:59:10 UTC
+2.894807    1:15  9:15.9 0.00000 0.00000 2023-11-20 15:59:39 UTC 2023-11-20 16:00:54 UTC
+3.341399    1:15  8:01.6 0.00000 0.00000 2023-11-20 16:01:27 UTC 2023-11-20 16:02:42 UTC
+3.340872    1:15  8:01.7 0.00000 0.00000 2023-11-20 16:03:09 UTC 2023-11-20 16:04:24 UTC
+3.389306    1:15  7:54.8 0.00000 0.00000 2023-11-20 16:04:58 UTC 2023-11-20 16:06:13 UTC
+3.660460    1:15  7:19.6 0.00000 0.00000 2023-11-20 16:06:41 UTC 2023-11-20 16:07:56 UTC
+3.494650    1:15  7:40.5 0.00000 0.00000 2023-11-20 16:08:28 UTC 2023-11-20 16:09:43 UTC
+3.762176    1:15  7:07.7 0.00000 0.00000 2023-11-20 16:10:12 UTC 2023-11-20 16:11:27 UTC
+3.645372    1:15  7:21.4 0.00000 0.00000 2023-11-20 16:11:54 UTC 2023-11-20 16:13:09 UTC
+3.629457    1:15  7:23.4 0.00000 0.00000 2023-11-20 16:13:39 UTC 2023-11-20 16:14:54 UTC
+3.491129    1:15  7:40.9 0.00000 0.00000 2023-11-20 16:15:25 UTC 2023-11-20 16:16:40 UTC
+Average: 7:52.9
+
+This is not fast for not having a pack, but yesterday I did a 41.3
+pound pack 5k at a 9:52 min/mile pace to cap off a 96 mile week that
+included four pack runs and a 38 mile run through the Magdalena
+mountains, so I'm not disappointed by this low average.  I assume I'll
+get faster as my body gets used to my new mileage.
+
+========================================================================
+40.4# pack. Not fasted.  Had a big bowl of peas before the run and 300
+calories of Tailwind during the run.  I wore my ice hat, without ice,
+over my fleece hat.  I did, however, "run" two laps around Albuquerque
+Academy before starting my intervals, something I haven't done with a
+pack since January 22nd, *2021*.
+
+I had a double espresso right before my run and should have had it
+earlier so I could use the bathroom once more before leaving.  Instead
+I had to use an emergency tree and still hit the bathroom at the
+library on my way back home.
+
+I started out with my iPod touch on random shuffle, but took my pack
+off before starting my intervals and put on Speed 3, however, it
+wasn't on repeat, so once those three songs played, it was silent
+until I eventually restarted it which was tricky because my fingers
+were still fairly cold from when I had my pack and gloves off to
+switch from random shuffle to Speed 34.
+
+Because my fingers weren't working well, I didn't shift my bottles
+back and forth, which meant that I lost count of how many intervals I
+did.  I wound up doing thirteen, all told, but one of my intervals
+and/or one of my rests may have been short.
+
+Normally I don't do pack intervals on the Monday after Bosque Bigfoot
+50k, but I ran that so slowly this year I decided to give it a go.  My
+stats are pretty bad, but I'm guessing I got a decent training effect.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave -c 13 ~/Downloads/Move_2023_11_27_06_57_00_Running.gpx 
+2.953770    1:15  9:04.8 0.00000 0.00000 2023-11-27 15:52:55 UTC 2023-11-27 15:54:10 UTC
+2.769470    1:15  9:41.1 0.00000 0.00000 2023-11-27 15:54:42 UTC 2023-11-27 15:55:57 UTC
+2.632971    1:15 10:11.2 0.00000 0.00000 2023-11-27 15:56:27 UTC 2023-11-27 15:57:42 UTC
+2.787209    1:15  9:37.4 0.00000 0.00000 2023-11-27 15:58:12 UTC 2023-11-27 15:59:27 UTC
+3.006649    1:15  8:55.2 0.00000 0.00000 2023-11-27 15:59:56 UTC 2023-11-27 16:01:11 UTC
+2.796372    1:15  9:35.5 0.00000 0.00000 2023-11-27 16:01:40 UTC 2023-11-27 16:02:55 UTC
+3.220570    1:15  8:19.7 0.00000 0.00000 2023-11-27 16:03:26 UTC 2023-11-27 16:04:41 UTC
+3.364736    1:15  7:58.2 0.00000 0.00000 2023-11-27 16:05:11 UTC 2023-11-27 16:06:26 UTC
+3.236170    1:15  8:17.2 0.00000 0.00000 2023-11-27 16:06:56 UTC 2023-11-27 16:08:11 UTC
+3.079516    1:15  8:42.5 0.00000 0.00000 2023-11-27 16:08:40 UTC 2023-11-27 16:09:55 UTC
+3.184495    1:15  8:25.3 0.00000 0.00000 2023-11-27 16:10:26 UTC 2023-11-27 16:11:41 UTC
+3.013732    1:15  8:54.0 0.00000 0.00000 2023-11-27 16:12:12 UTC 2023-11-27 16:13:27 UTC
+2.982669    1:15  8:59.5 0.00000 0.00000 2023-11-27 16:14:11 UTC 2023-11-27 16:15:26 UTC
+Average: 8:58.6
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2023_11_27_06_57_00_Running.gpx 
+2.769470    1:15  9:41.1 0.00000 0.00000 2023-11-27 15:54:42 UTC 2023-11-27 15:55:57 UTC
+2.632971    1:15 10:11.2 0.00000 0.00000 2023-11-27 15:56:27 UTC 2023-11-27 15:57:42 UTC
+2.787209    1:15  9:37.4 0.00000 0.00000 2023-11-27 15:58:12 UTC 2023-11-27 15:59:27 UTC
+3.006649    1:15  8:55.2 0.00000 0.00000 2023-11-27 15:59:56 UTC 2023-11-27 16:01:11 UTC
+2.796372    1:15  9:35.5 0.00000 0.00000 2023-11-27 16:01:40 UTC 2023-11-27 16:02:55 UTC
+3.220570    1:15  8:19.7 0.00000 0.00000 2023-11-27 16:03:26 UTC 2023-11-27 16:04:41 UTC
+3.364736    1:15  7:58.2 0.00000 0.00000 2023-11-27 16:05:11 UTC 2023-11-27 16:06:26 UTC
+3.236170    1:15  8:17.2 0.00000 0.00000 2023-11-27 16:06:56 UTC 2023-11-27 16:08:11 UTC
+3.079516    1:15  8:42.5 0.00000 0.00000 2023-11-27 16:08:40 UTC 2023-11-27 16:09:55 UTC
+3.184495    1:15  8:25.3 0.00000 0.00000 2023-11-27 16:10:26 UTC 2023-11-27 16:11:41 UTC
+3.013732    1:15  8:54.0 0.00000 0.00000 2023-11-27 16:12:12 UTC 2023-11-27 16:13:27 UTC
+2.982669    1:15  8:59.5 0.00000 0.00000 2023-11-27 16:14:11 UTC 2023-11-27 16:15:26 UTC
+Average: 8:58.1
+[master]% 
+
+========================================================================
+No pack. Not fasted.
+
+Ran two AA loops before starting my intervals and ran one afterward,
+for a total of 15.56 miles.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2023_12_04_07_11_00_Running.gpx 
+3.419826    1:15  7:50.5 0.00000 0.00000 2023-12-04 15:58:15 UTC 2023-12-04 15:59:30 UTC
+3.111914    1:15  8:37.1 0.00000 0.00000 2023-12-04 16:00:01 UTC 2023-12-04 16:01:16 UTC
+3.362300    1:15  7:58.6 0.00000 0.00000 2023-12-04 16:01:45 UTC 2023-12-04 16:03:00 UTC
+3.691532    1:15  7:15.9 0.00000 0.00000 2023-12-04 16:03:31 UTC 2023-12-04 16:04:46 UTC
+3.294682    1:15  8:08.4 0.00000 0.00000 2023-12-04 16:05:17 UTC 2023-12-04 16:06:32 UTC
+3.891147    1:15  6:53.5 0.00000 0.00000 2023-12-04 16:07:01 UTC 2023-12-04 16:08:16 UTC
+3.937536    1:15  6:48.7 0.00000 0.00000 2023-12-04 16:08:46 UTC 2023-12-04 16:10:01 UTC
+3.975873    1:15  6:44.7 0.00000 0.00000 2023-12-04 16:10:30 UTC 2023-12-04 16:11:45 UTC
+3.981213    1:15  6:44.2 0.00000 0.00000 2023-12-04 16:12:16 UTC 2023-12-04 16:13:31 UTC
+3.606595    1:15  7:26.2 0.00000 0.00000 2023-12-04 16:14:01 UTC 2023-12-04 16:15:16 UTC
+3.686706    1:15  7:16.5 0.00000 0.00000 2023-12-04 16:15:44 UTC 2023-12-04 16:16:59 UTC
+3.660303    1:15  7:19.6 0.00000 0.00000 2023-12-04 16:17:31 UTC 2023-12-04 16:18:46 UTC
+Average: 7:25.3
+
+This is significantly faster than when I did the same thing on November 20th,
+however it was colder today and I was not fasted.  Furthermore, I had run
+the Socorro Souls of Solstice the previous Saturday whereas this Saturday
+I merely did my 15 mile ruck race run.
+
+For packless non-fasted, this is not very fast, but I think it bodes
+well for this BMDM training block.
+========================================================================
+40.3# pack. Not fasted. 200mg ibuprofen Ice hat. No AA laps before
+intervals and no AA laps after. Did not have hand warmers inside my
+gloves but still had difficulty switching bottles between hands, which
+led to some of my breaks being longer than 30 seconds, but I made up
+for it by shortening others.
+
+I've been having some trouble with both of my knees, although my right
+one has been complaining more, I believe.  I attribute this to my
+Sunday unicycle rides, especially the two I did after doing a pack run
+in the morning (as part of my Black Friday to Christmas Eve 5k
+challenge).  I know from my previous experience earlier in the year
+that unicycle riding affects my knees and requires
+adaptation. Dropping back from daily unicycle riding to once a week at
+most and then adding a pack run to it before is probably why my knees
+have been bothering me.
+
+I am not sure what's up with my right foot, but it's starting to
+complain again and that's the biggest reason I didn't do any
+pre-interval or post-interval AA laps with my ruck today.  I do not
+want my foot interfering with my BMDM training, so I'm going to cut
+out a lot of my junk mileage.  That may make me less prepared for
+Cocodona 250 this year, but I may not do Cocodona 250 this year and I
+*certainly* won't if my right foot problem doesn't go away.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2023_12_11_07_29_00_Running.gpx 
+3.055557    1:15  8:46.6 0.00000 0.00000 2023-12-11 14:47:54 UTC 2023-12-11 14:49:09 UTC
+2.822046    1:15  9:30.2 0.00000 0.00000 2023-12-11 14:49:38 UTC 2023-12-11 14:50:53 UTC
+2.859696    1:15  9:22.7 0.00000 0.00000 2023-12-11 14:51:23 UTC 2023-12-11 14:52:38 UTC
+3.026970    1:15  8:51.6 0.00000 0.00000 2023-12-11 14:53:09 UTC 2023-12-11 14:54:24 UTC
+3.231702    1:15  8:17.9 0.00000 0.00000 2023-12-11 14:54:53 UTC 2023-12-11 14:56:08 UTC
+3.088591    1:15  8:41.0 0.00000 0.00000 2023-12-11 14:56:39 UTC 2023-12-11 14:57:54 UTC
+3.337226    1:15  8:02.2 0.00000 0.00000 2023-12-11 14:58:24 UTC 2023-12-11 14:59:39 UTC
+3.431426    1:15  7:49.0 0.00000 0.00000 2023-12-11 15:00:23 UTC 2023-12-11 15:01:38 UTC
+3.305848    1:15  8:06.8 0.00000 0.00000 2023-12-11 15:02:10 UTC 2023-12-11 15:03:25 UTC
+3.329239    1:15  8:03.3 0.00000 0.00000 2023-12-11 15:04:00 UTC 2023-12-11 15:05:15 UTC
+3.320072    1:15  8:04.7 0.00000 0.00000 2023-12-11 15:05:25 UTC 2023-12-11 15:06:40 UTC
+3.231344    1:15  8:18.0 0.00000 0.00000 2023-12-11 15:07:08 UTC 2023-12-11 15:08:23 UTC
+Average: 8:29.5
+
+This is about thirty seconds per mile faster than I did on November 27th,
+but that was the Monday after Bosque Bigfoot 50k *and* I had even more
+trouble juggling my handhelds then than I did today, *AND* I had run two
+junk AA laps prior to beginning my intervals.
+
+This is only 8.1 seconds per mile slower than my February 27th, 2022
+intervals and on that day I didn't even run from my house before doing
+my intervals; I drove to the Cherry Hills Library parking lot.  That
+was also deeper into my BMDM training than I am now.
+
+Bottom line, I'm still far off my peak for BMDM training, but I'm not
+too far off where I was last year and assuming I can keep my right
+foot healthy, I'll exceed my fitness from last year.
+
+========================================================================
+Not fasted. No pack. Did my intervals on my *first* AA lap, which is
+cheating, but I was nervous that my right knee would chirp enough that
+my first would be my only lap, but that wasn't the case.  I had a serving
+of fortified oatmeal (albeit without the Udo's Oil, because we're out and
+Amazon messed up the replacement order) at 5:40, but I ran with water (i.e.,
+no additional calories).  I took 200mg of ibuprofen to make sure that I
+could do my intervals.
+
+[master]% ~/playpens/rust/nom_fun/target/release/int_ave ~/Downloads/Move_2023_12_18_06_55_00_Running.gpx 
+3.684040    1:15  7:16.8 0.00000 0.00000 2023-12-18 14:12:42 UTC 2023-12-18 14:13:57 UTC
+3.172274    1:15  8:27.3 0.00000 0.00000 2023-12-18 14:14:28 UTC 2023-12-18 14:15:43 UTC
+3.209748    1:15  8:21.3 0.00000 0.00000 2023-12-18 14:16:15 UTC 2023-12-18 14:17:30 UTC
+3.615587    1:15  7:25.1 0.00000 0.00000 2023-12-18 14:18:01 UTC 2023-12-18 14:19:16 UTC
+3.365841    1:15  7:58.1 0.00000 0.00000 2023-12-18 14:19:44 UTC 2023-12-18 14:20:59 UTC
+4.021380    1:15  6:40.1 0.00000 0.00000 2023-12-18 14:21:31 UTC 2023-12-18 14:22:46 UTC
+4.037927    1:15  6:38.5 0.00000 0.00000 2023-12-18 14:23:15 UTC 2023-12-18 14:24:30 UTC
+3.945716    1:15  6:47.8 0.00000 0.00000 2023-12-18 14:25:01 UTC 2023-12-18 14:26:16 UTC
+4.113428    1:15  6:31.2 0.00000 0.00000 2023-12-18 14:26:44 UTC 2023-12-18 14:27:59 UTC
+3.831257    1:15  7:00.0 0.00000 0.00000 2023-12-18 14:28:30 UTC 2023-12-18 14:29:45 UTC
+3.636368    1:15  7:22.5 0.00000 0.00000 2023-12-18 14:30:14 UTC 2023-12-18 14:31:29 UTC
+3.827412    1:15  7:00.4 0.00000 0.00000 2023-12-18 14:32:01 UTC 2023-12-18 14:33:16 UTC
+Average: 7:17.4
+
+This is my fastest average in a long time, although the cheating (not
+running one, much less two AA laps prior) probably helped.  I got a
+6:51.7 back on January 16th of this year, and it was significantly
+hotter then.  Additionally, last year on December 5th my average was
+7:00.6 and it was hotter then, too. So, I am making nice progress, but
+I'm still below my fitness level from last year, much less from my
+peak year.

@@ -1,0 +1,5 @@
+I'm now putting each year's intervals in separate files, but I'm also
+keeping the original monday_interval.txt file intact, since I have
+links into it from my BMDM training pages.
+
+
