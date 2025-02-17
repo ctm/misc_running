@@ -86,3 +86,26 @@ house.  It was, however, fairly cool, and that explains some of the
 results.  I also didn't exercise much over the weekend. I didn't push
 myself very hard at the snowshoe race and didn't exercise at all
 yesterday.
+
+========================================================================
+41.0# pack. Not fasted, ~300 calories during. No analgesics. Ice hat,
+albeit with no ice.  Bonus caffeine.  No water before. Only ran a
+total of 3.07 miles since I plan on going out again with mom, later.
+
+[master]% target/release/int_ave -c 6 ~/Downloads/Move_2025_02_17_08_52_00_Running.gpx 
+3.695188    1:15  7:15.5 0.00000 0.00000 2025-02-17 09:07:24 MST 2025-02-17 09:08:39 MST
+3.272961    1:15  8:11.7 0.00000 0.00000 2025-02-17 09:09:09 MST 2025-02-17 09:10:24 MST
+3.134023    1:15  8:33.5 0.00000 0.00000 2025-02-17 09:10:54 MST 2025-02-17 09:12:09 MST
+3.375464    1:15  7:56.7 0.00000 0.00000 2025-02-17 09:12:40 MST 2025-02-17 09:13:55 MST
+3.315761    1:15  8:05.3 0.00000 0.00000 2025-02-17 09:14:24 MST 2025-02-17 09:15:39 MST
+3.153714    1:15  8:30.3 0.00000 0.00000 2025-02-17 09:16:09 MST 2025-02-17 09:17:24 MST
+Average: 8:05.5
+
+Not particularly good, considering I only did six intervals (which was
+my plan, due to the Mt. Taylor Winter Quadrathlon Saturday). OTOH, my
+first interval was pretty good.  My lungs got pretty upset and I was
+doing a lot of coughing and spitting toward the end.
+
+It was, however, relatively hot and I did start out relatively late in
+the day.  Considering I didn't even get out of bed a week ago, I'm OK
+with how I did.
