@@ -109,3 +109,33 @@ doing a lot of coughing and spitting toward the end.
 It was, however, relatively hot and I did start out relatively late in
 the day.  Considering I didn't even get out of bed a week ago, I'm OK
 with how I did.
+
+========================================================================
+40.2# pack. Not fasted, ~280 calories during. No analgesics. Ice hat,
+filled with ice.  Bonus caffeine.  16 oz. water before. Only ran a
+total of 3.58 miles since I had to go to poop very badly toward the
+end (barely made it into the house). I suspect my full gut slowed me
+down a bit.
+
+[master]% target/release/int_ave ~/Downloads/Move_2025_02_24_07_09_00_Running.gpx 
+3.685445    1:15  7:16.6 0.00000 0.00000 2025-02-24 07:25:45 MST 2025-02-24 07:27:00 MST
+3.237574    1:15  8:17.0 0.00000 0.00000 2025-02-24 07:27:29 MST 2025-02-24 07:28:44 MST
+3.193781    1:15  8:23.8 0.00000 0.00000 2025-02-24 07:29:14 MST 2025-02-24 07:30:29 MST
+3.272190    1:15  8:11.8 0.00000 0.00000 2025-02-24 07:30:59 MST 2025-02-24 07:32:14 MST
+3.498830    1:15  7:39.9 0.00000 0.00000 2025-02-24 07:32:42 MST 2025-02-24 07:33:57 MST
+3.135291    1:15  8:33.2 0.00000 0.00000 2025-02-24 07:34:28 MST 2025-02-24 07:35:43 MST
+3.272228    1:15  8:11.8 0.00000 0.00000 2025-02-24 07:36:14 MST 2025-02-24 07:37:29 MST
+3.257503    1:15  8:14.0 0.00000 0.00000 2025-02-24 07:37:59 MST 2025-02-24 07:39:14 MST
+3.206183    1:15  8:21.9 0.00000 0.00000 2025-02-24 07:39:44 MST 2025-02-24 07:40:59 MST
+3.366303    1:15  7:58.0 0.00000 0.00000 2025-02-24 07:41:29 MST 2025-02-24 07:42:44 MST
+3.291306    1:15  8:08.9 0.00000 0.00000 2025-02-24 07:43:14 MST 2025-02-24 07:44:29 MST
+3.400800    1:15  7:53.2 0.00000 0.00000 2025-02-24 07:44:59 MST 2025-02-24 07:46:14 MST
+Average: 8:05.9
+
+Not my best pack intervals around mom's house, but good enough.  I got
+off to a slightly late start due to interacting with mom. After I
+jogged two loops, I was getting ready to run and I realized my chest
+strap wasn't attached, so I didn't take off at the :00 that I expected
+to, in fact, I think I wound up chewing up two minutes in correcting
+various stuff that I hadn't gotten right. I did, however, count to
+twelve nicely.
