@@ -190,3 +190,34 @@ of the Hill (10k ruck) is on Saturday.
 
 There's still a chance that I'll do more ruck intervals today, but I
 doubt it.
+
+========================================================================
+40.6# pack. Not fasted. ~300 calories during. No analgesics. Ice hat,
+filled with ice. Bonus caffeine. No water before. I only meant to do
+six intervals today, so I reversed direction after three, but that was
+enough to screw up my memory of when to stop and start. Consequently,
+my fifth interval is anomalously slow.  Unfortunately, either Coros or
+Strava (or both) do enough averaging that it's hard for me to eyeball
+the exact details of my mistake just from looking at the graph of my
+pace on Strava.  Oh well.
+
+[master]% target/release/int_ave -c 6 ~/Downloads/Move_2025_03_10_07_01_00_Running.gpx 
+3.746167    1:15  7:09.5 0.00000 0.00000 2025-03-10 07:16:50 MDT 2025-03-10 07:18:05 MDT
+3.419256    1:15  7:50.6 0.00000 0.00000 2025-03-10 07:18:33 MDT 2025-03-10 07:19:48 MDT
+3.277167    1:15  8:11.0 0.00000 0.00000 2025-03-10 07:20:19 MDT 2025-03-10 07:21:34 MDT
+3.495912    1:15  7:40.3 0.00000 0.00000 2025-03-10 07:22:04 MDT 2025-03-10 07:23:19 MDT
+3.193121    1:15  8:24.0 0.00000 0.00000 2025-03-10 07:24:03 MDT 2025-03-10 07:25:18 MDT
+3.235916    1:15  8:17.3 0.00000 0.00000 2025-03-10 07:25:50 MDT 2025-03-10 07:27:05 MDT
+Average: 7:55.5
+
+These numbers suggest I'm doing OK. The 7:09 pace for my first
+interval is not my fastest (I got a 6:56 on December 30th, 2024), but
+it's pretty good and my first four intervals today averaged 7:42.9,
+whereas on December 30th, the average of my first four was 7:48.4.
+
+It's funny.  I prefer to do my intervals from *my* house (not my
+mom's), because they start uphill, but I've been doing them from my
+mom's due to not wanting to take the time to drive to my house only to
+do some intervals and drive back. However, this year they nerved the
+BMDM course and took out Mineral Hill, so perhaps doing my speed work
+on level ground wasn't as bad as I thought it was.
