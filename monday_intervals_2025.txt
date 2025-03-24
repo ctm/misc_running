@@ -245,3 +245,22 @@ Wednesday will be my 1/4 distance speed run and I'll do it from *my*
 house, not my mom's.  I'll be able to compare that time to last
 year's, but that won't tell me a lot since I think I've lost a lot of
 endurance over this last year.
+
+========================================================================
+No pack. Fasted. No calories during. No analgesics. No ice hat.
+No bonus caffeine. No water before. Lorpen "padded" socks.
+
+[master]% target/release/int_ave -c 3 ~/Downloads/Move_2025_03_24_08_31_00_Running.gpx 
+4.362206    1:15  6:08.9 0.00000 0.00000 2025-03-24 08:38:44 MDT 2025-03-24 08:39:59 MDT
+3.716065    1:15  7:13.0 0.00000 0.00000 2025-03-24 08:40:27 MDT 2025-03-24 08:41:42 MDT
+3.989127    1:15  6:43.4 0.00000 0.00000 2025-03-24 08:42:13 MDT 2025-03-24 08:43:28 MDT
+Average: 6:41.8
+
+BMDM was Saturday. This was basically me just going through the
+montions.  I deliberately started late so it would be warm for mom,
+then she wore her heavy jacket anyway.
+
+I do not have anything to compare this to, because a year ago mom
+hadn't had her stroke. The anniversary of her stroke is this Thursday,
+March 27th, but I didn't start doing intervals around her house until
+August 26th, 2024.
