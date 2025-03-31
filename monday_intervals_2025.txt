@@ -264,3 +264,35 @@ I do not have anything to compare this to, because a year ago mom
 hadn't had her stroke. The anniversary of her stroke is this Thursday,
 March 27th, but I didn't start doing intervals around her house until
 August 26th, 2024.
+
+========================================================================
+No pack. Fasted. No calories during. No analgesics. No ice hat.
+No bonus caffeine. No water before. Double socks.
+
+[master]% target/release/int_ave ~/Downloads/Move_2025_03_31_07_11_99_Running.gpx 
+4.272126    1:15  6:16.7 0.00000 0.00000 2025-03-31 07:23:48 MDT 2025-03-31 07:25:03 MDT
+3.896964    1:15  6:52.9 0.00000 0.00000 2025-03-31 07:25:35 MDT 2025-03-31 07:26:50 MDT
+3.622797    1:15  7:24.2 0.00000 0.00000 2025-03-31 07:27:19 MDT 2025-03-31 07:28:34 MDT
+4.166438    1:15  6:26.2 0.00000 0.00000 2025-03-31 07:29:04 MDT 2025-03-31 07:30:19 MDT
+3.760800    1:15  7:07.9 0.00000 0.00000 2025-03-31 07:30:50 MDT 2025-03-31 07:32:05 MDT
+3.641331    1:15  7:21.9 0.00000 0.00000 2025-03-31 07:32:33 MDT 2025-03-31 07:33:48 MDT
+3.952974    1:15  6:47.1 0.00000 0.00000 2025-03-31 07:34:20 MDT 2025-03-31 07:35:35 MDT
+3.878946    1:15  6:54.8 0.00000 0.00000 2025-03-31 07:36:05 MDT 2025-03-31 07:37:20 MDT
+3.817905    1:15  7:01.5 0.00000 0.00000 2025-03-31 07:37:48 MDT 2025-03-31 07:39:03 MDT
+3.766916    1:15  7:07.2 0.00000 0.00000 2025-03-31 07:39:37 MDT 2025-03-31 07:40:52 MDT
+3.928970    1:15  6:49.6 0.00000 0.00000 2025-03-31 07:41:21 MDT 2025-03-31 07:42:36 MDT
+3.695635    1:15  7:15.4 0.00000 0.00000 2025-03-31 07:43:04 MDT 2025-03-31 07:44:19 MDT
+Average: 6:57.1
+
+These are my fastest twelve intervals at mom's house, but that's not
+saying much.  I've done faster on my old route around Albuquerque
+Academy and those are typically slower because they start uphill.
+Furthermore, most of my intervals at mom's house have been with my
+pack.
+
+FWIW, myfirst was slowed down a bit because the strap on my GPS watch
+wasn't tight enough so my watch slipped off and then started changing
+screens.
+
+I'll take this as a baseline and try to improve in the future,
+although the increasing heat will make it tough.
