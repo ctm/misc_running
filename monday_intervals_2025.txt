@@ -296,3 +296,39 @@ screens.
 
 I'll take this as a baseline and try to improve in the future,
 although the increasing heat will make it tough.
+
+========================================================================
+No pack. Fasted. No calories during. No analgesics. No ice hat.  No
+bonus caffeine. No water before. Single pair of ancient Balega socks.
+I had already done two hours of TOMF (time on my feet) with a 52.0
+pound pack, and it was heating up.
+
+
+[master]% target/release/int_ave ~/Downloads/Move_2025_04_28_08_40_00_Running.gpx 
+4.323889    1:15  6:12.1 0.00000 0.00000 2025-04-28 08:55:54 MDT 2025-04-28 08:57:09 MDT
+3.768853    1:15  7:07.0 0.00000 0.00000 2025-04-28 08:57:39 MDT 2025-04-28 08:58:54 MDT
+3.716473    1:15  7:13.0 0.00000 0.00000 2025-04-28 08:59:23 MDT 2025-04-28 09:00:38 MDT
+3.844579    1:15  6:58.6 0.00000 0.00000 2025-04-28 09:01:09 MDT 2025-04-28 09:02:24 MDT
+3.575656    1:15  7:30.0 0.00000 0.00000 2025-04-28 09:02:53 MDT 2025-04-28 09:04:08 MDT
+3.518073    1:15  7:37.4 0.00000 0.00000 2025-04-28 09:04:37 MDT 2025-04-28 09:05:52 MDT
+3.559868    1:15  7:32.0 0.00000 0.00000 2025-04-28 09:06:22 MDT 2025-04-28 09:07:37 MDT
+3.669972    1:15  7:18.5 0.00000 0.00000 2025-04-28 09:08:08 MDT 2025-04-28 09:09:23 MDT
+3.413336    1:15  7:51.4 0.00000 0.00000 2025-04-28 09:09:52 MDT 2025-04-28 09:11:07 MDT
+3.686127    1:15  7:16.5 0.00000 0.00000 2025-04-28 09:11:37 MDT 2025-04-28 09:12:52 MDT
+3.597389    1:15  7:27.3 0.00000 0.00000 2025-04-28 09:13:25 MDT 2025-04-28 09:14:40 MDT
+3.398800    1:15  7:53.5 0.00000 0.00000 2025-04-28 09:15:10 MDT 2025-04-28 09:16:25 MDT
+Average: 7:19.8
+
+I got a bit self-conscious because I am sort of trying to improve my
+running economy and I know darn well that this particular training
+isn't the best for that.  OTOH, I that *overall* this training (*especially
+when done at Albuquerque Academy) is pretty worthwhile and although I hope
+to get some decent running economy gains in the remainder of 2025, I still
+have a lot of fitness to regain (and some weight to lose).
+
+I lost track of when I was supposed to stop on two different
+occasions.  Looking at my profile, I'd say it was on my seventh and
+tenth interval.
+
+All things considered, I'm OK with my results, but ecstatic that I've
+gotten back on the horse. Plenty of room for improvement.
