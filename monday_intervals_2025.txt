@@ -332,3 +332,31 @@ tenth interval.
 
 All things considered, I'm OK with my results, but ecstatic that I've
 gotten back on the horse. Plenty of room for improvement.
+
+========================================================================
+No pack. Fasted. No calories during. No analgesics. No ice hat.  No
+bonus caffeine. No water before. Single pair of ancient Balega socks.
+Heat suit: Jackie tights, BF200 t-shirt, ARR long sleeve shirt, Ehunmilak
+2014 polypro with hood over fleece hat, Costco gloves, Avidya sunglasses.
+
+This was done on the La Cueva track.
+
+[master]% target/release/int_ave -c 1 -d 30 ~/Downloads/Move_2025_06_27_08_47_00_Running.gpx 
+<30 ~/Downloads/Move_2025_06_27_08_47_00_Running.gpx 
+5.276123      30  5:05.0 0.00000 0.00000 2025-06-27 08:49:07 MDT 2025-06-27 08:49:37 MDT
+Average: 5:05
+
+I was doing these with Iris. We started out using my watch to start on
+the :00 and to recover on the :30, but she preferred to use her watch,
+which apparently was enough to prevent my extracting software from
+finding the intervals, so it only found one.
+
+I do not have any track intervals to compare this to and I don't plan
+on doing more, per-se, but I figured I'd add this entry to this file
+for completeness sake.
+
+Oh, FTR, I still have substantial swelling around my right cuboid bone
+and even though I cut a couple incisions in an old pair of Olympus 6,
+my foot complained a bit on the jog over to La Cueva. It didn't really
+complain much during the intervals though.  Go figure.
+
