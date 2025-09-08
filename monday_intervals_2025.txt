@@ -360,3 +360,47 @@ and even though I cut a couple incisions in an old pair of Olympus 6,
 my foot complained a bit on the jog over to La Cueva. It didn't really
 complain much during the intervals though.  Go figure.
 
+========================================================================
+No pack. Not fasted due to walking mom and eating afterward. No
+calories during.  No analgesics. No ice hat. Bonus caffeine (black
+coffee after walking mom).  Footbed on top of my orthotics. Single
+pair of Balega socks.
+
+When I went to bed last night, my plan was to run intervals while mom
+did the first 0.66 mile loop by herself. She's been walking strongly
+for the last few weeks, albeit with a very shaky day in the early part
+of last week. Turns out today was an almost as shaky day, so I walked
+with her.  On top of that, Marcia was coming over to take mom to a
+podiatrist appointment, so I made various food (crucifers, salads,
+lentils) until mom was successfully out.
+
+So, it was tempting to simply put off intervals for another week, but
+I decided to do them, do a poor job but at least pat myself on the
+back for being able to count to twelve.  When I'm more fit and
+uninjured, intervals are sufficiently taxing that I lose count. Today,
+however, they weren't taxing, but I still lost count and did fourteen.
+Not only that, but I did them so poorly that my extraction software
+could only find nine, but if I count the bumps in Strava or the Coros
+app, there are clearly fourteen.
+
+[master]% target/release/int_ave -c 13 ~/Downloads/Move_2025_09_08_10_05_00_Running.gpx 
+target/release/int_ave -c 13 ~/Downloads/Move_2025_09_08_10_05_00_Running.gpx 
+4.288268    1:15  6:15.2 0.00000 0.00000 2025-09-08 10:13:35 MDT 2025-09-08 10:14:50 MDT
+3.223402    1:15  8:19.2 0.00000 0.00000 2025-09-08 10:15:20 MDT 2025-09-08 10:16:35 MDT
+3.271874    1:15  8:11.8 0.00000 0.00000 2025-09-08 10:17:05 MDT 2025-09-08 10:18:20 MDT
+3.428729    1:15  7:49.3 0.00000 0.00000 2025-09-08 10:18:51 MDT 2025-09-08 10:20:06 MDT
+3.327725    1:15  8:03.6 0.00000 0.00000 2025-09-08 10:20:34 MDT 2025-09-08 10:21:49 MDT
+3.041545    1:15  8:49.1 0.00000 0.00000 2025-09-08 10:22:20 MDT 2025-09-08 10:23:35 MDT
+3.249140    1:15  8:15.3 0.00000 0.00000 2025-09-08 10:24:35 MDT 2025-09-08 10:25:50 MDT
+3.252952    1:15  8:14.7 0.00000 0.00000 2025-09-08 10:26:19 MDT 2025-09-08 10:27:34 MDT
+3.140649    1:15  8:32.4 0.00000 0.00000 2025-09-08 10:28:06 MDT 2025-09-08 10:29:21 MDT
+Average: 8:03.4
+
+thread 'main' panicked at src/gpx.rs:326:13:
+Was told to find 13 intervals, but found 9
+
+Considering how out of shape I am, 6:15 isn't too bad of a pace for my
+first interval, but all the others suck.  Better than nothing and also
+a super low bar that will make intervals a week from now exciting
+since I'll trivially beat those. Perhaps I'll even be able to count to
+twelve.
