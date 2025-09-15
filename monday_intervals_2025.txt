@@ -404,3 +404,40 @@ first interval, but all the others suck.  Better than nothing and also
 a super low bar that will make intervals a week from now exciting
 since I'll trivially beat those. Perhaps I'll even be able to count to
 twelve.
+
+========================================================================
+No pack. Fasted. No calories during. No analgesics. No ice hat. Bonus
+Caffeine (black coffee while cooking the garlic batard for
+mom). Footbed on top of my orthotics. White socks over Balega socks.
+
+Didn't notice yesterday evening that mom was almost out of her garlic
+batard.  I saw she had the heel left, but turns out, she ate it for
+dinner. So, when we got back from her walk, I needed to pre-heat the
+oven to 400F, then bake the batard for thirteen minutes before I could
+do my intervals.  So, I got off earlier than last week, but not as
+early as I had planned.
+
+I did, however, count to twelve properly, beginning and ending each of
+my intervals at the right time.  My average speed is horrible, but
+better than last week.
+
+[master]% target/release/int_ave ~/Downloads/Move_2025_09_15_08_14_00_Running.gpx 
+4.136349    1:15  6:29.0 0.00000 0.00000 2025-09-15 08:22:39 MDT 2025-09-15 08:23:54 MDT
+3.438113    1:15  7:48.0 0.00000 0.00000 2025-09-15 08:24:23 MDT 2025-09-15 08:25:38 MDT
+3.336074    1:15  8:02.4 0.00000 0.00000 2025-09-15 08:26:08 MDT 2025-09-15 08:27:23 MDT
+3.462317    1:15  7:44.8 0.00000 0.00000 2025-09-15 08:27:55 MDT 2025-09-15 08:29:10 MDT
+3.346457    1:15  8:00.9 0.00000 0.00000 2025-09-15 08:29:37 MDT 2025-09-15 08:30:52 MDT
+3.183431    1:15  8:25.5 0.00000 0.00000 2025-09-15 08:31:22 MDT 2025-09-15 08:32:37 MDT
+3.493312    1:15  7:40.6 0.00000 0.00000 2025-09-15 08:33:08 MDT 2025-09-15 08:34:23 MDT
+3.517645    1:15  7:37.5 0.00000 0.00000 2025-09-15 08:34:54 MDT 2025-09-15 08:36:09 MDT
+3.338568    1:15  8:02.0 0.00000 0.00000 2025-09-15 08:36:40 MDT 2025-09-15 08:37:55 MDT
+3.319807    1:15  8:04.7 0.00000 0.00000 2025-09-15 08:38:23 MDT 2025-09-15 08:39:38 MDT
+3.276907    1:15  8:11.1 0.00000 0.00000 2025-09-15 08:40:08 MDT 2025-09-15 08:41:23 MDT
+3.414396    1:15  7:51.3 0.00000 0.00000 2025-09-15 08:41:53 MDT 2025-09-15 08:43:08 MDT
+Average: 7:49.8
+
+It's frustrating to have lost so much fitness, but I only have myself
+to blame.  OTOH, I should make newbie gains over the next several
+weeks.  I also can't compare myself to last year, because I was doing
+pack intervals at this time of year. Considering the issues with my
+right foot, I'm not going to do pack intervals until after DCM.
