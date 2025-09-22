@@ -441,3 +441,39 @@ to blame.  OTOH, I should make newbie gains over the next several
 weeks.  I also can't compare myself to last year, because I was doing
 pack intervals at this time of year. Considering the issues with my
 right foot, I'm not going to do pack intervals until after DCM.
+
+========================================================================
+No pack. Fasted. No calories during. No analgesics. Ice hat. Bonus
+Caffeine (double espresso). Footbed on top of my orthotics. White
+socks over Balega socks.
+
+I got off to a late start due to mom having sufficient issues that I
+hung out while she made and ate breakfast. Even with the late start,
+however, today was the first time my intervals felt like a normal part
+of my routine. Let's see if I can keep it that way.
+
+[master]% target/release/int_ave ~/Downloads/Move_2025_09_22_08_27_00_Running.gpx 
+4.128423    1:15  6:29.8 0.00000 0.00000 2025-09-22 08:34:52 MDT 2025-09-22 08:36:07 MDT
+3.549811    1:15  7:33.3 0.00000 0.00000 2025-09-22 08:36:32 MDT 2025-09-22 08:37:47 MDT
+3.527257    1:15  7:36.2 0.00000 0.00000 2025-09-22 08:38:18 MDT 2025-09-22 08:39:33 MDT
+3.658870    1:15  7:19.8 0.00000 0.00000 2025-09-22 08:40:05 MDT 2025-09-22 08:41:20 MDT
+3.504947    1:15  7:39.1 0.00000 0.00000 2025-09-22 08:41:49 MDT 2025-09-22 08:43:04 MDT
+3.318621    1:15  8:04.9 0.00000 0.00000 2025-09-22 08:43:34 MDT 2025-09-22 08:44:49 MDT
+3.534583    1:15  7:35.3 0.00000 0.00000 2025-09-22 08:45:20 MDT 2025-09-22 08:46:35 MDT
+3.617119    1:15  7:24.9 0.00000 0.00000 2025-09-22 08:47:03 MDT 2025-09-22 08:48:18 MDT
+2.948265    1:15  9:05.8 0.00000 0.00000 2025-09-22 08:48:48 MDT 2025-09-22 08:50:03 MDT
+3.380073    1:15  7:56.1 0.00000 0.00000 2025-09-22 08:50:21 MDT 2025-09-22 08:51:36 MDT
+3.450255    1:15  7:46.4 0.00000 0.00000 2025-09-22 08:52:04 MDT 2025-09-22 08:53:19 MDT
+3.305767    1:15  8:06.8 0.00000 0.00000 2025-09-22 08:53:51 MDT 2025-09-22 08:55:06 MDT
+Average: 7:43.2
+
+This is better than it looks. Honest. I screwed up my ninth interval
+and stopped running early, which probably bumped my average up by
+about five seconds, although it probably also slightly decreased the
+training benefit I get from this exercise.
+
+This Saturday is the Mt. Taylor 50k. The next day would normally be
+the Tour of the Rio Grande Bicycle Century, but it's being held
+virtually this year and my bike is in the shop, so I'm going to try to
+unicycle 19.5 miles (the shortest ToRGBC distance) Sunday, which means
+next week's intervals will probably take a hit.
