@@ -477,3 +477,68 @@ the Tour of the Rio Grande Bicycle Century, but it's being held
 virtually this year and my bike is in the shop, so I'm going to try to
 unicycle 19.5 miles (the shortest ToRGBC distance) Sunday, which means
 next week's intervals will probably take a hit.
+
+========================================================================
+No pack. Fasted. No calories during. No analgesics. Ice hat. No extra
+caffeine. Footbed on top of my orthotics. Single pair RNNR socks.
+
+I got off to a late start due to my walk with mom starting about a
+half hour late and me needing to spend a little time with her as she
+made her breakfast because I accidentally threw her routine off when I
+mentioned that she could throw away her egg shell before she started
+cooking her omellete. That flustered her. D'oh!
+
+[master]% target/release/int_ave ~/Downloads/Move_2025_09_29_08_33_00_Running.gpx 
+3.976038    1:15  6:44.7 0.00000 0.00000 2025-09-29 08:41:05 MDT 2025-09-29 08:42:20 MDT
+3.450596    1:15  7:46.3 0.00000 0.00000 2025-09-29 08:42:51 MDT 2025-09-29 08:44:06 MDT
+3.346483    1:15  8:00.9 0.00000 0.00000 2025-09-29 08:44:36 MDT 2025-09-29 08:45:51 MDT
+3.572399    1:15  7:30.4 0.00000 0.00000 2025-09-29 08:46:22 MDT 2025-09-29 08:47:37 MDT
+3.564660    1:15  7:31.4 0.00000 0.00000 2025-09-29 08:48:05 MDT 2025-09-29 08:49:20 MDT
+3.359566    1:15  7:59.0 0.00000 0.00000 2025-09-29 08:49:51 MDT 2025-09-29 08:51:06 MDT
+3.581317    1:15  7:29.3 0.00000 0.00000 2025-09-29 08:51:35 MDT 2025-09-29 08:52:50 MDT
+3.441657    1:15  7:47.6 0.00000 0.00000 2025-09-29 08:53:20 MDT 2025-09-29 08:54:35 MDT
+3.420070    1:15  7:50.5 0.00000 0.00000 2025-09-29 08:55:07 MDT 2025-09-29 08:56:22 MDT
+3.567955    1:15  7:31.0 0.00000 0.00000 2025-09-29 08:56:50 MDT 2025-09-29 08:58:05 MDT
+3.597795    1:15  7:27.3 0.00000 0.00000 2025-09-29 08:58:34 MDT 2025-09-29 08:59:49 MDT
+Average: 7:36.2
+
+thread 'main' panicked at src/gpx.rs:326:13:
+Was told to find 12 intervals, but found 11
+
+Unfortunately, it looks like I ran my last interval short.  I really
+thought I ran all out until thirty seconds past the minute, but I
+guess I didn't.  I do, however, believe that the Vertix 2 does some
+averaging that makes it a little harder to detect exactly what is
+going on with my intervals when I make mistakes.
+
+If I tell int_ave to look for 71 second intervals rather than 75, here's
+what I get:
+
+[master]% cargo r --bin int_ave -- -d 71 ~/Downloads/Move_2025_09_29_08_33_00_Running.gpx 
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.05s
+     Running `target/debug/int_ave -d 71 /Users/ctm/Downloads/Move_2025_09_29_08_33_00_Running.gpx`
+3.986751    1:11  6:43.6 0.00000 0.00000 2025-09-29 08:41:05 MDT 2025-09-29 08:42:16 MDT
+3.458450    1:11  7:45.3 0.00000 0.00000 2025-09-29 08:42:51 MDT 2025-09-29 08:44:02 MDT
+3.361973    1:11  7:58.6 0.00000 0.00000 2025-09-29 08:44:38 MDT 2025-09-29 08:45:49 MDT
+3.600030    1:11  7:27.0 0.00000 0.00000 2025-09-29 08:46:26 MDT 2025-09-29 08:47:37 MDT
+3.577532    1:11  7:29.8 0.00000 0.00000 2025-09-29 08:48:05 MDT 2025-09-29 08:49:16 MDT
+3.377566    1:11  7:56.4 0.00000 0.00000 2025-09-29 08:49:53 MDT 2025-09-29 08:51:04 MDT
+3.600882    1:11  7:26.9 0.00000 0.00000 2025-09-29 08:51:37 MDT 2025-09-29 08:52:48 MDT
+3.458544    1:11  7:45.3 0.00000 0.00000 2025-09-29 08:53:21 MDT 2025-09-29 08:54:32 MDT
+3.427540    1:11  7:49.5 0.00000 0.00000 2025-09-29 08:55:10 MDT 2025-09-29 08:56:21 MDT
+3.585786    1:11  7:28.8 0.00000 0.00000 2025-09-29 08:56:51 MDT 2025-09-29 08:58:02 MDT
+3.630797    1:11  7:23.2 0.00000 0.00000 2025-09-29 08:58:38 MDT 2025-09-29 08:59:49 MDT
+3.173650    1:11  8:27.0 0.00000 0.00000 2025-09-29 09:00:05 MDT 2025-09-29 09:01:16 MDT
+Average: 7:38.5
+
+The last interval is significantly slower than average because it
+counts some time when I'm walking or perhaps even stopped as part of
+that final 71 second interval.  OTOH, pretty much all my other
+intervals are artificially faster because I'm slowing down at the end.
+
+Two days ago was the Mt. Taylor 50k.  Last year I didn't do intervals
+the Monday after Mt. Taylor 50k and I was also doing pack intervals at
+this time of year, so I really can't compare myself to last year. I'll
+just pat myself on the back and be happy I did them today, because the
+next two Mondays are Balloon Fiesta and I won't be doing interval
+training then.
