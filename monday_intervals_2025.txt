@@ -541,3 +541,47 @@ the Monday after Mt. Taylor 50k and I was also doing pack intervals at
 this time of year, so I really can't compare myself to last year. I'll
 just pat myself on the back and be happy I did them today, because next
 Monday is Balloon Fiesta and I won't be doing interval training then.
+
+========================================================================
+No pack. Fasted. No calories during. No analgesics. Ice hat, albeit with
+only one small tray of ice. Bonus caffeine. Footbed on top of my orthotics.
+Single pair Balega socks.
+
+Got off to a late start since this is my first day back from 8808 (my
+home), where I was for Balloon Fiesta (and which is why I didn't do
+interval training last week).
+
+I used one water bottle with a small tray of ice in it--which is all
+the ice it could hold--and then topped with water. I only put a small
+tray of ice in my ice hat because I didn't think I'd get *that* hot,
+but I was mistaken and I did.
+
+[master]% target/release/int_ave ~/Downloads/Move_2025_10_13_08_53_00_Running.gpx 
+4.356914    1:15  6:09.3 0.00000 0.00000 2025-10-13 09:00:59 MDT 2025-10-13 09:02:14 MDT
+3.609200    1:15  7:25.9 0.00000 0.00000 2025-10-13 09:02:43 MDT 2025-10-13 09:03:58 MDT
+3.369207    1:15  7:57.6 0.00000 0.00000 2025-10-13 09:04:30 MDT 2025-10-13 09:05:45 MDT
+4.045843    1:15  6:37.7 0.00000 0.00000 2025-10-13 09:06:14 MDT 2025-10-13 09:07:29 MDT
+3.519868    1:15  7:37.2 0.00000 0.00000 2025-10-13 09:08:00 MDT 2025-10-13 09:09:15 MDT
+3.347774    1:15  8:00.7 0.00000 0.00000 2025-10-13 09:09:43 MDT 2025-10-13 09:10:58 MDT
+3.770540    1:15  7:06.8 0.00000 0.00000 2025-10-13 09:11:29 MDT 2025-10-13 09:12:44 MDT
+3.633370    1:15  7:22.9 0.00000 0.00000 2025-10-13 09:13:12 MDT 2025-10-13 09:14:27 MDT
+3.477556    1:15  7:42.7 0.00000 0.00000 2025-10-13 09:14:59 MDT 2025-10-13 09:16:14 MDT
+3.688744    1:15  7:16.2 0.00000 0.00000 2025-10-13 09:16:43 MDT 2025-10-13 09:17:58 MDT
+3.688231    1:15  7:16.3 0.00000 0.00000 2025-10-13 09:18:29 MDT 2025-10-13 09:19:44 MDT
+3.409235    1:15  7:52.0 0.00000 0.00000 2025-10-13 09:20:13 MDT 2025-10-13 09:21:28 MDT
+Average: 7:22.1
+
+These are the best intervals I've done since my foot injury in early
+May.  The weather was reasonably warm (58F at end) and a bit humid.  I
+believe I gained fitness during Balloon Fiesta due to staying on my
+diet pretty much every day except Thursday when I had six of my top
+front teeth removed and which was also the Lofty crew party.  I also
+ran to the field all nine days and ran or walked back all but two or
+three.  OTOH, it's easy to gain fitness when you're comparatively
+unfit.
+
+Duke City Marathon pacing will be interesting. Currently (six days
+out)the weather is looking great.  I haven't had complaints from my
+right foot, but I also haven't ran more than five miles at a time.
+There's a big difference between 26.2 at a constant--and slow--pace
+and five at whatever speed I want.
