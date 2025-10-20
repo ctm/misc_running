@@ -585,3 +585,34 @@ out)the weather is looking great.  I haven't had complaints from my
 right foot, but I also haven't ran more than five miles at a time.
 There's a big difference between 26.2 at a constant--and slow--pace
 and five at whatever speed I want.
+
+========================================================================
+No pack. Fasted. No calories during. No analgesics nor Ice hat nor ice
+in my water, which means heat got to me.  No bonus caffeine. Footbed on
+top of my orthotics. Single pair Bighorn Drymax socks.
+
+Got off to a late start due to mom having some minor issues during her
+walk.  Additionally, I hadn't gotten everything ready yesterday because
+I was a bit spent after DCM and celebratory drinking.
+
+[master]% target/release/int_ave ~/Downloads/Move_2025_10_20_08_44_00_Running.gpx 
+3.853267    1:15  6:57.6 0.00000 0.00000 2025-10-20 08:51:46 MDT 2025-10-20 08:53:01 MDT
+3.454892    1:15  7:45.8 0.00000 0.00000 2025-10-20 08:53:28 MDT 2025-10-20 08:54:43 MDT
+3.385942    1:15  7:55.3 0.00000 0.00000 2025-10-20 08:55:12 MDT 2025-10-20 08:56:27 MDT
+3.680283    1:15  7:17.2 0.00000 0.00000 2025-10-20 08:56:59 MDT 2025-10-20 08:58:14 MDT
+3.552496    1:15  7:33.0 0.00000 0.00000 2025-10-20 08:58:43 MDT 2025-10-20 08:59:58 MDT
+3.502674    1:15  7:39.4 0.00000 0.00000 2025-10-20 09:00:27 MDT 2025-10-20 09:01:42 MDT
+3.701948    1:15  7:14.7 0.00000 0.00000 2025-10-20 09:02:15 MDT 2025-10-20 09:03:30 MDT
+3.549101    1:15  7:33.4 0.00000 0.00000 2025-10-20 09:03:57 MDT 2025-10-20 09:05:12 MDT
+3.579686    1:15  7:29.5 0.00000 0.00000 2025-10-20 09:05:44 MDT 2025-10-20 09:06:59 MDT
+3.518005    1:15  7:37.4 0.00000 0.00000 2025-10-20 09:07:31 MDT 2025-10-20 09:08:46 MDT
+3.453145    1:15  7:46.0 0.00000 0.00000 2025-10-20 09:09:12 MDT 2025-10-20 09:10:27 MDT
+3.413502    1:15  7:51.4 0.00000 0.00000 2025-10-20 09:10:46 MDT 2025-10-20 09:12:01 MDT
+Average: 7:33.4
+
+This is 11.3 seconds per mile slower than last week, and even .9
+seconds per mile slower than last year the day after DCM. However, I
+got a minor chill while walking with mom this morning, so I didn't put
+ice in my water nor did I wear my ice hat and I think that cost me a
+few seconds per mile.  Last year, it was much cooler; I did my
+intervals while mom was walking with her walker and it was ~37F.
