@@ -616,3 +616,47 @@ got a minor chill while walking with mom this morning, so I didn't put
 ice in my water nor did I wear my ice hat and I think that cost me a
 few seconds per mile.  Last year, it was much cooler; I did my
 intervals while mom was walking with her walker and it was ~37F.
+
+========================================================================
+40.8# pack. Fasted. No calories during. No analgesics nor Ice hat nor
+ice in my water.  No bonus caffeine. Footbed on top of my
+orthotics. Single pair ancient Balega socks.
+
+Slightly late start due to futzing with my pack. FWIW, I'm still
+hoping to train with and compete with a plate carrier, but I wanted to
+do pack intervals today to work out the kinks of training with my
+ancient (and slightly broken) Tioga 5500. Among other things, I needed
+to chafe a bit so I'll know where to put the pad(s) on my back for
+future trainings.
+
+I also had to figure out how to attach my phone.  Clipping it to my
+waist-belt works, *except* it's possible for an arm swing to knock it
+off, which is what I did in my third interval. That sucked, but if I
+put it in a zippered compartment, I can't get to it if/when it acts up
+(because the music playing controls on an iPhone absolutely suck
+compared to an iPod).
+
+[master]% target/release/int_ave ~/Downloads/Move_2025_11_03_08_17_00_Running.gpx 
+3.321053    1:15  8:04.5 0.00000 0.00000 2025-11-03 08:26:11 MST 2025-11-03 08:27:26 MST
+3.318627    1:15  8:04.9 0.00000 0.00000 2025-11-03 08:27:53 MST 2025-11-03 08:29:08 MST
+2.587238    1:15 10:22.0 0.00000 0.00000 2025-11-03 08:29:36 MST 2025-11-03 08:30:51 MST
+3.206432    1:15  8:21.9 0.00000 0.00000 2025-11-03 08:31:24 MST 2025-11-03 08:32:39 MST
+3.477571    1:15  7:42.7 0.00000 0.00000 2025-11-03 08:33:08 MST 2025-11-03 08:34:23 MST
+3.028816    1:15  8:51.3 0.00000 0.00000 2025-11-03 08:34:53 MST 2025-11-03 08:36:08 MST
+3.173565    1:15  8:27.1 0.00000 0.00000 2025-11-03 08:36:39 MST 2025-11-03 08:37:54 MST
+3.066718    1:15  8:44.7 0.00000 0.00000 2025-11-03 08:38:24 MST 2025-11-03 08:39:39 MST
+3.093324    1:15  8:40.2 0.00000 0.00000 2025-11-03 08:40:08 MST 2025-11-03 08:41:23 MST
+3.048124    1:15  8:47.9 0.00000 0.00000 2025-11-03 08:41:54 MST 2025-11-03 08:43:09 MST
+3.054825    1:15  8:46.8 0.00000 0.00000 2025-11-03 08:43:37 MST 2025-11-03 08:44:52 MST
+3.056611    1:15  8:46.5 0.00000 0.00000 2025-11-03 08:45:24 MST 2025-11-03 08:46:39 MST
+Average: 8:38.4
+
+On February 24th, my pack average was 8:05.9, but it was colder and I
+was wearing my ice hat, I had bonus caffeine and I didn't have an
+exceptionally slow third interval due to knocking my phone out of its
+holder.
+
+On October 14th of last year, I was able to average 8:24.6 but I did
+have bonus caffeine and my ice hat and it *wasn't* my first pack
+intervals of the season, so I didn't screw up as much. So, I'd say I'm
+starting out this year in comparable shape to last year.
