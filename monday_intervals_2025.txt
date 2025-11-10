@@ -660,3 +660,63 @@ On October 14th of last year, I was able to average 8:24.6 but I did
 have bonus caffeine and my ice hat and it *wasn't* my first pack
 intervals of the season, so I didn't screw up as much. So, I'd say I'm
 starting out this year in comparable shape to last year.
+
+========================================================================
+40.8# pack. Fasted. No calories during. No analgesics nor Ice hat but
+I did have ice in my water.  Bonus caffeine. Footbed on top of my
+orthotics. Single pair ancient Balega socks. I had a pad on my back
+where my pack chafes. I knew where it chafes because last week I
+didn't wear a pad, so I chafed and now I have a minor scab there to
+tell me where to put the pad.
+
+Much later start than I had planned, due to many things. This morning
+it was cool enough that I had to help mom make good below-freezing
+dressing choices. I also had more to wear and take off after our
+morning walk.  Furthermore, I'm back in "time on my feet" mode, where
+I'll be wearing my pack quite a bit in the morning as I do chores and
+work.  However, I also chose to write some email right before I left
+and that did my brain in.
+
+[master]% target/release/int_ave ~/Downloads/Move_2025_11_10_09_01_00_Running.gpx 
+3.650562    1:15  7:20.8 0.00000 0.00000 2025-11-10 09:08:54 MST 2025-11-10 09:10:09 MST
+3.504679    1:15  7:39.1 0.00000 0.00000 2025-11-10 09:10:34 MST 2025-11-10 09:11:49 MST
+3.267325    1:15  8:12.5 0.00000 0.00000 2025-11-10 09:12:21 MST 2025-11-10 09:13:36 MST
+3.398013    1:15  7:53.6 0.00000 0.00000 2025-11-10 09:14:07 MST 2025-11-10 09:15:22 MST
+3.399226    1:15  7:53.4 0.00000 0.00000 2025-11-10 09:15:48 MST 2025-11-10 09:17:03 MST
+2.583320    1:15 10:22.9 0.00000 0.00000 2025-11-10 09:17:18 MST 2025-11-10 09:18:33 MST
+3.169267    1:15  8:27.7 0.00000 0.00000 2025-11-10 09:18:50 MST 2025-11-10 09:20:05 MST
+3.123580    1:15  8:35.2 0.00000 0.00000 2025-11-10 09:20:36 MST 2025-11-10 09:21:51 MST
+3.246562    1:15  8:15.7 0.00000 0.00000 2025-11-10 09:22:20 MST 2025-11-10 09:23:35 MST
+3.386353    1:15  7:55.2 0.00000 0.00000 2025-11-10 09:24:04 MST 2025-11-10 09:25:19 MST
+3.121922    1:15  8:35.4 0.00000 0.00000 2025-11-10 09:26:03 MST 2025-11-10 09:27:18 MST
+3.075881    1:15  8:43.2 0.00000 0.00000 2025-11-10 09:27:49 MST 2025-11-10 09:29:04 MST
+Average: 8:19.6
+
+[master]% target/release/int_ave -c 15 ~/Downloads/Move_2025_11_10_09_01_00_Running.gpx 
+3.650562    1:15  7:20.8 0.00000 0.00000 2025-11-10 09:08:54 MST 2025-11-10 09:10:09 MST
+3.504679    1:15  7:39.1 0.00000 0.00000 2025-11-10 09:10:34 MST 2025-11-10 09:11:49 MST
+3.267325    1:15  8:12.5 0.00000 0.00000 2025-11-10 09:12:21 MST 2025-11-10 09:13:36 MST
+3.398013    1:15  7:53.6 0.00000 0.00000 2025-11-10 09:14:07 MST 2025-11-10 09:15:22 MST
+3.399226    1:15  7:53.4 0.00000 0.00000 2025-11-10 09:15:48 MST 2025-11-10 09:17:03 MST
+2.583320    1:15 10:22.9 0.00000 0.00000 2025-11-10 09:17:18 MST 2025-11-10 09:18:33 MST
+3.169267    1:15  8:27.7 0.00000 0.00000 2025-11-10 09:18:50 MST 2025-11-10 09:20:05 MST
+3.123580    1:15  8:35.2 0.00000 0.00000 2025-11-10 09:20:36 MST 2025-11-10 09:21:51 MST
+3.246562    1:15  8:15.7 0.00000 0.00000 2025-11-10 09:22:20 MST 2025-11-10 09:23:35 MST
+3.386353    1:15  7:55.2 0.00000 0.00000 2025-11-10 09:24:04 MST 2025-11-10 09:25:19 MST
+3.121922    1:15  8:35.4 0.00000 0.00000 2025-11-10 09:26:03 MST 2025-11-10 09:27:18 MST
+3.075881    1:15  8:43.2 0.00000 0.00000 2025-11-10 09:27:49 MST 2025-11-10 09:29:04 MST
+3.293629    1:15  8:08.6 0.00000 0.00000 2025-11-10 09:29:38 MST 2025-11-10 09:30:53 MST
+3.007130    1:15  8:55.1 0.00000 0.00000 2025-11-10 09:31:22 MST 2025-11-10 09:32:37 MST
+3.046665    1:15  8:48.2 0.00000 0.00000 2025-11-10 09:33:06 MST 2025-11-10 09:34:21 MST
+Average: 8:23.1
+
+Once again I clipped my phone to my waist-belt, thinking that if I slid
+it toward the front that I probably wouldnt knock it out of its holder.
+I was right, but I still managed to knock my ear bud cables out of the
+phone at least twice.  Part of that was due to me being distracted because
+I lost count of my intervals at one point and then I spent a lot of time
+trying to reconstruct them. I failed miserably. I did what I thought might
+have been an extra, figuring I'd see twelve or thirteen bumps in my
+log, but I found fifteen.
+
+Whee!
