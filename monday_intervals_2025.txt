@@ -720,3 +720,44 @@ have been an extra, figuring I'd see twelve or thirteen bumps in my
 log, but I found fifteen.
 
 Whee!
+
+========================================================================
+40.7# pack. Fasted. No calories during. No analgesics.  Ice hat with
+lots of ice. Ice water.  Bonus caffeine. Footbed on top of my
+orthotics. Single pair Drymax socks. I had a pad on my back where my
+pack chafes.
+
+Slightly later start than I'd like, but there's not much I can do to
+speed things up, since I wanted to have a second double espresso and
+give it a little time to kick in.
+
+[master]% target/release/int_ave ~/Downloads/Move_2025_11_17_08_07_00_Running.gpx 
+3.783270    1:15  7:05.3 0.00000 0.00000 2025-11-17 08:41:35 MST 2025-11-17 08:42:50 MST
+3.277943    1:15  8:10.9 0.00000 0.00000 2025-11-17 08:43:20 MST 2025-11-17 08:44:35 MST
+3.265618    1:15  8:12.8 0.00000 0.00000 2025-11-17 08:45:07 MST 2025-11-17 08:46:22 MST
+3.336221    1:15  8:02.3 0.00000 0.00000 2025-11-17 08:46:51 MST 2025-11-17 08:48:06 MST
+3.482044    1:15  7:42.1 0.00000 0.00000 2025-11-17 08:48:36 MST 2025-11-17 08:49:51 MST
+2.841614    1:15  9:26.3 0.00000 0.00000 2025-11-17 08:50:08 MST 2025-11-17 08:51:23 MST
+3.352437    1:15  8:00.0 0.00000 0.00000 2025-11-17 08:51:47 MST 2025-11-17 08:53:02 MST
+3.177844    1:15  8:26.4 0.00000 0.00000 2025-11-17 08:53:50 MST 2025-11-17 08:55:05 MST
+3.239372    1:15  8:16.8 0.00000 0.00000 2025-11-17 08:55:36 MST 2025-11-17 08:56:51 MST
+3.408786    1:15  7:52.1 0.00000 0.00000 2025-11-17 08:57:21 MST 2025-11-17 08:58:36 MST
+3.199467    1:15  8:23.0 0.00000 0.00000 2025-11-17 08:59:05 MST 2025-11-17 09:00:20 MST
+3.146119    1:15  8:31.5 0.00000 0.00000 2025-11-17 09:00:50 MST 2025-11-17 09:02:05 MST
+Average: 8:10.8
+
+Once again, I botched the count. Once again it was due to reading
+email right before heading out the door.  I wound up slowing down at
+the end of my sixth interval, which is why my pace for that one is
+abnormally high. That of course made my average pace slower.  Still,
+considering it was 51.3F at the end, that's a good pace for the start
+of my training.  No doubt some of that is because I did pack intervals
+the two prior Mondays as well.
+
+On Thursday Mark Vega interviewed me for his excellent Run Long After Sixty
+podcast.  Ironically, the AI selected a thirty second segment of the two
+and a half hour interview to highlight:
+
+https://riverside.fm/guest-page?sessionId=8ad44dd6-9dbb-47e3-a292-2f43241e2af4&clientId=14c90526-60a7-4886-ab78-10317e29b0ee&archiveId=cliffmatthews-2xl01baxq&t=1aa326d9f9848e015d95
+
+So yeah, today when I was running I chose to push myself a little bit.
