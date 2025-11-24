@@ -761,3 +761,43 @@ and a half hour interview to highlight:
 https://riverside.fm/guest-page?sessionId=8ad44dd6-9dbb-47e3-a292-2f43241e2af4&clientId=14c90526-60a7-4886-ab78-10317e29b0ee&archiveId=cliffmatthews-2xl01baxq&t=1aa326d9f9848e015d95
 
 So yeah, today when I was running I chose to push myself a little bit.
+
+========================================================================
+42.6# pack. Not Fasted (had fortified oatmeal at 5:54). Few calories
+during (I used some dilute Tailwind water leftover from my La Luz Run
+on Sunday).  No analgesics.  Ice hat with lots of ice. Chilled water.
+Bonus caffeine (quad espresso at 7:49). Footbed on top of my
+orthotics. Single pair Balega socks. I had two pads on my back where
+my pack chafes.
+
+FWIW, my pack weighed 42.6 pounds at the end, which might be slightly
+more than when I started, because some water drips from my ice hat and
+gets absorbed by my pack.  I did not rejigger my pack after putting it
+on for my walk with mom and TOMF. I didn't think there was any reason
+to try to get it closer to 40.0 even.
+
+[master]% target/release/int_ave ~/Downloads/Move_2025_11_24_08_18_00_Running.gpx 
+3.887486    1:15  6:53.9 0.00000 0.00000 2025-11-24 08:29:55 MST 2025-11-24 08:31:10 MST
+3.391025    1:15  7:54.5 0.00000 0.00000 2025-11-24 08:31:38 MST 2025-11-24 08:32:53 MST
+3.342611    1:15  8:01.4 0.00000 0.00000 2025-11-24 08:33:22 MST 2025-11-24 08:34:37 MST
+3.391806    1:15  7:54.4 0.00000 0.00000 2025-11-24 08:35:09 MST 2025-11-24 08:36:24 MST
+3.400463    1:15  7:53.2 0.00000 0.00000 2025-11-24 08:36:52 MST 2025-11-24 08:38:07 MST
+3.170207    1:15  8:27.6 0.00000 0.00000 2025-11-24 08:38:39 MST 2025-11-24 08:39:54 MST
+3.455163    1:15  7:45.7 0.00000 0.00000 2025-11-24 08:40:23 MST 2025-11-24 08:41:38 MST
+3.321852    1:15  8:04.4 0.00000 0.00000 2025-11-24 08:42:07 MST 2025-11-24 08:43:22 MST
+3.417789    1:15  7:50.8 0.00000 0.00000 2025-11-24 08:43:52 MST 2025-11-24 08:45:07 MST
+3.287415    1:15  8:09.5 0.00000 0.00000 2025-11-24 08:45:38 MST 2025-11-24 08:46:53 MST
+3.400647    1:15  7:53.2 0.00000 0.00000 2025-11-24 08:47:23 MST 2025-11-24 08:48:38 MST
+3.319622    1:15  8:04.7 0.00000 0.00000 2025-11-24 08:49:09 MST 2025-11-24 08:50:24 MST
+Average: 7:54.5
+
+These appear to be my best pack intervals at mom's house ever,
+although that's tallest midget territory.  My biggest win was being
+able to count to twelve and that means I wasn't running hard enough to
+mess up my mind (or perhaps it's because I wised up and didn't check
+email right before going to do my pack intervals).
+
+I do not think I get as good of a training effect doing pack intervals
+at mom's vs. doing them at 8808, but I don't think the difference
+merits the commute time. Going to 8808 on Wednesdays for my speed run,
+however, does and once a week is a good compromise.
