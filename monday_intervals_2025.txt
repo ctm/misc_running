@@ -801,3 +801,48 @@ I do not think I get as good of a training effect doing pack intervals
 at mom's vs. doing them at 8808, but I don't think the difference
 merits the commute time. Going to 8808 on Wednesdays for my speed run,
 however, does and once a week is a good compromise.
+
+========================================================================
+40.2# - 39.7# pack. Although I replaced the water jug that sprang a
+leak on my speed pack run on Wednesday, the jug I replaced it with
+also sprang a leak, which makes me think something is poking into my
+water jugs.  I'll try to buy a 25 pound sack of beans before
+Wednesday's speed run.
+
+Not Fasted (had garlic batard at 5:50). No calories during.  No
+analgesics.  Ice hat with one and a half trays of ice. Chilled water.
+Bonus caffeine (quad espresso at 7:43). Footbed on top of my
+orthotics. Single pair of new Balega socks (that already have a hole
+in the heal). I had two pads on my back where my pack used to chafe,
+but of course everything is rearranged now :-(
+
+Oh, and my interval extracting software couldn't find my twelfth
+interval, so I made a fix to show elapsed time rather than time of day
+and then fixed the bug that prevented it from finding the final
+interval. So, from now on, elapsed time will be shown instead of time
+of day for my interval starts and stops. That makes it easier to see
+them on Strava.
+
+[master]% target/release/int_ave ~/Downloads/Move_2025_12_01_08_26_00_Running.gpx 
+3.849188    1:15  6:58.0 0.00000 0.00000    9:05.0   10:20.0
+3.402851    1:15  7:52.9 0.00000 0.00000   10:50.0   12:05.0
+3.256941    1:15  8:14.1 0.00000 0.00000   12:34.0   13:49.0
+3.444150    1:15  7:47.2 0.00000 0.00000   14:20.0   15:35.0
+3.472889    1:15  7:43.4 0.00000 0.00000   16:04.0   17:19.0
+3.135430    1:15  8:33.2 0.00000 0.00000   17:51.0   19:06.0
+3.520277    1:15  7:37.1 0.00000 0.00000   19:35.0   20:50.0
+3.395126    1:15  7:54.0 0.00000 0.00000   21:19.0   22:34.0
+3.351049    1:15  8:00.2 0.00000 0.00000   23:05.0   24:20.0
+3.434987    1:15  7:48.5 0.00000 0.00000   24:49.0   26:04.0
+3.561459    1:15  7:31.8 0.00000 0.00000   26:34.0   27:49.0
+3.292012    1:15  8:08.8 0.00000 0.00000   28:20.0   29:35.0
+Average: 7:50.8
+
+Almost four seconds per mile faster than last week, but my pack
+weighed almost two pounds lighter, and&mdash;in theory&mdash;all else
+equal, each additional pound is about two seconds per mile slower and
+today was colder than a week ago, so no improvement to speak of.
+OTOH, last year I completely skipped pack intervals the Monday after
+Bosque Bigfoot 50k. So, my training has started out just a bit better
+than last year. It may be awesome if I can actually come up with a
+competition pack.
