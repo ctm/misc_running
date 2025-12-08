@@ -846,3 +846,38 @@ OTOH, last year I completely skipped pack intervals the Monday after
 Bosque Bigfoot 50k. So, my training has started out just a bit better
 than last year. It may be awesome if I can actually come up with a
 competition pack.
+
+========================================================================
+40.1# pack. Not Fasted (had garlic batard at 5:46). No calories
+during.  No analgesics.  Ice hat with two trays of ice. Chilled water.
+Bonus caffeine (quad espresso at 8:21). Footbed on top of my
+orthotics. Single pair of WSER Drymax socks. I had two pads on my back
+where my pack used to chafe, and got lucky.  Part of my weight is now
+a 20 pound bag of pinto beans. That will be a constant from now on and
+should help prevent surprise chafing. I also have more weight in the
+sleeves and up in the zippered compartment flap.
+
+I woke up with a minor problem in the crease of my right hip, so I
+jogged an extra lap before doing my intervals and walked an extra lap
+afterward. I doubt it held me back much.
+
+[master]% target/release/int_ave ~/Downloads/Move_2025_12_08_08_59_00_Running.gpx 
+3.772170    1:15  7:06.6 0.00000 0.00000   29:08.0   30:23.0
+3.438855    1:15  7:47.9 0.00000 0.00000   30:48.0   32:03.0
+3.238362    1:15  8:16.9 0.00000 0.00000   32:37.0   33:52.0
+3.543812    1:15  7:34.1 0.00000 0.00000   34:22.0   35:37.0
+3.479200    1:15  7:42.5 0.00000 0.00000   36:07.0   37:22.0
+3.140870    1:15  8:32.3 0.00000 0.00000   37:52.0   39:07.0
+3.646526    1:15  7:21.3 0.00000 0.00000   39:37.0   40:52.0
+3.371429    1:15  7:57.3 0.00000 0.00000   41:23.0   42:38.0
+3.433878    1:15  7:48.6 0.00000 0.00000   43:07.0   44:22.0
+3.500108    1:15  7:39.7 0.00000 0.00000   44:50.0   46:05.0
+3.446727    1:15  7:46.9 0.00000 0.00000   46:36.0   47:51.0
+3.419304    1:15  7:50.6 0.00000 0.00000   48:23.0   49:38.0
+Average: 7:47.1
+
+Three point seven seconds improvement over last year. It was a
+comparable temperature, and last year I had a little extra cooling and
+a little less weight due to the leak in my pack. OTOH, it was two days
+after Bosque Bigfoot 50k, so I was probably recovering a bit from
+that. I will still take last week's training as a solid win.
