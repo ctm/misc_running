@@ -881,3 +881,49 @@ comparable temperature, and last year I had a little extra cooling and
 a little less weight due to the leak in my pack. OTOH, it was two days
 after Bosque Bigfoot 50k, so I was probably recovering a bit from
 that. I will still take last week's training as a solid win.
+
+========================================================================
+40.3# pack. Not Fasted (had focaccia at 5:56 and more at 6:15). No
+calories during.  No analgesics.  Ice hat with two trays of ice. Tap
+water.  Bonus caffeine (black coffee at 8:12 and quad espresso at
+9:06). Footbed on top of my orthotics. Single pair of Balega socks. I
+had a pad on my back where my pack used to chafe and that seemed to be
+enough.
+
+
+[master]% target/release/int_ave ~/Downloads/Move_2025_12_15_09_23_00_Running.gpx 
+4.007840    1:15  6:41.5 0.00000 0.00000   25:04.0   26:19.0
+3.356031    1:15  7:59.5 0.00000 0.00000   26:49.0   28:04.0
+3.112553    1:15  8:37.0 0.00000 0.00000   28:35.0   29:50.0
+3.410853    1:15  7:51.8 0.00000 0.00000   30:20.0   31:35.0
+3.521954    1:15  7:36.9 0.00000 0.00000   32:04.0   33:19.0
+3.215802    1:15  8:20.4 0.00000 0.00000   33:49.0   35:04.0
+3.688692    1:15  7:16.2 0.00000 0.00000   35:34.0   36:49.0
+3.353985    1:15  7:59.8 0.00000 0.00000   37:21.0   38:36.0
+3.435266    1:15  7:48.4 0.00000 0.00000   39:05.0   40:20.0
+3.450670    1:15  7:46.3 0.00000 0.00000   40:49.0   42:04.0
+3.509585    1:15  7:38.5 0.00000 0.00000   42:34.0   43:49.0
+3.324294    1:15  8:04.1 0.00000 0.00000   44:22.0   45:37.0
+Average: 7:48.4
+
+I got a slight chill while walking with mom. I was dressed warmly, but
+we go slowly, pause a lot and also stopped to feed Albie.  When I got
+back, I decided to have a black coffee "instead" of my quad espresso.
+However, instead of getting out the door quickly, while it was still
+cool, I lingered around the house and the coffee didn't seem to be
+doing its thing, so I had a quad espresso.
+
+I went out and did my customary warm-up around the block and felt like
+I had to poop.  I didn't want that to interfere with my intervals, so
+I came in and tried, but with no luck.  D'oh!
+
+I did my first interval and it felt like it had killed me.  I figured
+the rest of my intervals would be perfunctory. I wasn't going to quit,
+but I certainly felt like it. Looking back, my pace for my first
+interval appear to be the fastest I've ever done a level pack
+interval.  All told, I was only 1.2 seconds per mile slower than last
+week, but I did them much later in the day.  My *guess* is that had I
+had either the black coffee or the quad espresso, but not both, and
+gone out earlier that I'd have run slightly faster than last week, but
+I still did way better than my December 16th intervals last year
+(8:19.5 min/mile average), and it was significantly colder last year.
