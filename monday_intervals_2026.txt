@@ -1,0 +1,32 @@
+I'm now putting each year's intervals in separate files, but I'm also
+keeping the original monday_interval.txt file intact, since I have
+links into it from my BMDM training pages.
+
+========================================================================
+40.0# pack. Fasted. No calories during.  Didn't drink any water,
+either, but did pour some on my head. No analgesics (other than my
+bonus caffeine).  Ice hat with two trays of ice. Tap water.  Bonus
+caffeine (quad espresso at 9:47) .Footbed on top of my
+orthotics. Single pair of my best Balega socks. I had three pads on my
+back and they worked fine.
+
+I got off to a late start due to mom, Albie and my Strava backlog.
+
+[master]% target/release/int_ave ~/Downloads/Move_2026_01_12_10_41_00_Running.gpx 
+3.924216    1:15  6:50.1 0.00000 0.00000    8:07.0    9:22.0
+3.634178    1:15  7:22.8 0.00000 0.00000    9:52.0   11:07.0
+3.526715    1:15  7:36.3 0.00000 0.00000   11:38.0   12:53.0
+3.588053    1:15  7:28.5 0.00000 0.00000   13:23.0   14:38.0
+3.495015    1:15  7:40.4 0.00000 0.00000   15:06.0   16:21.0
+3.454472    1:15  7:45.8 0.00000 0.00000   16:52.0   18:07.0
+3.601285    1:15  7:26.8 0.00000 0.00000   18:38.0   19:53.0
+3.459430    1:15  7:45.2 0.00000 0.00000   20:23.0   21:38.0
+3.390214    1:15  7:54.7 0.00000 0.00000   22:07.0   23:22.0
+3.510302    1:15  7:38.4 0.00000 0.00000   23:53.0   25:08.0
+3.656477    1:15  7:20.1 0.00000 0.00000   25:37.0   26:52.0
+3.370484    1:15  7:57.4 0.00000 0.00000   27:23.0   28:38.0
+Average: 7:33.9
+
+This is a new 40# 12 intervals at mom's house Personal Best (PB). I
+was shamed into running a little quicker than normal by seeing Ellen,
+Gene Kersh's wife earlier today.
