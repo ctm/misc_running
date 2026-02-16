@@ -30,3 +30,38 @@ Average: 7:33.9
 This is a new 40# 12 intervals at mom's house Personal Best (PB). I
 was shamed into running a little quicker than normal by seeing Ellen,
 Gene Kersh's wife earlier today.
+
+========================================================================
+40.4# pack. Fasted. No calories during.  Didn't drink any water,
+either, but did pour some on my head. No analgesics (other than my
+bonus caffeine).  No Ice hat (because I didn't want to chafe). Tap
+water.  Bonus caffeine (double espresso at 8:15) .Footbed on top of my
+orthotics. Single pair of old Balega socks. New Olympus 6 shoes. I had
+three pads on my back and they worked fine.
+
+I got off to a late start due to many factors, including flattening
+the laces of my new shoes.
+
+[master]% target/release/int_ave -c 6 ~/Downloads/AlbuquerqueRun20260216084211.gpx 
+4.061572    1:15  6:36.2 0.00000 0.00000    7:04.0    8:19.0
+3.313202    1:15  8:05.7 0.00000 0.00000    8:48.0   10:03.0
+3.366923    1:15  7:57.9 0.00000 0.00000   10:35.0   11:50.0
+3.444043    1:15  7:47.2 0.00000 0.00000   12:19.0   13:34.0
+3.416971    1:15  7:50.9 0.00000 0.00000   14:05.0   15:20.0
+3.220897    1:15  8:19.6 0.00000 0.00000   15:50.0   17:05.0
+Average: 7:46.3
+
+The filename is not the normal one, because I grabbed the .gpx file
+directly off the Coros app rather than downloading from Strava.  For
+whatever reason, my interval run hasn't appeared on Strava yet and I'm
+a bit impatient.  When it shows up on Strava, I'll download it using
+my normal naming convention (that I inherited from Movescount) and
+then re-run int_ave and see if I get the same numbers.
+
+This is better than my six post Quad intervals last year. My first
+interval appears to be my fastest pack interval yet.  OTOH, my speed
+fell off a Cliff (so to speak) thereafter.
+
+Oh, and I forgot to look at weather underground before or after my
+run, but I think it was around 42F. I definitely would have liked to
+have worn my ice hat, but letting my back heal was a higher priority.
