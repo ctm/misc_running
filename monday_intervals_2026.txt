@@ -65,3 +65,17 @@ fell off a Cliff (so to speak) thereafter.
 Oh, and I forgot to look at weather underground before or after my
 run, but I think it was around 42F. I definitely would have liked to
 have worn my ice hat, but letting my back heal was a higher priority.
+
+FTR: Here's what I get when using the GPX I download from Strava:
+
+[master]% target/release/int_ave -c 6 ~/Downloads/Move_2026_02_16_08_42_Running.gpx 
+<ownloads/Move_2026_02_16_08_42_Running.gpx 
+4.061366    1:15  6:36.2 0.00000 0.00000    7:04.0    8:19.0
+3.313731    1:15  8:05.6 0.00000 0.00000    8:48.0   10:03.0
+3.366641    1:15  7:58.0 0.00000 0.00000   10:35.0   11:50.0
+3.444217    1:15  7:47.2 0.00000 0.00000   12:19.0   13:34.0
+3.417655    1:15  7:50.8 0.00000 0.00000   14:05.0   15:20.0
+3.221349    1:15  8:19.5 0.00000 0.00000   15:51.0   17:06.0
+Average: 7:46.2
+
+Wow. I can't justify spending the time to look into the difference, but wow.
