@@ -79,3 +79,47 @@ FTR: Here's what I get when using the GPX I download from Strava:
 Average: 7:46.2
 
 Wow. I can't justify spending the time to look into the difference, but wow.
+
+========================================================================
+40.0# pack. Not Fasted. No calories during.  Didn't drink any water,
+either, but did pour some on my head. No analgesics (other than my
+bonus caffeine).  Ice hat (because I didn't want to chafe) with two
+trays of ice, partially melted. Tap water.  Bonus caffeine (double
+espresso at 8:33) .Footbed on top of my orthotics. Single pair of old
+Balega socks. New Olympus 6 shoes. I had three pads on my back and
+they worked fine.
+
+I got off to a late start mostly due to mom throwing a pity party for
+herself after I took away the bread that she was eating instead other
+food.
+
+[master]% target/release/int_ave ~/Downloads/Move_2026_02_23_09_33_00_Running.gpx 
+3.989316    1:15  6:43.4 0.00000 0.00000    8:04.0    9:19.0
+3.555102    1:15  7:32.6 0.00000 0.00000    9:49.0   11:04.0
+3.363618    1:15  7:58.4 0.00000 0.00000   11:33.0   12:48.0
+3.509553    1:15  7:38.5 0.00000 0.00000   13:19.0   14:34.0
+3.404723    1:15  7:52.6 0.00000 0.00000   15:02.0   16:17.0
+3.224652    1:15  8:19.0 0.00000 0.00000   16:48.0   18:03.0
+3.324487    1:15  8:04.0 0.00000 0.00000   18:33.0   19:48.0
+3.286187    1:15  8:09.7 0.00000 0.00000   20:18.0   21:33.0
+3.006209    1:15  8:55.3 0.00000 0.00000   21:52.0   23:07.0
+3.369273    1:15  7:57.6 0.00000 0.00000   23:49.0   25:04.0
+3.222405    1:15  8:19.4 0.00000 0.00000   25:33.0   26:48.0
+3.254307    1:15  8:14.5 0.00000 0.00000   27:18.0   28:33.0
+Average: 7:58.8
+
+Pretty poor. I was running distracted after dealing with mom.  In
+addition to that, I had misplaced my sports watch, so instead of
+running out the door about 20 minutes after drinking my quad espresso,
+I left about an hour after.  I also forgot to look at the temperature,
+but my guess is 50F (it was 52F when I finally checked about a half
+hour after I got back in).
+
+I misremembered when I was supposed to stop for my ninth interval,
+which is why it was so slow.  OTOH, my tenth interval was faster than
+it would have been due to having more than thirty seconds of rest.
+This is a tiny bit faster than these same intervals last year (8:05.9)
+with it being much warmer this year (due to my late start). So, I may
+be more fit this year than last, but because I'm not running junk
+miles in between my pack runs, my feet are far more tender. That may
+wind up being my weakest link this year. Time will tell.
