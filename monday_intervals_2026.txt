@@ -83,8 +83,8 @@ Wow. I can't justify spending the time to look into the difference, but wow.
 ========================================================================
 40.0# pack. Not Fasted. No calories during.  Didn't drink any water,
 either, but did pour some on my head. No analgesics (other than my
-bonus caffeine).  Ice hat (because I didn't want to chafe) with two
-trays of ice, partially melted. Tap water.  Bonus caffeine (double
+bonus caffeine).  Ice hat with two
+trays of ice, partially melted. Tap water.  Bonus caffeine (quad
 espresso at 8:33) .Footbed on top of my orthotics. Single pair of old
 Balega socks. New Olympus 6 shoes. I had three pads on my back and
 they worked fine.
@@ -123,3 +123,54 @@ with it being much warmer this year (due to my late start). So, I may
 be more fit this year than last, but because I'm not running junk
 miles in between my pack runs, my feet are far more tender. That may
 wind up being my weakest link this year. Time will tell.
+
+========================================================================
+40.1# pack. Fasted. No calories during.  Didn't drink any water,
+either, but did pour some on my head. No analgesics (other than my
+bonus caffeine).  Ice hat with two trays of ice. Tap water.  Bonus
+caffeine (quad espresso at 7:43).  Footbed on top of my
+orthotics. White socks over old Balega socks. New Olympus 6 shoes. I
+had three pads on my back and they worked fine.
+
+I got off to a late start for a variety of reasons, but just after I
+had taken my quad espresso and filled my ice hat with ice, but before
+I started running, mom had a meltdown up at 8808.  That was
+distracting.
+
+[master]% target/release/int_ave ~/Downloads/Move_2026_03_02_08_35_00_Running.gpx 
+3.583881    1:15  7:29.0 0.00000 0.00000   15:05.0   16:20.0
+3.333408    1:15  8:02.7 0.00000 0.00000   16:48.0   18:03.0
+2.991070    1:15  8:58.0 0.00000 0.00000   18:32.0   19:47.0
+3.150508    1:15  8:30.8 0.00000 0.00000   20:18.0   21:33.0
+3.076248    1:15  8:43.1 0.00000 0.00000   21:55.0   23:10.0
+2.942990    1:15  9:06.8 0.00000 0.00000   23:25.0   24:40.0
+2.928944    1:15  9:09.4 0.00000 0.00000   25:25.0   26:40.0
+2.945659    1:15  9:06.3 0.00000 0.00000   27:20.0   28:35.0
+3.039248    1:15  8:49.5 0.00000 0.00000   29:04.0   30:19.0
+3.082031    1:15  8:42.1 0.00000 0.00000   30:50.0   32:05.0
+3.048447    1:15  8:47.9 0.00000 0.00000   32:35.0   33:50.0
+2.870540    1:15  9:20.6 0.00000 0.00000   34:19.0   35:34.0
+Average: 8:43.8
+
+[master]% target/release/int_ave -c 6 ~/Downloads/Move_2026_03_02_08_35_00_Running.gpx 
+3.583881    1:15  7:29.0 0.00000 0.00000   15:05.0   16:20.0
+3.333408    1:15  8:02.7 0.00000 0.00000   16:48.0   18:03.0
+2.991070    1:15  8:58.0 0.00000 0.00000   18:32.0   19:47.0
+3.150508    1:15  8:30.8 0.00000 0.00000   20:18.0   21:33.0
+3.076248    1:15  8:43.1 0.00000 0.00000   21:55.0   23:10.0
+2.942990    1:15  9:06.8 0.00000 0.00000   23:25.0   24:40.0
+Average: 8:28.4
+
+The heat would have killed me, regardless. However, yesterday's
+bicycle ride probably contributed a bit, too, seeing how it was the
+day after I did a 24 mile run followed by the V Day Run.  So, even if
+mom hadn't called, my performance would have sucked, but perhaps not
+this bad and perhaps I'd have been able to count to twelve.  That was
+my sole goal for this event: to do exactly 12 exactly 75 second
+intervals with exactly 30 seconds in between. I totally botched my
+sixth though and even my twelfth I inadvertently cut short.
+
+Last year, I botched my sixth pretty bad and quit.  My average for six
+was 7:51, but my first interval from this morning was actually faster
+than my first from a year ago, so I have that going for me, which is
+good.
