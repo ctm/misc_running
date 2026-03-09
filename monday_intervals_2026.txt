@@ -174,3 +174,40 @@ Last year, I botched my sixth pretty bad and quit.  My average for six
 was 7:51, but my first interval from this morning was actually faster
 than my first from a year ago, so I have that going for me, which is
 good.
+
+========================================================================
+40.8# pack. Fasted. No calories during.  Didn't drink any water,
+either, but did pour some ice water on my head. No analgesics (other
+than my bonus caffeine).  Ice hat with one and a half trays of ice
+(the other cubes went into my water bottle). Tap water.  Bonus
+caffeine (quad espresso at 9:32).  Footbed on top of my
+orthotics. White socks over new Balega socks. New Olympus 6 shoes. I
+had three pads on my back, but still had a little bit of something
+poking me when I did my warmup lap.  I didn't bleed much though, nor
+did the chafing slow me down.
+
+This is the first year where I've chosen to continue to take my
+"wake-up" caffeine at 5:15 Mountain *STANDARD* Time, i.e., *6*:15 MDT.
+Similarly, I've moved mom's wake-up alarm from 6am to 7am.  Yesterday,
+due to me being gone biking for much of the day, mom's schedule was
+pretty wonky. That contributed to her being a bit late to get walking
+this morning, which led to me getting off a bit late.
+
+[master]% target/release/int_ave -c 6 ~/Downloads/Move_2026_03_09_09_46_00_Running.gpx 
+4.094332    1:15  6:33.0 0.00000 0.00000    8:06.0    9:21.0
+3.528461    1:15  7:36.1 0.00000 0.00000    9:48.0   11:03.0
+3.350906    1:15  8:00.2 0.00000 0.00000   11:36.0   12:51.0
+3.499071    1:15  7:39.9 0.00000 0.00000   13:20.0   14:35.0
+3.453324    1:15  7:46.0 0.00000 0.00000   15:03.0   16:18.0
+3.334921    1:15  8:02.5 0.00000 0.00000   16:50.0   18:05.0
+Average: 7:36.3
+
+FWIW, my best average for twelve 40# pack intervals is 7:33.9 from
+January 12th.  Taking just the fastest six contiguous intervals from
+that date gives me an average of 7:27.3, only nine seconds faster, yet
+it was eight degrees cooler then. OTOH, my previous Saturday Activity
+was a three hour La Luz pack "run" whereas my previous Saturday
+activity for this one was King of the Hill.
+
+My first interval at 6:33.0 is my fastest level 40# pack interval, but
+boy did that take a lot out of me.
