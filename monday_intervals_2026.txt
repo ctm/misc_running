@@ -282,3 +282,40 @@ Average: 7:33.2
 Those would be fine times with a 40 pound pack.  They'd be pathetic
 were it not for me having raced BMDM on Saturday and also me doing
 eleven miles before doing my intervals.
+
+========================================================================
+No pack. Fasted. No calories during.  Drink a few sips water and
+poured some ice water on my head. No analgesics (other than my bonus
+caffeine). Ice hat with one tray of ice. Ice water.  Bonus caffeine
+(double espresso at 8:15). Footbed on top of my orthotics. Balega
+socks. New Olympus 6 shoes.
+
+[master]% target/release/int_ave ~/Downloads/Move_2026_03_30_08_30_00_Running.gpx 
+4.190333    1:15  6:24.0 0.00000 0.00000    7:55.0    9:10.0
+3.877891    1:15  6:55.0 0.00000 0.00000    9:50.0   11:05.0
+3.672648    1:15  7:18.1 0.00000 0.00000   11:34.0   12:49.0
+3.839047    1:15  6:59.2 0.00000 0.00000   13:20.0   14:35.0
+3.528614    1:15  7:36.0 0.00000 0.00000   14:59.0   16:14.0
+3.493048    1:15  7:40.7 0.00000 0.00000   16:34.0   17:49.0
+3.546880    1:15  7:33.7 0.00000 0.00000   18:34.0   19:49.0
+3.671702    1:15  7:18.3 0.00000 0.00000   20:19.0   21:34.0
+3.556500    1:15  7:32.5 0.00000 0.00000   22:05.0   23:20.0
+3.578989    1:15  7:29.6 0.00000 0.00000   23:51.0   25:06.0
+3.600318    1:15  7:27.0 0.00000 0.00000   25:35.0   26:50.0
+3.662562    1:15  7:19.4 0.00000 0.00000   27:20.0   28:35.0
+Average: 7:17.8
+
+These are not my fastest intervals at mom's. I got a 6:57.1 average a
+year ago on Monday, March 31st and a 7:12.4 on January 13th, 2025.
+I'm sure it was significantly cooler on January 13th, and my *guess*
+is that it was cooler on March 31st of last year, but I didn't write
+it down.
+
+FWIW, I had a lot of trouble keeping count, in part because I tried to
+shout out some instructions to mom here and there as I passed her.
+I'm also getting used to running with a handheld in one hand and my
+phone in the other. That confuses me, because when I run with a pack,
+the phone is in the pack, so I have a bottle in one hand and the other
+hand is empty.  I pass the bottle back and forth between hands to keep
+track of which interval I'm on. I still do that with the phone, but my
+brain doesn't yet process it the same. Bad brain.
