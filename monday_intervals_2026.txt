@@ -319,3 +319,55 @@ the phone is in the pack, so I have a bottle in one hand and the other
 hand is empty.  I pass the bottle back and forth between hands to keep
 track of which interval I'm on. I still do that with the phone, but my
 brain doesn't yet process it the same. Bad brain.
+
+========================================================================
+No pack. Fasted. No calories during.  Drink a few sips water and
+poured some ice water on my head. No analgesics (other than my bonus
+caffeine). Ice hat with one tray of ice. Ice water.  Bonus caffeine
+(double espresso at 8:18). Footbed on top of my orthotics. Balega
+socks. New Olympus 6 shoes.  I did not do any junk miles before, because
+mom had some issues and I was a little tired from my bike ride yesterday
+and my rough sleep last night.
+
+[master]% target/release/int_ave ~/Downloads/Move_2026_04_06_08_39_00_Running.gpx 
+4.558596    1:15  5:53.0 0.00000 0.00000    7:04.0    8:19.0
+3.631781    1:15  7:23.1 0.00000 0.00000    8:46.0   10:01.0
+3.555084    1:15  7:32.6 0.00000 0.00000   10:33.0   11:48.0
+3.898348    1:15  6:52.8 0.00000 0.00000   12:20.0   13:35.0
+3.597495    1:15  7:27.3 0.00000 0.00000   14:02.0   15:17.0
+3.583394    1:15  7:29.1 0.00000 0.00000   15:48.0   17:03.0
+3.812753    1:15  7:02.0 0.00000 0.00000   17:35.0   18:50.0
+3.695971    1:15  7:15.4 0.00000 0.00000   19:16.0   20:31.0
+3.483764    1:15  7:41.9 0.00000 0.00000   21:04.0   22:19.0
+3.652906    1:15  7:20.5 0.00000 0.00000   22:44.0   23:59.0
+3.745781    1:15  7:09.6 0.00000 0.00000   24:32.0   25:47.0
+3.646674    1:15  7:21.3 0.00000 0.00000   26:18.0   27:33.0
+Average: 7:12.4
+
+Mom had some trouble this morning. She called to me around 5:50am
+asking if I was all right. I told her I was, then I heard her
+puttering in the kitchen.  Apparently she thought it was evening,
+presumably yesterday evening. She then asked me if she had slept the
+entire day.  She had been up when I got back from biking and had told
+me that she had done both of her walks, so in that sense she couldn't
+have slept the entire day, but it is possible that she had slept from
+around 3pm until then.
+
+I myself had awoken to my alarm because my bike ride yesterday took
+way more out of me than I had expected it to.  OTOH, it was my first
+fasted century in almost four years. However, I didn't make salads
+yesterday, and I had even forgotten to make my oatmeal. So, I chose to
+get caught up on cooking instead of running junk miles before
+intervals.
+
+I didn't note the temperature, but I am guessing around 50F.
+
+I think I managed to start and stop my intervals all at the right
+time, but I didn't shift my water bottle from hand to hand properly,
+so there were times when I was running an odd interval with my
+water-bottle in my left hand or an even with it in my right. D'oh!
+
+I'm happy with a five second per mile improvement over last week. Even
+though my bike ride beat me up a bit, my Saturday mountain play went
+excellently. I do believe I'm regaining fitness, peace of mind and
+productivity, even though I'm a bit more tired than I'd like.
