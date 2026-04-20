@@ -371,3 +371,45 @@ I'm happy with a five second per mile improvement over last week. Even
 though my bike ride beat me up a bit, my Saturday mountain play went
 excellently. I do believe I'm regaining fitness, peace of mind and
 productivity, even though I'm a bit more tired than I'd like.
+
+========================================================================
+No pack. Not Fasted. No calories during.  Poured some ice water on my
+head. No analgesics (other than my bonus caffeine). Ice hat with one
+tray of ice. Ice water.  Bonus caffeine (double espresso at
+8:32). Footbed on top of my orthotics. Balega socks. New Olympus 6
+shoes.  I ran 10.7 junk miles before and got my feet wet so my shoes
+were still slightly damp.
+
+[master]% target/release/int_ave ~/Downloads/Move_2026_04_20_08_54_00_Running.gpx 
+4.298330    1:15  6:14.4 0.00000 0.00000    9:05.0   10:20.0
+3.578158    1:15  7:29.7 0.00000 0.00000   10:48.0   12:03.0
+3.589155    1:15  7:28.3 0.00000 0.00000   12:33.0   13:48.0
+3.797967    1:15  7:03.7 0.00000 0.00000   14:20.0   15:35.0
+3.523208    1:15  7:36.7 0.00000 0.00000   16:03.0   17:18.0
+3.345295    1:15  8:01.0 0.00000 0.00000   17:49.0   19:04.0
+3.440166    1:15  7:47.8 0.00000 0.00000   19:36.0   20:51.0
+3.352909    1:15  7:59.9 0.00000 0.00000   21:33.0   22:48.0
+3.262811    1:15  8:13.2 0.00000 0.00000   23:18.0   24:33.0
+3.400004    1:15  7:53.3 0.00000 0.00000   25:04.0   26:19.0
+3.501093    1:15  7:39.6 0.00000 0.00000   26:48.0   28:03.0
+3.454409    1:15  7:45.8 0.00000 0.00000   28:34.0   29:49.0
+Average: 7:36.1
+
+Those are not good numbers, but I think I ran longer on my seventh than
+seventy-five seconds, which then bit me by making me more tired than
+I'd have been.  If You're Gonna Be Dumb came on for the second time,
+I shouted "Tough" fairly early on, only to see a neighbor look back at
+me as if to ask WTF? He had just gotten out of his car and I didn't
+see him when I shouted. That was just as I was switching my handheld
+to the other hand to help me keep track of starts and stops and it
+interfered with my count, or so I thought at the time.  Looking at
+my graph, it looks like I may have started my sixth interval fifteen
+seconds early.
+
+FWIW, even if all my intervals had been exactly 75 seconds and all my
+rests exactly 30, I doubt I'd have done particularly well today, this
+late in the day. It was already 58F at 8:53 and rising and I started
+my junk miles late. OTOH, I did them and that will make doing them
+next week easier, unless I find some excuse.  I'll do *anything* to
+avoid doing intervals; last week, I chose to take my mom to the
+emergency room.
