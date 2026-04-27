@@ -413,3 +413,30 @@ my junk miles late. OTOH, I did them and that will make doing them
 next week easier, unless I find some excuse.  I'll do *anything* to
 avoid doing intervals; last week, I chose to take my mom to the
 emergency room.
+
+========================================================================
+No pack. Not Fasted. No calories during.  Sipped some ice water and
+poured some on my head. No analgesics (other than my bonus
+caffeine). Ice hat with one tray of ice. Ice water.  Bonus caffeine
+(double espresso at 8:05). Footbed on top of my orthotics. Balega
+socks. "New" (ha!) Olympus 6 shoes.  I ran 10.7 junk miles before and
+kept my feet dry.
+
+[master]% target/release/int_ave ~/Downloads/Move_2026_04_27_08_26_00_Running.gpx 
+4.250011    1:15  6:18.6 0.00000 0.00000    8:04.0    9:19.0
+3.651101    1:15  7:20.7 0.00000 0.00000    9:47.0   11:02.0
+3.739587    1:15  7:10.3 0.00000 0.00000   11:33.0   12:48.0
+3.842023    1:15  6:58.8 0.00000 0.00000   13:19.0   14:34.0
+3.606231    1:15  7:26.2 0.00000 0.00000   15:03.0   16:18.0
+3.711740    1:15  7:13.5 0.00000 0.00000   16:49.0   18:04.0
+3.672189    1:15  7:18.2 0.00000 0.00000   18:35.0   19:50.0
+3.696707    1:15  7:15.3 0.00000 0.00000   20:18.0   21:33.0
+3.563348    1:15  7:31.6 0.00000 0.00000   22:04.0   23:19.0
+3.551832    1:15  7:33.1 0.00000 0.00000   23:48.0   25:03.0
+3.504749    1:15  7:39.1 0.00000 0.00000   25:33.0   26:48.0
+3.454786    1:15  7:45.8 0.00000 0.00000   27:17.0   28:32.0
+Average: 7:17.6
+
+Significant improvement over last week, but I started earlier, it was
+cooler and I didn't wet my feet during my junk miles.  FWIW, I think I
+nailed my starting and stopping; IOW I successfully counted to twelve.
