@@ -440,3 +440,37 @@ Average: 7:17.6
 Significant improvement over last week, but I started earlier, it was
 cooler and I didn't wet my feet during my junk miles.  FWIW, I think I
 nailed my starting and stopping; IOW I successfully counted to twelve.
+
+========================================================================
+No pack. Fasted. No calories during.  Sipped some ice water and poured
+some on my head. No analgesics (other than my bonus caffeine). Ice hat
+with two trays of ice. Ice water.  Bonus caffeine (double espresso at
+7:49). Footbed on top of my orthotics. "Pete" socks. "New" (ha!)
+Olympus 6 shoes.  I didn't run junk miles before, so my feet were dry.
+
+[master]% target/release/int_ave ~/Downloads/Move_2026_05_04_08_25_Running.gpx 
+4.533414    1:15  5:54.9 0.00000 0.00000    7:05.0    8:20.0
+3.694064    1:15  7:15.6 0.00000 0.00000    8:48.0   10:03.0
+3.703481    1:15  7:14.5 0.00000 0.00000   10:33.0   11:48.0
+3.926861    1:15  6:49.8 0.00000 0.00000   12:20.0   13:35.0
+3.516313    1:15  7:37.6 0.00000 0.00000   14:02.0   15:17.0
+3.468655    1:15  7:43.9 0.00000 0.00000   15:48.0   17:03.0
+3.940888    1:15  6:48.3 0.00000 0.00000   17:32.0   18:47.0
+3.856863    1:15  6:57.2 0.00000 0.00000   19:17.0   20:32.0
+3.585782    1:15  7:28.8 0.00000 0.00000   21:04.0   22:19.0
+3.983123    1:15  6:44.0 0.00000 0.00000   22:48.0   24:03.0
+3.730606    1:15  7:11.3 0.00000 0.00000   24:34.0   25:49.0
+3.713230    1:15  7:13.4 0.00000 0.00000   26:21.0   27:36.0
+Average: 7:04.9
+
+When I went to bed, my plan was to get up and out the door and run
+junk miles before coming back and doing my intervals, but mom has been
+having such a hard time lately that I chose to greet her with coffee
+at 6am and walk with her (while wearing my new ruck) instead.  That
+makes it hard to compare this week's intervals to last week's.
+
+These are not the best intervals I've done at mom's. I averaged 6:57.1
+on March 31st 2025, but it was *much* cooler then *and* I got off
+earlier in the morning. Additionally, I lost count once again and
+although the graph doesn't show it distinctly, I think it was in my
+ninth interval, which is anomalously slow compared to its neighbors.
