@@ -474,3 +474,37 @@ on March 31st 2025, but it was *much* cooler then *and* I got off
 earlier in the morning. Additionally, I lost count once again and
 although the graph doesn't show it distinctly, I think it was in my
 ninth interval, which is anomalously slow compared to its neighbors.
+
+========================================================================
+No pack. Not Fasted. Came back from walking Grammy hungry, so I ate a
+serving of fortified oatmeal. No calories during.  Didn't drink any
+ice water, but poured some on my head. No analgesics (other than my
+bonus caffeine). Ice hat with one tray (should have used two) of
+ice. Ice water.  Bonus caffeine (double espresso at 8:27 and another
+at 9:01). Footbed on top of my orthotics. Balega socks. Torin shoes.
+I didn't run junk miles before, so my feet were dry.
+
+[master]% target/release/int_ave ~/Downloads/Move_2026_05_18_09_11_00_Running.gpx 
+4.413243    1:15  6:04.6 0.00000 0.00000    8:04.0    9:19.0
+3.506368    1:15  7:38.9 0.00000 0.00000    9:47.0   11:02.0
+3.594749    1:15  7:27.6 0.00000 0.00000   11:33.0   12:48.0
+3.641385    1:15  7:21.9 0.00000 0.00000   13:18.0   14:33.0
+3.493299    1:15  7:40.6 0.00000 0.00000   15:01.0   16:16.0
+3.611605    1:15  7:25.6 0.00000 0.00000   16:48.0   18:03.0
+3.594190    1:15  7:27.7 0.00000 0.00000   18:33.0   19:48.0
+3.754478    1:15  7:08.6 0.00000 0.00000   20:17.0   21:32.0
+3.345686    1:15  8:01.0 0.00000 0.00000   21:55.0   23:10.0
+3.726744    1:15  7:11.8 0.00000 0.00000   23:50.0   25:05.0
+3.684002    1:15  7:16.8 0.00000 0.00000   25:33.0   26:48.0
+3.552614    1:15  7:33.0 0.00000 0.00000   27:19.0   28:34.0
+Average: 7:21.5
+
+Not bad, considering the food in my system and the heat. Not great. I
+got off to a late start due to taking mom on her western loop first
+(while wearing a 60.5# ruck) and then doing normal mom vitals (which
+now takes longer due to her Apple watch), upgrading my Vertix's
+firmware and doing a little programming.  I also have one or more
+hemorrhoids and that contributed to my delay in getting out the door.
+I took my second bonus caffeine in part due its analgesic effect. I
+will probably have trouble sleeping tonight and core tomorrow may be
+annoying.
