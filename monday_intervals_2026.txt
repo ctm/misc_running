@@ -508,3 +508,30 @@ hemorrhoids and that contributed to my delay in getting out the door.
 I took my second bonus caffeine in part due its analgesic effect. I
 will probably have trouble sleeping tonight and core tomorrow may be
 annoying.
+
+========================================================================
+No pack. Not Fasted. Mom (aka Grammy) wasn't up to walking at our
+normal time. I made her an omelet and toast and hung out a bit before
+drinking some black coffee then going out to do my intervals.  I chose
+to jog three laps around before doing my intervals in part because
+five years ago, I embedded my intervals in an 8.9 mile run (because I
+was in *much* better shape then).  No calories during.  Sipped a tiny
+bit of ice water, I think, but mostly poured some on my head. No
+analgesics (other than my bonus caffeine). Ice hat with one tray and
+change (should have used two) of ice. Ice water.  Bonus caffeine
+(black coffee at 7:47). Footbed on top of my orthotics. Lorpen (sp?)
+socks. Olympus shoes.  My feet were dry.
+
+[master]% target/release/int_ave -c 6 ~/Downloads/Move_2026_06_08_08_20_00_Running.gpx 
+4.228899    1:15  6:20.5 0.00000 0.00000   23:04.0   24:19.0
+3.525854    1:15  7:36.4 0.00000 0.00000   24:46.0   26:01.0
+3.529861    1:15  7:35.9 0.00000 0.00000   26:32.0   27:47.0
+3.711835    1:15  7:13.5 0.00000 0.00000   28:19.0   29:34.0
+3.685830    1:15  7:16.6 0.00000 0.00000   29:58.0   31:13.0
+3.624536    1:15  7:24.0 0.00000 0.00000   31:48.0   33:03.0
+Average: 7:14.5
+
+These are my best six intervals, but seeing how I've run 12 with an
+average of 7:04.9 on May 4th (although -c 6 gives me 7:06.1 for that
+date). It was likely cooler then, so I haven't lost much fitness,
+per-se, but I certainly haven't gained any as SJS and HRH approach.
