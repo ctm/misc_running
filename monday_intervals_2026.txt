@@ -535,3 +535,24 @@ These are my best six intervals, but seeing how I've run 12 with an
 average of 7:04.9 on May 4th (although -c 6 gives me 7:06.1 for that
 date). It was likely cooler then, so I haven't lost much fitness,
 per-se, but I certainly haven't gained any as SJS and HRH approach.
+
+========================================================================
+No pack. Fasted. No calories during.  Sipped a tiny bit of ice water
+and poured a tiny amount on my head. No analgesics (other than my
+bonus caffeine). Ice hat with two trays of ice. Ice water.  Bonus
+caffeine (double espresso at 7:25). Footbed on top of my
+orthotics. Ancient red Balega socks. Olympus shoes.  My feet were dry.
+
+[master]% target/release/int_ave -c 3 ~/Downloads/Move_2026_06_15_07_52_00_Running.gpx 
+4.290304    1:15  6:15.1 0.00000 0.00000    8:04.0    9:19.0
+3.619666    1:15  7:24.6 0.00000 0.00000    9:48.0   11:03.0
+3.789928    1:15  7:04.6 0.00000 0.00000   11:32.0   12:47.0
+Average: 6:54.7
+
+This is my second best three count of intervals. I did better (6:41.8)
+on March 24th, 2025, but it was undoubtedly cooler, because I logged
+the fact that mom and I didn't go walking at our normal time because
+it was too cold for mom.  Earlier this year, on May 4th, my first
+three gave me an average of 6:48.4.  My guess is it was cooler then,
+too. This is better, however, than the first three of my intervals a
+week prior.  I'll take it.
