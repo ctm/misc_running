@@ -556,3 +556,25 @@ it was too cold for mom.  Earlier this year, on May 4th, my first
 three gave me an average of 6:48.4.  My guess is it was cooler then,
 too. This is better, however, than the first three of my intervals a
 week prior.  I'll take it.
+
+========================================================================
+No pack. Fasted. No calories during.  Carried a handheld with ice
+water but didn't do anything with it. No analgesics (other than my
+bonus caffeine). Ice hat with two trays of ice. Bonus caffeine (double
+espresso at 9:09). Footbed on top of my orthotics. "Pete"
+socks. Torin shoes.  My feet were dry.
+
+[master]% target/release/int_ave -c 3 ~/Downloads/Move_2026_06_22_09_43_00_Running.gpx 
+3.980602    1:15  6:44.2 0.00000 0.00000    9:01.0   10:16.0
+3.389741    1:15  7:54.7 0.00000 0.00000   10:48.0   12:03.0
+3.052739    1:15  8:47.1 0.00000 0.00000   12:33.0   13:48.0
+Average: 7:48.7
+
+It was slightly windy, so I decided I was going to do six, three in
+one directionm three in the other, to balance out the wind.  Nope!
+These were amazingly annoying. Nothing hurt, but my body *really*
+didn't want to be doing these.  TBF, I didn't do *any* cardio for
+three days after SJS 2021, much less intervals.  I'm glad I did them,
+however.  Now I have a new low bar.  Oh, and it was hot.  It's 82F now
+but I did them about a half hour ago, when it was probably high
+seventies.
