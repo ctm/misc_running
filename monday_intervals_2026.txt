@@ -571,10 +571,41 @@ socks. Torin shoes.  My feet were dry.
 Average: 7:48.7
 
 It was slightly windy, so I decided I was going to do six, three in
-one directionm three in the other, to balance out the wind.  Nope!
+one direction three in the other, to balance out the wind.  Nope!
 These were amazingly annoying. Nothing hurt, but my body *really*
 didn't want to be doing these.  TBF, I didn't do *any* cardio for
 three days after SJS 2021, much less intervals.  I'm glad I did them,
 however.  Now I have a new low bar.  Oh, and it was hot.  It's 82F now
 but I did them about a half hour ago, when it was probably high
 seventies.
+
+========================================================================
+10 pound ultravest. Fasted. No calories during.  Sipped some ice water
+and poured a bunch on my head. No analgesics (other than my bonus
+caffeine). Ice hat with two trays of ice. Ice water.  Bonus caffeine
+(double espresso at 7:45). Footbed on top of my orthotics. WSER Drymax
+socks. Old Olympus shoes.  My feet were dry and I cleaned up my left
+big toenail on Saturday.
+
+[master]% target/release/int_ave -c 6 ~/Downloads/Move_2026_06_29_08_08_00_Running.gpx 
+4.005246    1:15  6:41.8 0.00000 0.00000    9:04.0   10:19.0
+3.473030    1:15  7:43.3 0.00000 0.00000   10:46.0   12:01.0
+3.346314    1:15  8:00.9 0.00000 0.00000   12:32.0   13:47.0
+3.559649    1:15  7:32.1 0.00000 0.00000   14:19.0   15:34.0
+3.588954    1:15  7:28.4 0.00000 0.00000   16:02.0   17:17.0
+3.382075    1:15  7:55.8 0.00000 0.00000   17:48.0   19:03.0
+Average: 7:33.7
+
+No wind. My plan was to do six, and I did six. Five years ago I didn't
+do my 1/2 count intervals due to a work obligation (that I can no
+longer remember).  Today, I ran with my ultravest with a quiver and
+two trekking poles. I had 3L water in it along with a hat, gloves, a
+water filter, chemical handwarmers, a rain jacket and emergency gels
+(and perhaps more; that's off the top of my head). I have never run
+intervals in this configuration and I don't even own the quiver or one
+of the trekking poles (thank you, Mark!). So, all I can say is that
+running the intervals sucked, which is good.  I'm fit enough.
+
+There's a fire burning just north of Ouray. I wish all the people
+there, the firefighter and anyone else involved the best. I am also
+concerned for the wildlife an the structures.
