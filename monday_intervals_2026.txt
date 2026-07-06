@@ -609,3 +609,21 @@ running the intervals sucked, which is good.  I'm fit enough.
 There's a fire burning just north of Ouray. I wish all the people
 there, the firefighter and anyone else involved the best. I am also
 concerned for the wildlife an the structures.
+
+========================================================================
+Nothing on my back. Fasted. No calories during.  Poured a small amount
+of ice water on my head before starting. No analgesics (other than my
+bonus caffeine). No Ice hat (because I didn't want it wet while I
+traveled). Ice water that I didn't use.  Bonus caffeine
+(free-with-purchase black coffee around 7:20). Footbed on top of my
+orthotics. Pete socks. Olympus shoes that I'll use for HRH.  My feet
+were dry and my left big toenail looks fine.
+
+[master]% target/release/int_ave -c 3 ~/Downloads/Move_2026_07_06_07_30_00_Running.gpx 
+4.342560    1:15  6:10.5 0.00000 0.00000    8:06.0    9:21.0
+3.806523    1:15  7:02.7 0.00000 0.00000    9:48.0   11:03.0
+3.685281    1:15  7:16.6 0.00000 0.00000   11:34.0   12:49.0
+Average: 6:50
+
+Not quite as good as March 24th, 2025, but it was warmer and the air
+was worse. There's a good amount of high quality hay in the barn.
