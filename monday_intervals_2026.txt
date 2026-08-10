@@ -649,3 +649,38 @@ thing is each interval was pretty annoying, meaning my body was
 sufficiently healthy that I could push myself hard.
 
 Let's see how long I can stay on this wagon.
+
+========================================================================
+36.0# pack (I forgot that I normally do my pack intervals with 40#).
+Fasted. No calories during, but sipped some ice water and poured some
+ice water on my head.. No analgesics (other than my bonus
+caffeine). Ice hat with two trays of ice. Bonus caffeine (double
+espresso at 7:58). Footbed on top of my orthotics. Balega socks. Torin
+shoes.  My feet were dry. Interestingly enough, the ice on my back
+from the ice hat did not sting. I guess that part of me toughens up
+quickly.
+
+[master]% target/release/int_ave -c 6 ~/Downloads/Move_2026_08_10_06_15_00_Running.gpx 
+3.344891    1:15  8:01.1 0.00000 0.00000 2:11:05.0 2:12:20.0
+3.150192    1:15  8:30.8 0.00000 0.00000 2:12:49.0 2:14:04.0
+2.961592    1:15  9:03.4 0.00000 0.00000 2:14:33.0 2:15:48.0
+3.378790    1:15  7:56.3 0.00000 0.00000 2:16:21.0 2:17:36.0
+3.146204    1:15  8:31.5 0.00000 0.00000 2:18:01.0 2:19:16.0
+2.982367    1:15  8:59.6 0.00000 0.00000 2:19:35.0 2:20:50.0
+Average: 8:30.4
+
+Those aren't good numbers, but at least I'm still on the interval
+wagon and back on the pack interval wagon.  Oh, and it was hot, about
+79F when I started.
+
+My plan is to do a full twelve pack intervals a week from today, using
+a forty pound pack (assuming I remember to add the additional four or
+five pound).
+
+My *primary* reason for doing pack intervals was to hammer home just
+how poorly my pack carries that plate. It slaps as I run. I need to
+get a spacer or something to hold it up a little higher and I need to
+figure a way to then get the flap to close and seal properly.
+Unmodified, this really isn't a good choice for BMDM 2027, but it's
+the best choice of what I have.  I don't start serious training until
+mid November, so with luck I'll have everything settled by then.
