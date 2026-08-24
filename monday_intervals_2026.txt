@@ -723,3 +723,32 @@ twelve on Monday than completely busting my balls. FTR, on November
 averaged 8:38.4. I didn't get sub eight until November 24th. This year
 I'm hoping to be at sub eight before I even start my serious training.
 It's all Ray Pickering's fault!
+
+========================================================================
+40.3# pack. Fasted. No calories during, but sipped some ice water and
+poured some ice water on my head.. No analgesics (other than my bonus
+caffeine). Ice hat with two and a half trays of ice. Bonus caffeine
+(double espresso at 7:27). Footbed on top of my orthotics. Balega
+socks. Torin shoes.  My feet were dry. 76.1F at end
+
+[master]% target/release/int_ave ~/Downloads/Move_2026_08_24_07_57_00_Running.gpx 
+3.907914    1:15  6:51.8 0.00000 0.00000   19:02.0   20:17.0
+3.361309    1:15  7:58.7 0.00000 0.00000   20:46.0   22:01.0
+3.157492    1:15  8:29.6 0.00000 0.00000   22:36.0   23:51.0
+3.195091    1:15  8:23.6 0.00000 0.00000   24:16.0   25:31.0
+3.259784    1:15  8:13.6 0.00000 0.00000   26:04.0   27:19.0
+2.901223    1:15  9:14.7 0.00000 0.00000   27:46.0   29:01.0
+3.339343    1:15  8:01.9 0.00000 0.00000   29:30.0   30:45.0
+2.765653    1:15  9:41.9 0.00000 0.00000   31:06.0   32:21.0
+3.041327    1:15  8:49.1 0.00000 0.00000   33:04.0   34:19.0
+3.095102    1:15  8:39.9 0.00000 0.00000   34:48.0   36:03.0
+3.107601    1:15  8:37.8 0.00000 0.00000   36:32.0   37:47.0
+3.142304    1:15  8:32.1 0.00000 0.00000   38:20.0   39:35.0
+Average: 8:27.9
+
+I did not improve from last week, although part of that is due to me
+not finishing my seventh interval, due to forgetting when I was
+supposed to end it. I was lost in thought.  Today was also less hot
+than last week, so that should have given me a tiny boost, but if I
+look at the average of my first six intervals (before I lost count),
+my speedup this week over last week was only .3 seconds.
