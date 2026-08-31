@@ -653,7 +653,7 @@ Let's see how long I can stay on this wagon.
 ========================================================================
 36.0# pack (I forgot that I normally do my pack intervals with 40#).
 Fasted. No calories during, but sipped some ice water and poured some
-ice water on my head.. No analgesics (other than my bonus
+ice water on my head. No analgesics (other than my bonus
 caffeine). Ice hat with two trays of ice. Bonus caffeine (double
 espresso at 7:58). Footbed on top of my orthotics. Balega socks. Torin
 shoes.  My feet were dry. Interestingly enough, the ice on my back
@@ -687,7 +687,7 @@ mid November, so with luck I'll have everything settled by then.
 
 ========================================================================
 40.0# pack. Fasted. No calories during, but sipped some ice water and
-poured some ice water on my head.. No analgesics (other than my bonus
+poured some ice water on my head. No analgesics (other than my bonus
 caffeine). Ice hat with two trays of ice. Bonus caffeine (double
 espresso at 7:58). Footbed on top of my orthotics. Balega socks. Torin
 shoes.  My feet were dry. 79.9F at start, 80.8F at end.
@@ -726,7 +726,7 @@ It's all Ray Pickering's fault!
 
 ========================================================================
 40.3# pack. Fasted. No calories during, but sipped some ice water and
-poured some ice water on my head.. No analgesics (other than my bonus
+poured some ice water on my head. No analgesics (other than my bonus
 caffeine). Ice hat with two and a half trays of ice. Bonus caffeine
 (double espresso at 7:27). Footbed on top of my orthotics. Balega
 socks. Torin shoes.  My feet were dry. 76.1F at end
@@ -752,3 +752,43 @@ supposed to end it. I was lost in thought.  Today was also less hot
 than last week, so that should have given me a tiny boost, but if I
 look at the average of my first six intervals (before I lost count),
 my speedup this week over last week was only .3 seconds.
+
+========================================================================
+40.1# pack. *NOT* Fasted. No calories during, but sipped some ice
+water and poured some ice water on my head. No analgesics (other than
+my bonus caffeine). Ice hat with two and a half trays of ice. Bonus
+caffeine (double espresso at 7:26). Footbed on top of my
+orthotics. Balega socks. Torin shoes.  My feet were dry. 76.1F at end
+
+[master]% target/release/int_ave ~/Downloads/Move_2026_08_31_07_53_00_Running.gpx 
+3.988420    1:15  6:43.5 0.00000 0.00000    9:04.0   10:19.0
+3.253818    1:15  8:14.6 0.00000 0.00000   10:48.0   12:03.0
+3.106964    1:15  8:37.9 0.00000 0.00000   12:30.0   13:45.0
+3.181703    1:15  8:25.8 0.00000 0.00000   14:26.0   15:41.0
+3.318589    1:15  8:04.9 0.00000 0.00000   16:00.0   17:15.0
+3.025373    1:15  8:51.9 0.00000 0.00000   17:48.0   19:03.0
+3.467945    1:15  7:44.0 0.00000 0.00000   19:34.0   20:49.0
+3.095011    1:15  8:39.9 0.00000 0.00000   21:18.0   22:33.0
+3.203346    1:15  8:22.3 0.00000 0.00000   23:02.0   24:17.0
+3.260633    1:15  8:13.5 0.00000 0.00000   24:50.0   26:05.0
+3.270213    1:15  8:12.1 0.00000 0.00000   26:30.0   27:45.0
+3.151108    1:15  8:30.7 0.00000 0.00000   28:22.0   29:37.0
+Average: 8:13.4
+
+Best pack intervals in a while, although part of that may have been
+due to me eating beforehand.  I was *really* planning on starting and
+finishing *all* my intervals at the correct time and then I blew it
+after my third interval, when I rested a little longer than I should
+have.  To make it up, I ran my fourth a little past my normal fourth
+cutoff and then rested slightly less between my fourth and fifth. That
+extra rest *may* have contributed to my faster time, but I doubt it.
+
+It was slightly cooler today and that probably contributed.
+
+Considering how poorly my bike ride went yesterday, I am pretty happy.
+This coming Sunday, I think I need to either get up at 3am again, but
+forego caffeine until 5:15 (which is how I'm leaning) or try 3:30 and
+have a double espresso then.
+
+With the weather getting colder and me no longer ramping up my bike
+distance, I do think I'll be sub-eight before serious BMDM training.
