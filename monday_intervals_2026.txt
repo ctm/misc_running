@@ -792,3 +792,48 @@ have a double espresso then.
 
 With the weather getting colder and me no longer ramping up my bike
 distance, I do think I'll be sub-eight before serious BMDM training.
+
+========================================================================
+*NO* pack. Fasted. No analgesics. Ice hat with two trays of ice.
+Double bonus caffeine (double espresso at 7:45 and again at 8:19).  No
+extra liquids before. Sipped a tiny bit of ice water during.  Footbed
+on top of my orthotics. Balega socks. Torin shoes.  My feet were
+dry. 68.2F at end
+
+
+[master]% target/release/int_ave ~/Downloads/Move_2026_10_12_08_33_00_Running.gpx
+4.191373    1:15  6:23.9 0.00000 0.00000    9:03.0   10:18.0
+3.333611    1:15  8:02.7 0.00000 0.00000   10:45.0   12:00.0
+3.332399    1:15  8:02.9 0.00000 0.00000   12:33.0   13:48.0
+3.366140    1:15  7:58.0 0.00000 0.00000   14:09.0   15:24.0
+3.362175    1:15  7:58.6 0.00000 0.00000   15:48.0   17:03.0
+2.970968    1:15  9:01.6 0.00000 0.00000   17:49.0   19:04.0
+3.396103    1:15  7:53.8 0.00000 0.00000   19:31.0   20:46.0
+3.155705    1:15  8:29.9 0.00000 0.00000   21:16.0   22:31.0
+3.145652    1:15  8:31.6 0.00000 0.00000   23:03.0   24:18.0
+3.255293    1:15  8:14.3 0.00000 0.00000   24:45.0   26:00.0
+3.193786    1:15  8:23.8 0.00000 0.00000   26:31.0   27:46.0
+3.169629    1:15  8:27.7 0.00000 0.00000   28:18.0   29:33.0
+Average: 8:07.4
+
+I lost my count, which is why my sixth interval is so slow, but overall I'm
+simply out of shape.
+
+FWIW, these *would be* great intervals if I had been wearing a 40
+pound pack while I was running. Who knows, if I had worn my ruck I
+might not have ran 1:20 slower (40 pounds x 2 secs / pound), and my
+intervals *might have* been comparatively better, but these are
+horrible.
+
+To be fair, I did have a 65pound ruck on for two hours earlier in the
+day and this was fasted, but the big thing is I simply haven't done
+intervals since the end of August. I haven't done much running during
+that time, either.
+
+My left pinky toe isn't *fully* recovered, but I think it will recover
+fine even if I ruck at sixty-five pounds when I walk with mom and I do
+a little more DCM pace running between now and DCM. Currently, I am
+*VERY* glad that I ran Oak Flats, AA 50k, Mt. Taylor and nine days of
+AIBF. I'm positive that all of them slowed the healing of my toe, but
+at least left me enough residual fitness that pacing DCM won't be a
+horror-show or even a suffer-fest. I think it'll be merely annoying.
