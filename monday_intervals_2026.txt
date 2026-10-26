@@ -837,3 +837,31 @@ a little more DCM pace running between now and DCM. Currently, I am
 AIBF. I'm positive that all of them slowed the healing of my toe, but
 at least left me enough residual fitness that pacing DCM won't be a
 horror-show or even a suffer-fest. I think it'll be merely annoying.
+
+========================================================================
+I did no intervals last week. My right foot was giving me a little bit
+of trouble and it wasn't worth risking it, this close to Javelina
+Jundred.
+
+*NO* pack. Fasted. No analgesics. No ice hat, but it was cool.  Bonus
+caffeine (double espresso at 7:57).  No extra liquids before. Poured a
+bit of water on my head here and there.  Footbed on top of my
+orthotics. Balega socks. Olympus 6 (trail) shoes.  My feet were dry. I
+didn't check the temperature.
+
+[master]% target/release/int_ave -c 3 ~/Downloads/Move_2026_10_26_08_31_Running.gpx 
+4.371040    1:15  6:08.1 0.00000 0.00000    7:01.0    8:16.0
+3.490691    1:15  7:41.0 0.00000 0.00000    8:47.0   10:02.0
+3.580954    1:15  7:29.4 0.00000 0.00000   10:33.0   11:48.0
+Average: 7:06.2
+
+Looks like my best -c 3 intervals at mom's are March 24th, 2025, with
+an average of 6:41.8, so down 25.1 seconds per mile, which is pretty
+poor.  OTOH, my first interval today was 6:08.1, but then it was
+6:08.9, so, unsurprisingly, my stamina is a big issue, especially the
+day after Day of the DQ century.  In 2021, when I did Day of the Tread
+century, my -c 3 was off only by 14.6 seconds, *but* I had fewer -c 3
+to compare to.  That average was 6:57.9, but my first two intervals
+were uphill and my third down. I was in *much* better shape five years
+ago. I think a sub-24 JJ is doable. I don't know if I'll have the
+fight to pursue it if it gets annoying though.
