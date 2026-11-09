@@ -865,3 +865,42 @@ to compare to.  That average was 6:57.9, but my first two intervals
 were uphill and my third down. I was in *much* better shape five years
 ago. I think a sub-24 JJ is doable. I don't know if I'll have the
 fight to pursue it if it gets annoying though.
+
+========================================================================
+40.2# pack. Fasted. No calories during, but poured some water on my
+head. No analgesics (other than my bonus caffeine). No ice hat. Bonus
+caffeine (double espresso at 8:09, more at 8:52). Footbed on top of my
+orthotics. Balega socks. Old Olympus shoes.  My feet were dry.
+
+[master]% target/release/int_ave ~/Downloads/Move_2026_11_09_08_57_00_Running.gpx 
+3.603583    1:15  7:26.5 0.00000 0.00000    8:06.0    9:21.0
+3.122717    1:15  8:35.3 0.00000 0.00000    9:49.0   11:04.0
+2.971898    1:15  9:01.5 0.00000 0.00000   11:34.0   12:49.0
+3.031949    1:15  8:50.7 0.00000 0.00000   13:19.0   14:34.0
+3.312498    1:15  8:05.8 0.00000 0.00000   15:05.0   16:20.0
+2.868426    1:15  9:21.0 0.00000 0.00000   16:48.0   18:03.0
+3.034500    1:15  8:50.3 0.00000 0.00000   18:34.0   19:49.0
+2.909035    1:15  9:13.2 0.00000 0.00000   20:19.0   21:34.0
+3.143626    1:15  8:31.9 0.00000 0.00000   22:05.0   23:20.0
+3.081378    1:15  8:42.2 0.00000 0.00000   23:49.0   25:04.0
+3.050522    1:15  8:47.5 0.00000 0.00000   25:33.0   26:48.0
+3.041013    1:15  8:49.2 0.00000 0.00000   27:19.0   28:34.0
+Average: 8:41.3
+
+These were perfunctory.  The last time I ran DPTR 53M (2023, because I
+ran DPTR 106M in 2024 and skipped DPTR entirely last year), I did
+twelve packless intervals the day after. Today I chose to do pack
+intervals because they were threatening me and I don't like to be
+intimidated.
+
+I probably could have gone a little faster with my ice hat and/or ice
+water, but I went into them expecting them to be so bad that I
+wouldn't miss the lack of performance, but once Fast 3 was playing and
+the second hand turned over to :00, I took off, albeit I only managed
+to pull a 7:26.  I pulled a 6:43 on my first interval of my previous
+pack intervals.
+
+My "serious" BMDM training starts with pack intervals a week from
+today. At least I won't go into them without a reminder of all the
+things I need to stack to get maximum performance. Luckily, I'll only
+have a 50k two days prior, rather than a 53M.
