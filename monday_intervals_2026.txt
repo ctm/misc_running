@@ -904,3 +904,31 @@ My "serious" BMDM training starts with pack intervals a week from
 today. At least I won't go into them without a reminder of all the
 things I need to stack to get maximum performance. Luckily, I'll only
 have a 50k two days prior, rather than a 53M.
+
+========================================================================
+40.7# pack. Not fasted. No calories during, but poured some water on
+my head. No analgesics (other than my bonus caffeine). Ice hat with
+two and a half trays of ice. Bonus caffeine (quad espresso at
+8:48). Footbed on top of my orthotics. Balega socks. Old Olympus
+shoes.  My feet were dry.
+
+[master]% target/release/int_ave ~/Downloads/Move_2026_11_16_09_41_00_Running.gpx 
+3.953333    1:15  6:47.0 0.00000 0.00000   11:04.0   12:19.0
+3.215419    1:15  8:20.5 0.00000 0.00000   12:49.0   14:04.0
+3.183141    1:15  8:25.5 0.00000 0.00000   14:34.0   15:49.0
+3.204433    1:15  8:22.2 0.00000 0.00000   16:19.0   17:34.0
+3.403072    1:15  7:52.9 0.00000 0.00000   18:03.0   19:18.0
+2.948481    1:15  9:05.8 0.00000 0.00000   19:48.0   21:03.0
+3.276480    1:15  8:11.1 0.00000 0.00000   21:34.0   22:49.0
+3.006720    1:15  8:55.2 0.00000 0.00000   23:17.0   24:32.0
+3.192180    1:15  8:24.1 0.00000 0.00000   25:03.0   26:18.0
+3.110318    1:15  8:37.4 0.00000 0.00000   26:48.0   28:03.0
+3.216723    1:15  8:20.3 0.00000 0.00000   28:33.0   29:48.0
+2.973941    1:15  9:01.1 0.00000 0.00000   30:19.0   31:34.0
+Average: 8:21.9
+
+So, I knocked almost 20 seconds per mile off my *perfunctory*
+intervals last week. This is not the sub-8 that I had hoped for before
+I injured my toe, but it's not horrible, considering. FTR, I might
+have done better had I eaten sooner and had everything set to run
+earlier.  9:41 is pretty late in the day for me to do my intervals.
